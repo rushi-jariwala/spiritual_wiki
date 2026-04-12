@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import PyPDF2; r = PyPDF2.PdfReader\\('D:/spiritual_wiki/raw/The-Guru-of-Gurus-Eng.pdf'\\); print\\(r.pages[0].extract_text\\(\\)[:2000]\\)\")",
+      "Bash(python -c \"import pdfplumber; p = pdfplumber.open\\('D:/spiritual_wiki/raw/The-Guru-of-Gurus-Eng.pdf'\\); print\\(p.pages[0].extract_text\\(\\)[:2000]\\)\")",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import pdfplumber; p = pdfplumber.open\\('D:/spiritual_wiki/raw/The-Guru-of-Gurus-Eng.pdf'\\); [print\\(pg.extract_text\\(\\)[:500]\\) for pg in p.pages[:3]]\")",
+      "Bash(python:*)"
+    ]
+  }
+}

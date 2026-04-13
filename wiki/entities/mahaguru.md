@@ -40,9 +40,14 @@ Once a month, on the Thursday after the new moon — called **bada guruvar** —
 > Gurudev had acquired various powers in the first half of his life. One could clearly see formations of spiritual symbols like OM, Trishul, Shivling and Gileri; the Trishul standing in the middle of the symbol OM and the Jyot or flame embossed on his palms. The symbols glowed from both his palms and when he sprinkled water on them, the symbols became even more distinct. He used these powers to help, protect and cure people.
 > — *Karma Sutra*, preface
 
-### Professional Life
+### Professional Life and Spiritual Wealth
 
-He worked at the agriculture ministry as a **soil surveyor** on an average income. Despite this ordinary day job — and perhaps because of the frugality and humility it enforced — he invested hours before and after work meeting devotees, healing, and teaching.
+He worked at the agriculture ministry as a **soil surveyor** on a meagre salary, living in a 250-yard house in Gurgaon, Haryana. Despite this ordinary material life, Hingori describes him as possessing a form of wealth that money cannot buy:
+
+> My spiritual guru had a meagre salary, and lived in a 250-yard house in Gurgaon, Haryana. But, he had huge wealth that was immeasurable in terms of goodwill, respect, human values, shakti or energy, abilities, grit, control of his senses, detachment, power of the mind, the power to heal others and will things to happen. He had regular 'out-of-body' experiences at will. He could predict the future of a person's life, read thoughts and communicate with dead people and saints. No amount of money or material gain can buy a person such wealth!
+> — Hingori, *Karma Sutra*, Ch.3, p.47
+
+This passage appears in the chapter on [[concepts/negative-karma|negative karma]] — specifically in the context of Acts of Unfairness — as the living counter-example to the delusion that material wealth is real wealth. Despite this ordinary day job — and perhaps because of the frugality and humility it enforced — he invested hours before and after work meeting devotees, healing, and teaching.
 
 ## Key Teachings (from Ch.1 and preface)
 

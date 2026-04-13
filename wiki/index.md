@@ -26,6 +26,10 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/guru-disciple|The Guru-Disciple Relationship]] — Why a sadguru is a lottery; the umbrella metaphor
 - [[concepts/koshas|Koshas]] — The five sheaths surrounding the jivaatma *(stub)*
 - [[concepts/kleshas|Kleshas]] — The five stresses of the human mind; avidya is one *(stub)*
+- [[concepts/karmic-debt|Karmic Debt]] — Obligations incurred through embodied life; six categories of creditors
+- [[concepts/non-vegetarianism|Non-Vegetarianism]] — Meat-eating as graduated karmic debit; quantified costs; vegetarianism as rational strategy
+- [[concepts/guru-dakshina|Guru Dakshina]] — Repayment to the teacher via tann, mann, dhann
+- [[concepts/negative-karma|Negative Karma]] — Five categories of karmic debit: criticism, unfairness, criminal acts, mental hurt, encashment of good deeds
 
 ---
 
@@ -64,6 +68,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/bada-guruvar-queue|The Bada Guruvar Queue]] — Monthly Thursday queues; waiting as tapasya
 - [[stories/ashoka-kalinga-transformation|Ashoka's Transformation After Kalinga]] — The emperor's pivot to dharma
 - [[stories/guru-nanak-river-bain|Guru Nanak at River Bain]] — Three days of holy communion and the Japji
+- [[stories/sadhu-blanket-clove|The Sadhu, the Blankets, and the Clove]] — Hingori learns the counter-gift rule the hard way
 
 ---
 

@@ -75,6 +75,7 @@ The Sutras are framed as this sharing.
 - [[stories/gurus-umbrella-wife-delivery]]
 - [[stories/scooter-accident-vision]]
 - [[stories/bada-guruvar-queue]]
+- [[stories/sadhu-blanket-clove]]
 
 ## Cross-references
 

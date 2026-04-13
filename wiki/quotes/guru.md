@@ -1,7 +1,6 @@
 ---
 title: Quotes on the Guru
 type: quote-collection
-tags: [guru, quotes, sadguru]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
 related: [[concepts/guru-disciple]], [[entities/mahaguru]], [[entities/guru-nanak]]
 created: 2026-04-12
@@ -18,11 +17,11 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 > "Guru means remover of darkness."
 > — Hingori, *Karma Sutra*, Ch.1, p.19
-#guru #definition
+[[concepts/guru-disciple]]
 
 > "Getting a sadguru is like winning a lottery, as a competent guru takes upon himself/herself the responsibility of the enlightenment of his disciple, by passing on all his/her knowledge and abilities."
 > — Hingori, *Karma Sutra*, Ch.1, p.19
-#sadguru #enlightenment
+[[concepts/guru-disciple]] · [[concepts/moksha]]
 
 ---
 
@@ -30,7 +29,7 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 > "Every religious teacher has said almost the same thing in different languages — all have advocated performing good deeds. The commandments of Moses have different names and numbers in various languages and cultures. The truth is one and presentations many."
 > — Hingori, *Karma Sutra*, Ch.1, p.19
-#guru #universality
+[[concepts/guru-disciple]]
 
 ---
 
@@ -38,15 +37,15 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 > "The blessings of the guru may not avert the rain of bad luck, but it could provide an umbrella, by neutralising the negativity of the planetary effects."
 > — Hingori, *Karma Sutra*, Ch.1, p.21
-#guru-umbrella #blessings
+[[concepts/guru-disciple]]
 
 > "A guru can make his disciple die in his/her dream-state. He can give his disciple a new lease of life and extend his/her present life span by several years wherein the situation may remain the same, but the experience may be different."
 > — attributed teaching, *Karma Sutra*, Ch.1, p.22
-#guru-umbrella #dream-death
+[[concepts/guru-disciple]]
 
 > "A connection between the disciple's and guru's energy bank would form the umbrella referred earlier."
 > — Hingori, *Karma Sutra*, Ch.1, p.22
-#guru-umbrella #energy
+[[concepts/guru-disciple]]
 
 ---
 
@@ -54,7 +53,7 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 > "The power of the mind, it is said, can move mountains. This means, a person can, through sadhana and his/her guru's grace, achieve powers that are supernormal."
 > — Hingori, *Karma Sutra*, Ch.1, p.22
-#sadhana #grace #powers
+[[concepts/guru-disciple]] · [[concepts/guru-dakshina]]
 
 ---
 
@@ -62,7 +61,7 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 > "Their waiting in line was a test of their tapasya or sadhana. Based on this effort, he gave them or willed them relief from their suffering."
 > — Hingori on Gurudev, *Karma Sutra*, Ch.1, p.24
-#bada-guruvar #tapasya #practice
+[[entities/mahaguru]] · [[concepts/guru-disciple]]
 
 See [[stories/bada-guruvar-queue]].
 
@@ -72,6 +71,6 @@ See [[stories/bada-guruvar-queue]].
 
 > "There is but one god. His name is truth. He is the creator, He fears none and he is without hate. He never dies. He is beyond the cycle of birth and death. He is self-illuminated, He is realised by the kindness of the True Guru. He was True in the beginning. He was True when the ages commenced and has ever been True. He is also True now."
 > — Guru Nanak, *Japji*, quoted in *Karma Sutra*, Ch.1, p.20
-#japji #non-duality #guru-nanak
+[[entities/guru-nanak]] · [[concepts/maya]] · [[concepts/moksha]]
 
 See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].

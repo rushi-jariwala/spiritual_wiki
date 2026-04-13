@@ -31,7 +31,7 @@ Dedicated to Gurudev (the [[entities/mahaguru|Mahaguru]]) and framed as a distil
 
 ## Ingestion Status
 
-**Chapter 1 ingested (2026-04-12).** The rest of the book is pending.
+**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** The rest of the book is pending.
 
 ## Table of Contents
 
@@ -40,9 +40,9 @@ From the PDF, the book's sections are:
 1. **Preface**
 2. **Karma Defined** ← *ingested*
    - Karma Defined · Types of Karma (Kriyaman/Sanchit/Prarabdh) · The Maya Circle · Guru
-3. **The Business of Karma** — What We Owe
+3. **The Business of Karma** — What We Owe ← *ingested*
    - Parents · Five Elements · The Cow · Green Kingdom · Animal Kingdom · Teachers · Acts of Kindness · Accepting Hospitality
-4. **Negative Karma**
+4. **Negative Karma** ← *ingested*
    - Criticising Others · Acts of Unfairness · Criminal Acts · Mental Hurt · Encashment of Good Deeds
 5. **Positive Karma**
    - Food · Greening Places · Benefits to Other Life Forms · Favours · Educating · Medical Aid · Ancestors · Pitra Peeda · Passive Response to Criticism · Spiritual Healings · Righteousness · Empathy · Humility
@@ -65,6 +65,13 @@ From Chapter 1:
 - [[concepts/guru-disciple]] as the relationship that can re-balance the equation
 - [[practices/seva]] · [[practices/tapasya]] · [[practices/sadhana]] as the practical engine
 
+From Chapter 2:
+- [[concepts/karmic-debt]] — six categories of creditor incurred by the mere fact of having a body and a life
+- Strategy over sentiment: parental debt, dietary debt, and hospitality debt are all accounting categories, not moral ones
+- [[concepts/non-vegetarianism]] — meat-eating as graduated, quantified karmic debit; vegetarianism as rational strategy
+- [[concepts/guru-dakshina]] — repayment to the teacher via tann, mann, dhann; the highest debt is to the spiritual guru
+- The counter-gift rule: accepting any return on a good deed cashes out the positive karma earned
+
 ## Notable Quotes Extracted
 
 See [[quotes/karma]], [[quotes/guru]], [[quotes/maya]] for quotes from this chapter.
@@ -77,10 +84,28 @@ See [[quotes/karma]], [[quotes/guru]], [[quotes/maya]] for quotes from this chap
 - [[stories/bada-guruvar-queue]]
 - [[stories/ashoka-kalinga-transformation]]
 - [[stories/guru-nanak-river-bain]]
+- [[stories/sadhu-blanket-clove]]
 
 ## New Concepts Introduced (in Ch.1)
 
 All foundational — [[concepts/karma]] and its three types; [[concepts/maya]]; [[concepts/jivaatma]]; [[concepts/moksha]]; [[concepts/doer-ship]]; [[concepts/guru-disciple]]; stubs for [[concepts/koshas]] and [[concepts/kleshas]].
+
+## New Concepts Introduced (in Ch.2)
+
+[[concepts/karmic-debt]] · [[concepts/non-vegetarianism]] · [[concepts/guru-dakshina]]
+
+## Key Themes (Ch.3)
+
+- [[concepts/negative-karma]] — five categories: criticism, unfairness, criminal acts, mental hurt, encashment of good deeds
+- Thought as karma: grudges and mental curses generate debit independent of physical action
+- Intent as the primary variable: the soldier exception — harm without personal desire or ego does not accrue karma
+- Guilt overrides the exception: accepting doer-ship retroactively through guilt generates karma even when the act does not
+- Encashment rule: receiving praise, fame, or social capital for good deeds cashes out the positive karma earned
+- Karmic wealth vs material wealth: [[entities/mahaguru]]'s portrait as the living counter-example to illusionary richness
+
+## New Concepts Introduced (in Ch.3)
+
+[[concepts/negative-karma]]
 
 ## Contradictions / Tensions
 

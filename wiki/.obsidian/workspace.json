@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "quotes/maya.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "maya"
             }
           }
         ]
@@ -181,13 +190,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "d36257bd6a44b172",
   "lastOpenFiles": [
-    "overview.md",
+    "log.md.tmp.18828.1775996955419",
+    "index.md.tmp.18828.1775996943444",
+    "sources/karma-sutra.md.tmp.18828.1775996939391",
+    "sources/karma-sutra.md.tmp.18828.1775996931080",
+    "sources/karma-sutra.md.tmp.18828.1775996926267",
+    "entities/mahaguru.md.tmp.18828.1775996922048",
+    "quotes/karma.md.tmp.18828.1775996909061",
+    "concepts/negative-karma.md",
+    "concepts/maya.md",
+    "quotes/maya.md",
+    "quotes/maya.md.tmp.13664.1775994171176",
+    "quotes/guru.md.tmp.13664.1775994153869",
+    "quotes/karma.md.tmp.13664.1775994115930",
     "index.md",
+    "log.md.tmp.13664.1775993805294",
+    "stories/sadhu-blanket-clove.md",
+    "concepts/guru-dakshina.md",
+    "concepts/non-vegetarianism.md",
+    "concepts/karmic-debt.md",
+    "overview.md",
     "log.md",
     "stories/scooter-accident-vision.md",
     "stories/hingori-arthritis-cure.md",
@@ -203,24 +231,6 @@
     "sources/karma-sutra.md",
     "concepts/guru-disciple.md",
     "concepts/karma.md",
-    "concepts/kriyaman-karma.md",
-    "concepts/koshas.md",
-    "concepts/kleshas.md",
-    "practices/seva.md",
-    "concepts/maya.md",
-    "log.md.tmp.5628.1775978303829",
-    "sources/karma-sutra.md.tmp.5628.1775978274475",
-    "practices/sadhana.md.tmp.5628.1775978230181",
-    "practices/tapasya.md",
-    "practices/tapasya.md.tmp.5628.1775978218524",
-    "practices/seva.md.tmp.5628.1775978201097",
-    "quotes/maya.md",
-    "quotes/maya.md.tmp.5628.1775978176335",
-    "quotes/guru.md.tmp.5628.1775978159390",
-    "quotes/karma.md.tmp.5628.1775978142327",
-    "stories/guru-nanak-river-bain.md.tmp.5628.1775978112894",
-    "stories/ashoka-kalinga-transformation.md.tmp.5628.1775978089337",
-    "entities/ashoka.md",
-    "entities/hingori.md"
+    "concepts/kriyaman-karma.md"
   ]
 }

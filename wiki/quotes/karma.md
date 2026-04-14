@@ -137,6 +137,24 @@ See [[concepts/negative-karma]].
 
 ---
 
+## On Positive Karma
+
+> "My grandfather's benefactor wouldn't have known the geometric progression of his single act of kindness."
+> — Hingori, *Karma Sutra*, p.63
+[[concepts/positive-karma]] · [[stories/grandfather-education-multiplier]]
+
+> "Humility makes a person more expressive than impressive. It is the perfect seed to sprout good karmas."
+> — Hingori, *Karma Sutra*, p.81
+[[concepts/positive-karma]]
+
+> "It is a known yogic principle that you will acquire the qualities of that on which you meditate."
+> — Hingori, *Karma Sutra*, p.73
+[[concepts/positive-karma]] · [[concepts/negative-karma]]
+
+See [[concepts/positive-karma]] · [[concepts/pitra-peeda]].
+
+---
+
 ## On Karmayoga (Ashoka)
 
 > "Work I must for the common weal and the way to achieve is by effort and dispatch; to this end I toil to discharge my debt to human beings and to make some happy; in this world, and the next."

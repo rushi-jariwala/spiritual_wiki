@@ -23,6 +23,7 @@ Use `[[wiki/relative/path]]` for all internal links (Obsidian-compatible).
 use relevant backlinks
 ```
 **stories/** · Full Narrative · Source · Related Concepts/Entities
+Keep stories as is from the text. Dont paraphrase. 
 **practices/** — What it is · How to do it · Why/Purpose · Sources · Related Concepts
 **synthesis/** — Free-form analytical pages. Always note date and available sources.
 

@@ -30,6 +30,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/non-vegetarianism|Non-Vegetarianism]] — Meat-eating as graduated karmic debit; quantified costs; vegetarianism as rational strategy
 - [[concepts/guru-dakshina|Guru Dakshina]] — Repayment to the teacher via tann, mann, dhann
 - [[concepts/negative-karma|Negative Karma]] — Five categories of karmic debit: criticism, unfairness, criminal acts, mental hurt, encashment of good deeds
+- [[concepts/positive-karma|Positive Karma]] — Food, Greening Places, Education, Medical Aid, Ancestors, humility and quiet service
+- [[concepts/pitra-peeda|Pitra Peeda]] — Ancestral ire affecting the family line (kul); shraadhs; remediation
 
 ---
 
@@ -46,7 +48,7 @@ Read this first when answering queries — then drill into relevant pages.
 ## Sources
 *One summary page per source document.*
 
-- [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Ch.1 ingested*
+- [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Ch.1–4 ingested*
 
 ---
 
@@ -69,6 +71,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/ashoka-kalinga-transformation|Ashoka's Transformation After Kalinga]] — The emperor's pivot to dharma
 - [[stories/guru-nanak-river-bain|Guru Nanak at River Bain]] — Three days of holy communion and the Japji
 - [[stories/sadhu-blanket-clove|The Sadhu, the Blankets, and the Clove]] — Hingori learns the counter-gift rule the hard way
+- [[stories/pitra-peeda-sons-birth|Pitra Peeda — Hingori's Son's Birth]] — Cerebral palsy child, Gurudev's prescribed remediation, healthy son born; spectral grandfather
+- [[stories/grandfather-education-multiplier|The Grandfather's Benefactor]] — One act of educational kindness; geometric progression across three generations and a Bandra hotel trust
+- [[stories/fudge-lady-clinic-lonavala|The Fudge Lady's Clinic]] — Free homeopathic clinic in Lonavala; continues compounding after the founder's death
+- [[stories/delhi-reader-plants-trees|The Delhi Reader Who Planted Trees Without Land]] — Greening a densely populated locality with no land of her own
+- [[stories/sanjog-bird-cones-animal-hospital|Sanjog's Bird Cones and the Panvel Animal Hospital]] — Two examples of benefit to other life forms: a lawyer sheltering birds, friends raising funds for an animal hospital
 
 ---
 

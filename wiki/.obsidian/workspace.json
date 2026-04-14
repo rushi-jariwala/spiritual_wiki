@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quotes/maya.md",
+                "file": "stories/sanjog-bird-cones-animal-hospital.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "maya"
+              "title": "sanjog-bird-cones-animal-hospital"
             }
           }
         ]
@@ -196,21 +196,30 @@
   },
   "active": "d36257bd6a44b172",
   "lastOpenFiles": [
-    "log.md.tmp.18828.1775996955419",
-    "index.md.tmp.18828.1775996943444",
-    "sources/karma-sutra.md.tmp.18828.1775996939391",
-    "sources/karma-sutra.md.tmp.18828.1775996931080",
-    "sources/karma-sutra.md.tmp.18828.1775996926267",
-    "entities/mahaguru.md.tmp.18828.1775996922048",
-    "quotes/karma.md.tmp.18828.1775996909061",
+    "stories/grandfather-education-multiplier.md",
+    "stories/guru-nanak-river-bain.md",
+    "stories/fudge-lady-clinic-lonavala.md",
+    "stories/delhi-reader-plants-trees.md",
+    "stories/bada-guruvar-queue.md",
+    "stories/ashoka-kalinga-transformation.md",
+    "stories/pitra-peeda-sons-birth.md",
+    "stories/gurus-umbrella-wife-delivery.md",
+    "quotes/maya.md",
+    "overview.md.tmp.18828.1776045023501",
+    "log.md.tmp.18828.1776045015674",
+    "index.md.tmp.18828.1776045006140",
+    "index.md.tmp.18828.1776045002258",
+    "index.md.tmp.18828.1776044993295",
+    "sources/karma-sutra.md.tmp.18828.1776044988356",
+    "sources/karma-sutra.md.tmp.18828.1776044984345",
+    "sources/karma-sutra.md.tmp.18828.1776044974026",
+    "sources/karma-sutra.md.tmp.18828.1776044969230",
+    "quotes/karma.md.tmp.18828.1776044965352",
+    "concepts/pitra-peeda.md",
+    "concepts/positive-karma.md",
     "concepts/negative-karma.md",
     "concepts/maya.md",
-    "quotes/maya.md",
-    "quotes/maya.md.tmp.13664.1775994171176",
-    "quotes/guru.md.tmp.13664.1775994153869",
-    "quotes/karma.md.tmp.13664.1775994115930",
     "index.md",
-    "log.md.tmp.13664.1775993805294",
     "stories/sadhu-blanket-clove.md",
     "concepts/guru-dakshina.md",
     "concepts/non-vegetarianism.md",
@@ -219,18 +228,9 @@
     "log.md",
     "stories/scooter-accident-vision.md",
     "stories/hingori-arthritis-cure.md",
-    "stories/gurus-umbrella-wife-delivery.md",
-    "stories/guru-nanak-river-bain.md",
-    "stories/ashoka-kalinga-transformation.md",
-    "stories/bada-guruvar-queue.md",
     "concepts/doer-ship.md",
     "quotes/karma.md",
     "quotes/guru.md",
-    "entities/guru-nanak.md",
-    "practices/sadhana.md",
-    "sources/karma-sutra.md",
-    "concepts/guru-disciple.md",
-    "concepts/karma.md",
-    "concepts/kriyaman-karma.md"
+    "entities/guru-nanak.md"
   ]
 }

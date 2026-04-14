@@ -16,20 +16,20 @@ updated: 2026-04-12
 
 ## Status
 
-No sources ingested yet. This page will be written after the first ingest session.
+*Karma Sutra* Ch.1–4 ingested (2026-04-12 to 2026-04-13). Five other sources pending. Full synthesis deferred until further ingestion.
 
 ---
 
-## Sources Available (not yet ingested)
+## Sources
 
-| Title | Author | Year | Type |
+| Title | Author | Year | Status |
 |---|---|---|---|
-| Karma Sutra | Hingori | 2015 | Book |
-| Dream Sutra | Hingori & Hannah | 2016 | Book |
-| Guru Sutra | Hingori | 2019 | Book |
-| Aatma Sutra | Hingori | 2022 | Book |
-| Witnessing Greatness | Hingori | — | Book |
-| The Guru of Gurus | Hingori | — | Book |
+| Karma Sutra | Hingori | 2015 | Ch.1–4 ingested |
+| Dream Sutra | Hingori & Hannah | 2016 | Pending |
+| Guru Sutra | Hingori | 2019 | Pending |
+| Aatma Sutra | Hingori | 2022 | Pending |
+| Witnessing Greatness | Hingori | — | Pending |
+| The Guru of Gurus | Hingori | — | Pending |
 
 ---
 

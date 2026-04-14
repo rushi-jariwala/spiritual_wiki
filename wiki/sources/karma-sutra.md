@@ -31,7 +31,7 @@ Dedicated to Gurudev (the [[entities/mahaguru|Mahaguru]]) and framed as a distil
 
 ## Ingestion Status
 
-**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** The rest of the book is pending.
+**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** The rest of the book is pending.
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ From the PDF, the book's sections are:
    - Parents · Five Elements · The Cow · Green Kingdom · Animal Kingdom · Teachers · Acts of Kindness · Accepting Hospitality
 4. **Negative Karma** ← *ingested*
    - Criticising Others · Acts of Unfairness · Criminal Acts · Mental Hurt · Encashment of Good Deeds
-5. **Positive Karma**
+5. **Positive Karma** ← *ingested*
    - Food · Greening Places · Benefits to Other Life Forms · Favours · Educating · Medical Aid · Ancestors · Pitra Peeda · Passive Response to Criticism · Spiritual Healings · Righteousness · Empathy · Humility
 6. **Theory of Balancing Karma**
    - Complications · The Spirit Who Partnered in Healing · Easier Formula for Diluting Doer-ship
@@ -85,6 +85,9 @@ See [[quotes/karma]], [[quotes/guru]], [[quotes/maya]] for quotes from this chap
 - [[stories/ashoka-kalinga-transformation]]
 - [[stories/guru-nanak-river-bain]]
 - [[stories/sadhu-blanket-clove]]
+- [[stories/pitra-peeda-sons-birth]]
+- [[stories/grandfather-education-multiplier]]
+- [[stories/fudge-lady-clinic-lonavala]]
 
 ## New Concepts Introduced (in Ch.1)
 
@@ -106,6 +109,20 @@ All foundational — [[concepts/karma]] and its three types; [[concepts/maya]]; 
 ## New Concepts Introduced (in Ch.3)
 
 [[concepts/negative-karma]]
+
+## Key Themes (Ch.4)
+
+- [[concepts/positive-karma]] — 13 categories: food, greening, benefits to life forms, favours, education, medical aid, ancestral benefit, pitra peeda remediation, passive criticism, spiritual healing, righteousness, empathy, humility
+- Multiplier effect: education and greening compound through chains of beneficiaries across decades and lifetimes
+- Assignment of positive karma: any good deed can be dedicated to a departed ancestor (or pet) by visualisation, speech, or written dedication
+- Quiet service rule: positive karma that receives public recognition or praise is encashed — mirrors the encashment rule from Ch.3
+- [[concepts/pitra-peeda]] — ancestral ire affecting a family line (kul); three astral worlds; remediation via shraadhs and dedicated good deeds
+- Passive receipt of criticism: not retaliating generates positive karma at the cost of the critic's negative balance
+- Humility as the field condition for good karma; arrogance as the drain
+
+## New Concepts Introduced (in Ch.4)
+
+[[concepts/positive-karma]] · [[concepts/pitra-peeda]]
 
 ## Contradictions / Tensions
 

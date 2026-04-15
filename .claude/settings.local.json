@@ -7,7 +7,10 @@
       "Bash(python -c \"import pdfplumber; p = pdfplumber.open\\('D:/spiritual_wiki/raw/The-Guru-of-Gurus-Eng.pdf'\\); [print\\(pg.extract_text\\(\\)[:500]\\) for pg in p.pages[:3]]\")",
       "Bash(python:*)",
       "Bash(python3 -c \"import pdfminer\")",
-      "Bash(pdftotext \"D:/spiritual_wiki/raw/Karma Sutra June 2017-edited Final_E-print_19.pdf\" -)"
+      "Bash(pdftotext \"D:/spiritual_wiki/raw/Karma Sutra June 2017-edited Final_E-print_19.pdf\" -)",
+      "Bash(python3:*)",
+      "Bash(pdftotext --version)",
+      "Bash(pdftotext -f 90 -l 120 \"D:/spiritual_wiki/raw/Karma Sutra June 2017-edited Final_E-print_19.pdf\" -)"
     ]
   }
 }

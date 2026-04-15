@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stories/sanjog-bird-cones-animal-hospital.md",
+                "file": "stories/marchant-planchette-healing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sanjog-bird-cones-animal-hospital"
+              "title": "marchant-planchette-healing"
             }
           }
         ]
@@ -196,6 +196,24 @@
   },
   "active": "d36257bd6a44b172",
   "lastOpenFiles": [
+    "stories/sanjog-bird-cones-animal-hospital.md",
+    "trial.md",
+    "log.md.tmp.1520.1776132460799",
+    "overview.md.tmp.1520.1776132445659",
+    "overview.md.tmp.1520.1776132444427",
+    "index.md.tmp.1520.1776132439691",
+    "index.md.tmp.1520.1776132432476",
+    "index.md.tmp.1520.1776132430434",
+    "sources/karma-sutra.md.tmp.1520.1776132424220",
+    "sources/karma-sutra.md.tmp.1520.1776132416433",
+    "sources/karma-sutra.md.tmp.1520.1776132401172",
+    "sources/karma-sutra.md.tmp.1520.1776132397323",
+    "concepts/gunas.md",
+    "concepts/samskars.md",
+    "concepts/mahurat.md",
+    "concepts/non-doership.md",
+    "stories/marchant-planchette-healing.md",
+    "stories/yogi-spirit-bathri.md",
     "stories/grandfather-education-multiplier.md",
     "stories/guru-nanak-river-bain.md",
     "stories/fudge-lady-clinic-lonavala.md",
@@ -205,16 +223,6 @@
     "stories/pitra-peeda-sons-birth.md",
     "stories/gurus-umbrella-wife-delivery.md",
     "quotes/maya.md",
-    "overview.md.tmp.18828.1776045023501",
-    "log.md.tmp.18828.1776045015674",
-    "index.md.tmp.18828.1776045006140",
-    "index.md.tmp.18828.1776045002258",
-    "index.md.tmp.18828.1776044993295",
-    "sources/karma-sutra.md.tmp.18828.1776044988356",
-    "sources/karma-sutra.md.tmp.18828.1776044984345",
-    "sources/karma-sutra.md.tmp.18828.1776044974026",
-    "sources/karma-sutra.md.tmp.18828.1776044969230",
-    "quotes/karma.md.tmp.18828.1776044965352",
     "concepts/pitra-peeda.md",
     "concepts/positive-karma.md",
     "concepts/negative-karma.md",
@@ -223,14 +231,6 @@
     "stories/sadhu-blanket-clove.md",
     "concepts/guru-dakshina.md",
     "concepts/non-vegetarianism.md",
-    "concepts/karmic-debt.md",
-    "overview.md",
-    "log.md",
-    "stories/scooter-accident-vision.md",
-    "stories/hingori-arthritis-cure.md",
-    "concepts/doer-ship.md",
-    "quotes/karma.md",
-    "quotes/guru.md",
-    "entities/guru-nanak.md"
+    "concepts/karmic-debt.md"
   ]
 }

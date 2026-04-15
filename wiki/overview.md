@@ -16,7 +16,7 @@ updated: 2026-04-12
 
 ## Status
 
-*Karma Sutra* Ch.1–4 ingested (2026-04-12 to 2026-04-13). Five other sources pending. Full synthesis deferred until further ingestion.
+*Karma Sutra* Ch.1–5 ingested (2026-04-12 to 2026-04-14). Five other sources pending. Full synthesis deferred until further ingestion.
 
 ---
 
@@ -24,7 +24,7 @@ updated: 2026-04-12
 
 | Title | Author | Year | Status |
 |---|---|---|---|
-| Karma Sutra | Hingori | 2015 | Ch.1–4 ingested |
+| Karma Sutra | Hingori | 2015 | Ch.1–5 ingested |
 | Dream Sutra | Hingori & Hannah | 2016 | Pending |
 | Guru Sutra | Hingori | 2019 | Pending |
 | Aatma Sutra | Hingori | 2022 | Pending |

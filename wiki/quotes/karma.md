@@ -155,6 +155,30 @@ See [[concepts/positive-karma]] · [[concepts/pitra-peeda]].
 
 ---
 
+## On Balancing Karma and Non-Doership
+
+> "Do not take ownership of any of your actions! Since, they were acts of destiny (even though they were a fructification of our earlier deeds), you do not need to hold yourself responsible for what has been programmed to happen. It is the fruit, not the root."
+> — Hingori, *Karma Sutra*, Ch.5, p.89
+[[concepts/non-doership]] · [[concepts/doer-ship]]
+
+> "You are only a witness to the act, so why become the owner?"
+> — Hingori, *Karma Sutra*, Ch.5, p.89
+[[concepts/non-doership]]
+
+> "If you can give up ownership of karma, do it. If you can't, take the easier path and just plaster your negative karmas with an overload of positive ones, so that in relative comparison they are much less and you can have a better life or lives in the future."
+> — Hingori, *Karma Sutra*, Ch.5, p.90
+[[concepts/non-doership]] · [[concepts/positive-karma]] · [[concepts/negative-karma]]
+
+> "His guru was earning post-death karmas by healing people and not allowing Mr Marchant to charge for it. It strengthened my belief in karmayoga, almost 40 years back."
+> — Hingori, *Karma Sutra*, Ch.5, p.87
+[[concepts/positive-karma]] · [[stories/marchant-planchette-healing]]
+
+> "A person's destiny is the fructification of his/her karmic balance sheet. It stands to reason that a person will need a matching mahurat at birth."
+> — Hingori, *Karma Sutra*, Ch.5, p.88
+[[concepts/mahurat]] · [[concepts/prarabdh-karma]]
+
+---
+
 ## On Karmayoga (Ashoka)
 
 > "Work I must for the common weal and the way to achieve is by effort and dispatch; to this end I toil to discharge my debt to human beings and to make some happy; in this world, and the next."

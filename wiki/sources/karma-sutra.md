@@ -31,7 +31,7 @@ Dedicated to Gurudev (the [[entities/mahaguru|Mahaguru]]) and framed as a distil
 
 ## Ingestion Status
 
-**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** The rest of the book is pending.
+**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** **Chapter 5 ingested (2026-04-14).** The rest of the book is pending.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ From the PDF, the book's sections are:
    - Criticising Others · Acts of Unfairness · Criminal Acts · Mental Hurt · Encashment of Good Deeds
 5. **Positive Karma** ← *ingested*
    - Food · Greening Places · Benefits to Other Life Forms · Favours · Educating · Medical Aid · Ancestors · Pitra Peeda · Passive Response to Criticism · Spiritual Healings · Righteousness · Empathy · Humility
-6. **Theory of Balancing Karma**
+6. **Theory of Balancing Karma** ← *ingested*
    - Complications · The Spirit Who Partnered in Healing · Easier Formula for Diluting Doer-ship
 7. **Karmic Worksheets** — Positive and Negative Karmic Assessments
 8. **After Thoughts** — Attitude to Deeds · Tapasya
@@ -88,6 +88,10 @@ See [[quotes/karma]], [[quotes/guru]], [[quotes/maya]] for quotes from this chap
 - [[stories/pitra-peeda-sons-birth]]
 - [[stories/grandfather-education-multiplier]]
 - [[stories/fudge-lady-clinic-lonavala]]
+- [[stories/delhi-reader-plants-trees]]
+- [[stories/sanjog-bird-cones-animal-hospital]]
+- [[stories/yogi-spirit-bathri]]
+- [[stories/marchant-planchette-healing]]
 
 ## New Concepts Introduced (in Ch.1)
 
@@ -123,6 +127,26 @@ All foundational — [[concepts/karma]] and its three types; [[concepts/maya]]; 
 ## New Concepts Introduced (in Ch.4)
 
 [[concepts/positive-karma]] · [[concepts/pitra-peeda]]
+
+## Key Themes (Ch.5)
+
+- The impossibility of zeroing out karma through deeds alone — sanchit is too deep; even spirits accumulate karma post-death
+- Spirits continue karmic activity after death: healing, haunting, taking rebirth, elevating entities on lower astral planes
+- Multiple astral planes beyond the three mentioned in Ch.4; gurulok (where scholarly gurus serve post-death); "exchange of citizenship" between planes
+- [[concepts/gunas]] — tamasic, rajasic, sattvic; elevated by higher-plane spirits descending to help
+- [[concepts/mahurat]] — birth time as karmic matching instrument; horoscope as destiny readout; the "Catch 22" of fixed destiny within a mahurat
+- Gyan (transcending senses, mind, intellect; sensing aham brahmasmi) as the only true means of burning sanchit karma
+- [[concepts/non-doership]] — the "easier formula": take the 'I' away; be a witness not an owner; two paths — full non-doership or plaster negatives with positives
+- [[concepts/samskars]] — the form in which accumulated karma is stored
+
+## New Concepts Introduced (in Ch.5)
+
+[[concepts/non-doership]] · [[concepts/mahurat]] · [[concepts/samskars]] · [[concepts/gunas]]
+
+## Stories Extracted (Ch.5)
+
+- [[stories/yogi-spirit-bathri]]
+- [[stories/marchant-planchette-healing]]
 
 ## Contradictions / Tensions
 

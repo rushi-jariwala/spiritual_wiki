@@ -85,4 +85,4 @@ The judge is not exempt because the act is legal — he is exempt because (a) he
 ## Open Questions
 
 > [!question] Can doer-ship be fully released?
-> Is a fully non-doer state actually achievable for an embodied person, or is doer-ship something to be continuously reduced? The judge example suggests pockets of non-doership are possible, but the book's preface implies that total non-doership is the aspiration of the evolved and "almost impossible to achieve."
+> Ch.5 addresses this directly. Full non-doership is described as achievable "in parts, over a period of several lives" — requiring the stature of a Buddha, but not dismissed as impossible. The book's fallback path is to plaster negative karma with positive rather than attempt full release. See [[concepts/non-doership]].

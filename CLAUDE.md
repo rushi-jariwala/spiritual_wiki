@@ -22,8 +22,10 @@ Use `[[wiki/relative/path]]` for all internal links (Obsidian-compatible).
 > — Speaker, *Source*, p.XX
 use relevant backlinks
 ```
+Only include a quote if it is genuinely striking, precise, or irreplaceable — do not add quotes just to populate the section.
+
 **stories/** · Full Narrative · Source · Related Concepts/Entities
-Keep stories as is from the text. Dont paraphrase. 
+Keep stories verbatim from the text. Never paraphrase. Mark them as block quotes in .md syntax.
 **practices/** — What it is · How to do it · Why/Purpose · Sources · Related Concepts
 **synthesis/** — Free-form analytical pages. Always note date and available sources.
 
@@ -32,12 +34,13 @@ This is a guide. You can add more categories & sections if needed.
 ## INGEST
 1. Read source from `raw/`
 2. Discuss the plan/todo before making any edits. 
-3. Instructions: Use links & backlinks heavily - even if the page is not created yet. Dont add any extra information which can be retrieved during query time.  Don't speculatively cross-reference or interpret beyond what the source says. Use the same tone/language as mentioned in the source for filing into the wiki.
-4. Create `sources/` page
-5. Create/update `concepts/`, `entities/`, `quotes/`, `stories/`, `practices/` pages
-6. Update `wiki/index.md`
-7. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
-8. Update `wiki/overview.md` if synthesis meaningfully shifts.
+3. Instructions: Use links & backlinks heavily — forward-link to related pages and add backlinks from those pages too, even if the target page does not exist yet. Dont add any extra information which can be retrieved during query time. Don't speculatively cross-reference or interpret beyond what the source says. Use the same tone/language as mentioned in the source for filing into the wiki.
+4. After creating pages, scan across existing concepts for structural patterns — shared mechanisms, tensions, inversions, or progressions. Flag these in the relevant cross-refs sections or open a `synthesis/` page if the pattern is significant.
+5. Create `sources/` page
+6. Create/update `concepts/`, `entities/`, `quotes/`, `stories/`, `practices/` pages
+7. Update `wiki/index.md`
+8. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
+9. Update `wiki/overview.md` if synthesis meaningfully shifts.
 
 ## QUERY
 1. Read `wiki/index.md` → identify relevant pages → read them → synthesize with citations

@@ -32,6 +32,10 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/negative-karma|Negative Karma]] — Five categories of karmic debit: criticism, unfairness, criminal acts, mental hurt, encashment of good deeds
 - [[concepts/positive-karma|Positive Karma]] — Food, Greening Places, Education, Medical Aid, Ancestors, humility and quiet service
 - [[concepts/pitra-peeda|Pitra Peeda]] — Ancestral ire affecting the family line (kul); shraadhs; remediation
+- [[concepts/non-doership|Non-Doership]] — Taking the 'I' away from deeds; being a witness not an owner; the highway to moksha
+- [[concepts/mahurat|Mahurat]] — Birth date/time as karmic matching instrument; horoscope as destiny readout
+- [[concepts/samskars|Samskars]] — The form in which accumulated karma is stored *(stub)*
+- [[concepts/gunas|Gunas]] — Tamasic, rajasic, sattvic qualities; the guna spectrum of entities across astral planes *(stub)*
 
 ---
 
@@ -48,7 +52,7 @@ Read this first when answering queries — then drill into relevant pages.
 ## Sources
 *One summary page per source document.*
 
-- [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Ch.1–4 ingested*
+- [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Ch.1–5 ingested*
 
 ---
 
@@ -76,6 +80,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/fudge-lady-clinic-lonavala|The Fudge Lady's Clinic]] — Free homeopathic clinic in Lonavala; continues compounding after the founder's death
 - [[stories/delhi-reader-plants-trees|The Delhi Reader Who Planted Trees Without Land]] — Greening a densely populated locality with no land of her own
 - [[stories/sanjog-bird-cones-animal-hospital|Sanjog's Bird Cones and the Panvel Animal Hospital]] — Two examples of benefit to other life forms: a lawyer sheltering birds, friends raising funds for an animal hospital
+- [[stories/yogi-spirit-bathri|The Yogi Spirit of Bathri]] — Yogi spirit waits decades for a saint; chooses the Tanejas; problems resolved before the child is born; the ex-yogi is now a Delhi hotelier
+- [[stories/marchant-planchette-healing|Mr Marchant and the Planchette]] — Parsi healer's late guru independently confirms Hingori's arthritis cure; "jungle man, jungle medicine"; post-death karma through service
 
 ---
 

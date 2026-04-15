@@ -1,10 +1,10 @@
 ---
 title: Kaarna Sharir (Causal Body)
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: [[concepts/samskars]], [[concepts/vasna]], [[concepts/jivaatma]], [[concepts/koshas]], [[concepts/sanchit-karma]]
 created: 2026-04-15
-updated: 2026-04-15
+updated: 2026-04-16
 ---
 
 # Kaarna Sharir
@@ -15,6 +15,15 @@ The **kaarna sharir** (causal body) is the body that carries the karmashaya — 
 
 > The karmashaya or the USB stick is attached to the USB port called the kaarna sharir or causal body. This is our third body, below the astral body (sukshma sharir). The kaarna sharir and its karmashaya pass from one incarnation to another, and become the storehouse of our conditioning, our samskars.
 > — Hingori, *Karma Sutra*, Ch.8, p.130
+
+## Etymology and Purpose
+
+*Aatma Sutra* notes that the name itself is explanatory:
+
+> The *kaarna sharir* may be understood as the causal body, which is always attached to the spirit body, and contains the *karmashaya*. As the name suggests, it causes birth and rebirth for cleansing. The cleansing can be done either through exhausting the *karmas* by playing them out in life, through seva or by intense *tapasya*, which is meant to burn the *samskars* (not literally).
+> — Hingori, *Aatma Sutra*, Ch.II, p.19
+
+The three paths to cleansing the karmashaya — and thus eventually exhausting the kaarna sharir's load — are: (1) playing out karmas in embodied life, (2) [[practices/seva|seva]], (3) [[practices/tapasya|tapasya]].
 
 ## Position in the Body Hierarchy
 

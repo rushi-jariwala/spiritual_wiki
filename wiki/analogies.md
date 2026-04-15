@@ -1,10 +1,10 @@
 ---
 title: Analogies
 type: analogy-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: []
 created: 2026-04-15
-updated: 2026-04-15
+updated: 2026-04-16
 ---
 
 # Analogies
@@ -85,6 +85,16 @@ Witnessing one's own mind from the outside — as a CCTV observer, not as its su
 > — Hingori, *Karma Sutra*, Ch.7
 
 Raga (attraction) and dwesa (aversion) are the two ends of the same seesaw. Swinging toward either end guarantees an equal swing back to the other. Equanimity — the aspiration of the sattvic — is not joy but the still centre where neither end dominates.
+
+---
+
+### The Balloon and the Atmosphere
+*Illuminates: [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/moksha]]*
+
+> Just as the air in a balloon is a miniscule version of the atmosphere, the *jivaatma* is a part of the consciousness supreme. The *jivaatma* is nothing but the divine spark at the core of your existence.
+> — Hingori, *Aatma Sutra*, Ch.I, p.19
+
+The jivaatma is air temporarily enclosed in a balloon — same substance as the atmosphere (consciousness supreme/aatma), identical in nature, but experienced as separate by virtue of the enclosure. When the balloon dissolves (at moksh), the air rejoins the whole without remainder. The analogy pairs with the Glass and the River below: both illuminate the illusion of separateness, but the balloon focuses on the jivaatma↔aatma relationship while the glass focuses on asmita as ego-boundary.
 
 ---
 

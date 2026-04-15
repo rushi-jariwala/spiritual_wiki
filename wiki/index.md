@@ -41,6 +41,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/asisa|Asisa]] — The jivaatma's will to exist eternally; composite force of asmita + abhinivesha + avidya; root driver of rebirth
 - [[concepts/vasna|Vasna]] — Tendencies arising from stored samskars; the fructification mechanism; become desire only when coloured by doer-ship
 - [[concepts/kaarna-sharir|Kaarna Sharir]] — The causal body; carries the karmashaya (samskar storehouse) across incarnations; the only real inheritance
+- [[concepts/mukti|Mukti]] — Intermediate liberation; karmashaya substantially reduced; 1,000–2,000 years in higher realms; nirman kaya as the live accelerator
+- [[concepts/aatma|Aatma]] — The consciousness supreme; eternal, unchanging; what the jivaatma is a fragment of; the destination of moksh
 
 ---
 
@@ -58,6 +60,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I ingested*
 
 ---
 

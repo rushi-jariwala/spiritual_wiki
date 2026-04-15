@@ -2,10 +2,10 @@
 title: Hingori
 type: entity
 tags: [hingori, author, disciple]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: [[entities/mahaguru]], [[concepts/guru-disciple]], [[concepts/doer-ship]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-16
 ---
 
 # Hingori
@@ -16,7 +16,31 @@ updated: 2026-04-12
 
 Hingori is the author (often with co-authors, e.g. Hannah on *Dream Sutra*) of the **Hingori Sutras** — a series of books distilling the teachings of his guru, **[[entities/mahaguru|Gurudev]]**, into practical frameworks on karma, the soul, dreams, and the guru-disciple relationship. The books are published by Pali Hills Tourist Hotel Pvt Ltd (Le Sutra) and distributed in India through Bennett, Coleman & Co. (Times Group).
 
-## Biographical Notes (from Ch.1 of Karma Sutra)
+## Biographical Notes
+
+### Before Gurudev — The Jigsaw Puzzle of Self
+
+*(From the Introduction to Aatma Sutra)*
+
+Hingori is an **adopted child**, acquired with some difficulty from within the family, and initially handled with kid gloves. The first half of his school life was spent mollycoddled; the second in a boarding school he joined mid-semester — a misfit in class, average at best in a few subjects, bad at most.
+
+> Naturally, I saw myself as a loser with nothing to be proud of.
+> — Hingori, *Aatma Sutra*, Introduction
+
+College was a recovery. He dressed to attract attention, won college elections, honed debating and acting skills, collected trophies — and called himself what he was:
+
+> "Better a witty fool than a foolish wit," as Shakespeare rightly said. And a jester I was!
+> — Hingori, *Aatma Sutra*, Introduction
+
+Self-evaluation was still confused. Social success was the only measure available. Then came the arthritis. Then came Gurudev. Then came the real work:
+
+> It was time to learn. Actually, to unlearn!
+> — Hingori, *Aatma Sutra*, Introduction
+
+> I thought to 'discover yourself' meant understanding yourself psychoanalytically. Actually, it means a lot more. It has been a spiritual journey of 35 years of learning to not dislike myself, and loving myself instead.
+> — Hingori, *Aatma Sutra*, Introduction
+
+This arc — loser → jester → disbeliever → disciple who had to unlearn everything — is the personal basis for *Aatma Sutra*'s project of self-acceptance and self-worship.
 
 ### The Arthritis Cure
 
@@ -62,12 +86,10 @@ This is not pessimism — it is a disciplined refusal to *own* either pleasure o
 
 ## Appeal to the Reader
 
-From the book's author's appeal:
+> I feel I have been blessed with spiritual wealth beyond expectation, maybe beyond justification and certainly, beyond my aspirations. I feel extreme wealth ought to be shared. I would feel gratified if you would accept some of these realisations and benefit from their practice. You would be adding to my bliss and I to yours. Let us create this moment of oneness.
+> — Hingori, *Aatma Sutra*, Author's Appeal
 
-> I feel blessed with spiritual luck beyond expectation; maybe beyond justification, and certainly beyond my aspirations. One of the outcomes of possessing extreme wealth is the desire to share.
-> — *Karma Sutra*, preface
-
-The Sutras are framed as this sharing.
+The Sutras are framed as this sharing — not a teacher-to-student transmission but a mutual creation of oneness.
 
 ## Notable Stories
 

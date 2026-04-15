@@ -2,10 +2,10 @@
 title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: [[concepts/guru-disciple]], [[concepts/karmayoga]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-16
 ---
 
 # The Mahaguru (Gurudev)
@@ -14,13 +14,42 @@ updated: 2026-04-12
 
 ## Status
 
-**Stub.** Full biographical treatment will come with ingestion of [[sources/guru-of-gurus]] and [[sources/witnessing-greatness]]. What follows is what can be compiled from the preface and Chapter 1 of *Karma Sutra* alone.
+**Partial.** The biographical introduction in *Aatma Sutra* adds significant early-life detail. Full treatment pending ingestion of [[sources/guru-of-gurus]] and [[sources/witnessing-greatness]].
 
 ## Who
 
 The Mahaguru — addressed throughout the Sutras as **Gurudev** — is the teacher whose life, practices, and grace are the lived basis for the entire Hingori Sutras corpus. Hingori is his disciple. The books are, in large part, an attempt to preserve, transmit, and interpret what Gurudev taught by example.
 
 Gurudev has also been referred to as the **Guru of Gurus** and, in at least one place, the **Mahaguru**. His personal website noted in the book is `gurujiofgurgaon-neelkanth.com` (referenced from the book's 2015 printing).
+
+## Early Life
+
+*(From the biographical introduction to Aatma Sutra)*
+
+Gurudev was born into a family of six children — his father a trader, his mother a housewife — in **Hariana**, a village 17 km from **Hoshiyarpur** in Punjab. He studied at DAV school, where he was known as a mischievous student. His early marker of distinctiveness: he lit an earthen oil lamp at a *dargah* every Thursday and spent hours at a temple near his house.
+
+As he grew up, he developed the habit of spending hours with holy men much older than himself. He completed many *siddhis* to acquire spiritual energy. After school, he sold pens and orange sweets in buses in Delhi — his father had gone through a financial crisis. To continue his education he moved to Delhi to live with his paternal aunt, contributing physically to the household (including carrying 20 kg sacks of wheat to the mill).
+
+He was admitted to an overseer's course at **PUSA Agricultural University** in Delhi. After graduating, he joined the agricultural ministry as a **soil surveyor**.
+
+> Gurudev was a man who made mountains out of mountains, who thought they were molehills.
+> — Hingori, *Aatma Sutra*, biographical introduction
+
+## The Turning Point (Age 35)
+
+At the age of 35, a spiritual turning point occurred: an inner voice directed him to go to **Hari ki Pawri, Haridwar**, and give up all his *siddhis* in the Ganges river. When this was done, he understood it marked the beginning of a new phase of his spiritual life, though the shape of it was not yet clear.
+
+Subsequently, the inner voice told him that an **Om had formed in his right palm**, which he could see clearly. Over time, he acquired the symbols of *Trishul*, *Shivling* and *Gileri*, *Ganpati*, *Nandi bull*, etc. He was then guided to begin healing people.
+
+## The Sthaan Network
+
+Starting with a handful of people, the numbers grew until there were **35,000–40,000 people waiting in queue** to meet him. He established the concept of **sthaans** — home temples — and spread this across all parts of India and beyond. He gave the power to heal to over **100 people**, who ran these sthaans from their homes and trained others in turn.
+
+> This one-man tree became an orchard. In 20 years he and his spiritual family of *shishyas* had served millions of people!
+> — Hingori, *Aatma Sutra*, biographical introduction
+
+> Ordinary people who had very little to write home about spiritualism became giants under his tutelage. They saw themselves as molehills and he saw them as the mountains they would become. They judged themselves in the present, he evaluated them from their past, present and future. They saw themselves as people. In his vision, they were beings.
+> — Hingori, *Aatma Sutra*, biographical introduction
 
 ## Role in the Tradition
 
@@ -111,7 +140,10 @@ See [[quotes/guru]].
 ## Open Questions
 
 > [!question] Given name and dates
-> Chapter 1 does not give Gurudev's given name, his date of birth, his date of samadhi, or the location of his samadhi. All of these should be compiled on ingesting [[sources/guru-of-gurus]].
+> Neither *Karma Sutra* nor the *Aatma Sutra* introduction gives Gurudev's given name, date of birth, date of samadhi, or location of his samadhi. All of these should be compiled on ingesting [[sources/guru-of-gurus]].
 
 > [!question] The worship of a devi
-> Hingori notes that Guru Nanak worshipped a devi and received spiritual attainments through her. Did Gurudev have a similar upstream relationship, or did his powers arise from his own practice? Unclear from this chapter.
+> Hingori notes that Guru Nanak worshipped a devi and received spiritual attainments through her. Did Gurudev have a similar upstream relationship, or did his powers arise from his own practice? Unclear from available sources so far.
+
+> [!question] Siddhi surrender
+> At Haridwar, Gurudev gave up all his *siddhis* in the Ganges. What were these siddhis specifically, and what was the significance of surrendering them before beginning the healing phase of his life? [[sources/guru-of-gurus]] may address this.

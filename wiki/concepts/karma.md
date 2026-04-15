@@ -2,10 +2,10 @@
 title: Karma
 type: concept
 tags: [karma, foundation, doctrine]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: [[concepts/kriyaman-karma]], [[concepts/sanchit-karma]], [[concepts/prarabdh-karma]], [[concepts/jivaatma]], [[concepts/moksha]], [[concepts/doer-ship]], [[concepts/maya]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-16
 ---
 
 # Karma

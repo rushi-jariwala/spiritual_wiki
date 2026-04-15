@@ -54,3 +54,9 @@ Created concepts/karmayoga (Gurudev and Ashoka as exemplars; non-doership as its
 
 ## [2026-04-16] update | sadhu-blanket-clove — verbatim narrative restored from source
 Replaced placeholder [!question] flag with full verbatim text from *Karma Sutra*, Ch.2, p.41 ("Acts Of Kindness"). Story now opens with complete first-person block quote as sourced.
+
+## [2026-04-16] update | entities/hingori — Aatma Sutra Introduction biographical material
+Added "Before Gurudev" biographical section: adopted child, boarding-school misfit, college jester, 35-year journey of unlearning. Three one-liners added verbatim: "saw myself as a loser", "a jester I was!", "It was time to learn. Actually, to unlearn!", and the arc summary quote. Author's Appeal updated to Aatma Sutra version (sharper; "moment of oneness" framing).
+
+## [2026-04-16] ingest | Aatma Sutra — Introduction + Chapter I: The Goal
+Touched 11 pages. Created 3 new pages (sources/aatma-sutra, concepts/mukti, concepts/aatma). Updated 8 pages: concepts/jivaatma (balloon analogy, aatma distinction, open question resolved), concepts/karma (source), concepts/samskars (engrams framing, "actions with a price tag" formulation), concepts/kaarna-sharir (etymology section, three cleansing paths), concepts/moksha (mukti/moksh split sharpened, open question resolved), entities/mahaguru (early life in Hariana, DAV school, PUSA University, Haridwar turning point, sthaan network, 100+ healers, millions served), analogies.md (balloon analogy added), index.md (2 new concepts, 1 new source). Core additions: five-layer anatomy (Isthul→Sukshma→Kaarna→Jivaatma→Aatma); mukti as distinct intermediate stage with nirman kaya; aatma as the consciousness supreme distinct from jivaatma; Gurudev's biographical arc from mischievous village boy to 20-year spiritual orchard.

@@ -2,10 +2,10 @@
 title: Moksha
 type: concept
 tags: [moksha, mukti, liberation, oneness]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/jivaatma]], [[concepts/maya]], [[concepts/guru-disciple]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/karma]], [[concepts/jivaatma]], [[concepts/maya]], [[concepts/guru-disciple]], [[concepts/mukti]], [[concepts/aatma]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-16
 ---
 
 # Moksha (and Mukti)
@@ -14,13 +14,18 @@ updated: 2026-04-12
 
 ## Definition
 
-Two related terms:
+Two related but distinct terms:
 
-- **Mukti** — freedom from birth and death; the end of forced re-incarnation
-- **Moksha** — the complete return of the [[concepts/jivaatma|jivaatma]] to the Supreme Consciousness, becoming one with the whole
+- **[[concepts/mukti|Mukti]]** — the intermediate state; karmashaya substantially reduced; long intervals in higher realms (1,000–2,000 years); the spirit still exists as an individual
+- **Moksha** — the final dissolution; complete deletion of karmashaya data; the jivaatma merges back into the [[concepts/aatma|aatma]] or consciousness supreme, losing all individual identification
 
 > From one to the multiple and from the multiple back to one is called moksha (ek se anek aur anek se ek).
-> — *Karma Sutra*, Ch.1, p.11
+> — Hingori, *Karma Sutra*, Ch.1, p.11
+
+*Aatma Sutra* sharpens the distinction further, defining moksh as "disintegration of the self into the consciousness supreme" — not just freedom from rebirth but the erasure of the self as a separate entity:
+
+> It is only when the *karmashaya* has managed to delete or cleanse its stored data, can a person get freedom from life and death and attain *moksh*, the ultimate level of attainment.
+> — Hingori, *Aatma Sutra*, Ch.I, p.11
 
 ## Core Teaching
 
@@ -69,7 +74,7 @@ The route from jivaatma to moksha is structural: one must climb through the [[co
 - [[concepts/doer-ship]] — the subtlest obstacle
 - [[concepts/guru-disciple]] — the relationship that makes it possible
 
-## Open Questions
+## Cross-references (additional)
 
-> [!question] Mukti without moksha?
-> Hingori presents mukti as a stage before moksha. Is it possible to achieve mukti (end of rebirth) without achieving full moksha (merging)? Other traditions distinguish these sharply; worth clarifying from later chapters.
+- [[concepts/mukti]] — the intermediate stage, now a dedicated page
+- [[concepts/aatma]] — the consciousness supreme into which the jivaatma dissolves at moksh

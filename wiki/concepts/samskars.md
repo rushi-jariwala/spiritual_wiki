@@ -1,20 +1,25 @@
 ---
 title: Samskars
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: [[concepts/sanchit-karma]], [[concepts/prarabdh-karma]], [[concepts/karma]], [[concepts/mahurat]], [[concepts/vasna]], [[concepts/kaarna-sharir]], [[concepts/non-doership]], [[concepts/doer-ship]]
 created: 2026-04-14
-updated: 2026-04-15
+updated: 2026-04-16
 ---
 
 # Samskars
 
 ## Definition
 
-**Samskars** are the coded impressions stored in deeper consciousness when we perform karma with an expectation of fruit or result — good or bad, happy or sad. This storage passes from one life to another, one body to another, and fructifies in the future. The samskar is the form of storage of [[concepts/sanchit-karma|sanchit karmas]].
+**Samskars** are the impressions or *engrams* left on the subconscious mind by karmas from current and previous lifetimes. When combined with emotions and ownership, karmas get stored as samskars and re-fructify at some point in the future. The samskar is the form of storage of [[concepts/sanchit-karma|sanchit karmas]].
+
+> Samskars are the impressions or engrams left on the subconscious mind by karmas from current and previous lifetimes. When combined with emotions karmas get stored as samskars and re-fructify again at some point in the future. This process will continue for as long as we continue to attach emotions to our future actions and take ownership of them. Actions with a price tag attached is karmas with emotions and ownership.
+> — Hingori, *Aatma Sutra*, Ch.I, p.9
 
 > When we do any karma, we observe our acts at different levels. If we expect it to bear fruit or result, (as reward or punishment) this desire (good or bad, happy or sad) gets stored in our deeper consciousness as an impression. This storage is meant to pass on from one life to another, one body to another and fructify in the future.
 > — Hingori, *Karma Sutra*, Ch.8, p.128
+
+The formation condition is precise: emotion + ownership. An act with neither leaves no samskar. "Actions with a price tag attached" is the Aatma Sutra's compact formulation.
 
 ## The USB Stick Analogy
 

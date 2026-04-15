@@ -2,10 +2,10 @@
 title: Jivaatma
 type: concept
 tags: [jivaatma, soul, individual-self, atman]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/moksha]], [[concepts/sanchit-karma]], [[concepts/maya]], [[concepts/koshas]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/karma]], [[concepts/moksha]], [[concepts/sanchit-karma]], [[concepts/maya]], [[concepts/koshas]], [[concepts/aatma]], [[concepts/kaarna-sharir]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-16
 ---
 
 # Jivaatma
@@ -15,12 +15,17 @@ updated: 2026-04-12
 ## Definition
 
 > An amalgamation of such karmas forms the balance sheet of our jivaatma or individual being, or the spark of divinity that exists at our core.
-> — *Karma Sutra*, Ch.1, p.2
+> — Hingori, *Karma Sutra*, Ch.1, p.2
 
 > The individual fragment of the Supreme is known as jivaatma. (In common parlance, the soul, the ego, the 'I' principle.)
-> — *Karma Sutra*, Ch.1, p.11
+> — Hingori, *Karma Sutra*, Ch.1, p.11
 
-The jivaatma is the individuated fragment of the Supreme Consciousness that takes on embodiment, carries karma, and must eventually return to oneness.
+*Aatma Sutra* extends this with the balloon image:
+
+> The *jivaatma* is the individualised form of the consciousness supreme. Just as the air in a balloon is a miniscule version of the atmosphere, the *jivaatma* is a part of the consciousness supreme. The *jivaatma* is nothing but the divine spark at the core of your existence.
+> — Hingori, *Aatma Sutra*, Ch.I, p.19
+
+The jivaatma is the individuated fragment of the Supreme Consciousness that takes on embodiment, carries karma, and must eventually return to oneness. Within the three bodies (Isthul, Sukshma, Kaarna) lies the jivaatma. See [[concepts/aatma]] for the consciousness supreme it is a fragment of.
 
 ## Core Teaching
 
@@ -67,7 +72,8 @@ See [[concepts/koshas]]. This is the anatomy of how the jivaatma is encased in �
 - [[concepts/maya]] — the delusion that makes the jivaatma feel separate
 - [[concepts/koshas]] — the sheaths surrounding it
 
-## Open Questions
+## Cross-references (additional)
 
-> [!question] Relation to aatma
-> The book series includes both *Karma Sutra* and *Aatma Sutra*. How does the jivaatma relate to the *aatma* proper? Is jivaatma = aatma + ego, or is jivaatma itself a different layer? To be clarified on ingesting [[sources/aatma-sutra]].
+- [[concepts/aatma]] — the consciousness supreme of which the jivaatma is an individualised fragment
+- [[concepts/mukti]] — the intermediate stage when the karmashaya is substantially reduced
+- [[concepts/kaarna-sharir]] — the causal body that houses the karmashaya within which the jivaatma is encased

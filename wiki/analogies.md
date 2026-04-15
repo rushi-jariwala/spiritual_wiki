@@ -79,12 +79,19 @@ Witnessing one's own mind from the outside — as a CCTV observer, not as its su
 ---
 
 ### The Seesaw
-*Illuminates: [[concepts/kleshas]] (raga/dwesa)*
+*Illuminates: [[concepts/kleshas]] (raga/dwesa), [[concepts/isthul-sharir]] (bliss vs happiness)*
 
 > "It is only at the centre of a seesaw that emotions are at equilibrium. There is no joy at the centre, but then there is also no sadness. If you want to reduce sorrow, you must first reduce joy."
 > — Hingori, *Karma Sutra*, Ch.7
 
 Raga (attraction) and dwesa (aversion) are the two ends of the same seesaw. Swinging toward either end guarantees an equal swing back to the other. Equanimity — the aspiration of the sattvic — is not joy but the still centre where neither end dominates.
+
+*Aatma Sutra* Ch.II applies the same image to the happiness/bliss distinction:
+
+> "Usually, happiness is considered synonymous with joy. Unfortunately, it is a state of emotion that is always counter balanced by sorrow. It is like sitting on a see-saw with joy on one side, and sorrow on the other. Bliss on the other hand, is the fulcrum, the spot at the centre of the see-saw, where emotion is almost non-existent."
+> — Hingori, *Aatma Sutra*, Ch.II, p.14
+
+Here the seesaw illuminates the goal of [[concepts/isthul-sharir|Isthul Sharir]] purification: not the pursuit of more joy, but the stable, emotion-free fulcrum Hingori calls "happylessness" — bliss that is neither joy nor sorrow.
 
 ---
 
@@ -137,6 +144,18 @@ Samskars are not vague impressions — they are specific, encoded tasks awaiting
 > — Hingori reporting Gurudev's words, *Karma Sutra*, Ch.8, p.131
 
 Negative samskars fructify faster than positive ones. The pot fills before it empties, which is why most people encounter bursts of negativity even amid spiritual progress. Gurudev used this phrase to explain why even sincere seekers go through difficult stretches — the negative karmic data surfaces and burns off faster by design.
+
+---
+
+## Bodies & Purification
+
+### The Sculptor and the Marble
+*Illuminates: [[concepts/isthul-sharir]], [[concepts/gunas]]*
+
+> "Every block of stone has a statue inside it and it is the task of the sculptor to discover it." And about the sculpture he said, "I saw the angel in the marble and carved until I set him free."
+> — Michelangelo, quoted in *Aatma Sutra*, Ch.II, p.13
+
+Used by Hingori to frame the goal of the [[concepts/isthul-sharir|physical body]]: the purified self already exists within; the work of a lifetime is to chip away everything that is not it — attachments, fears, passions, guna imbalances. Purification is not construction but excavation.
 
 ---
 

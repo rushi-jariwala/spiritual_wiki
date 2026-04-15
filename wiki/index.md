@@ -43,6 +43,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/kaarna-sharir|Kaarna Sharir]] — The causal body; carries the karmashaya (samskar storehouse) across incarnations; the only real inheritance
 - [[concepts/mukti|Mukti]] — Intermediate liberation; karmashaya substantially reduced; 1,000–2,000 years in higher realms; nirman kaya as the live accelerator
 - [[concepts/aatma|Aatma]] — The consciousness supreme; eternal, unchanging; what the jivaatma is a fragment of; the destination of moksh
+- [[concepts/isthul-sharir|Isthul Sharir]] — The physical/gross body; goal = worldly accomplishments + self-purification via gunas; bliss as the fulcrum ("happylessness")
+- [[concepts/sukshma-sharir|Sukshma Sharir]] — The spirit/astral body; everlasting; goal = accumulation of shakti (aura); exists 5–10× longer than physical body; bhoots, loks, seh sharir
 
 ---
 
@@ -60,7 +62,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–II ingested*
 
 ---
 
@@ -98,6 +100,9 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/yogi-spirit-bathri|The Yogi Spirit of Bathri]] — Yogi spirit waits decades for a saint; chooses the Tanejas; problems resolved before the child is born; the ex-yogi is now a Delhi hotelier
 - [[stories/marchant-planchette-healing|Mr Marchant and the Planchette]] — Parsi healer's late guru independently confirms Hingori's arthritis cure; "jungle man, jungle medicine"; post-death karma through service
 - [[stories/mr-x-correspondence|The Mr. X Correspondence]] — 45 days of daily karmic worksheets; shows progressive shift in perception, behaviour, and relationships through daily audit
+- [[stories/thuksey-rinpoche-reincarnation|The Reincarnation of Thuksey Rinpoche]] — 5-year-old Rinpoche acknowledged as reincarnation; legally recovers past-life property at 33
+- [[stories/hingori-unborn-son-spirit-vision|Hingori's Vision of His Unborn Son's Spirit]] — Spirit of yet-to-be-born son seen during dhyaan, in 19th-century clothes, gazing at wife's feet
+- [[stories/hingori-past-life-mahabharat-vision|Hingori's Past-Life Vision — The Mahabharat Battle]] — Hingori sees himself thousands of years ago chanting mantras to toss chariots; mantra re-taught in dream state
 
 ---
 

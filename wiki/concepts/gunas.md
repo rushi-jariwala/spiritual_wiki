@@ -1,8 +1,8 @@
 ---
 title: Gunas
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/jivaatma]], [[concepts/moksha]], [[concepts/kleshas]], [[concepts/koshas]], [[concepts/non-doership]], [[practices/tapasya]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/karma]], [[concepts/jivaatma]], [[concepts/moksha]], [[concepts/kleshas]], [[concepts/koshas]], [[concepts/non-doership]], [[practices/tapasya]], [[concepts/isthul-sharir]]
 created: 2026-04-14
 updated: 2026-04-15
 ---
@@ -81,6 +81,10 @@ Adherence to *yams* and *niyams* (as listed in the *Yoga Sutras* of Patanjali) c
 
 > [!tip] The sattvic guna is not the destination — it is the last rung before the destination. Even sattva must eventually be transcended for moksha.
 
+## Note (Aatma Sutra Ch.II)
+
+*Aatma Sutra* Ch.II restates the three-guna scheme briefly in the context of [[concepts/isthul-sharir|Isthul Sharir]] purification — the same three categories, the same definitions (*tamas* = inaction/procrastination/confusion; *rajas* = action/movement/dynamism/desire; *sattva* = contentment/equanimity/duty/detachment). No new content; the cross-referencing reinforces that managing gunas is the physical body's primary instrument of self-purification.
+
 ## Cross-references
 
 - [[concepts/kleshas]] — raga and dwesa are fuel for rajas and tamas; kleshas and gunas are interdependent
@@ -90,3 +94,4 @@ Adherence to *yams* and *niyams* (as listed in the *Yoga Sutras* of Patanjali) c
 - [[concepts/non-doership]] — doing seva without crediting oneself is the sattvic mode
 - [[concepts/moksha]] — transcending all three gunas, sattva included, is the final requirement
 - [[practices/seva]] — seva at the sattvic level is done without crediting oneself
+- [[concepts/isthul-sharir]] — gunas are the instrument by which the physical body pursues self-purification

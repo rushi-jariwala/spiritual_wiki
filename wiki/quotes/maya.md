@@ -1,8 +1,8 @@
 ---
 title: Quotes on Maya and Moksha
 type: quote-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/maya]], [[concepts/moksha]], [[concepts/jivaatma]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/maya]], [[concepts/moksha]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/sukshma-sharir]]
 created: 2026-04-12
 updated: 2026-04-12
 ---
@@ -66,3 +66,23 @@ Quotes related to [[concepts/maya]], [[concepts/moksha]], and the nature of the 
 > "The jivaatma is surrounded by five sheaths (levels) of consciousness called the koshas. Unless one learns to climb the ladder of consciousness from one kosha to the other, one cannot surmount ego."
 > — Hingori, *Karma Sutra*, Ch.1, p.12
 [[concepts/koshas]] · [[concepts/jivaatma]] · [[concepts/maya]]
+
+---
+
+## On the Aatma and Jivaatma (Aatma Sutra)
+
+> "The *aatma* is commonly defined as 'The essence of an individual that is eternal, unchanging and indistinguishable from that of the universal consciousness.' In other words, the *aatma* is ultimately us, minus the various bodies and our individual ego."
+> — Hingori, *Aatma Sutra*, Ch.II, p.20
+[[concepts/aatma]] · [[concepts/jivaatma]]
+
+> "In the simplest of terms, this is the difference between the *aatma* and the *jivaatma*: the *aatma* coupled with our ego is the *jivaatma*."
+> — Hingori, *Aatma Sutra*, Ch.II, p.20
+[[concepts/aatma]] · [[concepts/jivaatma]]
+
+---
+
+## On Shakti as Cosmic Wealth
+
+> "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
+> — Hingori, *Aatma Sutra*, Ch.II, p.15
+[[concepts/sukshma-sharir]]

@@ -2,7 +2,7 @@
 title: Aatma Sutra — Unveiling Your Soul
 type: source
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[entities/hingori]], [[entities/mahaguru]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]]
+related: [[entities/hingori]], [[entities/mahaguru]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]]
 created: 2026-04-16
 updated: 2026-04-16
 ---
@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** Chapters II–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** Chapters III–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ Structured in three parts:
 | Introduction | — | ← *ingested* |
 | Gurudev bio | A Spiritual Icon | ← *ingested* |
 | I | The Goal | ← *ingested* |
-| II | Different Kinds of Bodies | pending |
+| II | Different Kinds of Bodies | ← *ingested* |
 | III | Thoughts | pending |
 | IV | Aura | pending |
 | V | Destiny | pending |
@@ -58,6 +58,19 @@ Structured in three parts:
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
 
+## Key Themes (Ch. II)
+
+- **Five-body model fully laid out**: [[concepts/isthul-sharir]] (physical), [[concepts/sukshma-sharir]] (spirit/astral), [[concepts/kaarna-sharir]] (causal), [[concepts/jivaatma]], [[concepts/aatma]] — each with distinct goal, substance, and duration
+- **Isthul Sharir**: goal is not only worldly accomplishment but self-purification; instrument = managing [[concepts/gunas|guna]] mix toward sattvic
+- **Bliss vs happiness ("happylessness")**: the still fulcrum of the see-saw; neither joy nor sorrow
+- **Sukshma Sharir**: goal is accumulation of *shakti* (aura); exists 5–10× longer than physical body; earns wealth in the currency of energy
+- **Loks**: realms between incarnations; briefly introduced; full treatment in Ch.VIII
+- **Stuck spirits (bhoots/jinns)**: spirits without karma to travel to higher loks; captured by black magic practitioners or more powerful spirits
+- **Rebirth scheduling**: *mahurat* matching; deferred until conditions align; spirit may wait 100+ years
+- **Seh sharir**: dematerialisation by the most evolved saints (Guru Nanak, Gorakhnath, Kabir, Jesus, Sitaramji)
+- **Aatma vs jivaatma**: formalised — "the *aatma* coupled with our ego is the *jivaatma*"
+- Personal testimonies: [[stories/hingori-unborn-son-spirit-vision]], [[stories/hingori-past-life-mahabharat-vision]], [[stories/thuksey-rinpoche-reincarnation]]
+
 ## Key Themes (Ch. I)
 
 - Five-layer anatomy: [[concepts/jivaatma]], [[concepts/kaarna-sharir]], [[concepts/samskars]] — extended from Karma Sutra into a full nested model
@@ -67,6 +80,17 @@ Structured in three parts:
 - **[[concepts/mukti]]**: distinct intermediate stage; karmashaya reduced; 1,000–2,000 years in higher realms; *nirman kaya* as the live mechanism for samskar exhaustion
 - **Moksh**: full deletion of karmashaya data; disintegration of self into consciousness supreme
 - **[[concepts/aatma]]**: distinguished from jivaatma — eternal, unchanging, indistinguishable from universal consciousness
+
+## Notable Quotes (Ch. II)
+
+> "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
+> — Hingori, *Aatma Sutra*, Ch.II, p.15
+
+> "In the simplest of terms, this is the difference between the *aatma* and the *jivaatma*: the *aatma* coupled with our ego is the *jivaatma*."
+> — Hingori, *Aatma Sutra*, Ch.II, p.20
+
+> "Bliss on the other hand, is the fulcrum, the spot at the centre of the see-saw, where emotion is almost non-existent."
+> — Hingori, *Aatma Sutra*, Ch.II, p.14
 
 ## Notable Quotes (Introduction + Ch. I)
 
@@ -79,6 +103,11 @@ Structured in three parts:
 ## Stories Extracted
 
 *(None from Introduction or Ch. I — Hingori's autobiographical sketch is in the Introduction but is background, not a discrete story page.)*
+
+## New Concepts (Ch. II)
+
+- [[concepts/isthul-sharir]] — created
+- [[concepts/sukshma-sharir]] — created
 
 ## New Concepts (Ch. I)
 

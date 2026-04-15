@@ -37,7 +37,7 @@ The recognition of asisa as a mechanism — rather than a truth — is itself pa
 
 ## Cross-references
 
-- [[concepts/kleshas]] — the three component kleshas: asmita, abhinivesha, avidya
+- [[concepts/kleshas]] — the three component kleshas (asmita, abhinivesha, avidya) are described there
 - [[concepts/jivaatma]] — the individual soul that asisa keeps locked into the cycle
 - [[concepts/samskars]] — the stored impressions that perpetuate the circle
 - [[concepts/vasna]] — the tendencies through which stored samskars fructify

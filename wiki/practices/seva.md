@@ -3,7 +3,7 @@ title: Seva
 type: practice
 tags: [seva, service, practice, karmayoga]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/guru-disciple]], [[entities/mahaguru]]
+related: [[concepts/karma]], [[concepts/karmayoga]], [[concepts/guru-disciple]], [[entities/mahaguru]]
 created: 2026-04-12
 updated: 2026-04-12
 ---

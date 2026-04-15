@@ -5,25 +5,19 @@ tags: [karma, counter-gift, debt, seva, story]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
 related: [[concepts/karmic-debt]], [[concepts/karma]], [[entities/hingori]], [[entities/mahaguru]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-16
 ---
 
 # The Sadhu, the Blankets, and the Clove
 
 ## Full Narrative
 
-A sadhu (ascetic) once asked Hingori to help him and his friends acquire blankets to survive the cold in the Himalayas. Hingori bought six blankets and gave them to the sadhu, who was very happy.
-
-The sadhu picked a clove from the forest and offered it to Hingori as a gesture of gratitude. Hingori accepted it gracefully, not wanting to disrespect the sadhu.
-
-When Gurudev came to know of this, he was very upset. His assessment: by accepting the clove, Hingori had **given away all the benefit** of his good deed through ignorance.
-
-> I learnt that not accepting a favour in return, however small, was critical to holding on to positive karma.
+> A *sadhu* (ascetic) once asked me to help him and his friends get some blankets to deal with the cold in the Himalayas. I bought him six and he was very happy. He gave me a clove which he had picked up from the forest as a gesture of gratitude. I accepted it gracefully as I did not want to disrespect him. When my guru came to know, he was very upset. He felt I had given away all the benefit due to my ignorance. I learnt that not accepting a favour in return, however small, was critical to holding on to positive karma.
 > — Hingori, *Karma Sutra*, Ch.2, p.41
 
 ## Source
 
-*Karma Sutra*, Ch.2, p.41 · [[sources/karma-sutra]]
+*Karma Sutra*, Ch.2, p.41, "Acts Of Kindness" · [[sources/karma-sutra]]
 
 ## The Principle
 

@@ -45,3 +45,12 @@ Created wiki/analogies.md with 13 analogies from Karma Sutra in 5 concept cluste
 
 ## [2026-04-15] update | Structural review + synthesis pages created
 Pre-ingest structural review before proceeding to remaining 5 sources. Decisions: (A) multi-source concepts enriched on single page with per-section source attribution; (B) index scalability deferred; (C) Mahaguru remains stub. Two synthesis pages extracted from overview.md: synthesis/inner-frameworks-convergence (four-framework convergence), synthesis/samskar-loop (four-link perpetuation mechanism). Overview and index updated to point to synthesis pages.
+
+## [2026-04-16] lint | Test Plan Execution — All 6 Suites
+Full test run across structural integrity, link health, source fidelity, query performance, coverage gaps, and style. Suites 1 and 4 passed clean. Key findings: 2 missing concept pages (karmayoga, avidya); 2 stale stub labels in index (samskars, mahaguru); 1 paraphrased story (sadhu-blanket-clove); 1 generic phrase in ashoka.md; verbatim spot-check blocked pending raw/ source access. 9 action items filed. Full results in wiki-test-results.md.
+
+## [2026-04-16] update | Post-test fixes — karmayoga, avidya links, stubs, sadhu story
+Created concepts/karmayoga (Gurudev and Ashoka as exemplars; non-doership as its transcendence). Removed [[concepts/avidya]] from kleshas.md frontmatter and asisa.md cross-refs — avidya is covered within the kleshas page, no separate page. Removed stub label from concepts/samskars; updated mahaguru entity label to note pending source ingests. Fixed stories/sadhu-blanket-clove: paraphrase removed, verbatim block quote now opens the story, [!question] flag added for full narrative sourcing. Backlinks to karmayoga added in mahaguru, ashoka, seva.
+
+## [2026-04-16] update | sadhu-blanket-clove — verbatim narrative restored from source
+Replaced placeholder [!question] flag with full verbatim text from *Karma Sutra*, Ch.2, p.41 ("Acts Of Kindness"). Story now opens with complete first-person block quote as sourced.

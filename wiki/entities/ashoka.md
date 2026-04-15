@@ -3,7 +3,7 @@ title: Emperor Ashoka
 type: entity
 tags: [ashoka, karmayoga, historical-example, buddhism]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[practices/seva]], [[stories/ashoka-kalinga-transformation]]
+related: [[concepts/karma]], [[concepts/karmayoga]], [[practices/seva]], [[stories/ashoka-kalinga-transformation]]
 created: 2026-04-12
 updated: 2026-04-12
 ---

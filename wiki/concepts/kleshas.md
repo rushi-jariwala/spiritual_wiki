@@ -2,7 +2,7 @@
 title: Kleshas (The Five Stresses)
 type: concept
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/maya]], [[concepts/avidya]], [[concepts/guru-disciple]], [[concepts/moksha]], [[concepts/gunas]], [[concepts/koshas]], [[concepts/non-doership]]
+related: [[concepts/maya]], [[concepts/guru-disciple]], [[concepts/moksha]], [[concepts/gunas]], [[concepts/koshas]], [[concepts/non-doership]]
 created: 2026-04-12
 updated: 2026-04-15
 ---
@@ -101,7 +101,7 @@ Together they generate the force that keeps the jivaatma cycling through birth a
 
 ## Cross-references
 
-- [[concepts/maya]] — avidya is one's individual circle of maya
+- [[concepts/maya]] — avidya (the first klesha) is one's individual circle of maya
 - [[concepts/guru-disciple]] — the guru's primary function is to dispel avidya
 - [[concepts/non-doership]] — the kleshas are precisely what keeps doer-ship in place
 - [[concepts/koshas]] — kleshas operate at the mental body (manomaya kosha) level

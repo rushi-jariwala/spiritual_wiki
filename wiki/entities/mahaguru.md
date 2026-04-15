@@ -3,7 +3,7 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/guru-disciple]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]]
+related: [[concepts/guru-disciple]], [[concepts/karmayoga]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]]
 created: 2026-04-12
 updated: 2026-04-12
 ---

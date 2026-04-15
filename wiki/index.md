@@ -34,7 +34,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/pitra-peeda|Pitra Peeda]] — Ancestral ire affecting the family line (kul); shraadhs; remediation
 - [[concepts/non-doership|Non-Doership]] — Taking the 'I' away from deeds; being a witness not an owner; the highway to moksha
 - [[concepts/mahurat|Mahurat]] — Birth date/time as karmic matching instrument; horoscope as destiny readout
-- [[concepts/samskars|Samskars]] — The form in which accumulated karma is stored *(stub)*
+- [[concepts/samskars|Samskars]] — The form in which accumulated karma is stored; USB stick analogy; vicious circle and the gyan break
+- [[concepts/karmayoga|Karmayoga]] — The discipline of sustained good karma as a path; Gurudev and Ashoka as exemplars
 - [[concepts/attitude-to-deeds|Attitude to Deeds]] — Three progressive attitudes toward karma: self-centred → satisfaction → detachment (*karma mukta*)
 - [[concepts/gunas|Gunas]] — Tamasic, rajasic, sattvic qualities; profiles, guna mix, and how to change it
 - [[concepts/asisa|Asisa]] — The jivaatma's will to exist eternally; composite force of asmita + abhinivesha + avidya; root driver of rebirth
@@ -46,7 +47,7 @@ Read this first when answering queries — then drill into relevant pages.
 ## Entities
 *People, lineages, sacred places, canonical texts.*
 
-- [[entities/mahaguru|The Mahaguru (Gurudev)]] — Central figure of the tradition; karmayoga personified *(stub, expanded on later ingests)*
+- [[entities/mahaguru|The Mahaguru (Gurudev)]] — Central figure of the tradition; karmayoga personified; full treatment pending [[sources/guru-of-gurus]] and [[sources/witnessing-greatness]]
 - [[entities/hingori|Hingori]] — Author of the Sutras; disciple whose arthritis was cured in a minute
 - [[entities/ashoka|Emperor Ashoka]] — Historical example of karmayoga cited in Ch.1
 - [[entities/guru-nanak|Guru Nanak]] — Example of realisation without a human sadguru

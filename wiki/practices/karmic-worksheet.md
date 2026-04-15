@@ -70,9 +70,43 @@ The worksheet is the practical interface layer of the entire *Karma Sutra* frame
 
 Items 3 and 4 on the Negative side acknowledge obligations that are structurally unavoidable — eating plants, drinking milk — reinforcing the book's broader point that existence itself accrues debt (see [[concepts/karmic-debt]]). The worksheet does not pretend otherwise; it simply makes the debt visible.
 
+## Help Us Help You — Live Application (pp.135–140)
+
+Hingori offers to work with readers directly: send daily positive and negative assessments to `hingori@hingorisutras.com` and he and his associates will respond with suggestions — "things to do or spiritual practices and other guidances that we feel would help improve your karmic status."
+
+To illustrate how the worksheet works in practice, he publishes five sample dailies from an anonymous young man tracked across 45 days (August–September 2014). The arc:
+
+- Week 1: hits his mother back in anger; basic positive deeds (fed a monkey, kind to guests)
+- Week 2: does not pay yoga teacher for trial class; snubs father repeatedly
+- Week 3: 12 positive deeds in two days; still eating chicken "out of habit"
+- Week 4: cares for sick mother; pays yoga teacher in advance for six sessions
+- Week 5: resolves argument with father; goes to his room at night unprompted
+
+> I have seen Mr X's life change in only 45 days. Though I guide him on what to do and what not to, he has now learnt to audit his own dailies. From this exercise, I have learnt that just 10 minutes of recapturing of your karma mix and penning it down daily can help change your perception, analysis and behaviour.
+> — Hingori, *Karma Sutra*, p.140
+
+The worksheet functions as a feedback loop: awareness of a debt (unpaid yoga teacher) makes repayment legible; repayment is recorded; the pattern shifts. See [[stories/mr-x-correspondence]] for the full dailies verbatim.
+
+## Recommended Dos — Closing Synthesis (p.141)
+
+Hingori's practical distillation at the close of the book. These are not new concepts but a crystallisation of the entire framework into actionable rules:
+
+> Let our karmas exhaust on its own. Let us not re-store them for re-fructification as samskars, by taking their ownership. We need to understand that detachment and reduction of desire is a must to not hold on to our karmas and let them go. If we are not doers, then why do we need to think we are? Remember, guilt and pride are two accelerators of keeping this circle going round and round, and therefore, it is necessary to avoid both. We must recognise the fact that asisa or intent to exist in perpetuity creates the fear of death or existence in us. But paradoxically, we need to work towards lesser lives to lead. To package as much as we can in this one, and hope to shed at least a percentage of our samskars in each lifetime. (Getting mukti is a spiritual aspiration and the lesser lives required to achieve this makes our investment quantifiably lesser.) We must allow ourselves to fail and accept our failures gracefully otherwise it will too form samskars and add to the burden of the `next time' syndrome. If we can find a siddha guru, we should have the humility to surrender to his will and let him be our beacon of light. If not, we should do our best and be our own teachers.
+> — Hingori, *Karma Sutra*, p.141
+
+Key rules unpacked:
+
+| Rule | Mechanism |
+|---|---|
+| Let karmas exhaust on their own | Non-ownership prevents re-encoding as new samskars |
+| Avoid guilt and pride equally | Both are forms of 'I'-sense; both accelerate the cycle |
+| Accept failures gracefully | Guilt over failure generates a "next-time" samskar — a future-life obligation |
+| Work toward fewer lives | Asisa is the engine; reduce its fuel by reducing desire |
+| Surrender to a siddha guru, or be your own teacher | The guru is the short-cut; self-teaching is the fallback — neither is dismissed |
+
 ## Sources
 
-*Karma Sutra*, pp.94–96 (Karmic Worksheets chapter); p.114 (CCTV metaphor from the Kleshas section); p.135–139 (Help Us Help You — Mr X daily logs).
+*Karma Sutra*, pp.94–96 (Karmic Worksheets); p.114 (CCTV metaphor); pp.135–141 (Help Us Help You — Mr X correspondence and Recommended Dos).
 
 ## Related Concepts
 

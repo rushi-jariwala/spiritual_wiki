@@ -179,6 +179,27 @@ See [[concepts/positive-karma]] · [[concepts/pitra-peeda]].
 
 ---
 
+## On Attitude and Detachment
+
+> "Many evolved souls give up their sense of doer-ship of deeds. They feel what is happening is destined. People do not feel pride or satisfaction in the good they do... Their deeds are considered non-actions and they are considered karma mukta or free of karmas."
+> — Hingori, *Karma Sutra*, Ch.7, p.104
+[[concepts/attitude-to-deeds]] · [[concepts/non-doership]]
+
+---
+
+## On Equanimity and the Sattvic Mode
+
+> *Kabira khada bazaar mein, mange sabki khair. Na kahun se dosti, na kahun se baer.*
+> *(Kabir stands at the marketplace, wishing good luck for all. Neither love for anyone, nor any dislike for anyone.)*
+> — Kabir, quoted in *Karma Sutra*, Ch.7, p.125
+[[concepts/gunas]] · [[concepts/non-doership]]
+
+> *Neki kar aur daryah mein daal* — do a good deed and bury it in the sea.
+> — Hingori's grandfather, quoted in *Karma Sutra*, Ch.7, p.125
+[[concepts/gunas]] · [[concepts/positive-karma]]
+
+---
+
 ## On Karmayoga (Ashoka)
 
 > "Work I must for the common weal and the way to achieve is by effort and dispatch; to this end I toil to discharge my debt to human beings and to make some happy; in this world, and the next."

@@ -68,6 +68,29 @@ The aspiration is not dismissed as unattainable. It is framed as a long-form pra
 - **When public recognition comes:** let it pass through; encashment collapses positive karma.
 - **If full non-doership is out of reach:** load up on positive karma. The balance-sheet logic applies regardless.
 
+## Guilt and Pride as Twin Accelerators
+
+The closing synthesis of *Karma Sutra* (p.141) names these two explicitly as a paired danger:
+
+> Remember, guilt and pride are two accelerators of keeping this circle going round and round, and therefore, it is necessary to avoid both.
+> — Hingori, *Karma Sutra*, p.141
+
+Both are forms of the 'I'-sense applied to karma:
+
+- **Pride** = doer-ship over good deeds → encashes positive karma and re-encodes the deed as a samskar of ownership
+- **Guilt** = doer-ship over bad deeds → re-encodes the act as a samskar; also generates the "next-time syndrome" (see [[concepts/samskars]])
+
+Non-doership is therefore not just about not claiming credit — it is equally about not claiming blame. The practice must run symmetrically across success and failure.
+
+## The Samskar Circle Connection
+
+Ch.8 deepens the mechanism. Non-doership is not merely an ethical posture — it is the specific technical break that prevents the samskar loop from closing. When a [[concepts/vasna|vasna]] (tendency from stored karma) arises and the act plays out, the act is designed only to exhaust old samskar data. The 'I'-sense is precisely what re-uploads the act as a new samskar.
+
+> Non-acceptance of our deeds is not 'skin deep'. The observer within us cannot be fooled by the mind and record the impression at the level of the citta. Therefore, the concept of non-doer-ship has to sink deep and be a part of the belief system of our mind, intellect and the observatories of our inner bodies.
+> — Hingori, *Karma Sutra*, Ch.8, p.132
+
+Non-doership must therefore reach the level of citta (the totality of conscious, subconscious, and unconscious mind), not just the surface mind's intellectual agreement. This is why it is described as requiring "rehearsals and years of practice."
+
 ## Cross-references
 
 - [[concepts/doer-ship]] — the binding mechanism that non-doership dissolves
@@ -75,3 +98,6 @@ The aspiration is not dismissed as unattainable. It is framed as a long-form pra
 - [[concepts/sanchit-karma]] — gyan (as the path to aham brahmasmi) can burn accumulated sanchit
 - [[concepts/moksha]] — non-doership is the highway; plastering is the service road
 - [[concepts/maya]] — the 'I' is the machinery of maya; non-doership is its undoing
+- [[concepts/attitude-to-deeds]] — the three-stage practical map; Stage 3 (Deeds with Detachment) is non-doership in daily action
+- [[concepts/samskars]] — the stored impressions that non-doership prevents from being renewed
+- [[concepts/vasna]] — the tendency-mechanism through which samskars fructify; non-doership severs the re-encoding loop

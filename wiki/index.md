@@ -24,8 +24,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/moksha|Moksha]] — Final liberation; the return of the fragment to the Supreme
 - [[concepts/doer-ship|Doer-ship and the Guilt Factor]] — The mechanism by which karma binds; why guilt is self-inflicted karma
 - [[concepts/guru-disciple|The Guru-Disciple Relationship]] — Why a sadguru is a lottery; the umbrella metaphor
-- [[concepts/koshas|Koshas]] — The five sheaths surrounding the jivaatma *(stub)*
-- [[concepts/kleshas|Kleshas]] — The five stresses of the human mind; avidya is one *(stub)*
+- [[concepts/koshas|Koshas]] — The five sheaths surrounding the jivaatma; progressive path from material to bliss body
+- [[concepts/kleshas|Kleshas]] — The five stresses of the human mind (Patanjali set); causes, effects, and counter-methods
 - [[concepts/karmic-debt|Karmic Debt]] — Obligations incurred through embodied life; six categories of creditors
 - [[concepts/non-vegetarianism|Non-Vegetarianism]] — Meat-eating as graduated karmic debit; quantified costs; vegetarianism as rational strategy
 - [[concepts/guru-dakshina|Guru Dakshina]] — Repayment to the teacher via tann, mann, dhann
@@ -35,7 +35,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/non-doership|Non-Doership]] — Taking the 'I' away from deeds; being a witness not an owner; the highway to moksha
 - [[concepts/mahurat|Mahurat]] — Birth date/time as karmic matching instrument; horoscope as destiny readout
 - [[concepts/samskars|Samskars]] — The form in which accumulated karma is stored *(stub)*
-- [[concepts/gunas|Gunas]] — Tamasic, rajasic, sattvic qualities; the guna spectrum of entities across astral planes *(stub)*
+- [[concepts/attitude-to-deeds|Attitude to Deeds]] — Three progressive attitudes toward karma: self-centred → satisfaction → detachment (*karma mukta*)
+- [[concepts/gunas|Gunas]] — Tamasic, rajasic, sattvic qualities; profiles, guna mix, and how to change it
+- [[concepts/asisa|Asisa]] — The jivaatma's will to exist eternally; composite force of asmita + abhinivesha + avidya; root driver of rebirth
+- [[concepts/vasna|Vasna]] — Tendencies arising from stored samskars; the fructification mechanism; become desire only when coloured by doer-ship
+- [[concepts/kaarna-sharir|Kaarna Sharir]] — The causal body; carries the karmashaya (samskar storehouse) across incarnations; the only real inheritance
 
 ---
 
@@ -52,7 +56,14 @@ Read this first when answering queries — then drill into relevant pages.
 ## Sources
 *One summary page per source document.*
 
-- [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Ch.1–5 ingested*
+- [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
+
+---
+
+## Analogies
+*Analogies and metaphors used across the tradition, indexed for querying.*
+
+- [[analogies|Analogies]] — All analogies across sources (13 from Karma Sutra)
 
 ---
 
@@ -82,6 +93,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/sanjog-bird-cones-animal-hospital|Sanjog's Bird Cones and the Panvel Animal Hospital]] — Two examples of benefit to other life forms: a lawyer sheltering birds, friends raising funds for an animal hospital
 - [[stories/yogi-spirit-bathri|The Yogi Spirit of Bathri]] — Yogi spirit waits decades for a saint; chooses the Tanejas; problems resolved before the child is born; the ex-yogi is now a Delhi hotelier
 - [[stories/marchant-planchette-healing|Mr Marchant and the Planchette]] — Parsi healer's late guru independently confirms Hingori's arthritis cure; "jungle man, jungle medicine"; post-death karma through service
+- [[stories/mr-x-correspondence|The Mr. X Correspondence]] — 45 days of daily karmic worksheets; shows progressive shift in perception, behaviour, and relationships through daily audit
 
 ---
 
@@ -98,4 +110,5 @@ Read this first when answering queries — then drill into relevant pages.
 ## Synthesis
 *Cross-cutting analyses, comparisons, open questions.*
 
-<!-- entries added on query/lint -->
+- [[synthesis/inner-frameworks-convergence|The Convergence of Inner Frameworks]] — Gunas, koshas, attitude-to-deeds, and non-doership as four lenses on one inward movement *(Karma Sutra)*
+- [[synthesis/samskar-loop|The Samskar Loop]] — Four-link mechanism of karmic perpetuation; the break at citta level *(Karma Sutra)*

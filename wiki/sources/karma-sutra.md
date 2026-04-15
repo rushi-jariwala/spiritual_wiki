@@ -31,7 +31,7 @@ Dedicated to Gurudev (the [[entities/mahaguru|Mahaguru]]) and framed as a distil
 
 ## Ingestion Status
 
-**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** **Chapter 5 ingested (2026-04-14).** **Chapter 6 ingested (2026-04-15).** The rest of the book is pending.
+**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** **Chapter 5 ingested (2026-04-14).** **Chapter 6 ingested (2026-04-15).** **Chapter 7 ingested (2026-04-15).** **Chapter 8 ingested (2026-04-15).** **Chapter 9 ingested (2026-04-15).** Glossary terms cross-checked; all key terms already covered in concept pages. **Karma Sutra fully ingested.**
 
 ## Table of Contents
 
@@ -49,10 +49,10 @@ From the PDF, the book's sections are:
 6. **Theory of Balancing Karma** ← *ingested*
    - Complications · The Spirit Who Partnered in Healing · Easier Formula for Diluting Doer-ship
 7. **Karmic Worksheets** ← *ingested* — Positive and Negative Karmic Assessments
-8. **After Thoughts** — Attitude to Deeds · Tapasya
-9. **Circle of Life After Life**
-   - The Klesha Cocktail · Vasna · Samskars · Koshas · Gunas · Kaarna Sharir · The Guru Factor
-10. **Help Us Help You** · **Glossary**
+8. **After Thoughts** ← *ingested* — Attitude to Deeds · Tapasya · Kleshas · Koshas · Gunas (pp.100–126)
+9. **Circle of Life After Life** ← *ingested*
+   - Asisa · The Klesha Cocktail · Vasna · Samskars · Kaarna Sharir · The Guru Factor
+10. **Help Us Help You** ← *ingested* · **Glossary** ← *cross-checked*
 
 ## Key Themes (so far)
 
@@ -150,6 +150,40 @@ All foundational — [[concepts/karma]] and its three types; [[concepts/maya]]; 
 ## New Concepts Introduced (in Ch.6)
 
 None. Ch.6 is a practice crystallisation of existing framework.
+
+## Key Themes (Ch.7)
+
+- [[concepts/attitude-to-deeds]] — three progressive attitudes toward good karma: self-centred investment → satisfaction/duty → detachment (*karma mukta*); Stage 3 is non-doership in action
+- [[practices/tapasya]] — voluntary suffering as a direct mechanism to reduce negative karma balance; the voluntary version of the suffering destiny would otherwise impose
+- [[concepts/kleshas]] — full treatment: five Patanjali kleshas confirmed (avidya, asmita, raga, dwesa, abhinivesha); each has a specific counter-method; the CCTV witnessing technique extended to kleshas
+- [[concepts/koshas]] — full treatment: five sheaths (annamaya → pranamaya → manomaya → vigyanamaya → anandamaya); manomaya stores samskars; anandamaya is moksha's doorstep
+- [[concepts/gunas]] — full treatment: tamasic/rajasic/sattvic with detailed profiles; process for changing guna mix (phase I: watch from outside); sattvic is penultimate, not final — even sattva must be transcended
+
+## New Concepts Introduced (in Ch.7)
+
+[[concepts/attitude-to-deeds]] — the three-stage progression is new; kleshas, koshas, and gunas were stubs now fully expanded.
+
+## Key Themes (Ch.8)
+
+- [[concepts/asisa]] — the will to exist eternally; composite of asmita + abhinivesha + avidya; the force that keeps the jivaatma in the cycle
+- [[concepts/vasna]] — tendencies arising from stored samskars; mechanism for fructification; become desire only when coloured by emotional ownership
+- [[concepts/samskars]] — full mechanistic treatment: smruti vs samskar; the USB stick; the vicious circle; gyan as the break; Gurudev's 'Paap ka Ghada' phrase; depreciation analogy
+- [[concepts/kaarna-sharir]] — the causal body (third body); carries the karmashaya from life to life; the only real inheritance across incarnations
+- [[concepts/non-doership]] — deepened: must reach the level of citta, not just surface mind; the observer within cannot be fooled; non-doership is the technical break in the samskar loop
+- The Guru Factor: seva → sensitivity → intuition → gyan → "I am that consciousness"; guru can help samskars fructify in the dream state; mantra siddhis as samskar-erasure tools
+
+## New Concepts Introduced (in Ch.8)
+
+[[concepts/asisa]] · [[concepts/vasna]] · [[concepts/kaarna-sharir]] — [[concepts/samskars]] fully expanded from stub
+
+## Key Themes (Ch.9)
+
+- No new concepts — Ch.9 is a practical demonstration and closing synthesis
+- **Mr X correspondence**: five daily worksheets across 45 days; shows progressive karmic shifts through the worksheet practice — see [[stories/mr-x-correspondence]]
+- **Guilt and pride as twin accelerators**: named explicitly as paired dangers in the samskar loop; both are expressions of 'I'-sense; both must be avoided — see [[concepts/non-doership]]
+- **The "next-time syndrome"**: failure + guilt → new samskar of incompleteness → future-life obligation; accepting failure gracefully is the counter — see [[concepts/samskars]]
+- **Asisa and the goal of fewer lives**: work toward packaging as much karmic clearing as possible in each incarnation — see [[concepts/asisa]]
+- **Siddha guru or self-teaching**: if a siddha guru is found, surrender; if not, be your own teacher — no third option offered
 
 ## New Concepts Introduced (in Ch.5)
 

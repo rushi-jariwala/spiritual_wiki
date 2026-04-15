@@ -3,7 +3,7 @@
 ```yaml
 ---
 title:
-type: concept | entity | source | quote-collection | story | practice | synthesis
+type: concept | entity | source | quote-collection | analogy-collection | story | practice | synthesis
 sources: []       # raw/ filenames
 related: []       # [[wiki-relative links]]
 created: YYYY-MM-DD
@@ -28,6 +28,7 @@ Only include a quote if it is genuinely striking, precise, or irreplaceable — 
 Keep stories verbatim from the text. Never paraphrase. Mark them as block quotes in .md syntax.
 **practices/** — What it is · How to do it · Why/Purpose · Sources · Related Concepts
 **synthesis/** — Free-form analytical pages. Always note date and available sources.
+**analogies.md** — One file. Each entry: analogy name · what it illuminates · quote + page ref · backlinks to concepts. Organised by concept cluster.
 
 This is a guide. You can add more categories & sections if needed. 
 
@@ -37,7 +38,7 @@ This is a guide. You can add more categories & sections if needed.
 3. Instructions: Use links & backlinks heavily — forward-link to related pages and add backlinks from those pages too, even if the target page does not exist yet. Dont add any extra information which can be retrieved during query time. Don't speculatively cross-reference or interpret beyond what the source says. Use the same tone/language as mentioned in the source for filing into the wiki.
 4. After creating pages, scan across existing concepts for structural patterns — shared mechanisms, tensions, inversions, or progressions. Flag these in the relevant cross-refs sections or open a `synthesis/` page if the pattern is significant.
 5. Create `sources/` page
-6. Create/update `concepts/`, `entities/`, `quotes/`, `stories/`, `practices/` pages
+6. Create/update `concepts/`, `entities/`, `quotes/`, `stories/`, `practices/` pages. Add new analogies to `wiki/analogies.md`.
 7. Update `wiki/index.md`
 8. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
 9. Update `wiki/overview.md` if synthesis meaningfully shifts.
@@ -61,7 +62,7 @@ Append: `## [YYYY-MM-DD] lint | Health check`
 ## Index Conventions
 
 Each entry: `- [[path/page|Title]] — one-line description`
-Sections: Overview & Log · Concepts · Entities · Sources · Quotes · Stories · Practices · Synthesis
+Sections: Overview & Log · Concepts · Entities · Sources · Analogies · Quotes · Stories · Practices · Synthesis
 
 ## Log Conventions
 ```

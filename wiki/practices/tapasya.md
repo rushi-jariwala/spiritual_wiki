@@ -48,6 +48,26 @@ It also serves a secondary purpose: it is how the power of the mind is developed
 - [[practices/sadhana]] — the broader umbrella term
 - [[concepts/guru-disciple]] — the relational frame that makes tapasya meaningful
 
-## Note
+## Ch.7 — Tapasya as Karmic Reduction
 
-Chapter 1 introduces tapasya incidentally rather than systematically. More detailed treatment is expected in later chapters and in [[sources/guru-sutra]]. This page will be expanded as those sources are ingested.
+Chapter 7 of *Karma Sutra* gives tapasya its second and more mechanistic definition — not as the disciple's currency in a guru relationship, but as a direct instrument for reducing negative karma balance:
+
+> Controlling your desires, living out the negative karma by suffering voluntarily (as perceived), sacrificing food, comfort, sleep and taking on mental anguish, has the same effect as poverty, misery and thus nullifying the negative karma taking place, which brings us one step closer to achieving a zero karma balance — neither negative nor positive.
+> — Hingori, *Karma Sutra*, Ch.7, p.106
+
+The methods are many: fasting (sometimes without water), continuous meditation, eating bare minimum, living in harsh conditions, hanging from trees, standing on one leg in rivers for hours, chanting mantras continuously for days.
+
+The target is not the impossible zero balance but proximity to it:
+
+> Even if we do not attain a zero balance (an almost impossible task), it is better to get nearer to 0, rather than stay closer to 100.
+> — *Karma Sutra*, Ch.7, p.106
+
+This frames tapasya as the *voluntary* version of the suffering that negative sanchit karma would otherwise impose through destiny — poverty, misery, strife. Choosing the suffering proactively reduces the compulsory portion.
+
+## Related
+
+- [[practices/seva]] — the practice tapasya is paired with in the guru-disciple context
+- [[practices/sadhana]] — the broader umbrella term
+- [[concepts/guru-disciple]] — the relational frame that makes the Ch.1 form of tapasya meaningful
+- [[concepts/sanchit-karma]] — the accumulated balance that tapasya chips away at
+- [[concepts/negative-karma]] — what tapasya works to offset

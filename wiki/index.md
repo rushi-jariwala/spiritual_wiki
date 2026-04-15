@@ -91,6 +91,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[practices/seva|Seva]] — Selfless service; Gurudev's one-point programme
 - [[practices/tapasya|Tapasya]] — Voluntary austerity; the disciple's currency
 - [[practices/sadhana|Sadhana]] — The umbrella term for sustained spiritual practice *(stub)*
+- [[practices/karmic-worksheet|The Karmic Worksheet]] — Daily positive/negative self-audit; scoring system; the CCTV principle
 
 ---
 

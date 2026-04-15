@@ -27,3 +27,6 @@ Re-ingested Ch.4 at full fidelity. Previous version was paraphrased and compress
 
 ## [2026-04-14] ingest | Karma Sutra — Chapter 5: Theory of Balancing Karma
 Touched 10 pages (pp.82–91). Created 4 concepts (non-doership, mahurat, samskars, gunas), 2 stories (yogi-spirit-bathri, marchant-planchette-healing). Updated: sources/karma-sutra (status + Ch.5 themes + new concepts + stories), concepts/doer-ship (resolved open question; cross-ref to non-doership), quotes/karma (5 new quotes), index, overview, log. Core additions: post-death karma; multiple astral planes + gurulok; guna elevation across planes; mahurat as karmic birth-matching; non-doership as the primary transcendence path; samskars as the storage form of karma; two paths — full gyan or karmic plastering.
+
+## [2026-04-15] ingest | Karma Sutra — Chapter 6: Karmic Worksheets
+Touched 4 pages (pp.94–96). Created 1 practice (karmic-worksheet). Updated: sources/karma-sutra (status + Ch.6 themes), index, log. No new concepts or stories — Ch.6 is the practice crystallisation of the entire Chs.3–4 framework. Core additions: daily positive/negative self-audit tool; scoring system; the CCTV witnessing principle; self-competition as the motivational frame.

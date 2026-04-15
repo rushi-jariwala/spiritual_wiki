@@ -31,7 +31,7 @@ Dedicated to Gurudev (the [[entities/mahaguru|Mahaguru]]) and framed as a distil
 
 ## Ingestion Status
 
-**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** **Chapter 5 ingested (2026-04-14).** The rest of the book is pending.
+**Chapter 1 ingested (2026-04-12).** **Chapter 2 ingested (2026-04-12).** **Chapter 3 ingested (2026-04-12).** **Chapter 4 ingested (2026-04-13).** **Chapter 5 ingested (2026-04-14).** **Chapter 6 ingested (2026-04-15).** The rest of the book is pending.
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ From the PDF, the book's sections are:
    - Food · Greening Places · Benefits to Other Life Forms · Favours · Educating · Medical Aid · Ancestors · Pitra Peeda · Passive Response to Criticism · Spiritual Healings · Righteousness · Empathy · Humility
 6. **Theory of Balancing Karma** ← *ingested*
    - Complications · The Spirit Who Partnered in Healing · Easier Formula for Diluting Doer-ship
-7. **Karmic Worksheets** — Positive and Negative Karmic Assessments
+7. **Karmic Worksheets** ← *ingested* — Positive and Negative Karmic Assessments
 8. **After Thoughts** — Attitude to Deeds · Tapasya
 9. **Circle of Life After Life**
    - The Klesha Cocktail · Vasna · Samskars · Koshas · Gunas · Kaarna Sharir · The Guru Factor
@@ -138,6 +138,18 @@ All foundational — [[concepts/karma]] and its three types; [[concepts/maya]]; 
 - Gyan (transcending senses, mind, intellect; sensing aham brahmasmi) as the only true means of burning sanchit karma
 - [[concepts/non-doership]] — the "easier formula": take the 'I' away; be a witness not an owner; two paths — full non-doership or plaster negatives with positives
 - [[concepts/samskars]] — the form in which accumulated karma is stored
+
+## Key Themes (Ch.6)
+
+- [[practices/karmic-worksheet]] — daily positive/negative self-audit; scoring system (Yes=10, No=−5, Some=people×10)
+- The worksheet operationalises all karmic categories from Chs.3–4 into a daily habit
+- Purpose: cultivating the capacity to be a *conscious witness of yourself*, not moral score-keeping
+- Structural debts (plant-eating, milk-drinking) explicitly listed on the negative side — existence itself accrues debt, the worksheet makes it visible
+- Self-competition: the score is compared against yesterday's self, not against others
+
+## New Concepts Introduced (in Ch.6)
+
+None. Ch.6 is a practice crystallisation of existing framework.
 
 ## New Concepts Introduced (in Ch.5)
 

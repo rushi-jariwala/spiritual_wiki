@@ -179,6 +179,14 @@ See [[concepts/positive-karma]] · [[concepts/pitra-peeda]].
 
 ---
 
+## On Samskar Destinations (Bhog, Rog, Yog)
+
+> "The positive *samskars* stored will be converted in the future into *bhog* (pleasure and riches). The negative *samskars* into *rog* (debt, disease, and misfortune). The *samskars* related to spirituality and divinity will get converted into *yog* (spiritual evolution). Aim for *yog*!"
+> — Hingori, *Aatma Sutra*, Ch.III, p.32
+[[concepts/samskars]] · [[concepts/vitarks-vichars]]
+
+---
+
 ## On Attitude and Detachment
 
 > "Many evolved souls give up their sense of doer-ship of deeds. They feel what is happening is destined. People do not feel pride or satisfaction in the good they do... Their deeds are considered non-actions and they are considered karma mukta or free of karmas."

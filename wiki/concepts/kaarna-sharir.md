@@ -38,6 +38,20 @@ Hingori reframes the kaarna sharir's contents as the only thing a person truly *
 
 Material wealth stays behind. The kaarna sharir and its samskar load are what pass through the threshold of death.
 
+## The Karmashaya's Three-Part Software (Ch. III)
+
+*Aatma Sutra* Ch.III extends the description of the karmashaya beyond a simple samskar store:
+
+> "The *karmashaya* is best described as a 'pot' or 'container'. This container holds the software that organises the data expulsion of our *samskars*, the configuration of the *gunas*, and the trends of our *kleshas*."
+> — Hingori, *Aatma Sutra*, Ch.III, p.25
+
+The karmashaya thus carries three interlocking data sets:
+1. **Samskar data expulsion** — the sequence in which samskars surface to fructify
+2. **Guna configuration** — the tamasic/rajasic/sattvic mix that shapes personality in a given life
+3. **Klesha trends** — the dominant stress patterns (avidya, asmita, raga, dwesa, abhinivesha) active in a given lifetime
+
+This makes the karmashaya not merely a passive archive but an active scheduler — it organises *how* and *when* stored data surfaces into conscious life.
+
 ## The Goal: Lightening the Stick
 
 The aspiration is to exhaust samskars and reduce the karmashaya's load — not to fill it further:
@@ -52,3 +66,6 @@ The aspiration is to exhaust samskars and reduce the karmashaya's load — not t
 - [[concepts/sanchit-karma]] — the total accumulated karmic balance of which the karmashaya is the storage medium
 - [[concepts/jivaatma]] — the individual soul that carries the kaarna sharir across incarnations
 - [[concepts/koshas]] — the five sheaths of consciousness; kaarna sharir is the inter-life body that underlies them
+- [[concepts/gunas]] — guna configuration is one of the three data sets the karmashaya carries
+- [[concepts/kleshas]] — klesha trends are the third data set in the karmashaya's software
+- [[concepts/citt-vritti-nirodh]] — thoughts arising from the karmashaya surface as vrittis; nirodh prevents them from being re-stored

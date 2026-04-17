@@ -45,6 +45,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/aatma|Aatma]] — The consciousness supreme; eternal, unchanging; what the jivaatma is a fragment of; the destination of moksh
 - [[concepts/isthul-sharir|Isthul Sharir]] — The physical/gross body; goal = worldly accomplishments + self-purification via gunas; bliss as the fulcrum ("happylessness")
 - [[concepts/sukshma-sharir|Sukshma Sharir]] — The spirit/astral body; everlasting; goal = accumulation of shakti (aura); exists 5–10× longer than physical body; bhoots, loks, seh sharir
+- [[concepts/citt-vritti-nirodh|Citt, Vritti, Nirodh]] — Total mind (ocean), thought-ripples (waves), dispassionate observation; the Patanjali framework for handling thoughts without creating new karma
+- [[concepts/vitarks-vichars|Vitarks and Vichars]] — Anti-yam thought waves (vitarks) and rational thought reactions (vichars); both involuntary; golden rule: bhog / rog / yog
 
 ---
 
@@ -62,7 +64,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–II ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–III ingested*
 
 ---
 
@@ -76,9 +78,10 @@ Read this first when answering queries — then drill into relevant pages.
 ## Quotes
 *Notable quotes and one-liners, organized by theme.*
 
-- [[quotes/karma|Quotes on Karma]] — Definition, destiny, strategy, guilt, Ashoka
+- [[quotes/karma|Quotes on Karma]] — Definition, destiny, strategy, guilt, Ashoka, bhog/rog/yog
 - [[quotes/guru|Quotes on the Guru]] — Definition, umbrella, sadhana, waiting, Japji
 - [[quotes/maya|Quotes on Maya and Moksha]] — Delusion, liberation, moksha, ego trap
+- [[quotes/mind|Quotes on Mind, Thoughts, and Observation]] — External thoughts, citt/vritti, watching the mind, Pema Chödrön, Rumi
 
 ---
 
@@ -103,6 +106,9 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/thuksey-rinpoche-reincarnation|The Reincarnation of Thuksey Rinpoche]] — 5-year-old Rinpoche acknowledged as reincarnation; legally recovers past-life property at 33
 - [[stories/hingori-unborn-son-spirit-vision|Hingori's Vision of His Unborn Son's Spirit]] — Spirit of yet-to-be-born son seen during dhyaan, in 19th-century clothes, gazing at wife's feet
 - [[stories/hingori-past-life-mahabharat-vision|Hingori's Past-Life Vision — The Mahabharat Battle]] — Hingori sees himself thousands of years ago chanting mantras to toss chariots; mantra re-taught in dream state
+- [[stories/hingori-sees-thought|Hingori Sees a Thought]] — During night meditation, Hingori witnesses a ray of light entering his forehead; confirms thoughts are external
+- [[stories/giri-embarrassing-dream|Giri's Embarrassing Dream]] — Gurudev prevents guilt from converting a vitark into a samskar; nips doer-ship in the bud
+- [[stories/himachal-vitark-exhaustion|The Himachal Pradesh Jeep Ride]] — Gurudev deliberately triggers Hingori's vitarks; over-exhaustion clears the store; nirodh state arrives next morning
 
 ---
 

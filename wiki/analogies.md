@@ -159,6 +159,16 @@ Used by Hingori to frame the goal of the [[concepts/isthul-sharir|physical body]
 
 ---
 
+### The Cell Phone and the Battery
+*Illuminates: [[concepts/citt-vritti-nirodh]], [[concepts/sukshma-sharir]]*
+
+> "Imagine the cell phone as the *citt*, the usage and apps as *vrittis* and the battery charge as the energy or aura. With more and more usage of the apps, the cell phone battery charge is lost. In the same vein, with more and more passing *vrittis* in the *citt*, you use up energy, thereby depleting the aura and losing energy."
+> — Hingori, *Aatma Sutra*, Ch.III, p.28
+
+A phone disconnected from the network draws no charge and receives no calls. Connected, every app, search, and message depletes the battery. The *citt* is the phone; every *vritti* — every thought, perception, emotion, imagination — is an app running in the background. *Nirodh* is not switching off the phone; it is not over-trapping oneself in the apps so the battery (aura/*shakti*) is preserved.
+
+---
+
 ## Liberation & Practice
 
 ### Plastering a Wall

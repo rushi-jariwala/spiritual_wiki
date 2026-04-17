@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** Chapters III–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** Chapters IV–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Structured in three parts:
 | Gurudev bio | A Spiritual Icon | ← *ingested* |
 | I | The Goal | ← *ingested* |
 | II | Different Kinds of Bodies | ← *ingested* |
-| III | Thoughts | pending |
+| III | Thoughts | ← *ingested* |
 | IV | Aura | pending |
 | V | Destiny | pending |
 | VI | Astral Travel | pending |
@@ -57,6 +57,17 @@ Structured in three parts:
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. III)
+
+- **Thoughts are external**: ~30,000 thoughts per day; most arrive from outside rather than from the self; Gurudev's core teaching. Hingori personally saw a thought as a physical ray. [[stories/hingori-sees-thought]]
+- **Thoughts from the Karmashaya**: a second source — samskars surfacing involuntarily from the karmashaya; also not of the self's choosing
+- **Karmashaya as three-part software**: explicitly extended here — holds (1) samskar data expulsion, (2) guna configuration, (3) klesha trends. See [[concepts/kaarna-sharir]]
+- **[[concepts/citt-vritti-nirodh]]**: full Patanjali framework introduced — citt (total mind as ocean), vritti (waves/disturbances), nirodh (dispassionate witnessing); vrittis deplete aura; emotional ownership of a vritti encodes it as a samskar
+- **[[concepts/vitarks-vichars]]**: vitarks = anti-yam thought waves; vichars = rational thought reactions; both arise involuntarily; to be observed without guilt and let pass
+- **Golden Rule** (bhog / rog / yog): positive samskars → bhog; negative → rog; spiritual → yog. Aim for yog.
+- **Patanjali's painful / not painful** distinction: a "painful" wave becomes harmful only when owned; empathy is "not painful" even if it first seems hard
+- Personal testimonies: [[stories/hingori-sees-thought]], [[stories/giri-embarrassing-dream]], [[stories/himachal-vitark-exhaustion]]
 
 ## Key Themes (Ch. II)
 
@@ -81,6 +92,20 @@ Structured in three parts:
 - **Moksh**: full deletion of karmashaya data; disintegration of self into consciousness supreme
 - **[[concepts/aatma]]**: distinguished from jivaatma — eternal, unchanging, indistinguishable from universal consciousness
 
+## Notable Quotes (Ch. III)
+
+> "Out of an average of 30,000 thoughts received by a human mind per day, about 20–60 percent are unworthy. Does that make me unworthy? For most of my life, I believed in the affirmative. Today I believe otherwise."
+> — Hingori, *Aatma Sutra*, Ch.III, p.23
+
+> "A radio receiving several external signals is not responsible for the content of the signals it receives. It has no reason to feel proud or embarrassed. For me, this has been one of the greatest pearls of wisdom."
+> — Hingori, *Aatma Sutra*, Ch.III, p.24
+
+> "You are the sky. Everything else is just the weather."
+> — Pema Chödrön, quoted in *Aatma Sutra*, Ch.III, p.30
+
+> "Enjoyment is an expenditure of time and not an investment."
+> — Hingori, *Aatma Sutra*, Ch.III, p.37
+
 ## Notable Quotes (Ch. II)
 
 > "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
@@ -100,9 +125,20 @@ Structured in three parts:
 > "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
 > — Hingori, *Aatma Sutra*, Ch.II, p.15 *(Ch. II, included here as a key quote from the book)*
 
+## Stories Extracted (Ch. III)
+
+- [[stories/hingori-sees-thought]] — created
+- [[stories/giri-embarrassing-dream]] — created
+- [[stories/himachal-vitark-exhaustion]] — created
+
 ## Stories Extracted
 
 *(None from Introduction or Ch. I — Hingori's autobiographical sketch is in the Introduction but is background, not a discrete story page.)*
+
+## New Concepts (Ch. III)
+
+- [[concepts/citt-vritti-nirodh]] — created
+- [[concepts/vitarks-vichars]] — created
 
 ## New Concepts (Ch. II)
 

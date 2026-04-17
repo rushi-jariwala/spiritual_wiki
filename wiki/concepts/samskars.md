@@ -58,6 +58,18 @@ Knowledge (gyan) neutralises the expectation of fruit. With gyan, one recognises
 > Gyan would have neutralised such an expectation with the realisation that we should not expect our karmas to bear any fruit or result. We would be detached from its effects... These samskars would not get stored in the USB and therefore there would be no addition to the data in the USB. Our stored data would partially play out in the current karmas, which would lighten or reduce stored data.
 > — Hingori, *Karma Sutra*, Ch.8, p.131
 
+## The Golden Rule: Bhog, Rog, Yog
+
+*Aatma Sutra* Ch.III adds a compact three-way schema for where samskars lead:
+
+> "**Golden Rule:** The positive *samskars* stored will be converted in the future into *bhog* (pleasure and riches). The negative *samskars* into *rog* (debt, disease, and misfortune). The *samskars* related to spirituality and divinity will get converted into *yog* (spiritual evolution). Aim for *yog*!"
+> — Hingori, *Aatma Sutra*, Ch.III, p.32
+
+The three destinations:
+- *Bhog* — the fruit of positive worldly samskars; enjoyable but it is expenditure, not investment
+- *Rog* — the fruit of negative samskars; suffering that exhausts the debt
+- *Yog* — the fruit of spiritual samskars; the only category that advances liberation
+
 ## Gurudev's Phrase
 
 > He used to say 'Everybody's Paap ka Ghada has to get filled up'. (Your pot of sin needs to get filled.)
@@ -105,3 +117,5 @@ Guru's guidance is a short-cut to erasing samskars at the unconscious level. Dee
 - [[concepts/non-doership]] — the primary mechanism for preventing new samskar formation
 - [[concepts/doer-ship]] — the 'I'-sense that re-encodes acts as samskars
 - [[concepts/koshas]] — manomaya kosha stores the samskars of several lifetimes; vigyanamaya kosha provides will power to resist vasnas
+- [[concepts/citt-vritti-nirodh]] — vrittis (thoughts) taken ownership of become samskars; nirodh prevents this
+- [[concepts/vitarks-vichars]] — vitarks and vichars arise involuntarily from the karmashaya; acceptance exhausts them without re-encoding

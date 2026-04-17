@@ -99,6 +99,15 @@ In Ch.8, Hingori introduces [[concepts/asisa|asisa]] — the will of the jivaatm
 
 Together they generate the force that keeps the jivaatma cycling through birth after birth, adding to its [[concepts/samskars|samskars]]. Recognising asisa as a *mechanism* rather than a truth is part of the gyan that can weaken it.
 
+## Kleshas in the Karmashaya (Ch. III)
+
+*Aatma Sutra* Ch.III reveals that klesha *trends* — the dominant stress patterns active in a given lifetime — are one of the three data sets configured within the karmashaya:
+
+> "This container holds the software that organises the data expulsion of our *samskars*, the configuration of the *gunas*, and the trends of our *kleshas*."
+> — Hingori, *Aatma Sutra*, Ch.III, p.25
+
+This means the specific kleshas that dominate a person's life are not random — they are pre-configured in the causal body as part of the karmic schedule for that incarnation. See [[concepts/kaarna-sharir]].
+
 ## Cross-references
 
 - [[concepts/maya]] — avidya (the first klesha) is one's individual circle of maya
@@ -109,3 +118,5 @@ Together they generate the force that keeps the jivaatma cycling through birth a
 - [[practices/karmic-worksheet]] — the CCTV principle appears in both contexts
 - [[concepts/moksha]] — dissolution of all five kleshas is the direction of liberation
 - [[concepts/asisa]] — the composite force (asmita + abhinivesha + avidya) driving perpetual existence
+- [[concepts/kaarna-sharir]] — klesha trends are pre-configured in the karmashaya as one of its three data sets
+- [[concepts/vitarks-vichars]] — vitarks as anti-yams are the thought-level expression of klesha dominance

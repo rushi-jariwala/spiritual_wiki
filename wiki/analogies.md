@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: []
 created: 2026-04-15
-updated: 2026-04-16
+updated: 2026-04-18
 ---
 
 # Analogies
@@ -41,6 +41,16 @@ Two identical outward acts, two entirely different karmic consequences. Karma do
 Hingori's extended metaphor: life is a movie made long ago, witnessed in the present. The sanchit karma is the screenplay, assembled from accumulated karmic data across lifetimes. Prarabdh is the reel playing in this life. The actors — those with strong positive sanchit — are born into roles of high morality, philanthropy, or spiritual intuition (Krishna, Mother Teresa, Raja Janak). The script includes all the interactions in which old debts are squared off.
 
 *(Karma Sutra, Ch.1 — paraphrase; no single condensed quote)*
+
+---
+
+### The Pendulum of Duality
+*Illuminates: [[concepts/destiny]], [[concepts/maya]], [[concepts/prarabdh-karma]]*
+
+> "And so, oscillates the pendulum — good, bad, right, wrong. One moment you like your life, another moment you do not. Duality has its day. Delusion has its way!"
+> — Hingori, *Aatma Sutra*, Ch.V, p.51
+
+Destiny does not deliver a steady state — it delivers an oscillation. Positive planetary movements fructify positive karma; adverse movements fructify negative karma. The life swings between the two ends without ever resting, because the pendulum itself is what karma-exhausting *is*. Delusion (maya) is the mistake of treating each swing as news rather than mechanism. Closely related to the [[#The Seesaw|Seesaw]] but with a different focus: the seesaw is about emotional response (raga/dwesa); the pendulum is about the external texture of destined circumstance.
 
 ---
 

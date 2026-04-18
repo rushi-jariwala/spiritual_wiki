@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** Chapters V–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** Chapters VI–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ Structured in three parts:
 | II | Different Kinds of Bodies | ← *ingested* |
 | III | Thoughts | ← *ingested* |
 | IV | Aura | ← *ingested* |
-| V | Destiny | pending |
+| V | Destiny | ← *ingested* |
 | VI | Astral Travel | pending |
 | VII | Maya | pending |
 | VIII | Loks | pending |
@@ -57,6 +57,15 @@ Structured in three parts:
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. V)
+
+- **Destiny as karma fructifying via planetary movements**: positive planetary positions → positive karmas fructify; adverse → negative. Even dreams reflect the prevailing planetary moment. [[concepts/destiny]]
+- **Mahurat and the kundali**: frozen birth chart + planetary transits thereafter = the ever-changing map of a life's karma playing out. Extends [[concepts/mahurat]] with the full transit mechanism.
+- **Forms of destiny-reading**: Bhrigu Nadi (Rishi Bhrigu's ancient prophecies), Vedic astrology, palmistry, tarot, psychic reading — all presented as instruments pointing at the same pre-mapped future.
+- **The guilt question**: If the future is predetermined, guilt loses its philosophical footing. Hingori explicitly raises this: "If the trends of your life are predetermined...how do you examine the concept of guilt?"
+- **Acceptance of destiny as spiritual practice**: shift from *expecting* to *accepting*; the "should have / could have / would have" cycle feeds inferiority complex and obstructs self-love.
+- Personal testimonies: [[stories/bhrigu-dr-chandra]], [[stories/gurudev-predictions-mumbai-politician]], [[stories/mataji-gopal-hingori]], [[stories/sabina-ann-walker]]
 
 ## Key Themes (Ch. IV)
 
@@ -103,6 +112,17 @@ Structured in three parts:
 - **Moksh**: full deletion of karmashaya data; disintegration of self into consciousness supreme
 - **[[concepts/aatma]]**: distinguished from jivaatma — eternal, unchanging, indistinguishable from universal consciousness
 
+## Notable Quotes (Ch. V)
+
+> "And so, oscillates the pendulum — good, bad, right, wrong. One moment you like your life, another moment you do not. Duality has its day. Delusion has its way!"
+> — Hingori, *Aatma Sutra*, Ch.V, p.51
+
+> "As I have always maintained, astrology is an exact science practiced by inexact practitioners."
+> — Hingori, *Aatma Sutra*, Ch.V, p.57
+
+> "This is what I was meant to be and this is what I am. This is me — the created, the intended, the destined. The result of the karmic me. But not the 'guilty' me."
+> — Hingori, *Aatma Sutra*, Ch.V, p.61
+
 ## Notable Quotes (Ch. IV)
 
 > "The aura acts like a protective shield to the body. Most external diseases we contract, first infect the aura and then the body."
@@ -147,6 +167,15 @@ Structured in three parts:
 > "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
 > — Hingori, *Aatma Sutra*, Ch.II, p.15 *(Ch. II, included here as a key quote from the book)*
 
+## Stories Extracted (Ch. V)
+
+- [[stories/bhrigu-dr-chandra]] — created
+- [[stories/gurudev-predictions-mumbai-politician]] — created
+- [[stories/mataji-gopal-hingori]] — created
+- [[stories/sabina-ann-walker]] — created
+- [[stories/stranger-who-knocked]] — created (Gita's poem, pp.62–65, preserved verbatim)
+- *(Short anecdotes — Maggie's election, palmistry divorce, brother-in-law's air crash, senior executive's affair, Bindu's tarot reading — captured inline in [[concepts/destiny]].)*
+
 ## Stories Extracted (Ch. IV)
 
 - [[stories/hingori-wife-aura-protection]] — created
@@ -163,6 +192,12 @@ Structured in three parts:
 ## Stories Extracted
 
 *(None from Introduction or Ch. I — Hingori's autobiographical sketch is in the Introduction but is background, not a discrete story page.)*
+
+## New Concepts (Ch. V)
+
+- [[concepts/destiny]] — created
+- [[entities/bhrigu]] — entity stub created
+- [[synthesis/destiny-and-doership]] — synthesis page created (spans *Karma Sutra* Ch.1 + *Aatma Sutra* Ch.V)
 
 ## New Concepts (Ch. IV)
 
@@ -190,3 +225,6 @@ Structured in three parts:
 
 > [!warning] Mukti vs Moksha
 > *Karma Sutra* uses both terms loosely and interchangeably in places. *Aatma Sutra* separates them clearly: mukti = reduced karmashaya/longer inter-life periods; moksh = full deletion. The Aatma Sutra usage is more precise and should govern.
+
+> [!warning] Destiny-determinism vs. karmayoga as effort
+> *Karma Sutra* emphasises effort — karmayoga, Ashoka's choice, the disciple's active cultivation of positive karma. *Aatma Sutra* Ch.V is strongly deterministic: Hitler, Gandhi, and Mahatma Gandhi were all "preordained." The surface tension is resolved by Hingori's note that *effort is also destined* (prarabdh karma "involves hard work and humongous effort") — but the reconciliation is implicit rather than explicit. Practitioners may read Ch.V as fatalism if the synthesis is not made. See [[synthesis/destiny-and-doership]].

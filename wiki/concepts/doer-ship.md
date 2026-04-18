@@ -2,10 +2,10 @@
 title: Doer-ship and the Guilt Factor
 type: concept
 tags: [doer-ship, ego, guilt, accountability, intent]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/maya]], [[concepts/moksha]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/karma]], [[concepts/maya]], [[concepts/moksha]], [[concepts/destiny]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-18
 ---
 
 # Doer-ship and the Guilt Factor
@@ -75,12 +75,18 @@ The judge is not exempt because the act is legal — he is exempt because (a) he
 - **Do not collect virtue.** Let good acts pass through you without building a "good person" around them.
 - **Withhold from pleasure, not to suffer, but to avoid the binding ownership of it.** Hingori's practice, not a requirement, but a striking illustration.
 
+## Destiny as the Second Undercut of Guilt
+
+*Aatma Sutra* Ch.V adds a parallel argument that reinforces the doer-ship teaching from a different direction: if the trends of life are predetermined, the concept of guilt becomes philosophically incoherent. Doer-ship says *the act was never yours to own*. [[concepts/destiny|Destiny]] says *the act was never yours to prevent*. Together they close the loop on self-blame. See [[synthesis/destiny-and-doership]] for the full integration.
+
 ## Cross-references
 
 - [[concepts/karma]] — the ledger to which doer-ship attaches
 - [[concepts/maya]] — ego and "I" are the machinery of maya
 - [[concepts/moksha]] — non-doership is the path out
 - [[concepts/jivaatma]] — the spark that the ego mistakes for itself
+- [[concepts/destiny]] — the complementary undercut of guilt from the metaphysics of determinism
+- [[synthesis/destiny-and-doership]] — integrated theodicy
 
 ## Open Questions
 

@@ -2,9 +2,9 @@
 title: Samskars
 type: concept
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/sanchit-karma]], [[concepts/prarabdh-karma]], [[concepts/karma]], [[concepts/mahurat]], [[concepts/vasna]], [[concepts/kaarna-sharir]], [[concepts/non-doership]], [[concepts/doer-ship]]
+related: [[concepts/sanchit-karma]], [[concepts/prarabdh-karma]], [[concepts/karma]], [[concepts/mahurat]], [[concepts/vasna]], [[concepts/kaarna-sharir]], [[concepts/non-doership]], [[concepts/doer-ship]], [[concepts/destiny]]
 created: 2026-04-14
-updated: 2026-04-16
+updated: 2026-04-18
 ---
 
 # Samskars
@@ -119,3 +119,4 @@ Guru's guidance is a short-cut to erasing samskars at the unconscious level. Dee
 - [[concepts/koshas]] — manomaya kosha stores the samskars of several lifetimes; vigyanamaya kosha provides will power to resist vasnas
 - [[concepts/citt-vritti-nirodh]] — vrittis (thoughts) taken ownership of become samskars; nirodh prevents this
 - [[concepts/vitarks-vichars]] — vitarks and vichars arise involuntarily from the karmashaya; acceptance exhausts them without re-encoding
+- [[concepts/destiny]] — samskars fructifying in alignment with planetary movements; the reading of the stored karma as astrology/palmistry/psychic prediction

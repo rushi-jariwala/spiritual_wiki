@@ -116,12 +116,22 @@ Gurudev is said to continue guiding disciples from the non-physical state:
 
 See [[concepts/jivaatma]] on the persistence of beings after bodily death, and [[sources/dream-sutra]] for more (to be ingested).
 
+## Predictive Ability
+
+*Aatma Sutra* Ch.V records that Gurudev's predictions were "the most unique." Two instances are cited:
+
+1. **Mumbai floods** — predicted approximately 30 years in advance, fulfilled in the 2005 floods, about two decades after his passing.
+2. **The politician friend** — a chartered accountant with a small practice who Gurudev repeatedly told, "I will make you a world-famous leader and one of India's admired politicians." The friend eventually became a cabinet minister.
+
+See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his other extra-sensory abilities noted in *Karma Sutra* preface: "He could predict the future of a person's life, read thoughts and communicate with dead people and saints."
+
 ## Notable Stories
 
 - [[stories/hingori-arthritis-cure]] — cured Hingori's rheumatoid arthritis in a minute
 - [[stories/gurus-umbrella-wife-delivery]] — vision of Hingori's wife in danger, averted at the moment of delivery
 - [[stories/scooter-accident-vision]] — vision of an impending scooter accident; the accident occurred, but Hingori's hand was not bleeding as foreseen
 - [[stories/bada-guruvar-queue]] — the monthly Thursday queues; waiting as tapasya
+- [[stories/gurudev-predictions-mumbai-politician]] — Mumbai floods + politician friend, predicted decades in advance
 
 ## Quotes
 

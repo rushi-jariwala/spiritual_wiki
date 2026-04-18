@@ -67,6 +67,7 @@ Hingori is a **second-generation disciple** and part of the network Gurudev buil
 From the stories in Chapter 1, we know:
 - **Married.** His wife's difficult childbirth features in one of the guru's-umbrella stories (see [[stories/gurus-umbrella-wife-delivery]]).
 - **Has a sister** — in the late 80s / early 90s, living in New Jersey, USA, where Moses is said to have appeared to her in vision form several times.
+- **Late sister Gita** — a journalist in the US who wrote on spiritual matters; received the poem [[stories/stranger-who-knocked|"The Stranger Who Knocked on My Door"]] intuitively.
 
 ## Personal Spiritual Practice
 
@@ -91,6 +92,13 @@ This is not pessimism — it is a disciplined refusal to *own* either pleasure o
 
 The Sutras are framed as this sharing — not a teacher-to-student transmission but a mutual creation of oneness.
 
+## On Destiny
+
+> "Most people do not believe in fate. It has taken over 30 years, and several experiences, for me to believe in destiny."
+> — Hingori, *Aatma Sutra*, Ch.V, p.51
+
+Hingori's belief in [[concepts/destiny|destiny]] is presented as a hard-won conclusion, arrived at through decades of witnessing accurate predictions from astrologers, palmists, tarot readers, psychics, and Gurudev himself. His personal anecdotes — [[stories/mataji-gopal-hingori|Mataji reading his college photograph]], [[stories/bhrigu-dr-chandra|Bhrigu's predictions on his father's close friend]], [[stories/gurudev-predictions-mumbai-politician|Gurudev's predictions]] — form the experiential backbone of *Aatma Sutra* Ch.V.
+
 ## Notable Stories
 
 - [[stories/hingori-arthritis-cure]]
@@ -98,6 +106,7 @@ The Sutras are framed as this sharing — not a teacher-to-student transmission 
 - [[stories/scooter-accident-vision]]
 - [[stories/bada-guruvar-queue]]
 - [[stories/sadhu-blanket-clove]]
+- [[stories/mataji-gopal-hingori]] — psychic reading in college; two accurate predictions
 
 ## Cross-references
 

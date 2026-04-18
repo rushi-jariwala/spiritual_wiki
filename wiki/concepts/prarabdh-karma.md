@@ -2,10 +2,10 @@
 title: Prarabdh Karma
 type: concept
 tags: [karma, prarabdh, types-of-karma, destiny, luck]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/sanchit-karma]], [[concepts/kriyaman-karma]], [[concepts/guru-disciple]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/karma]], [[concepts/sanchit-karma]], [[concepts/kriyaman-karma]], [[concepts/guru-disciple]], [[concepts/destiny]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-18
 ---
 
 # Prarabdh Karma
@@ -62,6 +62,7 @@ Hingori stresses that even strong positive prarabdh produces a mix of good fortu
 - [[concepts/sanchit-karma]] — the warehouse from which prarabdh is drawn
 - [[concepts/kriyaman-karma]] — the third type, for acts that never enter the warehouse
 - [[concepts/guru-disciple]] — how a guru can alter prarabdh
+- [[concepts/destiny]] — *Aatma Sutra*'s fuller treatment of prarabdh as the readable, planetary-driven script
 - [[stories/gurus-umbrella-wife-delivery]] · [[stories/scooter-accident-vision]] · [[stories/bada-guruvar-queue]]
 
 ## Open Questions

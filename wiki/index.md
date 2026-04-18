@@ -48,6 +48,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/citt-vritti-nirodh|Citt, Vritti, Nirodh]] — Total mind (ocean), thought-ripples (waves), dispassionate observation; the Patanjali framework for handling thoughts without creating new karma
 - [[concepts/vitarks-vichars|Vitarks and Vichars]] — Anti-yam thought waves (vitarks) and rational thought reactions (vichars); both involuntary; golden rule: bhog / rog / yog
 - [[concepts/aura|Aura]] — Bioelectric energy field; protective shield; cosmic currency (*shakti*); Kirilian photography; depletion, contamination, enhancement, black magic
+- [[concepts/destiny|Destiny]] — Fructification of karmas aligned with planetary movements; acceptance of destiny as the antidote to guilt; astrology as exact science
 
 ---
 
@@ -58,6 +59,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/hingori|Hingori]] — Author of the Sutras; disciple whose arthritis was cured in a minute
 - [[entities/ashoka|Emperor Ashoka]] — Historical example of karmayoga cited in Ch.1
 - [[entities/guru-nanak|Guru Nanak]] — Example of realisation without a human sadguru
+- [[entities/bhrigu|Rishi Bhrigu]] — Ancient sage; author of the Bhrigu Nadi readings; cited as evidence for destiny's readability
 
 ---
 
@@ -65,7 +67,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–IV ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–V ingested*
 
 ---
 
@@ -84,6 +86,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[quotes/maya|Quotes on Maya and Moksha]] — Delusion, liberation, moksha, ego trap
 - [[quotes/mind|Quotes on Mind, Thoughts, and Observation]] — External thoughts, citt/vritti, watching the mind, Pema Chödrön, Rumi
 - [[quotes/aura|Quotes on Aura and Shakti]] — Protective shield, cosmic currency, spirit body nature, Frederick Lenz
+- [[quotes/destiny|Quotes on Destiny]] — Planetary mechanism, duality pendulum, astrology, acceptance, "not the guilty me"
 
 ---
 
@@ -115,6 +118,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/nandlal-shakti-ball|Nandlal's Shakti Ball]] — Gurudev transmits shakti ball; Nandlal heals stranger; later drains his own hand through egoistic act
 - [[stories/hingori-kada-nairobi|Hingori's Kada in Nairobi]] — Gurudev's blessed kada repeatedly blocks 20 days of attempted wrongdoing; energy manipulates the mind
 - [[stories/kamlesh-black-magic-cure|Kamlesh's Black Magic Cure]] — Months of vomiting glass bangles; taveez extracted by Gurudev; attempt to kill foiled
+- [[stories/bhrigu-dr-chandra|Bhrigu's Prophecy — Dr. Chandra's Family]] — Rishi Bhrigu predicts three outcomes for a family thousands of years in advance; all fulfilled
+- [[stories/gurudev-predictions-mumbai-politician|Gurudev's Predictions — Mumbai Floods and the Politician]] — Gurudev foresees the 2005 Mumbai floods and a friend's rise to cabinet minister, decades early
+- [[stories/mataji-gopal-hingori|Mataji's Psychic Reading — Gopal and Hingori]] — Psychic lady reveals Gopal's secret affair and Hingori's futile college romance; both verified the next day
+- [[stories/sabina-ann-walker|Sabina's Tryst with a Psychic — The Fish Tank]] — London psychic predicts a fish tank in a Mumbai restaurant; Sabina returns to find it installed
+- [[stories/stranger-who-knocked|The Stranger Who Knocked on My Door]] — Gita's channelled poem; dialogue between the future and the present; closes *Aatma Sutra* Ch.V
 
 ---
 
@@ -133,3 +141,4 @@ Read this first when answering queries — then drill into relevant pages.
 
 - [[synthesis/inner-frameworks-convergence|The Convergence of Inner Frameworks]] — Gunas, koshas, attitude-to-deeds, and non-doership as four lenses on one inward movement *(Karma Sutra)*
 - [[synthesis/samskar-loop|The Samskar Loop]] — Four-link mechanism of karmic perpetuation; the break at citta level *(Karma Sutra)*
+- [[synthesis/destiny-and-doership|Destiny and Doer-ship]] — The Hingori theodicy; how the two concepts together dissolve guilt from both sides *(Karma Sutra + Aatma Sutra)*

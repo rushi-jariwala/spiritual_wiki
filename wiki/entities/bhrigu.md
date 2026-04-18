@@ -1,0 +1,31 @@
+---
+title: Rishi Bhrigu
+type: entity
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/destiny]], [[stories/bhrigu-dr-chandra]]
+created: 2026-04-18
+updated: 2026-04-18
+---
+
+# Rishi Bhrigu
+
+## Who
+
+One of the seven great sages (*saptarishis*) created by Brahma, Rishi Bhrigu lived thousands of years ago. In *Aatma Sutra*, Hingori references him as the author of the **Bhrigu Nadi** — a body of readings prepared by Bhrigu that are said to contain predictions for specific individuals living in the present day.
+
+> "Rishi Bhrigu, one of the seven great sages created by Brahma, who lived thousands of years ago, predicted the future of people living today."
+> — Hingori, *Aatma Sutra*, Ch.V, p.52
+
+The Bhrigu Nadi readings are accessed at **Hoshiarpur, Punjab**, where Hingori's family friend Dr. Chandra went for a reading that produced three fulfilled predictions. See [[stories/bhrigu-dr-chandra]].
+
+## Role in the Tradition
+
+In Hingori's framework, Bhrigu's prophetic ability is a demonstration that [[concepts/destiny|destiny]] is readable — that a sufficiently evolved consciousness can see the pre-mapped future of a life before it plays out. Bhrigu is not a subject of practice or devotion in the Sutras; he functions as **evidence**: if the future can be predicted with thousand-year accuracy, then the case for a fully determined script of karma is strengthened.
+
+## Notable Stories
+
+- [[stories/bhrigu-dr-chandra]] — three independent Bhrigu Nadi predictions fulfilled across one family
+
+## Cross-references
+
+- [[concepts/destiny]] — the core concept Bhrigu is cited to support

@@ -2,9 +2,9 @@
 title: Aatma Sutra — Unveiling Your Soul
 type: source
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[entities/hingori]], [[entities/mahaguru]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]]
+related: [[entities/hingori]], [[entities/mahaguru]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]], [[concepts/aura]]
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-04-17
 ---
 
 # Aatma Sutra — Unveiling Your Soul
@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** Chapters IV–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** Chapters V–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ Structured in three parts:
 | I | The Goal | ← *ingested* |
 | II | Different Kinds of Bodies | ← *ingested* |
 | III | Thoughts | ← *ingested* |
-| IV | Aura | pending |
+| IV | Aura | ← *ingested* |
 | V | Destiny | pending |
 | VI | Astral Travel | pending |
 | VII | Maya | pending |
@@ -57,6 +57,17 @@ Structured in three parts:
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. IV)
+
+- **Aura as bioelectric energy field**: protective shield; halos of saints as symbolic representation; diseases infect aura before body; negative spirits cannot penetrate a strong aura. [[concepts/aura]]
+- **Kirilian photography**: scientifically proves aura; Indo-Soviet experiment at Rishikesh; aura depth 0.5–12 inches; traders/executives least; saints/practitioners greatest.
+- **Spirit body — extended description**: made of ether, 1/10 density of smoke, slightly lit from within, flies at will; barely receives thoughts; mind substituted by observation; evolved body observes dispassionately. [[concepts/sukshma-sharir]]
+- **Depletion**: 11 enumerated causes — exercise, massage, attraction, sex, handshakes, curses, desires/attachments, anger, hatred, *vrittis*, talking.
+- **Contamination**: clothes, pools, saliva/*jhootha*, eyes/food; direct transfer of qualities.
+- **Enhancement**: saints' feet; saints' *jhootha*; copper *kadas* blessed by powerful aura.
+- **Black magic**: personal objects as attack vector; multiple cases; Gurudev's *sthan* as remedy.
+- Personal testimonies: [[stories/hingori-wife-aura-protection]], [[stories/nandlal-shakti-ball]], [[stories/hingori-kada-nairobi]], [[stories/kamlesh-black-magic-cure]]
 
 ## Key Themes (Ch. III)
 
@@ -92,6 +103,17 @@ Structured in three parts:
 - **Moksh**: full deletion of karmashaya data; disintegration of self into consciousness supreme
 - **[[concepts/aatma]]**: distinguished from jivaatma — eternal, unchanging, indistinguishable from universal consciousness
 
+## Notable Quotes (Ch. IV)
+
+> "The aura acts like a protective shield to the body. Most external diseases we contract, first infect the aura and then the body."
+> — Hingori, *Aatma Sutra*, Ch.IV, p.40
+
+> "The spirit body is made of ether, almost like a body made of smoke (one-tenth as dense as smoke) slightly lit from within."
+> — Hingori, *Aatma Sutra*, Ch.IV, p.42
+
+> "**Golden Rule:** Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
+> — Hingori, *Aatma Sutra*, Ch.IV, p.49
+
 ## Notable Quotes (Ch. III)
 
 > "Out of an average of 30,000 thoughts received by a human mind per day, about 20–60 percent are unworthy. Does that make me unworthy? For most of my life, I believed in the affirmative. Today I believe otherwise."
@@ -125,6 +147,13 @@ Structured in three parts:
 > "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
 > — Hingori, *Aatma Sutra*, Ch.II, p.15 *(Ch. II, included here as a key quote from the book)*
 
+## Stories Extracted (Ch. IV)
+
+- [[stories/hingori-wife-aura-protection]] — created
+- [[stories/nandlal-shakti-ball]] — created
+- [[stories/hingori-kada-nairobi]] — created
+- [[stories/kamlesh-black-magic-cure]] — created
+
 ## Stories Extracted (Ch. III)
 
 - [[stories/hingori-sees-thought]] — created
@@ -134,6 +163,10 @@ Structured in three parts:
 ## Stories Extracted
 
 *(None from Introduction or Ch. I — Hingori's autobiographical sketch is in the Introduction but is background, not a discrete story page.)*
+
+## New Concepts (Ch. IV)
+
+- [[concepts/aura]] — created
 
 ## New Concepts (Ch. III)
 

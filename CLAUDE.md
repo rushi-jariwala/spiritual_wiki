@@ -38,7 +38,7 @@ This is a guide. You can add more categories & sections if needed.
 3. Instructions: Use links & backlinks heavily — forward-link to related pages and add backlinks from those pages too, even if the target page does not exist yet. Dont add any extra information which can be retrieved during query time. Don't speculatively cross-reference or interpret beyond what the source says. Use the same tone/language as mentioned in the source for filing into the wiki.
 4. After creating pages, scan across existing concepts for structural patterns — shared mechanisms, tensions, inversions, or progressions. Flag these in the relevant cross-refs sections or open a `synthesis/` page if the pattern is significant.
 5. Create `sources/` page
-6. Create/update `concepts/`, `entities/`, `quotes/`, `stories/`, `practices/` pages. Add new analogies to `wiki/analogies.md`.
+6. Create/update `concepts/`, `entities/`, `quotes/`, `stories/`, `practices/` pages. Add new analogies to `wiki/analogies.md`. Dont forget a quotes page even if quotes are part of concept pages.
 7. Update `wiki/index.md`
 8. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
 9. Update `wiki/overview.md` if synthesis meaningfully shifts.

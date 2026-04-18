@@ -47,6 +47,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/sukshma-sharir|Sukshma Sharir]] — The spirit/astral body; everlasting; goal = accumulation of shakti (aura); exists 5–10× longer than physical body; bhoots, loks, seh sharir
 - [[concepts/citt-vritti-nirodh|Citt, Vritti, Nirodh]] — Total mind (ocean), thought-ripples (waves), dispassionate observation; the Patanjali framework for handling thoughts without creating new karma
 - [[concepts/vitarks-vichars|Vitarks and Vichars]] — Anti-yam thought waves (vitarks) and rational thought reactions (vichars); both involuntary; golden rule: bhog / rog / yog
+- [[concepts/aura|Aura]] — Bioelectric energy field; protective shield; cosmic currency (*shakti*); Kirilian photography; depletion, contamination, enhancement, black magic
 
 ---
 
@@ -64,7 +65,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–III ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–IV ingested*
 
 ---
 
@@ -82,6 +83,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[quotes/guru|Quotes on the Guru]] — Definition, umbrella, sadhana, waiting, Japji
 - [[quotes/maya|Quotes on Maya and Moksha]] — Delusion, liberation, moksha, ego trap
 - [[quotes/mind|Quotes on Mind, Thoughts, and Observation]] — External thoughts, citt/vritti, watching the mind, Pema Chödrön, Rumi
+- [[quotes/aura|Quotes on Aura and Shakti]] — Protective shield, cosmic currency, spirit body nature, Frederick Lenz
 
 ---
 
@@ -109,6 +111,10 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/hingori-sees-thought|Hingori Sees a Thought]] — During night meditation, Hingori witnesses a ray of light entering his forehead; confirms thoughts are external
 - [[stories/giri-embarrassing-dream|Giri's Embarrassing Dream]] — Gurudev prevents guilt from converting a vitark into a samskar; nips doer-ship in the bud
 - [[stories/himachal-vitark-exhaustion|The Himachal Pradesh Jeep Ride]] — Gurudev deliberately triggers Hingori's vitarks; over-exhaustion clears the store; nirodh state arrives next morning
+- [[stories/hingori-wife-aura-protection|Hingori's Wife's Aura — The Blue Conical Light]] — Out-of-body: Hingori bounces off wife's aura; blue conical shield extending a foot from her body
+- [[stories/nandlal-shakti-ball|Nandlal's Shakti Ball]] — Gurudev transmits shakti ball; Nandlal heals stranger; later drains his own hand through egoistic act
+- [[stories/hingori-kada-nairobi|Hingori's Kada in Nairobi]] — Gurudev's blessed kada repeatedly blocks 20 days of attempted wrongdoing; energy manipulates the mind
+- [[stories/kamlesh-black-magic-cure|Kamlesh's Black Magic Cure]] — Months of vomiting glass bangles; taveez extracted by Gurudev; attempt to kill foiled
 
 ---
 

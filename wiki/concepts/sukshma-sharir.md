@@ -2,7 +2,7 @@
 title: Sukshma Sharir (Spirit Body)
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/isthul-sharir]], [[concepts/kaarna-sharir]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/mahurat]]
+related: [[concepts/isthul-sharir]], [[concepts/kaarna-sharir]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/mahurat]], [[concepts/aura]]
 created: 2026-04-16
 updated: 2026-04-16
 ---
@@ -18,6 +18,24 @@ The **sukshma sharir** is the spirit, ethereal, or astral body. It is everlastin
 > — Hingori, *Aatma Sutra*, Ch.II, p.15
 
 The [[concepts/isthul-sharir|Isthul Sharir]] (physical body) is temporary — assigned for a single lifetime. The sukshma sharir persists across all of them.
+
+## Physical Nature of the Spirit Body
+
+Chapter IV extends the description of the spirit body's material nature:
+
+> The spirit body is made of ether, almost like a body made of smoke (one-tenth as dense as smoke) slightly lit from within. Because of its ultra-light weight and subtle vibration, it does not need to move slowly like its physical counterpart and it can fly at will.
+> — Hingori, *Aatma Sutra*, Ch.IV, p.42
+
+This body barely receives thoughts; its thinking is substituted by observation. The evolved spirit body observes dispassionately; the unevolved remain stuck in attachments.
+
+The spirit body requires *shakti* not only for sustenance but for travel between realms and for protection:
+
+> The power or energy accumulated by the body also helps to protect itself from being bullied or captured by other spirit bodies. *Shakti* is a measure of the spirit's strength.
+> — Hingori, *Aatma Sutra*, Ch.IV, p.42
+
+See also [[concepts/aura]] — the aura is the external radiation of this accumulated *shakti*.
+
+---
 
 ## Goal: The Accumulation of Shakti
 
@@ -97,3 +115,4 @@ Hingori's own encounters with spirit bodies over years of *dhyaan* and sadhana i
 - [[concepts/mukti]] — the intermediate state of reduced karmashaya; spirit body spends extended periods in higher loks
 - [[concepts/mahurat]] — the auspicious moment that determines the timing of rebirth
 - [[concepts/samskars]] — the data in the karmashaya whose fructification governs which birth the spirit enters
+- [[concepts/aura]] — the external radiation of the spirit body's accumulated *shakti*; its protection and cosmic currency

@@ -69,3 +69,6 @@ Touched 13 pages. Created 2 new concepts (citt-vritti-nirodh, vitarks-vichars), 
 
 ## [2026-04-17] update | Quotes pages — Ch.III mind/thought cluster
 Created quotes/mind.md (5 quotes: Hingori on 30,000 thoughts, radio analogy, Pema Chödrön, Rumi, enjoyment as expenditure). Added bhog/rog/yog golden rule to quotes/karma.md. Updated index.md.
+
+## [2026-04-17] ingest | Aatma Sutra — Chapter IV: Aura
+Created 1 new concept (aura), 1 new quotes file (quotes/aura.md — 7 quotes), 4 new stories (hingori-wife-aura-protection, nandlal-shakti-ball, hingori-kada-nairobi, kamlesh-black-magic-cure). Updated: concepts/sukshma-sharir (spirit body physical nature — ether, smoke density, dispassionate observation, shakti for protection), stories/hingori-arthritis-cure (black magic origin via peda revealed in Ch.IV), analogies.md (spirit body as smoke), sources/aatma-sutra (Ch.IV status, key themes, notable quotes, stories, new concepts), index.md (aura concept, 4 stories, quotes/aura, source status). Core additions: aura as bioelectric field and cosmic currency; Kirilian photography; 11 depletion causes; contamination; enhancement via saints and kadas; black magic attack vectors; extended spirit body description (ether, 1/10 smoke density, flies at will, observes dispassionately).

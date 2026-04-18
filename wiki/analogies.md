@@ -147,6 +147,18 @@ Negative samskars fructify faster than positive ones. The pot fills before it em
 
 ---
 
+## Aura & Spirit Body
+
+### Spirit Body as Smoke
+*Illuminates: [[concepts/sukshma-sharir]], [[concepts/aura]]*
+
+> "The spirit body is made of ether, almost like a body made of smoke (one-tenth as dense as smoke) slightly lit from within. Because of its ultra-light weight and subtle vibration, it does not need to move slowly like its physical counterpart and it can fly at will."
+> — Hingori, *Aatma Sutra*, Ch.IV, p.42
+
+One-tenth the density of smoke, self-luminous, frictionless. The analogy grounds an otherwise abstract entity: the spirit body is not a ghost-story apparition but a real body of extreme subtlety, operating by the same physical logic as matter — just at a far higher vibration. Its weightlessness is what allows inter-realm travel; its aura (*shakti*) is the fuel for that travel and for protection from more powerful spirits.
+
+---
+
 ## Bodies & Purification
 
 ### The Sculptor and the Marble

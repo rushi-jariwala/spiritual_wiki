@@ -191,6 +191,38 @@ A phone disconnected from the network draws no charge and receives no calls. Con
 
 ---
 
+## Astral Travel & Spirit World
+
+### Walls as Thinnest Paper
+*Illuminates: [[concepts/astral-travel]], [[concepts/sukshma-sharir]]*
+
+> "I found myself going through walls and ceilings without any resistance, almost as if they were made of the thinnest paper."
+> — Hingori, *Aatma Sutra*, Ch.VI, p.69
+
+In the spirit body state, the hierarchy of matter inverts: what is solid and impenetrable in the physical world offers no resistance in the spirit world. The analogy grounds an otherwise abstract claim — the spirit body does not phase through matter magically; it simply operates at a vibration where solid matter has no thickness.
+
+---
+
+### Spirit Body Moving Like a Rocket
+*Illuminates: [[concepts/astral-travel]] (gati)*
+
+> "I experienced a few travels where my spirit body moved like a rocket, accompanied with a buzzing sound. I was travelling so incredibly fast that I was unable to focus on anything, and my only sensation was movement."
+> — Hingori, *Aatma Sutra*, Ch.VI, p.69
+
+Gati — the capacity for superfast astral travel — is not gradual acceleration but a qualitative shift. The rocket-with-buzzing-sound image captures the phenomenology: speed so total that perception collapses to pure movement. Not a method but an attainment — and one that requires the guru's grace ("Guru bin gati nahi").
+
+---
+
+### Spirits Appear Solid from Spirit Eyes
+*Illuminates: [[concepts/astral-travel]], [[concepts/sukshma-sharir]]*
+
+> "Every time I saw a spirit with my eyes open, it appeared ethereal in form, but when I saw a spirit while out of my body (being in spirit form myself), it appeared as solid as a being in physical form."
+> — Hingori, *Aatma Sutra*, Ch.VI, p.69
+
+What is seen depends entirely on what is seeing. From the physical body's eyes, spirits are translucent; from the spirit body's perspective, spirits are solid — as real as any physical person. The spirit world is not a lesser-real shadow of the physical; it is equally real, perceived differently by different bodies.
+
+---
+
 ## Liberation & Practice
 
 ### Plastering a Wall

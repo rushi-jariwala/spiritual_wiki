@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** Chapters VI–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** Chapters VII–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -48,7 +48,7 @@ Structured in three parts:
 | III | Thoughts | ← *ingested* |
 | IV | Aura | ← *ingested* |
 | V | Destiny | ← *ingested* |
-| VI | Astral Travel | pending |
+| VI | Astral Travel | ← *ingested* |
 | VII | Maya | pending |
 | VIII | Loks | pending |
 | IX | Key Formulas of Evolution | pending |
@@ -57,6 +57,16 @@ Structured in three parts:
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. VI)
+
+- **Astral travel as established fact**: grounded in Hingori's direct experience and in Gurudev's regular practice (at least 3× /week, hours at a stretch). [[concepts/astral-travel]]
+- **Gati**: capacity for superfast spirit travel; same practices as aura deepening; guru grace is the prerequisite ("Guru bin gati nahi"). Taught to Hingori by R.C. Malhotra in vision. [[entities/rc-malhotra]]
+- **Spirit world physics**: solid matter penetrable (walls as thinnest paper); dim post-dusk light at night; spirits appear solid from within spirit form; rotating energy fields can injure the spirit body.
+- **Nirman kaya in action** — clearest live demonstrations in the book: Ashish/guru at Goa (guru physically in another city); Virenderji/judge (another version invites friends independently); Gurudev seen at two places simultaneously. [[concepts/mukti]]
+- **Posthumous appearances**: Gurudev appears in spirit form to Hingori's schoolmate in Gurgaon, ~20 years after death, directing him to the *sthan*. [[stories/schoolmate-gurudev-gurgaon]]
+- **Puranji**: Gurudev's emissary; a disciple who appears in dream state as intermediary in astral communication. [[entities/puranji]]
+- Personal testimonies: [[stories/hingori-puranji-missed-astral-tour]], [[stories/hingori-lonavala-temple-vision]], [[stories/hingori-gati-malhotra]], [[stories/hingori-fan-ankle]], [[stories/virenderji-uninvited-guests]], [[stories/schoolmate-gurudev-gurgaon]]
 
 ## Key Themes (Ch. V)
 
@@ -112,6 +122,17 @@ Structured in three parts:
 - **Moksh**: full deletion of karmashaya data; disintegration of self into consciousness supreme
 - **[[concepts/aatma]]**: distinguished from jivaatma — eternal, unchanging, indistinguishable from universal consciousness
 
+## Notable Quotes (Ch. VI)
+
+> "The 'floating me' was awake whilst the 'physical me' was fast asleep."
+> — Hingori, *Aatma Sutra*, Ch.VI, p.67
+
+> "*Guru bin gati nahi*" — it is not easy for a spirit body to acquire superfast travelling speed without the grace of the guru.
+> — Hindi adage, *Aatma Sutra*, Ch.VI, p.68
+
+> "Every time I saw a spirit with my eyes open, it appeared ethereal in form, but when I saw a spirit while out of my body (being in spirit form myself), it appeared as solid as a being in physical form."
+> — Hingori, *Aatma Sutra*, Ch.VI, p.69
+
 ## Notable Quotes (Ch. V)
 
 > "And so, oscillates the pendulum — good, bad, right, wrong. One moment you like your life, another moment you do not. Duality has its day. Delusion has its way!"
@@ -166,6 +187,22 @@ Structured in three parts:
 
 > "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
 > — Hingori, *Aatma Sutra*, Ch.II, p.15 *(Ch. II, included here as a key quote from the book)*
+
+## Stories Extracted (Ch. VI)
+
+- [[stories/hingori-puranji-missed-astral-tour]] — created
+- [[stories/hingori-lonavala-temple-vision]] — created
+- [[stories/hingori-gati-malhotra]] — created
+- [[stories/hingori-fan-ankle]] — created
+- [[stories/virenderji-uninvited-guests]] — created
+- [[stories/schoolmate-gurudev-gurgaon]] — created
+- *(Short anecdotes — Hingori floating over body, Ashish/guru at Goa, Gurudev at two places — captured inline in [[concepts/astral-travel]].)*
+
+## New Concepts / Entities (Ch. VI)
+
+- [[concepts/astral-travel]] — created
+- [[entities/puranji]] — entity stub created
+- [[entities/rc-malhotra]] — entity stub created
 
 ## Stories Extracted (Ch. V)
 

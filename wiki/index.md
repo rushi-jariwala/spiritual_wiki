@@ -49,6 +49,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/vitarks-vichars|Vitarks and Vichars]] — Anti-yam thought waves (vitarks) and rational thought reactions (vichars); both involuntary; golden rule: bhog / rog / yog
 - [[concepts/aura|Aura]] — Bioelectric energy field; protective shield; cosmic currency (*shakti*); Kirilian photography; depletion, contamination, enhancement, black magic
 - [[concepts/destiny|Destiny]] — Fructification of karmas aligned with planetary movements; acceptance of destiny as the antidote to guilt; astrology as exact science
+- [[concepts/astral-travel|Astral Travel]] — Spirit body exits physical body; gati (superfast travel); spirit world physics; nirman kaya in action; posthumous appearances
 
 ---
 
@@ -60,6 +61,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/ashoka|Emperor Ashoka]] — Historical example of karmayoga cited in Ch.1
 - [[entities/guru-nanak|Guru Nanak]] — Example of realisation without a human sadguru
 - [[entities/bhrigu|Rishi Bhrigu]] — Ancient sage; author of the Bhrigu Nadi readings; cited as evidence for destiny's readability
+- [[entities/puranji|Puranji]] — Gurudev's emissary; appeared in Hingori's dream state to call him for an astral tour
+- [[entities/rc-malhotra|R.C. Malhotra]] — Senior-most disciple of Gurudev; taught Hingori gati (*superfast astral travel*) in a vision state
 
 ---
 
@@ -67,7 +70,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–V ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–VI ingested*
 
 ---
 
@@ -123,6 +126,12 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/mataji-gopal-hingori|Mataji's Psychic Reading — Gopal and Hingori]] — Psychic lady reveals Gopal's secret affair and Hingori's futile college romance; both verified the next day
 - [[stories/sabina-ann-walker|Sabina's Tryst with a Psychic — The Fish Tank]] — London psychic predicts a fish tank in a Mumbai restaurant; Sabina returns to find it installed
 - [[stories/stranger-who-knocked|The Stranger Who Knocked on My Door]] — Gita's channelled poem; dialogue between the future and the present; closes *Aatma Sutra* Ch.V
+- [[stories/hingori-puranji-missed-astral-tour|Hingori Misses the Astral Tour — Puranji's Call]] — Gurudev arranges an out-of-body tour; Hingori physically wakes instead of exiting his body
+- [[stories/hingori-lonavala-temple-vision|Hingori's Lonavala Temple Vision]] — Dream-state visit to a Lonavala temple, later verified exact in physical reality
+- [[stories/hingori-gati-malhotra|Hingori Attains Gati — R.C. Malhotra's Teaching]] — Senior disciple teaches superfast astral travel in a vision; spirit body moves like a rocket
+- [[stories/hingori-fan-ankle|Hingori Flies Through the Fan — The Ankle Injury]] — Astral flight through a ceiling fan; ankle caught in rotating energy field; 15 days limping
+- [[stories/virenderji-uninvited-guests|Virenderji's Uninvited Guests]] — Judge's nirman kaya invites friends to morning walk; he had overslept and missed it
+- [[stories/schoolmate-gurudev-gurgaon|The Schoolmate's Vision — Gurudev Appears in Gurgaon]] — Gurudev appears posthumously to a stranger in distress, 20 years after death; directs him to the sthan
 
 ---
 

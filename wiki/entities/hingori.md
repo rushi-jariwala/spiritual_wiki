@@ -3,7 +3,7 @@ title: Hingori
 type: entity
 tags: [hingori, author, disciple]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[entities/mahaguru]], [[concepts/guru-disciple]], [[concepts/doer-ship]]
+related: [[entities/mahaguru]], [[concepts/guru-disciple]], [[concepts/doer-ship]], [[concepts/astral-travel]]
 created: 2026-04-12
 updated: 2026-04-16
 ---
@@ -99,6 +99,16 @@ The Sutras are framed as this sharing — not a teacher-to-student transmission 
 
 Hingori's belief in [[concepts/destiny|destiny]] is presented as a hard-won conclusion, arrived at through decades of witnessing accurate predictions from astrologers, palmists, tarot readers, psychics, and Gurudev himself. His personal anecdotes — [[stories/mataji-gopal-hingori|Mataji reading his college photograph]], [[stories/bhrigu-dr-chandra|Bhrigu's predictions on his father's close friend]], [[stories/gurudev-predictions-mumbai-politician|Gurudev's predictions]] — form the experiential backbone of *Aatma Sutra* Ch.V.
 
+## Astral Travel Experiences
+
+Hingori documents a progressive sequence of astral travel experiences under Gurudev's guidance:
+
+1. **Missed the astral tour** — Gurudev arranged an out-of-body tour; Puranji appeared in dream state to call him; Hingori physically woke instead of exiting his body. See [[stories/hingori-puranji-missed-astral-tour]].
+2. **Floating over his body** — In the *sthan* room, found himself floating 3–4 inches above his sleeping physical body. "The 'floating me' was awake whilst the 'physical me' was fast asleep." Understood as preparation for full exit.
+3. **Lonavala temple journey** — Gurudev took him in dream-state to a temple in Lonavala; seen in grey and black. Months later physically visited the same temple and recognised it exactly. See [[stories/hingori-lonavala-temple-vision]].
+4. **Attaining gati** — In a vision, [[entities/rc-malhotra|R.C. Malhotra]] (sent by Gurudev) taught him superfast astral travel. Spirit body moved like a rocket with a buzzing sound. See [[stories/hingori-gati-malhotra]].
+5. **The fan ankle** — Flew through a ceiling fan; ankle caught in the rotating energy field; limped for 15 days. See [[stories/hingori-fan-ankle]].
+
 ## Notable Stories
 
 - [[stories/hingori-arthritis-cure]]
@@ -107,6 +117,10 @@ Hingori's belief in [[concepts/destiny|destiny]] is presented as a hard-won conc
 - [[stories/bada-guruvar-queue]]
 - [[stories/sadhu-blanket-clove]]
 - [[stories/mataji-gopal-hingori]] — psychic reading in college; two accurate predictions
+- [[stories/hingori-puranji-missed-astral-tour]]
+- [[stories/hingori-lonavala-temple-vision]]
+- [[stories/hingori-gati-malhotra]]
+- [[stories/hingori-fan-ankle]]
 
 ## Cross-references
 

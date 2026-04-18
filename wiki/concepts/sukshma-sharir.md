@@ -2,7 +2,7 @@
 title: Sukshma Sharir (Spirit Body)
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/isthul-sharir]], [[concepts/kaarna-sharir]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/mahurat]], [[concepts/aura]]
+related: [[concepts/isthul-sharir]], [[concepts/kaarna-sharir]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/mahurat]], [[concepts/aura]], [[concepts/astral-travel]]
 created: 2026-04-16
 updated: 2026-04-16
 ---
@@ -107,12 +107,23 @@ Hingori's own encounters with spirit bodies over years of *dhyaan* and sadhana i
 > My close association with spirituality for several years now, and my encounter with several spirits, including my own, has made me conclude that spirits can exist for thousands of years.
 > — Hingori, *Aatma Sutra*, Ch.II, p.18
 
+## Astral Travel
+
+An advanced application of the spirit body's subtle nature is **astral travel** — the voluntary exit of the sukshma sharir from the physical body to travel to other locations and realms. Gurudev practised this "at least thrice a week, for several hours at a stretch." Hingori himself experienced progressive stages: floating 3–4 inches above his physical body; dream-state travel with Gurudev to locations later verified in physical reality; and eventually the attainment of *gati* (superfast travel) taught by senior disciple R.C. Malhotra in a vision.
+
+Key physics of the spirit body in astral travel: solid matter is penetrable (walls like "the thinnest paper"); even at night there is a dim post-dusk light; and spirits appear solid to each other — the ethereal appearance is only from the physical perspective.
+
+> [!tip] "Guru bin gati nahi" — the guru's grace is the prerequisite for superfast astral travel. Gati is acquired through the same practices that deepen the aura.
+
+See [[concepts/astral-travel]] for the full framework and personal testimonies.
+
 ## Cross-references
 
 - [[concepts/isthul-sharir]] — the physical body through which the spirit body earns shakti
 - [[concepts/kaarna-sharir]] — the causal body always attached to the spirit body; contains the karmashaya
 - [[concepts/jivaatma]] — the individual soul within all three bodies
 - [[concepts/mukti]] — the intermediate state of reduced karmashaya; spirit body spends extended periods in higher loks
+- [[concepts/astral-travel]] — the spirit body's capacity to travel out of the physical body; gati; spirit world physics
 - [[concepts/mahurat]] — the auspicious moment that determines the timing of rebirth
 - [[concepts/samskars]] — the data in the karmashaya whose fructification governs which birth the spirit enters
 - [[concepts/aura]] — the external radiation of the spirit body's accumulated *shakti*; its protection and cosmic currency

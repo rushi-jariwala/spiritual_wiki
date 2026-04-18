@@ -3,7 +3,7 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/guru-disciple]], [[concepts/karmayoga]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]]
+related: [[concepts/guru-disciple]], [[concepts/karmayoga]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]], [[concepts/astral-travel]], [[entities/puranji]], [[entities/rc-malhotra]]
 created: 2026-04-12
 updated: 2026-04-16
 ---
@@ -107,6 +107,17 @@ The disciples do not accept payment in any form for their services.
 - **Newer generations** never met him in physical form but still heal through faith and his transmission
 - Hingori looks forward to a **fourth generation** in time
 
+## Astral Travel
+
+Gurudev was an accomplished astral traveller during his physical lifetime:
+
+> He had regular 'out-of-body' experiences at will.
+> — Hingori, *Karma Sutra*, Ch.3, p.47
+
+Hingori describes him as travelling astrally "at least thrice a week, for several hours at a stretch" — while doing *paath* (focused mantra practice) in which he would leave his body. He used these travels to guide disciples: he arranged for [[entities/puranji|Puranji]] to call Hingori in dream state for a planned astral tour (see [[stories/hingori-puranji-missed-astral-tour]]), and took Hingori to the Lonavala temple in a dream-state journey later verified physically (see [[stories/hingori-lonavala-temple-vision]]). He also sent senior disciple [[entities/rc-malhotra|R.C. Malhotra]] in a vision to teach Hingori *gati* — superfast astral travel.
+
+Gurudev's nirman kaya was also witnessed: he was seen by people at two different locations simultaneously. (*Aatma Sutra*, Ch.VI, p.71)
+
 ## Posthumous Presence
 
 Gurudev is said to continue guiding disciples from the non-physical state:
@@ -114,7 +125,9 @@ Gurudev is said to continue guiding disciples from the non-physical state:
 > Our spiritual guru continues to guide us by meeting his disciples in their dream state.
 > — *Karma Sutra*, Ch.1, p.2
 
-See [[concepts/jivaatma]] on the persistence of beings after bodily death, and [[sources/dream-sutra]] for more (to be ingested).
+Chapter VI documents his posthumous appearances in spirit form. Approximately 20 years after his passing, Hingori's schoolmate in DLF, Gurgaon had a waking midday vision of a stranger projected on his wall: "Don't worry I will solve your problems. Come to Guruji of Gurgaon in Sector 7." He Googled it, identified Gurudev, reached the sthan in Sector 7, and today his life revolves around it. See [[stories/schoolmate-gurudev-gurgaon]].
+
+See also [[concepts/jivaatma]] on the persistence of beings after bodily death, and [[sources/dream-sutra]] for more (to be ingested).
 
 ## Predictive Ability
 
@@ -132,6 +145,9 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 - [[stories/scooter-accident-vision]] — vision of an impending scooter accident; the accident occurred, but Hingori's hand was not bleeding as foreseen
 - [[stories/bada-guruvar-queue]] — the monthly Thursday queues; waiting as tapasya
 - [[stories/gurudev-predictions-mumbai-politician]] — Mumbai floods + politician friend, predicted decades in advance
+- [[stories/hingori-puranji-missed-astral-tour]] — Gurudev arranges an astral tour; Puranji calls Hingori in dream state; Hingori physically wakes instead of exiting his body
+- [[stories/hingori-lonavala-temple-vision]] — Gurudev takes Hingori in dream-state to Lonavala temple; later verified exact match
+- [[stories/schoolmate-gurudev-gurgaon]] — posthumous appearance: Gurudev appears to a stranger in Gurgaon 20 years after death; directs him to the sthan
 
 ## Quotes
 

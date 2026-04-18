@@ -2,7 +2,7 @@
 title: Mukti
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/moksha]], [[concepts/samskars]], [[concepts/kaarna-sharir]], [[concepts/jivaatma]], [[concepts/karma]], [[concepts/seva]]
+related: [[concepts/moksha]], [[concepts/samskars]], [[concepts/kaarna-sharir]], [[concepts/jivaatma]], [[concepts/karma]], [[concepts/seva]], [[concepts/astral-travel]]
 created: 2026-04-16
 updated: 2026-04-16
 ---
@@ -29,6 +29,11 @@ Even while still alive in physical form, an evolved spiritualist can create a **
 > — Hingori, *Aatma Sutra*, Ch.I, pp.10–11
 
 Hingori acknowledges this sounds like science fiction — "maybe the *yogic* version of Matrix Reloaded" — but states he has experienced it directly.
+
+Chapter VI provides the clearest live demonstrations:
+- **Ashish at Lemon Tree Resort, Goa**: his spiritual guru appeared across from him at lunch (physically in another city) and told him not to eat non-veg on Thursday; "his second body seemed to have a will of its own."
+- **Virenderji (retired judge, Haryana)**: three friends arrived saying Virenderji had invited them to the park that morning — but he had overslept and missed his walk. "A clear example of how another version of you can exist whilst on a path of spiritual evolution." See [[stories/virenderji-uninvited-guests]].
+- **Gurudev at two places**: seen simultaneously at two locations by different people. (*Aatma Sutra*, Ch.VI, p.71)
 
 ## Erasing Samskars Through Memory
 

@@ -50,6 +50,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/aura|Aura]] — Bioelectric energy field; protective shield; cosmic currency (*shakti*); Kirilian photography; depletion, contamination, enhancement, black magic
 - [[concepts/destiny|Destiny]] — Fructification of karmas aligned with planetary movements; acceptance of destiny as the antidote to guilt; astrology as exact science
 - [[concepts/astral-travel|Astral Travel]] — Spirit body exits physical body; gati (superfast travel); spirit world physics; nirman kaya in action; posthumous appearances
+- [[concepts/loks|Loks]] — 14-storey cosmological model of existence; Earth as the karma lok; lower tals and upper loks; guna mix as the qualification; spiritual ballooning as the method of ascent
 
 ---
 
@@ -71,7 +72,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–VII ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–VIII ingested*
 
 ---
 
@@ -91,6 +92,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[quotes/mind|Quotes on Mind, Thoughts, and Observation]] — External thoughts, citt/vritti, watching the mind, Pema Chödrön, Rumi
 - [[quotes/aura|Quotes on Aura and Shakti]] — Protective shield, cosmic currency, spirit body nature, Frederick Lenz
 - [[quotes/destiny|Quotes on Destiny]] — Planetary mechanism, duality pendulum, astrology, acceptance, "not the guilty me"
+- [[quotes/loks|Quotes on Loks and Spiritual Evolution]] — Death-consciousness, tapo raj/rajo narak, the invested life, "keep intentions pure"
 
 ---
 
@@ -133,6 +135,9 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/hingori-fan-ankle|Hingori Flies Through the Fan — The Ankle Injury]] — Astral flight through a ceiling fan; ankle caught in rotating energy field; 15 days limping
 - [[stories/virenderji-uninvited-guests|Virenderji's Uninvited Guests]] — Judge's nirman kaya invites friends to morning walk; he had overslept and missed it
 - [[stories/schoolmate-gurudev-gurgaon|The Schoolmate's Vision — Gurudev Appears in Gurgaon]] — Gurudev appears posthumously to a stranger in distress, 20 years after death; directs him to the sthan
+- [[stories/hingori-third-eye-opened-closed|Gurudev Opens and Closes Hingori's Third Eye]] — Third eye opened, then deliberately shut so Hingori would not get stuck at the Tapa Lok level
+- [[stories/hingori-lok-visits|Hingori's Visits to the Loks]] — Three or four vision-state visits; grandmother in a darker lok ignores him; colour-coded togas
+- [[stories/guna-self-assessment|Guna Self-Assessment Worksheet]] — 18-attribute self-diagnostic for sattvic/rajasic/tamasic dominant guna
 
 ---
 

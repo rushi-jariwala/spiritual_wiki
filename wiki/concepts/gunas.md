@@ -85,6 +85,20 @@ Adherence to *yams* and *niyams* (as listed in the *Yoga Sutras* of Patanjali) c
 
 *Aatma Sutra* Ch.II restates the three-guna scheme briefly in the context of [[concepts/isthul-sharir|Isthul Sharir]] purification — the same three categories, the same definitions (*tamas* = inaction/procrastination/confusion; *rajas* = action/movement/dynamism/desire; *sattva* = contentment/equanimity/duty/detachment). No new content; the cross-referencing reinforces that managing gunas is the physical body's primary instrument of self-purification.
 
+## Gunas of Spiritual Practice (Ch.VIII)
+
+*Aatma Sutra* Ch.VIII extends the guna framework to the *type* of spiritual practice a person gravitates toward, and provides a self-assessment worksheet.
+
+**Tamasic practitioners** are attracted to lower levels of spiritual practice: black magic, *tantric mantras*, and voodoo — means intended to get quick attainments and selfish results.
+
+**Rajasic practitioners** add dynamism and adornment to their practice: impressive temples, religious events, and musical incantations. There is a lot of ritualism and religiousness.
+
+**Sattvic practitioners** know that sense pleasures are not beneficial to evolution. Their prayers are soft and recited within the mind; they do not adorn their place of worship with pomp. Self-evolution, self-analysis, self-cleansing, and *tapasya* are their common practices.
+
+Gurudev's instruction: *"Apni niyat saaf rakho"* — keep your intentions pure. Self-improvement is to be pursued like the profitability of a business — an obsession acquired naturally.
+
+See [[stories/guna-self-assessment]] for the 18-attribute worksheet (pp.96–97) that allows a practitioner to compute their dominant guna (score 18–27 = sattvic; 28–36 = rajasic; 37+ = tamasic).
+
 ## Cross-references
 
 - [[concepts/kleshas]] — raga and dwesa are fuel for rajas and tamas; kleshas and gunas are interdependent
@@ -95,3 +109,5 @@ Adherence to *yams* and *niyams* (as listed in the *Yoga Sutras* of Patanjali) c
 - [[concepts/moksha]] — transcending all three gunas, sattva included, is the final requirement
 - [[practices/seva]] — seva at the sattvic level is done without crediting oneself
 - [[concepts/isthul-sharir]] — gunas are the instrument by which the physical body pursues self-purification
+- [[concepts/loks]] — guna mix determines lok qualification; sattvic → higher loks, tamasic → lower tals
+- [[stories/guna-self-assessment]] — the 18-attribute self-assessment worksheet from *Aatma Sutra* Ch.VIII

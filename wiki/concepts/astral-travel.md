@@ -89,3 +89,4 @@ Twenty years after Gurudev's passing, Hingori's schoolmate (DLF, Gurgaon) had a 
 - [[entities/hingori]] — first-person witness and practitioner across all stages
 - [[entities/rc-malhotra]] — teacher of gati to Hingori in vision state
 - [[entities/puranji]] — Gurudev's emissary; appeared in Hingori's dream state
+- [[concepts/loks]] — the realms visited through astral travel; higher and lower levels of existence accessible to the spirit body

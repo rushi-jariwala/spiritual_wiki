@@ -125,6 +125,7 @@ Hingori supplements the Vedantic argument with empirical facts, citing the narro
 - [[concepts/koshas]] — the sheaths of consciousness to be traversed
 - [[concepts/astral-travel]] — nirman kaya as the human-scale analogue of cosmic creation via thought
 - [[entities/guru-vashisht]] — source of the Yog Vasishta teachings on Brahman and maya
+- [[concepts/loks]] — maya is the "background music" on Bhu lok; sense-attraction is the snare at the Dhruv Tara crossroads in the afterlife
 
 ## Open Questions
 

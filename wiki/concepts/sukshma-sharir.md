@@ -127,3 +127,4 @@ See [[concepts/astral-travel]] for the full framework and personal testimonies.
 - [[concepts/mahurat]] — the auspicious moment that determines the timing of rebirth
 - [[concepts/samskars]] — the data in the karmashaya whose fructification governs which birth the spirit enters
 - [[concepts/aura]] — the external radiation of the spirit body's accumulated *shakti*; its protection and cosmic currency
+- [[concepts/loks]] — the 14-storey realms of existence where the spirit body resides between incarnations; guna mix determines which lok

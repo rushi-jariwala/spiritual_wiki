@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** Chapters VIII–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** Chapters IX–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -50,13 +50,53 @@ Structured in three parts:
 | V | Destiny | ← *ingested* |
 | VI | Astral Travel | ← *ingested* |
 | VII | Maya | ← *ingested* |
-| VIII | Loks | pending |
+| VIII | Loks | ← *ingested* |
 | IX | Key Formulas of Evolution | pending |
 | X | Protecting and Expanding Aura | pending |
 | XI | Accepting Yourself | pending |
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. VIII)
+
+- **Loks as a 14-storey cosmological model**: Milky Way = 14-storey building; Earth on the 7th floor; 7 upper loks + 7 lower tals; each lok = a bandwidth of consciousness/guna mix. [[concepts/loks]]
+- **The karma lok**: Earth is the only lok providing "criss-cross visas" for movement between all levels; beings from all loks must pass through rebirth on Earth to evolve or devolve.
+- **Lower tals** (6th to 1st floor): Atal (fear/lust/rajas), Vital (ignorance/sense-gratification), Sutal (demonic self-reflection but desire for improvement intact), Talatal/Mahatal (pseudo agnostics, terrorists), Patal (Hitler, Napoleon; hatred/jealousy/supreme guilt; lowest of the low).
+- **Upper loks**: Bhuvar lok (astral plane), Swa lok/Swarg (Heaven, between Sun and Pole Star; seva leads here; good deeds spent as pleasure), Mahar lok (beyond Pole Star; karm-mukt; teachers/reformers born here), Jana lok (gyan required; senses must be transcended), Tapa lok (Divya Bhakti; third eye; sakshibhav), Satya lok (Sahasrara; ichchaadhari beings; open visa for all loks). [[concepts/loks]]
+- **Mahaguru's mission contingent**: afterlife HQ at Najafgarh; brought hundreds of beings from higher loks for a joint mission. [[entities/mahaguru]]
+- **Gurudev's Dhruv Tara revelation**: after death one passes through the Pole Star; crossroads where bare = higher, lovely = trap.
+- **Gunas of Spiritual Practice**: tamasic → black magic/voodoo; rajasic → ritual/temple/music; sattvic → inner practice/self-analysis/tapasya. [[concepts/gunas]]
+- **Guna Self-Assessment**: 18-attribute worksheet scoring sattvic (18–27), rajasic (28–36), tamasic (37+). [[stories/guna-self-assessment]]
+- **Methodology caveat**: Hingori explicitly acknowledges mixing personal vision-state visits with borrowed ancient theory — unique to this chapter.
+- Personal testimonies: [[stories/hingori-third-eye-opened-closed]], [[stories/hingori-lok-visits]]
+
+## Notable Quotes (Ch. VIII)
+
+> "*Apni mauth ko saath leker phirna*" — always be conscious and prepared for death, and that itself will enhance the value of life.
+> — Gurudev's *ek vakya*, reported by Hingori, *Aatma Sutra*, Ch.VIII, p.90
+
+> "*Tapo raj, rajo narak.*" — after intense tapasya, one is born in kingship; after misusing kingship, one descends to lower realms.
+> — Gurudev, reported by Hingori, *Aatma Sutra*, Ch.VIII, p.90
+
+> "Do not try to spend a pleasurable life, but instead a more invested one."
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.94
+
+> "The playing field looks fair. The tools are intent. The obstacle is destiny and samskars. And time is short. Background music is maya or delusion."
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.86
+
+## Stories Extracted (Ch. VIII)
+
+- [[stories/hingori-third-eye-opened-closed]] — created
+- [[stories/hingori-lok-visits]] — created
+- [[stories/guna-self-assessment]] — embedded worksheet preserved verbatim
+- *(Short anecdotes — fire within Hingori during dhyaan, Dhruv Tara crossroads revelation — captured inline in [[concepts/loks]].)*
+
+## New Concepts / Entities (Ch. VIII)
+
+- [[concepts/loks]] — created
+- [[concepts/gunas]] — substantially extended (Gunas of Spiritual Practice section + self-assessment)
+- [[entities/mahaguru]] — extended (afterlife HQ at Najafgarh; mission contingent from higher loks)
 
 ## Key Themes (Ch. VII)
 
@@ -290,3 +330,6 @@ Structured in three parts:
 
 > [!warning] Destiny-determinism vs. karmayoga as effort
 > *Karma Sutra* emphasises effort — karmayoga, Ashoka's choice, the disciple's active cultivation of positive karma. *Aatma Sutra* Ch.V is strongly deterministic: Hitler, Gandhi, and Mahatma Gandhi were all "preordained." The surface tension is resolved by Hingori's note that *effort is also destined* (prarabdh karma "involves hard work and humongous effort") — but the reconciliation is implicit rather than explicit. Practitioners may read Ch.V as fatalism if the synthesis is not made. See [[synthesis/destiny-and-doership]].
+
+> [!warning] Moksh and the lok system (Ch.VIII vs. scripture)
+> Multiple scriptures locate moksh at Vaikunth, Guru lok, Shiv lok, or Brahm lok — all within the lok hierarchy. Hingori explicitly disagrees: "moksh lies beyond these loks too." This is a stated doctrinal departure, not an oversight. The Aatma Sutra position — moksh as dissolution beyond all cosmic structure, including the highest named loks — is consistent with *Aatma Sutra*'s treatment of moksh in Ch.I as "full deletion of karmashaya data" and with the Advait Vedanta framework used in Ch.VII. The conflict is with more theistic/Vaishnava frameworks that treat the highest lok as the final resting place rather than an intermediate stage.

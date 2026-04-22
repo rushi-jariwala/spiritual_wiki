@@ -60,3 +60,4 @@ Short-term memory (smruti) eventually merges into samskars. Working to dissolve 
 - [[concepts/kaarna-sharir]] — the causal body carrying the karmashaya
 - [[concepts/jivaatma]] — the individual soul working toward mukti
 - [[practices/seva]] — the principal practice that reduces karmashaya; also performed through the nirman kaya
+- [[concepts/loks]] — higher loks are where the mukta spirit resides for 1,000–2,000 years between incarnations; specifically Mahar lok and above for advanced practitioners

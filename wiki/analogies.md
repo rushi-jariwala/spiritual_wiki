@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: []
 created: 2026-04-15
-updated: 2026-04-18
+updated: 2026-04-22
 ---
 
 # Analogies
@@ -220,6 +220,58 @@ Gati — the capacity for superfast astral travel — is not gradual acceleratio
 > — Hingori, *Aatma Sutra*, Ch.VI, p.69
 
 What is seen depends entirely on what is seeing. From the physical body's eyes, spirits are translucent; from the spirit body's perspective, spirits are solid — as real as any physical person. The spirit world is not a lesser-real shadow of the physical; it is equally real, perceived differently by different bodies.
+
+---
+
+## Loks & Cosmology
+
+### The 14-Storey Building (Milky Way)
+*Illuminates: [[concepts/loks]]*
+
+> "Imagine our galaxy, the Milky Way to be a 14-storey building where each storey is called a 'lok'. Earth is the lok which is on the seventh storey."
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.81
+
+The analogy gives a spatial and hierarchical handle on an otherwise abstract cosmological claim. Each floor represents a bandwidth of consciousness. Moving between floors is not a function of physical travel but of guna qualification: you float up by lightening your samskar load, or slide down by accumulating tamasic ones. The building's central metaphor — Earth as the middle floor — makes every direction simultaneously possible from here.
+
+---
+
+### Snakes & Ladders
+*Illuminates: [[concepts/loks]], [[concepts/samskars]]*
+
+The game of Snakes & Ladders as a model of inter-lok movement across lifetimes. Climbing a ladder (ascending loks) requires effort, service, guna refinement, and spiritual practice. Sliding down a snake (descending loks) is gravitational — the default direction for those who give into baser qualities. Earth is the board; samskars and destiny are the dice.
+
+> "Multiple births and slow and steady progress are required to enable them to climb the ladder rather than slip on the snakes, in the eternal game of 'Snakes & Ladders'."
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.84
+
+---
+
+### Earth as Land of Poker
+*Illuminates: [[concepts/loks]], [[concepts/maya]], [[concepts/destiny]]*
+
+> "Bhu lok is the land of poker, where many cards get shuffled. Many sacrifice their desires, but many fall for them. The playing field looks fair. The tools are intent. The obstacle is destiny and samskars. And time is short. Background music is maya or delusion."
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.86
+
+Poker captures the structure of earthly existence precisely: everyone starts with a dealt hand (prarabdh karma), plays against others also playing their cards, and the outcome depends on both the hand and the skill (intent). Unlike pure games of chance, poker rewards skill over time — karma works the same way. The house music is maya: the continuous background of delusion that makes the game feel like the whole of reality.
+
+---
+
+### Spiritual Ballooning
+*Illuminates: [[concepts/loks]], [[concepts/samskars]], [[concepts/mukti]]*
+
+> "Technically, you cannot climb the ladder to higher loks, you need to float up. Spiritual ballooning, if you would like to call it!"
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.87
+
+Climbing implies grip, effort, upward force — all metaphors of will. Ballooning inverts the image: it is about shedding ballast (samskar load, karmic debt) until the natural buoyancy of the spirit body lifts it. The practitioner does not pull themselves upward; they remove what is weighing them down. The distinction matters for practice: less is more; accumulating good deeds is useful, but the real work is subtraction.
+
+---
+
+### "H for Harvard Is Not H for Heaven"
+*Illuminates: [[concepts/loks]], [[concepts/gunas]]*
+
+> "For example, 'H' for Harvard (University) is not necessarily 'H' for heaven, it means even highly educated and socially envied people can slip to lower floors of the multi-storied building of loks."
+> — Hingori, *Aatma Sutra*, Ch.VIII, p.88
+
+Worldly markers — elite education, social prestige, professional success — are rajasic achievements. Rajasic achievement can coexist with tamasic samskars and thus with downward lok movement. The abbreviation joke ("H for Harvard / H for Heaven") is a mnemonic device: guna mix, not CV, determines destination.
 
 ---
 

@@ -118,6 +118,18 @@ Hingori describes him as travelling astrally "at least thrice a week, for severa
 
 Gurudev's nirman kaya was also witnessed: he was seen by people at two different locations simultaneously. (*Aatma Sutra*, Ch.VI, p.71)
 
+## Afterlife Headquarters and Mission Contingent
+
+*Aatma Sutra* Ch.VIII adds two specific details not present elsewhere:
+
+- **Afterlife headquarters**: Najafgarh (near his *karma bhumi* of Gurgaon).
+- **Mission contingent**: Unlike most prophets who arrived with a small number of companions, the Mahaguru "brought along hundreds of beings from higher loks to accomplish their joint mission."
+
+> "The latest and one of the greatest was the Mahaguru whose karma bhumi was Gurgaon and afterlife headquarters is Najafgarh. While most prophets came with a small contingent of a few, he brought along hundreds of beings from higher loks to accomplish their joint mission."
+> — Hingori, *Aatma Sutra*, Ch.VIII, pp.86–87
+
+This is consistent with the statement that most of Gurudev's disciples were "established saints from the past" who needed his guidance to shine brighter. See [[concepts/loks]].
+
 ## Posthumous Presence
 
 Gurudev is said to continue guiding disciples from the non-physical state:
@@ -159,6 +171,7 @@ See [[quotes/guru]].
 ## Cross-references
 
 - [[concepts/guru-disciple]] — the teaching framework
+- [[concepts/loks]] — Gurudev's afterlife HQ at Najafgarh; descended with hundreds of beings from higher loks
 - [[entities/hingori]] — his disciple and the author of the Sutras
 - [[practices/seva]] · [[practices/tapasya]] — his "one-point programme"
 - [[sources/guru-of-gurus]] · [[sources/witnessing-greatness]] — full biographical sources

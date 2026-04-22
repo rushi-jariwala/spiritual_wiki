@@ -183,6 +183,15 @@ Notable cases:
 
 > [!warning] Anyone's aura can be infiltrated by practitioners of black magic, provided they have access to the person's personal objects. (Hingori, *Aatma Sutra*, Ch.IV, p.48)
 
+## Cosmic Currency — Aura in the Afterlife
+
+Ch.XIV extends the aura-as-cosmic-currency teaching into its fullest statement:
+
+> "Cosmic currency is basically earning energy that will be added to your own aura and *shakti*. It can be used for astral living and to attain *gati* in the afterlife. The spirit body needs this energy to exist, travel and protect itself. It can also attain this energy through deeds done in its name, either by itself or by others."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.186
+
+Charity done in the name of ancestors adds to *their* cosmic currency in the afterlife. The spirit body's post-death capacity for astral travel, protection from more powerful spirits, and eventual ascent through the *loks* all depend on the aura accumulated during physical life — and on any *seva* or charity performed in the spirit's name by living descendants. See [[concepts/loks]] for the lok-by-lok system; [[practices/seva]] for the mechanisms of seva credit.
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — aura is the external expression of the spirit body's *shakti*
@@ -190,7 +199,8 @@ Notable cases:
 - [[concepts/gunas]] — guna mix determines the quality and depth of the aura; Thursday restrictions preserve it on Jupiter's day
 - [[concepts/citt-vritti-nirodh]] — all *vrittis* deplete aura; *nirodh* conserves it
 - [[concepts/kaarna-sharir]] — the causal body carries the karmashaya; guna configuration stored there shapes aura quality
-- [[practices/seva]] — seva as a direct aura enhancement mechanism (Ch.X)
+- [[concepts/loks]] — cosmic currency determines what loks the spirit can access and traverse after death
+- [[practices/seva]] — seva as a direct aura enhancement mechanism (Ch.X); also benefits ancestors' cosmic currency
 - [[concepts/non-doership]] — arpan to a higher power prevents the healer from absorbing negative energy during healing
 - [[concepts/pratipakshbhavana]] — the bluetooth/meditation principle: sustained focus on a quality instils it
 - [[stories/hingori-renuka-temple-attack]] — "energy was better earned than stolen"

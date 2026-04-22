@@ -2,9 +2,9 @@
 title: Destiny
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/mahurat]], [[concepts/samskars]], [[concepts/prarabdh-karma]], [[concepts/karma]], [[concepts/doer-ship]], [[concepts/kaarna-sharir]]
+related: [[concepts/mahurat]], [[concepts/samskars]], [[concepts/prarabdh-karma]], [[concepts/karma]], [[concepts/doer-ship]], [[concepts/kaarna-sharir]], [[concepts/self-acceptance]]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
 
 # Destiny
@@ -73,6 +73,15 @@ Destiny belief is offered as the philosophical counterweight — a way to releas
 
 > [!warning] Statutory Warning (Hingori's own): "The predictions cited here are the ones which have been spot on. However, predictions have also gone wrong by hundreds of astrologers, including my friend." The framework endorses astrology as a science while acknowledging practitioner error.
 
+## Destiny and Self-Blame (Ch.XI)
+
+*Aatma Sutra* Ch.XI extends the argument to the dissolution of self-blame. Specific karmic configurations — planetary combinations — are known to astrologers to strongly predict late marriages, divorces, and separations. The self-blame that follows these outcomes is therefore a category error:
+
+> "There are several combinations of planetary positions (understood by astrologers) that strongly predict late marriages, divorces or separation. Some other configurations show an abundance of material wealth, the goodness of character, while others indicate the habit of lying and deceit. Ironically, if our birth had been a couple of hours earlier or later, the script of our destiny might have read differently."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.134
+
+The practical implication: if the outcome was already encoded in the birth configuration, the person experiencing "failure" is not its cause. Self-blame under these conditions is an illusion of authorship over a pre-written script. See [[concepts/self-acceptance]] for the full treatment of how destiny acceptance dissolves guilt.
+
 ## Cross-references
 
 - [[concepts/mahurat]] — the birth timing mechanism through which destiny is encoded
@@ -81,6 +90,8 @@ Destiny belief is offered as the philosophical counterweight — a way to releas
 - [[concepts/karma]] — the underlying accounting system
 - [[concepts/doer-ship]] — guilt as the false claim of authorship over destined events
 - [[concepts/kaarna-sharir]] — carries the karmashaya across incarnations; the storehouse that destiny reads
+- [[concepts/self-acceptance]] — self-blame as a form of false authorship over destined events; planetary configurations for marriage/divorce
 - [[synthesis/destiny-and-doership]] — how destiny and doer-ship together form the Hingori theodicy
 - [[entities/bhrigu]] — the ancient sage whose thousand-year-old readings demonstrate destiny's readability
 - [[stories/stranger-who-knocked]] — Gita's channelled poem placed at the end of Ch.V
+- [[stories/hingori-meat-chopper-guilt]] — the lived example: accepting destiny dissolves guilt over a destined act

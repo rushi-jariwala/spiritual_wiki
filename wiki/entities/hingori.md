@@ -5,7 +5,7 @@ tags: [hingori, author, disciple]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: [[entities/mahaguru]], [[concepts/guru-disciple]], [[concepts/doer-ship]], [[concepts/astral-travel]]
 created: 2026-04-12
-updated: 2026-04-16
+updated: 2026-04-22
 ---
 
 # Hingori
@@ -123,6 +123,13 @@ Hingori documents a progressive sequence of astral travel experiences under Guru
 - [[stories/hingori-fan-ankle]]
 - [[stories/hingori-renuka-temple-attack]] — punished by Parshuramji for stealing temple energy; saved by Devi Renuka
 - [[stories/giri-blister-healing]] — Hingori arranges black magic clearing; witness to Giri's face-shaped blister
+- [[stories/hingori-meat-chopper-guilt]] — guilt dissolves through a divine voice; the founding personal experience of self-acceptance
+- [[stories/hingori-neena-two-guilts]] — lies to cousin Neena; two guilts cancel each other; Gurudev's silent coordination
+- [[stories/hingori-badrinath-brother]] — Gurudev instructs Hingori to call Lord Badrinath "my dear elder brother"; the seed of the self-worship concept
+- [[stories/hingori-vision-of-ram]] — offers good wishes to Ram, Sita, Lakshman in a vision; wakes up shocked; identifies with divinity
+- [[stories/hingori-crow-morning-alarm]] — premature son in incubator; crow knocks at window at 5:45am daily until mother wakes
+- [[stories/hingori-dog-ghosheini-temple]] — lazy dog leads Hingori to a hilltop temple; temple asks to collaborate; hotel owner waives bill; land offered two years later
+- [[stories/hingori-closing-poem]] — Hingori's closing poem to *Aatma Sutra*: "I am the God to whom we all pray"
 
 ## Cross-references
 

@@ -55,6 +55,9 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/empathy|Empathy]] — understanding others without adding emotions; self-acceptance requires accepting others first; Gurudev's transformation of Hingori
 - [[concepts/role-play|Role-Play (Spiritual)]] — inhabiting relationships as performances with detachment; Gurudev as fluid multi-role master; Brando/Steiger as the cautionary case
 - [[concepts/pratipakshbhavana|Pratipakshbhavana]] — superimposing positive thoughts on negative ones; cricket-at-100mph analogy; Golden Rule on rate of decreasing failure
+- [[concepts/self-acceptance|Self-Acceptance]] — prerequisite to self-love and self-worship; overcoming societal evaluation, self-blame, and guilt; surmounting through non-doership and destiny acceptance
+- [[concepts/self-love|Self-Love]] — unemotional, agenda-free connectivity to all forms of the consciousness supreme; self-acceptance → self-like → self-respect → self-love → bhakti; love of the aatman (Ch.XII)
+- [[concepts/self-worship|Self-Worship]] — reverence of the jivaatma (inner light); two gates metaphor; three exercises; non-doership and self-worship as complementary; Tat Twam Asi in practice (Ch.XIII–XIV)
 
 ---
 
@@ -71,6 +74,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/rc-malhotra|R.C. Malhotra]] — Senior-most disciple of Gurudev; taught Hingori gati (*superfast astral travel*) in a vision state
 - [[entities/adi-shankaracharya|Adi Shankaracharya]] — Founder of Advaita Vedanta; *Nirvana Shatakam* cited as classical expression of karm-mukt
 - [[entities/devi-renuka|Devi Renuka]] — Hindu deity, mother of Parshuram; appeared in vision to Hingori and lifted Parshuramji's attack
+- [[entities/rabia-of-basra|Rabia of Basra]] — Sufi saint; sold as slave, forced into prostitution, prayed into *dhyaan*; freed after master saw ethereal lantern over her head
+- [[entities/valmiki|Valmiki]] — Ancient sage and author of the Ramayan; was a bandit and murderer at one stage; Phase A-to-Z exemplar
+- [[entities/vishvamitra|Vishvamitra]] — Arrogant king who sought revenge on Guru Vashisht; through penance reached the title of brahmarishi; Phase A-to-Z exemplar
+- [[entities/sant-tukaram|Sant Tukaram]] — 17th-century Marathi saint-poet; his verse on worship-through-any-image is the devotional ground for Exercise 1 of self-worship
+- [[entities/kapill|Kapill]] — Recurring disciple at the Mumbai sthan; vision of Shiv as himself; gati experience at supersonic speed
 
 ---
 
@@ -78,7 +86,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–X ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 
 ---
 
@@ -100,6 +108,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[quotes/destiny|Quotes on Destiny]] — Planetary mechanism, duality pendulum, astrology, acceptance, "not the guilty me"
 - [[quotes/loks|Quotes on Loks and Spiritual Evolution]] — Death-consciousness, tapo raj/rajo narak, the invested life, "keep intentions pure"
 - [[quotes/seva|Quotes on Seva and Service]] — Precursor to self-esteem, Golden Rules, multilevel propagation, Guru Vashisht's caveat, Gurudev's seva in verse
+- [[quotes/self-acceptance|Quotes on Self-Acceptance and Guilt]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, the "You are my painting" divine voice, guilt as obstacle, snake fang saying
+- [[quotes/self-worship|Quotes on Self-Love and Self-Worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Sant Tukaram's conduit-pipe, Guru Vashisht's "there is no god," Hingori's closing poem
 
 ---
 
@@ -150,6 +160,25 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/gurudev-seva-poem|Gurudev's Seva — "A Few Minutes in Every Hour"]] — Verbatim verse capturing the scope of Gurudev's lifelong service
 - [[stories/hingori-renuka-temple-attack|Hingori at Renuka — Attacked by the Son, Saved by the Mother]] — Parshuramji's spiritual attack; Devi Renuka's intervention; "energy better earned than stolen"
 - [[stories/giri-blister-healing|Giri's Blister — Negative Energy Made Visible]] — Mantra-water healing; negative energy drawn from house manifests as face-shaped blister on Giri's hand
+- [[stories/hingori-meat-chopper-guilt|Hingori and the Meat Chopper — Guilt Dissolves]] — Hingori about to sever his hand in guilt; divine voice: "You are my painting. I am the artist."
+- [[stories/rabia-of-basra-sufi-saint|Rabia of Basra — From Slave to Sufi Saint]] — Slave girl forced into prostitution; prayed into *dhyaan*; freed by her master after he saw the lantern of light above her head
+- [[stories/ram-kills-bali-behind-tree|Ram Kills Bali from Behind a Tree]] — Ram kills Bali with an arrow in the back; taught by Guru Vashisht that duality is maya; beyond guilt
+- [[stories/ram-banishes-sita|Ram Banishes Sita — Beyond Maya, Beyond Guilt]] — Ram sends Sita to Valmiki's forest; acts without malice or guilt; the maya teaching applied
+- [[stories/ram-speech-to-guru-vashisht|Ram's Speech to Guru Vashisht]] — Verbatim from *Supreme Yoga* (Venkateshananda); "I behold the world as pure, infinite consciousness… I am at peace"
+- [[stories/hingori-neena-two-guilts|Hingori and Neena — Two Guilts Become None]] — Hingori lies about Gurudev's instruction; Neena reveals Gurudev had already confirmed it; the two guilts cancel
+- [[stories/rajeev-alcoholic-to-saint|Rajeev — From Alcoholic to Saint]] — dissolute drunk introduced to the sthan; Hingori tells Paliji "your son-in-law is a saint"; years later Rajeev becomes a revered healer (Ch.XII)
+- [[stories/rajee-shiv-darshan|Rajee's Shiv Darshan]] — Gurudev takes Rajee out of body to a mountain cave; Shankar pours milky water saying *mrityu, mrityu, mrityu* (Ch.XIII)
+- [[stories/kapill-shiv-in-himself|Kapill's Vision of Shiv in Himself]] — astrologer-predicted vision; meditating Kapill sees Shankar and realises he is looking at himself (Ch.XIII)
+- [[stories/hingori-badrinath-brother|Hingori at Badrinath — "Hello Brother!"]] — Gurudev instructs Hingori to call Lord Badrinath "my dear elder brother"; years later understood as equality of all aatmas; the seed of the self-worship concept (Ch.XIII)
+- [[stories/hingori-vision-of-ram|Hingori's Vision of Ram]] — 100 people await Ram; Hingori offers good wishes instead of a boon; wakes up shocked; begins identifying with divinity (Ch.XIII)
+- [[stories/pappu-shambhuji-flames|Pappu Sharma and Shambhuji — Father Protects from Flames]] — *mutth chalana* black magic sends fire; deceased father Shambhuji appears in spirit and saves Pappu (Ch.XIII)
+- [[stories/hingori-crow-morning-alarm|The Crow as Morning Alarm]] — premature son in incubator; crow knocks at window at 5:45am every day until mother wakes to feed him (Ch.XIII)
+- [[stories/hingori-dog-ghosheini-temple|The Dog Leads Hingori to the Temple — Ghosheini]] — lazy dog becomes animated messenger; leads Hingori to banyan-tree temple; temple proposes collaboration; hotel bill waived; land offered two years later (Ch.XIII)
+- [[stories/john-atheist-self-healing|John — Self-Healing by an Atheist]] — blood cancer, 3–6 months to live; refuses god and temples; prays to himself for 5 min twice daily; alive 20 years later (Ch.XIV)
+- [[stories/sant-tukaram-worship-poem|Sant Tukaram — Worship Reaches Through Any Image]] — verbatim verse: "I made an earthen image of Shiva, but the Earth is not Shiva… the saint is but His servant, an instrument, a conduit pipe" (Ch.XIV)
+- [[stories/ram-speech-ch14-consciousness-alone|Ram's Summary — "Consciousness Alone Is the Reality" (Ch.XIV)]] — verbatim extract from *Supreme Yoga*; distinct from Ch.XI passage; "nothing has been created, nothing is lost" (Ch.XIV)
+- [[stories/hingori-closing-poem|Hingori's Closing Poem — "I Am the God to Whom We All Pray"]] — verbatim closing poem of *Aatma Sutra*; first-person Tat Twam Asi; ends on "the we" (Ch.XIV)
+- [[stories/life-scorecard|The Life Scorecard]] — verbatim three-part worksheet (Physical/Intellectual/Spiritual, 100 marks each); Mr. Iyengar and Mr. Kapur as example profiles
 
 ---
 

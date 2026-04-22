@@ -2,7 +2,7 @@
 title: Aatma Sutra — Unveiling Your Soul
 type: source
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[entities/hingori]], [[entities/mahaguru]], [[entities/puranji]], [[entities/rc-malhotra]], [[entities/bhrigu]], [[entities/guru-vashisht]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]], [[concepts/aura]], [[concepts/maya]]
+related: [[entities/hingori]], [[entities/mahaguru]], [[entities/puranji]], [[entities/rc-malhotra]], [[entities/bhrigu]], [[entities/guru-vashisht]], [[entities/sant-tukaram]], [[entities/valmiki]], [[entities/vishvamitra]], [[entities/kapill]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]], [[concepts/aura]], [[concepts/maya]], [[concepts/self-acceptance]], [[concepts/self-love]], [[concepts/self-worship]]
 created: 2026-04-16
 updated: 2026-04-18
 ---
@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** **Chapter IX ingested (2026-04-22).** **Chapter X ingested (2026-04-22).** Chapters XI–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** **Chapter IX ingested (2026-04-22).** **Chapter X ingested (2026-04-22).** **Chapter XI ingested (2026-04-22).** **Chapter XII ingested (2026-04-22).** **Chapter XIII ingested (2026-04-22).** **Chapter XIV ingested (2026-04-22).** **Life Scorecard ingested (2026-04-22).** Fully ingested.
 
 ## Table of Contents
 
@@ -53,10 +53,198 @@ Structured in three parts:
 | VIII | Loks | ← *ingested* |
 | IX | Key Formulas of Evolution | ← *ingested* |
 | X | Protecting and Expanding Aura | ← *ingested* |
-| XI | Accepting Yourself | pending |
-| XII | Falling in Love with Yourself | pending |
-| XIII | Examining Self-Worship | pending |
-| XIV | Self-Worship, The Way Forward | pending |
+| XI | Accepting Yourself | ← *ingested* |
+| XII | Falling in Love with Yourself | ← *ingested* |
+| XIII | Examining Self-Worship | ← *ingested* |
+| XIV | Self-Worship, The Way Forward | ← *ingested* |
+
+## Key Themes (Life Scorecard)
+
+- **Three-parameter model**: Physical (material, financial, educational, social achievements), Intellectual (philosophy, awareness, wisdom), Spiritual (philanthropy, service, mantra vidya, spiritual accomplishments) — each scored out of 100; total 300.
+- **Gurudev as the benchmark**: would score a perfect 300. A score of 50 is good. Most people score high on the physical front and neglect the rest.
+- **Two example profiles**: Mr. Iyengar (religious but spiritually average — his mantra chanting and temple offerings are rajasic, not counted as high spiritual); Mr. Kapur (materially high, intellectually and spiritually nil).
+- **C4f criterion**: "I believe all beings at the *aatmic* level are worthy of worship including myself" — the book's central thesis rendered as a measurable self-assessment criterion. [[stories/life-scorecard]]
+
+## Stories Extracted (Life Scorecard)
+
+- [[stories/life-scorecard]] — verbatim three-part worksheet; Mr. Iyengar and Mr. Kapur as example profiles
+
+## Key Themes (Ch. XIV)
+
+- **Two gates metaphor**: outer gate = physical body; inner gate = spirit body; the light = jivaatma; self-worship is directed at the light, not the gates; justifiable even for "the most wretched or perceivably unqualified." [[concepts/self-worship]]
+- **Three exercises**: (1) photograph worship — bow, offer flowers/candle/incense, meditate, communicate unconditionally; (2) mirror and the half-moon — cross-legged, stare at forehead for years; (3) inner visualisation — imagine yourself within, sitting cross-legged, rewind to childhood. [[concepts/self-worship]]
+- **Non-doership and self-worship reconciled**: not contradictory; non-doership reduces karmic weight; self-worship affirms the divinity that remains; "I am not the doer" as hypnotic affirmation to be repeated thousands of times. [[concepts/non-doership]]
+- **Gurudev as exemplar**: stood outside every temple (like Guru Vashisht's teaching: "There is no god"); carried his own photograph on healing missions to "take himself along"; accepted guru bhakti unconditionally on as-is-where-is basis (Hingori's dream). [[entities/mahaguru]]
+- **Lord Ram's second Supreme Yoga extract**: "The self or the infinite consciousness alone is the reality of all this — the Earth, the mountains…" — distinct and longer passage from the Ch.XI extract. [[stories/ram-speech-ch14-consciousness-alone]]
+- **From tree to orchard**: Gurudev's full life portrait — Ministry of Agriculture by day; 50–100 daily visitors; 30,000 on *Bada Guruvar*; 100+ *sthans*; *paath* at night; 3–4 million directly served; 100+ disciples trained in spiritual healing; third generation active. The mission of self-replacement.
+- **Self-healing by atheist (John)**: blood cancer; refuses god and temples; Hingori's condition — light a candle, pray to yourself 5 min twice daily; alive 20 years later. [[stories/john-atheist-self-healing]]
+- **Cosmic currency**: aura/shakti as post-death wealth; spirit body needs it for astral living and *gati*; charity in name of ancestors adds to their cosmic currency. [[concepts/aura]]
+- **Sant Tukaram's poem**: "I made an earthen image of Shiva, but the Earth is not Shiva… the saint is but His servant, an instrument, a conduit pipe." — Tukaram's formula for why worship passes through any image (including a photograph of oneself) to the real. [[stories/sant-tukaram-worship-poem]], [[entities/sant-tukaram]]
+- **Closing poem**: Hingori's "I am the God to whom we all pray / Though I may not know of it today" — the book's final word; spoken from the gap between knowing and experiencing; ending on "the we." [[stories/hingori-closing-poem]]
+
+## Notable Quotes (Ch. XIV)
+
+> "The 'self' in self-worship we are referring to, is not the self of the gate but the self of the light within. Therefore self-worship is justifiable even for the most wretched, the most evil or the most perceivably unqualified."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.172
+
+> "There are nine billion doorways (the number of people alive) to the supreme, yours is one of them. So, use it."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.173
+
+> "I am carrying this photograph so that I can take myself along for this important mission. I want myself to come and help me complete it."
+> — Gurudev, reported by Hingori, *Aatma Sutra*, Ch.XIV, p.181
+
+> "There is no god, and this world's appearance is generated by the collective mind and is not the creation of the creator."
+> — Guru Vashisht to Lord Ram, *Yog Vasishta*, quoted in *Aatma Sutra*, Ch.XIV, p.183
+
+> "The truth is variable at different stages of *gyan* or intuitive knowledge."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.183
+
+## Stories Extracted (Ch. XIV)
+
+- [[stories/john-atheist-self-healing]] — created
+- [[stories/sant-tukaram-worship-poem]] — created; verbatim verse
+- [[stories/ram-speech-ch14-consciousness-alone]] — created; verbatim extract; distinct from Ch.XI passage
+- [[stories/hingori-closing-poem]] — created; verbatim closing poem
+- *(Short anecdotes — Gurudev carrying his own photograph on healing missions; Gurudev standing outside temples; Hingori's dream about accepting guru unconditionally — captured inline in [[concepts/self-worship]].)*
+
+## New Concepts / Entities (Ch. XIV)
+
+- [[concepts/self-worship]] — substantially extended (three exercises, non-doership reconciliation, Gurudev exemplar, John story, cosmic currency, two gates)
+- [[entities/sant-tukaram]] — entity stub created
+- [[entities/kapill]] — entity page created (recurring disciple; gati experience and Shiv vision)
+
+## Key Themes (Ch. XIII)
+
+- **Self-worship — philosophical ground**: *jivaatma* as part of *parmaatma*; glass of water/ocean; Genesis 1:27; Adi Shankaracharya ("I am not the mind, nor intellect..."). [[concepts/self-worship]]
+- **Multiple Levels of Mental Existence**: oscillating between 5th grade and PhD of consciousness; key insight that this oscillation is normal and that knowing it produces flexibility within *maya*. [[concepts/self-worship]]
+- **Dreams, Visions, Spiritual Experiences — four categories**: (1) perception of competence — vivid interaction shifts self-perception; (2) steam release — stored samskars expelled; (3) out-of-body experiences — direct proof of multi-body configuration; (4) mantra/teaching transmission in dream state. [[concepts/self-worship]]
+- **Animal miracles as faith-builders**: crow as morning alarm for premature baby; dog leads Hingori to temple in Ghosheini; temple asks for collaboration; hotel bill waived; land offered two years later. The argument: if animals can ascend, why not us? [[concepts/self-worship]]
+- **Dream interpretation notes**: dreams of snakes = *shakti* interacting; dream of someone's death = expiry of risk; woman clasping hands in dream = power being stolen.
+- **Shiv Darshan (Rajee)**: Gurudev takes Rajee out of body to mountain cave; Shankar pours milky water saying *mrityu, mrityu, mrityu*. [[stories/rajee-shiv-darshan]]
+- **Kapill sees Shiv in himself**: astrologer predicts the vision; Kapill sees Shankar meditating; realises he is looking at himself; guru confirms: same consciousness supreme in all. [[stories/kapill-shiv-in-himself]]
+- **Hingori at Badrinath — "Hello Brother!"**: Gurudev instructs Hingori to hug the deity and say "my dear elder brother"; Hingori hugs Shankaracharya statue; sent back to mentally hug Badrinath; "took years to figure it out"; equality of all *aatmas*; self-worship becomes justifiable. [[stories/hingori-badrinath-brother]]
+- **Hingori's vision of Ram**: 100 people waiting to pay respects; Hingori's turn — offers good wishes instead of a boon; wakes up shocked; starts identifying with divinity. [[stories/hingori-vision-of-ram]]
+- **Pappu Sharma and Shambhuji**: *mutth chalana* (black magic flames sent aerially); deceased father Shambhuji appears in spirit and protects Pappu; then disappears. [[stories/pappu-shambhuji-flames]]
+
+## Notable Quotes (Ch. XIII)
+
+> "Knowing that your so-called normal life is one of *maya* (delusion) is a great awareness. Therefore, living with the realisation of *maya* keeps you flexible enough to oscillate in and out of its circle."
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.156
+
+> "If the heightening of awareness can happen for a crow or a dog, then why not us?"
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.168
+
+> "For those who characterise this as make-believe or delusionary, my question to them is, what is not?"
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.158 *(on Rajee's Shiv Darshan)*
+
+## Stories Extracted (Ch. XIII)
+
+- [[stories/rajee-shiv-darshan]] — created
+- [[stories/kapill-shiv-in-himself]] — created
+- [[stories/hingori-badrinath-brother]] — created
+- [[stories/hingori-vision-of-ram]] — created
+- [[stories/pappu-shambhuji-flames]] — created
+- [[stories/hingori-crow-morning-alarm]] — created
+- [[stories/hingori-dog-ghosheini-temple]] — created
+- *(Short anecdotes — Kapill's gati experience (supersonic tunnels, amber light); lady steals power in dream; snakes in dreams = shakti; death dream = expiry of risk — captured inline in [[concepts/self-worship]].)*
+
+## New Concepts / Entities (Ch. XIII)
+
+- [[concepts/self-worship]] — created (primary source is Ch.XIII–XIV)
+- *(No new concept pages; all Ch.XIII material extends [[concepts/self-worship]])*
+
+## Key Themes (Ch. XII)
+
+- **Love defined**: unemotional, agenda-free, all-inclusive; love of the *aatman* in all forms; Patanjali's definition cited. [[concepts/self-love]]
+- **Self-love hierarchy**: self-acceptance → self-like → self-respect → self-love → *bhakti* (self-worship). The full Part C arc made explicit.
+- **What self-love is not**: not romantic/familial; not concentric-circle loyalty; not attention-seeking; not vanity or narcissism. [[concepts/self-love]]
+- **Watch Yourself Do Good**: repeated self-observation of worthy acts superimposes positive impressions on negative *samskars*; the karmashaya blueprint shifts toward the acceptable. [[concepts/self-love]]
+- **Judge Yourself from Phase A to Z**: life cannot be assessed by today's cross-section; Valmiki (bandit → *maharishi*), Vishvamitra (arrogant king → *brahmarishi*), Rajeev (alcoholic → healer). [[concepts/self-love]], [[concepts/self-acceptance]]
+- **Ms. Water in product differentiation**: why Ms. Water should love herself as the base in coffee or tea — self-love in any form of the consciousness supreme. [[wiki/analogies]]
+- **Gurudev's teaching lived**: Hingori practised non-attachment; found unemotional caring for all life forms; recognises this as self-love made manifest in relationship.
+
+## Notable Quotes (Ch. XII)
+
+> "I believe love is devoid of emotion. Love is not a quid pro quo, nor is it something you direct towards a specific person or even a set of people."
+> — Hingori, *Aatma Sutra*, Ch.XII, p.145
+
+> "Human love is the highest emotion most of us know. It frees us to some extent from our egotism in our relation to one or more individuals. But human love is still possessive and exclusive. Love for the *aatman* is neither."
+> — Patanjali, quoted by Hingori, *Aatma Sutra*, Ch.XII, p.147
+
+> "Why judge yourself at the cross-section today? If you have embarked on the voyage of self-discovery, then give yourself a fair chance."
+> — Hingori, *Aatma Sutra*, Ch.XII, p.154
+
+> "I have no separation from my true self, no doubt about my existence... I am indeed, that eternal knowing and bliss, Shiva, love, and pure consciousness."
+> — Adi Shankaracharya, quoted by Hingori, *Aatma Sutra*, Ch.XII, p.148
+
+## Stories Extracted (Ch. XII)
+
+- [[stories/rajeev-alcoholic-to-saint]] — created
+- *(Short anecdotes — Valmiki: bandit to maharishi; Vishvamitra: arrogant king to brahmarishi; Hingori's transition from emotional to unemotional love — captured inline in [[concepts/self-love]].)*
+
+## New Concepts / Entities (Ch. XII)
+
+- [[concepts/self-love]] — created; Ch.XII is its primary source
+- [[entities/valmiki]] — entity stub created
+- [[entities/vishvamitra]] — entity stub created
+
+## Contradictions / Tensions (Ch. XII–XIV)
+
+> [!warning] "There is no god" vs. graduated temple worship
+> Guru Vashisht tells Ram: "There is no god, and this world's appearance is generated by the collective mind and is not the creation of the creator." Hingori reconciles this by framing temples as "for students at the level of high school and college" — fully effective within *maya* at those stages, but not the PhD position. The lok framework (Ch.VIII), which includes Shankar, Vishnu, Brahma as entities in specific loks, operates within the world of maya. Guru Vashisht's statement is the Advait PhD position — beyond the lok framework entirely. The reconciliation is offered but the doctrinal gap remains.
+
+> [!warning] Non-doership vs. self-worship (resolved)
+> At first glance contradictory: if "I am not the doer," who worships, and who is worshipped? Hingori explicitly addresses this in Ch.XIV: they operate at complementary levels. Non-doership reduces karmic weight; self-worship affirms the divinity that remains. Together they constitute the approach to *mukti*. See [[concepts/non-doership]] and [[concepts/self-worship]].
+
+> [!warning] Loks, deities, and "there is no god" (tension across Ch.VIII and Ch.XIV)
+> Ch.VIII presents Shankar, Vishnu, and Brahma as real entities encountered in vision-states within specific loks of the cosmological system. Ch.XIV cites Guru Vashisht: "there is no god." Hingori does not directly reconcile these in a single passage. His implicit resolution (temples/deities are real within the circle of maya; Advait truth lies beyond all lok structure, including the highest named ones) is consistent with Ch.I's treatment of moksh as beyond all loks, but the tension is not made fully explicit.
+
+## Key Themes (Ch. XI)
+
+- **Self-acceptance as the gateway**: Ch.XI opens Part C ("Acceptance to Self-Worship"); self-acceptance is the first of the three stages — acceptance → self-love → self-worship. The chapter catalogs why it is so hard to reach. [[concepts/self-acceptance]]
+- **Societal obstacles**: age, profession, physical appearance, social background, and negative feedback from parents/teachers/friends — each systematically erodes self-opinion. Hingori frames these as mirrors wielded by those with no right to evaluate, and the antidote as not buying into them. [[concepts/self-acceptance]]
+- **Destiny as double obstacle**: destiny denies success (producing self-blame), and when it gives success, the resulting pride is also unstable. *"Nanak dukhiya sab sansaar"* — Guru Nanak cited. [[concepts/destiny]], [[entities/guru-nanak]]
+- **Guilt as the deepest obstacle**: guilt is a double-edged sword — moral compass AND samskar generator AND obstacle to self-acceptance. The chapter develops the specific mechanism by which guilt programmed into the unconscious becomes a future self-punishment. [[concepts/self-acceptance]], [[concepts/samskars]]
+- **Surmounting guilt via non-doership**: the act was destined; the wrongdoer is a pawn; guilt enters only through the crevice of ownership. The domestic worker's suffering was also destined. [[concepts/non-doership]], [[stories/hingori-meat-chopper-guilt]]
+- **Ram beyond maya/guilt**: Guru Vashisht's *Advait* teaching applied — transcending duality transcends right/wrong transcends guilt. Ram kills Bali from behind a tree; banishes Sita; acts without malice or guilt. The chapter's most advanced example. [[concepts/maya]], [[entities/guru-vashisht]], [[stories/ram-kills-bali-behind-tree]], [[stories/ram-banishes-sita]]
+- **Two guilts become none**: the "Neena" mechanism — when two guilt-generating events cancel each other, the guilt dissolves. Truth cannot be adjudicated by the five senses alone. [[stories/hingori-neena-two-guilts]]
+- **Pure water in coffee**: the closing analogy — true self remains pure beneath maya's adulteration; *shuddhi* restores it. [[concepts/self-acceptance]]
+
+## Notable Quotes (Ch. XI)
+
+> "Who are you to blame me? You are my painting. I am the artist. By blaming yourself, you are blaming me."
+> — Divine voice to Hingori, *Aatma Sutra*, Ch.XI, p.136
+
+> "*Karmas* are already lined up for fructification, so you have no choice but to accept them."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.134
+
+> "Guilt at a conscious level can be an insurmountable obstacle to self-acceptance."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.142
+
+> "*By your grace, I have attained supreme purity… I behold the world as pure, infinite, and indivisible consciousness… I am at peace. My vision is clear… I am free from hopes and desires.*"
+> — Lord Ram, *Supreme Yoga* (Venkateshananda), quoted *Aatma Sutra*, Ch.XI, pp.138–139
+
+## Stories Extracted (Ch. XI)
+
+- [[stories/hingori-meat-chopper-guilt]] — created; the founding personal account of guilt dissolving through the "You are my painting" divine voice
+- [[stories/rabia-of-basra-sufi-saint]] — created; slave to Sufi saint through prayer and *dhyaan*; refuses self-blame
+- [[stories/ram-kills-bali-behind-tree]] — created; Ram kills Bali from behind a tree; beyond maya = beyond guilt
+- [[stories/ram-banishes-sita]] — created; Ram banishes Sita; acts without malice or guilt
+- [[stories/hingori-neena-two-guilts]] — created; Hingori lies to cousin; two guilts cancel; Gurudev's silent coordination
+- [[stories/ram-speech-to-guru-vashisht]] — created; verbatim from *Supreme Yoga* (Venkateshananda); Ram's account of his state of self-knowledge
+
+## New Concepts / Entities (Ch. XI)
+
+- [[concepts/self-acceptance]] — concept page created; Ch.XI is its primary source
+- [[entities/rabia-of-basra]] — entity stub created
+
+## Contradictions / Tensions (Ch. XI)
+
+> [!warning] Guilt as moral compass vs. guilt as spiritual obstacle
+> Hingori acknowledges guilt is a necessary moral compass — without it, people would act without restraint. Yet at the spiritual level it is "an insurmountable obstacle to self-acceptance." The chapter advocates transcending guilt without abolishing it in social functioning. The threshold — when to apply the moral compass and when to transcend it — is not explicitly specified. This echoes the Ch.IX non-doership vs. motivational seva tension.
+
+> [!warning] "Acceptance" vs. licence
+> Hingori explicitly pre-empts the charge: "Does the acceptance of destiny mean that this book advocates... you to do whatever you like, and thereafter conveniently blame it on the consciousness supreme?" He says no — but the distinguishing mechanism between evolved acceptance and convenient excuse remains undefined. The Ram examples show the bar is very high (a "particular level of evolution"). Below that level, the same logic could be misused.
 
 ## Key Themes (Ch. X)
 

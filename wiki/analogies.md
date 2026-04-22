@@ -405,3 +405,85 @@ Brahma, the creator, is the *viraat* — the cosmic person, himself of pure cons
 [[concepts/maya]] · [[concepts/aatma]] · [[entities/guru-vashisht]]
 
 > [!tip] *Note on "Walls as Thinnest Paper"* — that analogy (already filed under [[#Astral Travel & Spirit World]]) is repurposed in Ch.VII as evidence for the limits of physical perception: a wall that is impenetrable to the physical body is non-existent for the spirit body. Physical solidity is a property of the perceiving body, not of the wall. The analogy thus serves both astral travel and maya simultaneously.
+
+---
+
+## Self-Acceptance & Guilt
+
+### The Movie Already Made (Destiny and Guilt)
+*Illuminates: [[concepts/self-acceptance]], [[concepts/destiny]], [[concepts/non-doership]]*
+
+> "If destiny is a movie already made, then is it not wiser to be a mere witness? A detached viewer? The fact that Bhrigu, Mataji, Nostradamus, Gurudev, and so many others were able to predict the future, indicates that the future has already happened. However, we have not reached there yet. If you have reached the interval of the movie, then you know for sure that after buying the popcorn, you are going to watch the second half. You can accept the second half as it comes, even though you have not seen the end. You are also aware that each show of the movie has the same ending. You are not aspiring or fighting to change the end or the story."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.137
+
+A distinct use of the movie metaphor (cf. the [[#Life as a Movie]] entry under Karma & Accounting, which is about sanchit/prarabdh karma). Here the focus is specifically on guilt dissolution: if the movie is already shot, the 'I' that claims authorship over any scene in it has misunderstood its role. The witness who watches without fighting the story is at peace; the viewer who believes they could have changed the plot generates only frustration and guilt.
+
+---
+
+### Cricket Replay vs. Live Match (Acceptance vs. Expectation)
+*Illuminates: [[concepts/self-acceptance]], [[concepts/destiny]]*
+
+> "However, in a live cricket match, you do not know which team will win and you cheer for your preferred team. Whether your team wins or loses — it induces emotions either way. But if you were watching the replay of the match, would it induce the same emotions as it did when you watched it live? It would not. You already know the outcome of the match and have accepted the result."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.137
+
+The live match is life as we experience it: outcome unknown, emotions fully engaged, hope and dread cycling. The replay is the perspective of a seer — or of someone who has deeply internalised destiny's pre-determination. Acceptance (replay mode) does not make the match less real; it removes the emotional ownership of a result that was always fixed. Hingori's practical prescription: practice the replay perspective before the result is in.
+
+---
+
+### Pure Water in Coffee (Guilt as Adulteration, Shuddhi as Cleansing)
+*Illuminates: [[concepts/self-acceptance]], [[concepts/maya]], [[concepts/samskars]]*
+
+> "Pure water is the main ingredient in a cup of coffee. However, it may feel guilty of losing its purity since it is adulterated by coffee, milk and sugar. But it needs to love itself as pure water and accept the fact that coffee, milk, and sugar are mere adulterations that can be removed by a process of cleansing or *shuddhi*. Once removed, the purity can be restored."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.143
+
+The consciousness supreme (water) is the substrate beneath all personal experience. Guilt, circumstance, and maya's adulteration (coffee, milk, sugar) do not change what water *is* — they only obscure it. The analogy extends the [[concepts/maya|Maya as Adulteration]] teaching specifically to guilt: feeling guilty does not compromise the self's essential nature any more than being poured into coffee makes water something other than water. *Shuddhi* — purification, whether through non-doership, destiny acceptance, or spiritual practice — restores what was always there.
+
+---
+
+### Ms. Water in Product Differentiation (Self-Love in Any Form)
+*Illuminates: [[concepts/self-love]], [[concepts/self-acceptance]], [[concepts/aatma]]*
+
+> "The lowest common multiple (LCM) of all liquids is water as it is the core ingredient. If we were to humanise water, and give it the title of Ms. Water, then the question we need to ask is, why should Ms. Water only be able to love herself in the purest form in other locations. So, if a glass of water can love itself as a part of a river or lake or ocean, then it should also be able to love itself in product differentiation. For example, why should Ms. Water not be able to love herself as the base ingredient in a cup of coffee or tea?"
+> — Hingori, *Aatma Sutra*, Ch.XII, p.148
+
+An extension of the Pure Water in Coffee analogy (Ch.XI), but now reframed positively: self-love must extend to the self in *whatever form it currently takes*, including seemingly adulterated or imperfect forms. The same consciousness supreme that is pure in the ocean is equally present in the coffee. Self-love that only applies to the "pure" version of oneself is not self-love.
+
+---
+
+### Two Gates and the Inner Light
+*Illuminates: [[concepts/self-worship]], [[concepts/jivaatma]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]]*
+
+> "The 'self' in self-worship we are referring to, is not the self of the gate but the self of the light within. Therefore self-worship is justifiable even for the most wretched, the most evil or the most perceivably unqualified."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.172
+
+The physical body is the outer gate; the spirit body is the inner gate; the *jivaatma* is the light they surround. Gates can be defective, tainted, poorly regarded — but no defect in the gate diminishes the light within. Self-worship is directed at the light, not the gates. This reframes the entire logic of unworthiness: the most wretched person has gates, not a diminished light.
+
+---
+
+### From Tree to Orchard
+*Illuminates: [[concepts/self-worship]], [[practices/seva]], [[entities/mahaguru]]*
+
+> "This is how he grew from a tree to an orchard and accomplished his mission of self-replacement."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.185
+
+Gurudev's method: train 100+ disciples in spiritual healing, empower them to run their own *sthans*, and replicate the tradition across cities and hamlets in India and abroad. A single tree produces fruit in one location; an orchard multiplies the yield. The analogy captures the principle of seva-through-multiplication: the teacher's real accomplishment is not what he does directly but the system he builds that continues after him.
+
+---
+
+### Nine Billion Doorways to the Supreme
+*Illuminates: [[concepts/self-worship]], [[concepts/aatma]], [[concepts/jivaatma]]*
+
+> "Your physical self is the doorway that leads to the 'you' that can be worshipped. So why not use this doorway instead of some other? There is no vanity involved, so do not fear it. There are nine billion doorways (the number of people alive) to the supreme, yours is one of them. So, use it."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.173
+
+Every person alive is an entrance to the consciousness supreme. Worshipping yourself through your own photograph is not vanity — it is choosing to use *your* doorway rather than someone else's. The analogy dissolves the objection of narcissism: nine billion doorways are equally valid; yours merely happens to be the one you have direct access to.
+
+---
+
+### Grade School Oscillation
+*Illuminates: [[concepts/self-worship]], [[concepts/maya]]*
+
+> "I realised that I could not hold a certain level of introspective thinking or remain in a particular state of self-evaluation, all the time. Often, due to circumstances, I dwelled in the seventh grade of philosophical existence. At certain times, I behaved like a college graduate and at other times I reacted like a fifth-grade student."
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.156
+
+Spiritual consciousness is not a ratchet — it oscillates. A practitioner moves between the equivalent of fifth grade and PhD depending on circumstances. Knowing this is itself an advancement: it produces flexibility and removes the self-criticism triggered by "falling back." Living with the realisation of *maya* keeps one flexible enough to oscillate without losing direction. The grade school metaphor replaces linear progression with a fluid, honest model of daily spiritual life.

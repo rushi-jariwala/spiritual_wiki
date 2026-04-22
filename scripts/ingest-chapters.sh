@@ -122,22 +122,21 @@ EOF
 build_prompt() {
   local ch_n=$1 ch_title=$2 line_start=$3 line_end=$4
 
+  # All paths in the prompt are relative to WIKI_ROOT.
+  # The script cd's to WIKI_ROOT before invoking claude, so relative paths
+  # are always correct regardless of OS path format.
   cat <<PROMPT
 You are running an automated ingestion of Chapter ${ch_n}: "${ch_title}" from Aatma Sutra into a spiritual wiki.
 
-━━━ PATHS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Wiki root   : ${WIKI_ROOT}
-Source file : ${WIKI_ROOT}/raw/aatma-sutra.md
-Chapter     : lines ${line_start}–${line_end} of the source file
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Your working directory is the wiki root. All paths below are relative to it.
 
 ━━━ WHAT TO DO (in order) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. Read ${WIKI_ROOT}/CLAUDE.md — this defines the complete INGEST protocol.
-2. Read ${WIKI_ROOT}/wiki/sources/aatma-sutra.md — understand what has been
-   ingested in previous chapters: concepts created, open questions, themes.
-3. Read ${WIKI_ROOT}/wiki/log.md — skim the last 10 entries for recent context.
-4. Read ${WIKI_ROOT}/wiki/index.md — know the full current state of the wiki.
-5. Read lines ${line_start}–${line_end} of ${WIKI_ROOT}/raw/aatma-sutra.md
+1. Read CLAUDE.md — this defines the complete INGEST protocol.
+2. Read wiki/sources/aatma-sutra.md — understand what has been ingested in
+   previous chapters: concepts created, open questions, themes.
+3. Read wiki/log.md — skim the last 10 entries for recent context.
+4. Read wiki/index.md — know the full current state of the wiki.
+5. Read lines ${line_start}–${line_end} of raw/aatma-sutra.md
    — this is the chapter content to ingest.
 6. Execute INGEST Phase 2 (Create / Update) and Phase 3 (Verify & Log) exactly
    as defined in CLAUDE.md.

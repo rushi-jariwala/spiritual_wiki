@@ -3,9 +3,9 @@ title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/karma]], [[concepts/jivaatma]], [[concepts/moksha]], [[concepts/koshas]], [[concepts/aatma]], [[entities/guru-vashisht]]
+related: [[concepts/karma]], [[concepts/jivaatma]], [[concepts/moksha]], [[concepts/koshas]], [[concepts/aatma]], [[entities/guru-vashisht]], [[concepts/self-acceptance]]
 created: 2026-04-12
-updated: 2026-04-18
+updated: 2026-04-22
 ---
 
 # Maya
@@ -115,6 +115,19 @@ Hingori supplements the Vedantic argument with empirical facts, citing the narro
 
 > [!tip] Hingori's method: ancient Vedantic insight + empirical scientific data as parallel tracks converging on the same conclusion. This dual-track approach (wisdom tradition → modern science) recurs across *Aatma Sutra* and is part of its rhetorical strategy for reaching readers who need empirical grounding before they can accept metaphysical claims.
 
+## Maya Applied — Ram Beyond Guilt (Ch.XI)
+
+*Aatma Sutra* Ch.XI deploys the maya teaching in a specific applied context: being beyond maya means being beyond the duality of right/wrong, and therefore beyond guilt. Hingori uses Lord Ram — taught by [[entities/guru-vashisht|Guru Vashisht]] that the world is pure maya — as the clearest available example.
+
+Ram killed Bali from behind a tree (violating all norms of valour) and banished his wife Sita to the forest (acting against the expected norms of a husband). Both acts, viewed within maya's dualistic framework, generate guilt. Viewed from beyond maya, they are simply actions in a void:
+
+> "Ram was taught by his teacher, Guru Vashisht, that the world was nothing but *maya* — a delusion of the mind. Nothing was real. Everything was a figment of the cosmic imagination, making duality unworthy of merit. Ram was thus beyond guilt. Surmounting duality took him beyond doership, leaving no justifications for right or wrong."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.138
+
+Ram's own description of this state: *"I behold the world as pure, infinite, and indivisible consciousness. The world is otherwise a void, which disappears the moment illusion vanishes."* See [[stories/ram-speech-to-guru-vashisht]] and [[stories/ram-kills-bali-behind-tree]].
+
+> [!warning] Hingori adds the necessary caveat: "It is only when you reach a particular level of evolution can you practice such a philosophy." Using maya as philosophical cover before reaching that level is the "path of convenience" — not the path of acceptance.
+
 ## Cross-references
 
 - [[concepts/jivaatma]] — the individual soul under maya
@@ -124,8 +137,12 @@ Hingori supplements the Vedantic argument with empirical facts, citing the narro
 - [[concepts/doer-ship]] — ego as the load-bearing pillar of maya
 - [[concepts/koshas]] — the sheaths of consciousness to be traversed
 - [[concepts/astral-travel]] — nirman kaya as the human-scale analogue of cosmic creation via thought
+- [[concepts/self-acceptance]] — beyond maya = beyond guilt; Ram as the advanced case
 - [[entities/guru-vashisht]] — source of the Yog Vasishta teachings on Brahman and maya
 - [[concepts/loks]] — maya is the "background music" on Bhu lok; sense-attraction is the snare at the Dhruv Tara crossroads in the afterlife
+- [[stories/ram-kills-bali-behind-tree]] — maya teaching applied: killing Bali without guilt
+- [[stories/ram-banishes-sita]] — maya teaching applied: banishing Sita without malice
+- [[stories/ram-speech-to-guru-vashisht]] — Ram's own account of his state
 
 ## Open Questions
 

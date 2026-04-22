@@ -2,7 +2,7 @@
 title: Non-Doership
 type: concept
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/doer-ship]], [[concepts/karma]], [[concepts/moksha]], [[concepts/maya]], [[concepts/sanchit-karma]], [[concepts/vairagya]], [[concepts/samskars]], [[concepts/vasna]], [[entities/adi-shankaracharya]]
+related: [[concepts/doer-ship]], [[concepts/karma]], [[concepts/moksha]], [[concepts/maya]], [[concepts/sanchit-karma]], [[concepts/vairagya]], [[concepts/samskars]], [[concepts/vasna]], [[entities/adi-shankaracharya]], [[concepts/self-acceptance]]
 created: 2026-04-14
 updated: 2026-04-22
 ---
@@ -82,6 +82,17 @@ Both are forms of the 'I'-sense applied to karma:
 
 Non-doership is therefore not just about not claiming credit — it is equally about not claiming blame. The practice must run symmetrically across success and failure.
 
+### Guilt as the Entry Point for Self-Blame
+
+*Aatma Sutra* Ch.XI develops the guilt dimension specifically in the context of [[concepts/self-acceptance]]. Guilt arises when we take doer-ship over a destined act. The act was pre-programmed karmic fructification; the guilt is the gratuitous addition — the 'I' latching on as owner.
+
+> "I may have only been the pawn for the fulfilment of his destiny, but because I took ownership of the act, guilt slid in through that crevice."
+> — Hingori, *Aatma Sutra*, Ch.XI, p.136
+
+Crucially, guilt programmed into the mind becomes a *samskar* — a self-punishment the jivaatma is compelled to enact in a future life. "Inadvertently, if you program a punishment in your *samskars*, then you have to suffer it later." (p.142) This makes guilt not merely a distress but a karmic generator of its own.
+
+The practical resolution is identical to the non-doership mechanism: accept that destiny is the sole creative force; remove the 'I' from the act; the guilt dissolves with the ownership. See [[stories/hingori-meat-chopper-guilt]] — the foundational personal account.
+
 ## The Samskar Circle Connection
 
 Ch.8 deepens the mechanism. Non-doership is not merely an ethical posture — it is the specific technical break that prevents the samskar loop from closing. When a [[concepts/vasna|vasna]] (tendency from stored karma) arises and the act plays out, the act is designed only to exhaust old samskar data. The 'I'-sense is precisely what re-uploads the act as a new samskar.
@@ -124,6 +135,17 @@ The most complete poetic expression of *karm-mukt* in Hingori's cited sources:
 
 See [[entities/adi-shankaracharya]].
 
+## Non-Doership and Self-Worship — Not Contradictory
+
+*Aatma Sutra* Ch.XIV explicitly addresses an apparent paradox: if "I am not the doer," who worships, and who is worshipped?
+
+Hingori's resolution: the two practices operate at different levels and are **complementary**:
+
+> "No, they are not [contradictory]. The result of non-doership is a consistent reduction of the karmic weight through the exhaustion of *samskars* thereby, helping you to inch towards circumventing the cycle of life and death and towards *mukti*. The fact that you learn to love and worship yourself means you have transcended and would not wish to live endlessly, life after life and death after death."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.177
+
+Non-doership reduces karmic weight by severing the ownership mechanism. Self-worship re-anchors identity in the divine core rather than the physical and mental noise. Together they exhaust *samskars* from below (non-doership) and affirm divinity from above (self-worship). The affirmation "I am not the doer" must be repeated thousands of times hypnotically, seeping from conscious to unconscious. See [[concepts/self-worship]].
+
 ## Cross-references
 
 - [[concepts/doer-ship]] — the binding mechanism that non-doership dissolves
@@ -135,5 +157,6 @@ See [[entities/adi-shankaracharya]].
 - [[concepts/samskars]] — the stored impressions that non-doership prevents from being renewed
 - [[concepts/vasna]] — the tendency-mechanism through which samskars fructify; non-doership severs the re-encoding loop
 - [[concepts/vairagya]] — detachment from self-identity is the prerequisite for sustained non-doership
+- [[concepts/self-worship]] — the complementary movement; non-doership exhausts samskars; self-worship affirms the divinity that remains
 - [[stories/hingori-non-doership-shortcut]] — Hingori's bracketing formula for practical daily application
 - [[entities/adi-shankaracharya]] — *Nirvana Shatakam* as the fullest expression of karm-mukt

@@ -5,7 +5,7 @@ tags: [guru-nanak, sikhism, sadguru, devi-worship]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
 related: [[concepts/guru-disciple]], [[stories/guru-nanak-river-bain]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-22
 ---
 
 # Guru Nanak
@@ -45,9 +45,19 @@ A distinctive note from Hingori that is not widely emphasised in Sikh tradition:
 
 This is **Gurudev's teaching**, transmitted through Hingori. It positions Guru Nanak not as guru-less in the absolute sense but as having a **non-human guru** — a devi — and it attributes his spiritual powers (including the OM on his palm) to that relationship. This parallels the description of Gurudev's own palm-symbols.
 
+## "Nanak Dukhiya Sab Sansaar" (Ch.XI)
+
+Hingori cites Guru Nanak's adage in *Aatma Sutra* Ch.XI when discussing destiny as a source of self-doubt:
+
+> "*Nanak dukhiya sab sansaar*" — the world is always in a state of unhappiness.
+> — Guru Nanak Dev, quoted in *Aatma Sutra*, Ch.XI, p.132
+
+Hingori uses it to point out that no age, stage, or circumstance is exempt from discontent — making the search for self-acceptance through external conditions a circular, never-ending game.
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — case study of realisation outside the classical sadguru model
+- [[concepts/self-acceptance]] — his adage cited as evidence for the universality of discontent
 - [[stories/guru-nanak-river-bain]] — the episode at the river
 - [[entities/mahaguru]] — who attributed the devi-connection to Nanak
 

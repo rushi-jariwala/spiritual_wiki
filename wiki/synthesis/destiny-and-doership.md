@@ -2,14 +2,14 @@
 title: Destiny and Doer-ship — The Hingori Theodicy
 type: synthesis
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/destiny]], [[concepts/doer-ship]], [[concepts/non-doership]], [[concepts/prarabdh-karma]], [[concepts/mahurat]], [[concepts/samskars]]
+related: [[concepts/destiny]], [[concepts/doer-ship]], [[concepts/non-doership]], [[concepts/prarabdh-karma]], [[concepts/mahurat]], [[concepts/samskars]], [[concepts/self-acceptance]]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-22
 ---
 
 # Destiny and Doer-ship — The Hingori Theodicy
 
-*Available sources: Karma Sutra (Ch.1), Aatma Sutra (Ch.V). Pattern spans both.*
+*Available sources: Karma Sutra (Ch.1), Aatma Sutra (Ch.V, Ch.XI). Pattern spans all three.*
 
 ---
 
@@ -67,7 +67,7 @@ The Aatma Sutra passage is not a softer version of the Karma Sutra teaching — 
 ## Implications
 
 - The [[practices/karmic-worksheet|karmic worksheet]] (daily audit) operates at the doer-ship layer — training the attention to notice ownership in the moment. Destiny is the background condition that makes this practice sane; otherwise the worksheet becomes an exercise in self-blame.
-- The [[concepts/aatma|self-worship]] arc of *Aatma Sutra* (Part C) requires the destiny + doer-ship synthesis as its foundation. One cannot love the self one continues to blame, and one cannot stop blaming the self while also owning it.
+- The [[concepts/aatma|self-worship]] arc of *Aatma Sutra* (Part C) requires the destiny + doer-ship synthesis as its foundation. One cannot love the self one continues to blame, and one cannot stop blaming the self while also owning it. *Aatma Sutra* Ch.XI is where this synthesis is applied directly: societal self-blame, guilt as a samskar generator, and the "pawn" logic all operationalize the abstract synthesis above. See [[concepts/self-acceptance]].
 - The "Statutory Warning" in *Aatma Sutra* Ch.V (predictions go wrong, astrology has inexact practitioners) is a guard against the opposite failure mode: using determinism as a license for fatalism. The framework is *acceptance*, not *abdication*.
 
 ## Cross-references

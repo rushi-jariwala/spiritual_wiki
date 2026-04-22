@@ -159,6 +159,26 @@ Negative samskars fructify faster than positive ones. The pot fills before it em
 
 ## Aura & Spirit Body
 
+### The Bluetooth Connection — Criticism and Praise
+*Illuminates: [[concepts/aura]], [[concepts/pratipakshbhavana]], [[concepts/empathy]]*
+
+> "When you think of someone or something, a remote bluetooth sort of connection is established. When you criticise someone and their qualities, even unwittingly, you magnetise a fraction of the qualities of the person. Therefore, criticising someone regularly will, at some point, instil within you the very qualities that you criticised."
+> — Hingori, *Aatma Sutra*, Ch.X, p.125
+
+Thinking of someone opens a channel — criticism draws their qualities *into* you; praise does the same. The analogy makes the mechanism visceral: Bluetooth doesn't care whether the signal is welcome; it connects and transfers. The corollary from yogic practice: meditating on a horse builds speed, on an elephant builds strength — because the same transfer logic applies to any sustained attention. The Golden Rule that follows: "What you meditate upon, that you become. Choose prudently."
+
+---
+
+### Body-Shaped Plants
+*Illuminates: [[concepts/aura]] (animal and plant aura)*
+
+> "Why are walnuts that look like the brain good for it? Why are papayas, that look similar to the stomach good for the stomach? Why are almonds that are shaped like the eyes good for the eyes?"
+> — Hingori, *Aatma Sutra*, Ch.X, p.124
+
+The visual resemblance of a plant to a human organ is a pointer to their aural affinity — the same inter-species connectivity that makes a bear's aura beneficial to weak legs and a crow's to delayed speech. The analogy grounds an otherwise esoteric claim (all life forms share and exchange aura) in an observation anyone can verify in a kitchen.
+
+---
+
 ### Spirit Body as Smoke
 *Illuminates: [[concepts/sukshma-sharir]], [[concepts/aura]]*
 

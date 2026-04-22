@@ -70,6 +70,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/puranji|Puranji]] — Gurudev's emissary; appeared in Hingori's dream state to call him for an astral tour
 - [[entities/rc-malhotra|R.C. Malhotra]] — Senior-most disciple of Gurudev; taught Hingori gati (*superfast astral travel*) in a vision state
 - [[entities/adi-shankaracharya|Adi Shankaracharya]] — Founder of Advaita Vedanta; *Nirvana Shatakam* cited as classical expression of karm-mukt
+- [[entities/devi-renuka|Devi Renuka]] — Hindu deity, mother of Parshuram; appeared in vision to Hingori and lifted Parshuramji's attack
 
 ---
 
@@ -77,7 +78,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–IX ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–X ingested*
 
 ---
 
@@ -147,6 +148,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/hingori-non-doership-shortcut|Hingori's Non-Doership Shortcut]] — The bracketing prayer formula for practical daily application of karm-mukt
 - [[stories/gurudev-horse-gives-birth|"A Horse Gives Birth to a Horse"]] — Gurudev's patient empathy and unwavering vision transform Hingori
 - [[stories/gurudev-seva-poem|Gurudev's Seva — "A Few Minutes in Every Hour"]] — Verbatim verse capturing the scope of Gurudev's lifelong service
+- [[stories/hingori-renuka-temple-attack|Hingori at Renuka — Attacked by the Son, Saved by the Mother]] — Parshuramji's spiritual attack; Devi Renuka's intervention; "energy better earned than stolen"
+- [[stories/giri-blister-healing|Giri's Blister — Negative Energy Made Visible]] — Mantra-water healing; negative energy drawn from house manifests as face-shaped blister on Giri's hand
 
 ---
 

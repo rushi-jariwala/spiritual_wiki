@@ -121,6 +121,8 @@ Hingori documents a progressive sequence of astral travel experiences under Guru
 - [[stories/hingori-lonavala-temple-vision]]
 - [[stories/hingori-gati-malhotra]]
 - [[stories/hingori-fan-ankle]]
+- [[stories/hingori-renuka-temple-attack]] — punished by Parshuramji for stealing temple energy; saved by Devi Renuka
+- [[stories/giri-blister-healing]] — Hingori arranges black magic clearing; witness to Giri's face-shaped blister
 
 ## Cross-references
 

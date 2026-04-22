@@ -1,0 +1,89 @@
+{
+  "title": "Aatma Sutra",
+  "slug": "aatma-sutra",
+  "raw_file": "raw/aatma-sutra.md",
+  "raw_type": "md",
+  "sources_page": "wiki/sources/aatma-sutra.md",
+  "chapters": [
+    {
+      "n": 5,
+      "title": "Destiny",
+      "lines": [864, 1083],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 6,
+      "title": "Astral Travel",
+      "lines": [1084, 1159],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 7,
+      "title": "Maya",
+      "lines": [1160, 1255],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 8,
+      "title": "Loks",
+      "lines": [1256, 1535],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 9,
+      "title": "Key Formulas of Evolution",
+      "lines": [1536, 1741],
+      "status": "pending",
+      "git_sha": null,
+      "note": "Includes Part B section divider (line 1536)"
+    },
+    {
+      "n": 10,
+      "title": "Protecting and Expanding Aura",
+      "lines": [1742, 1869],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 11,
+      "title": "Accepting Yourself",
+      "lines": [1870, 2055],
+      "status": "pending",
+      "git_sha": null,
+      "note": "Includes Part C section divider (line 1870)"
+    },
+    {
+      "n": 12,
+      "title": "Falling in Love with Yourself",
+      "lines": [2056, 2183],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 13,
+      "title": "Examining Self-Worship",
+      "lines": [2184, 2379],
+      "status": "pending",
+      "git_sha": null,
+      "note": null
+    },
+    {
+      "n": 14,
+      "title": "Self-Worship, The Way Forward",
+      "lines": [2380, 3264],
+      "status": "pending",
+      "git_sha": null,
+      "note": "Includes Life Scorecard section at end of file"
+    }
+  ]
+}

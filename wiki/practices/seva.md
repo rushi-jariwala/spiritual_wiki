@@ -150,6 +150,7 @@ Service to other life forms is, at the deepest level, service to the consciousne
 - [[concepts/non-doership]] — seva and non-doership must be practised together to retain full karmic value
 - [[concepts/vairagya]] — detachment from outcomes keeps seva clean
 - [[concepts/gunas]] — seva elevates sattva; the guna mix shifts with every genuine act of service
+- [[concepts/aura]] — seva listed as one of six concrete aura enhancement methods in Ch.X; dua/gratitude from those served transfers as blessings that expand the aura
 - [[entities/mahaguru]] — whose life was seva's living embodiment
 - [[entities/guru-vashisht]] — the warning about charity from ill-gotten wealth
 - [[practices/tapasya]] · [[practices/sadhana]]

@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** **Chapter IX ingested (2026-04-22).** Chapters X–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** **Chapter IX ingested (2026-04-22).** **Chapter X ingested (2026-04-22).** Chapters XI–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -52,11 +52,48 @@ Structured in three parts:
 | VII | Maya | ← *ingested* |
 | VIII | Loks | ← *ingested* |
 | IX | Key Formulas of Evolution | ← *ingested* |
-| X | Protecting and Expanding Aura | pending |
+| X | Protecting and Expanding Aura | ← *ingested* |
 | XI | Accepting Yourself | pending |
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. X)
+
+- **Aura measurement** — simple palm test; 20–24 inches = well-developed; 10–12 = underdeveloped; <6–8 = auric poverty; test 3–4 times as aura varies. [[concepts/aura]]
+- **Six enhancement methods**: Mantra Vidya (cross-legged chanting, hidden mala, charged water); guna purification (sattva sustains larger aura); seva (dua/gratitude transfers as blessing); spiritual healing + arpan (healer absorbs negative energy unless surrendered to higher power); greening places (plant–human aura exchange); accidental aura attainment (high-magnetic locations). [[concepts/aura]], [[practices/seva]]
+- **Thursday restrictions (Guruvar)**: six categories of prohibited actions on Jupiter's day — shampooing hair, shaving/cutting, washing clothes, non-veg/alcohol, intimacy — all to prevent aura disturbance when Jupiter's sattvic rays most dominate. [[concepts/gunas]]
+- **Outward transmission of aura**: eyes as two-way transmitters; white food as energy sponge; telepathy, desire, attraction as depletion vectors; why saints internalise. [[concepts/aura]]
+- **Animal aura**: bear water (weak legs), crow curd (delayed speech), black dog (household negativity); plant-body visual resemblance as pointer to aural affinity (walnut/brain, papaya/stomach, almond/eyes). [[concepts/aura]]
+- **The Bluetooth Principle**: thinking of someone creates a remote connection; criticising absorbs their qualities; praising does the same; meditation on animals instils their qualities. Golden Rule: "What you meditate upon, that you become." [[concepts/aura]], [[concepts/pratipakshbhavana]]
+- **Aura as the final balance sheet**: closing thesis — aura is the only asset carried forward across deaths; armour against illness and spiritual attack; "your ethereal wealth and the stock-in-trade of your final balance sheet." [[concepts/aura]]
+- Personal testimonies: [[stories/hingori-renuka-temple-attack]] (attacked by Parshuramji's force, saved by [[entities/devi-renuka]]); [[stories/giri-blister-healing]] (blister manifests negative energy drawn from house)
+
+## Notable Quotes (Ch. X)
+
+> "I learned the golden rule that energy was better earned than stolen."
+> — Hingori, *Aatma Sutra*, Ch.X, p.120
+
+> "Attacked by the son, saved by the mother!"
+> — Hingori, *Aatma Sutra*, Ch.X, p.120 *(one-liner after the Renuka episode)*
+
+> "**Golden Rule:** What you meditate upon, that you become. Choose prudently."
+> — Hingori, *Aatma Sutra*, Ch.X, p.125
+
+> "Your aura potency, in a manner of speaking, is your cosmic currency and you need a lot of it in order to be rich. It is one of the only assets that you can carry forward when you die, and to your future incarnations."
+> — Hingori, *Aatma Sutra*, Ch.X, p.126
+
+## Stories Extracted (Ch. X)
+
+- [[stories/hingori-renuka-temple-attack]] — created; Hingori punished by Parshuramji for attempting to steal temple energy; saved by Devi Renuka's vision
+- [[stories/giri-blister-healing]] — created; Giri magnetises negative energy from a black-magic-afflicted house; a face-shaped blister appears and dissolves in 15 minutes
+- *(Short anecdotes — Mumbai blisters/healer-without-arpan; Hingori's son with weak legs/bear; Hingori as late speaker/crow curd; black dog in households — captured inline in [[concepts/aura]].)*
+
+## New Concepts / Entities (Ch. X)
+
+- [[concepts/aura]] — substantially extended: measurement, 6 enhancement methods, Thursday restrictions, outward transmission, animal aura, Bluetooth Principle
+- [[entities/devi-renuka]] — entity stub created
+- *(No new concept pages; all Ch.X material is an extension of [[concepts/aura]])*
 
 ## Key Themes (Ch. IX)
 

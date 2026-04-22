@@ -275,6 +275,50 @@ Worldly markers — elite education, social prestige, professional success — a
 
 ---
 
+## Practice & Evolution
+
+### Seva as Multilevel Marketing
+*Illuminates: [[practices/seva]], [[concepts/karma]]*
+
+> "*Seva* works like a multilevel marketing concept. There are benefits for those who do the *seva* directly, and for those who are indirect facilitators for the same."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.113
+
+A single act of seva propagates benefit downstream through everyone touched by the chain it initiates. The original donor gets karmic credit not just for their direct act but for all the secondary benefit that flows from it — just as in an MLM structure where the originator earns on everything downstream. The analogy makes explicit why Hingori describes education as the highest-multiplier seva: a single grant of education a century ago is still compounding.
+
+---
+
+### Cricket at 100 mph — Pratipakshbhavana as Muscle Memory
+*Illuminates: [[concepts/pratipakshbhavana]], [[concepts/non-doership]]*
+
+> "Technically, it is almost impossible to see a ball at 100 miles an hour and then decide how to play it. Few batsmen can do that. So how do they hit a ball that moves faster than you can think? It is called practice. It also leads to muscle memory."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.111
+
+Negative thoughts arrive faster than conscious deliberation. *Pratipakshbhavana* — like batting — must become an automatic reflex, not a considered response. The practice is about building the neural groove, not about getting the first response right. You go to the nets; over time the substitute thought fires before the destructive one can land.
+
+---
+
+### Marlon Brando / Rod Steiger — Role-play Gone Wrong
+*Illuminates: [[concepts/role-play]], [[concepts/samskars]], [[concepts/doer-ship]]*
+
+> "Marlon Brando, got so immersed in his character as Don Corleone, that he needed six months of psychiatric help to come out of it. Rod Steiger played the role of Napoleon in an epic film called Waterloo. He allowed the character to get so deep under his skin that he too needed psychiatric care to get out of it."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.109
+
+Role-play is "a two-faced coin." The cautionary version is absorption: when the actor becomes the character and cannot return to themselves. In life, the equivalent is emotional ownership of one's roles (parent, spouse, boss) — which converts them from temporary functions into samskar-encoded identities. The more you *believe* the role is your reality, the more it binds. Detachment from the role — performing it fully while knowing it is a performance — is what keeps identity intact.
+
+---
+
+### Lord Ganapati Circling His Parents — The Arpan Logic
+*Illuminates: [[concepts/non-doership]]*
+
+Hingori uses the mythological competition between Lord Kartikeya (who physically circumnavigated the universe) and Lord Ganapati (who circled his parents and declared it equivalent to going around the universe) as the logic for his non-doership shortcut:
+
+> "(I am referring to the competition with Lord Kartikeya, his elder brother, for going around the universe. While Lord Kartikeya actually went around the universe, Lord Ganapati circled his parents in a few seconds and said it was equal to going around the universe.) So, if Lord Shankar could accept the logic of his son, why would he not accept ours?"
+> — Hingori, *Aatma Sutra*, Ch.IX, p.104
+
+If a sincere shortcut is accepted at the highest level of divine logic, then Hingori's bracketing formula for non-doership ("from the last time to this time…") has the same validity as the full practice. The analogy sanctions the pragmatic approach without diminishing the ideal.
+
+---
+
 ## Liberation & Practice
 
 ### Plastering a Wall

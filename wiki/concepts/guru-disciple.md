@@ -98,6 +98,7 @@ See more in [[quotes/guru]].
 - [[entities/hingori]] — the disciple-author
 - [[practices/seva]] · [[practices/tapasya]] · [[practices/sadhana]]
 - [[stories/hingori-arthritis-cure]] · [[stories/gurus-umbrella-wife-delivery]] · [[stories/scooter-accident-vision]] · [[stories/bada-guruvar-queue]] · [[stories/guru-nanak-river-bain]]
+- [[concepts/empathy]] — the guru's empathy as the transformative force: holding the disciple's potential when they cannot see it themselves ([[stories/gurudev-horse-gives-birth]])
 
 ## Open Questions
 

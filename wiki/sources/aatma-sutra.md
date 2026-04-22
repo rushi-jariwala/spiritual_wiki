@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** Chapters IX–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** **Chapter VIII ingested (2026-04-22).** **Chapter IX ingested (2026-04-22).** Chapters X–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -51,12 +51,71 @@ Structured in three parts:
 | VI | Astral Travel | ← *ingested* |
 | VII | Maya | ← *ingested* |
 | VIII | Loks | ← *ingested* |
-| IX | Key Formulas of Evolution | pending |
+| IX | Key Formulas of Evolution | ← *ingested* |
 | X | Protecting and Expanding Aura | pending |
 | XI | Accepting Yourself | pending |
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. IX)
+
+- **Five formulas of evolution**: Ch.IX is the practical heart of the book — five actionable practices presented as a unified system: *vairagya* (detachment), *karm-mukt* (non-doership), empathy, role-play, and *seva*. [[concepts/vairagya]], [[concepts/non-doership]], [[concepts/empathy]], [[concepts/role-play]], [[practices/seva]]
+- **Vairagya**: detachment from family, material objects, *and* perceived identity; overcomes duality; Gurudev as exemplar — "he belonged to everyone, and yet, to no one." [[concepts/vairagya]]
+- **Karm-mukt as deepened non-doership**: requires belief embedded at conscious, subconscious, and unconscious levels; credit harder to release than blame; Hingori's shortcut prayer formula. [[concepts/non-doership]], [[stories/hingori-non-doership-shortcut]]
+- **Nirvana Shatakam**: Adi Shankaracharya's poem cited as the classical expression of karm-mukt — transcending virtue and vice, pleasure and pain. [[entities/adi-shankaracharya]]
+- **Empathy as prerequisite for self-acceptance**: finding fault in others blocks self-acceptance; the rewiring runs from others → self, not the reverse. [[concepts/empathy]]
+- **Role-play**: inhabiting relationships as performances with detachment; Gurudev's fluid multi-role mastery; Brando/Steiger as the cautionary case. [[concepts/role-play]]
+- **Pratipakshbhavana**: superimposing a positive/corrective thought on every negative one; the cricket-at-100mph analogy for practice vs. muscle memory; the Golden Rule (rate of decreasing failure). [[concepts/pratipakshbhavana]]
+- **Seva — full treatment**: types (material, education, healing, spiritual), the multilevel marketing propagation model, the Golden Rule (never accept return), seva + non-doership as inseparable, Guru Vashisht's caveat on ill-gotten charity. [[practices/seva]]
+- **Gurudev's akashwani**: instructed to abandon advanced *sadhana* near Santokhsar Lake and return to family life; attainments came through seva within worldly life, not renunciation.
+- **Grandfather education multiplier**: already at [[stories/grandfather-education-multiplier]] (first filed from *Karma Sutra*) — cross-referenced here; Hingori's version names himself and his father in the chain.
+
+## Notable Quotes (Ch. IX)
+
+> "He belonged to everyone, and yet, to no one. He was ready to relieve our pain, but not feel it."
+> — Hingori on Gurudev, *Aatma Sutra*, Ch.IX, p.101
+
+> "From the last time to this time and from this time until the next, I have not been the doer of any actions nor do I take any responsibility for any of my thoughts."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.104
+
+> "I have neither virtue (*punyam*), nor vice (*papam*)... I am indeed, that eternal knowing and bliss, Shiva, love and pure consciousness."
+> — Adi Shankaracharya, *Nirvana Shatakam*, quoted in *Aatma Sutra*, Ch.IX, p.104
+
+> "**Golden Rule:** Instead of looking at the rate of success, look at the rate of decreasing failure."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.111
+
+> "**Golden Rule:** Never accept any return (monetary or otherwise) for your service, or the accrual of *seva* in lieu of the service, gets nullified."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.113
+
+> "Of what value is charity performed with wealth earned by deceiving others? Only they derive the fruits of such charity!"
+> — Guru Vashisht, *Yog Vasishta*, quoted in *Aatma Sutra*, Ch.IX, p.115
+
+## Stories Extracted (Ch. IX)
+
+- [[stories/hingori-non-doership-shortcut]] — created; Hingori's bracketing prayer formula for non-doership
+- [[stories/gurudev-horse-gives-birth]] — created; Gurudev's patient empathy turns Hingori around
+- [[stories/gurudev-seva-poem]] — created; verbatim verse on the scope of Gurudev's seva
+- [[stories/grandfather-education-multiplier]] — cross-referenced (existing page); the multigenerational education chain
+- *(Short anecdotes — Gurudev "belonged to everyone yet to no one", Sneh's back problem, Hingori bedridden by Saturn, JRD Tata interview, Gurudev's multi-role relationship, Gurudev's visualisation for sensual thoughts, Hingori's adopted father's vision, Gurudev's akashwani at Santokhsar — captured inline in respective concept and practice pages.)*
+
+## New Concepts / Entities (Ch. IX)
+
+- [[concepts/vairagya]] — created
+- [[concepts/empathy]] — created
+- [[concepts/role-play]] — created
+- [[concepts/pratipakshbhavana]] — created
+- [[concepts/non-doership]] — substantially extended (karm-mukt, shortcut formula, Nirvana Shatakam)
+- [[practices/seva]] — substantially extended (full Ch.IX treatment)
+- [[entities/adi-shankaracharya]] — entity stub created
+
+## Contradictions / Tensions (Ch. IX)
+
+> [!warning] Non-doership vs. motivational seva
+> Ch.IX simultaneously teaches that evolved souls transcend the positive/negative distinction entirely (karm-mukt) *and* urges practitioners to build positive karma through seva. Hingori acknowledges the threshold is stage-dependent ("in the initial stages these feelings will arise") but does not specify when the motivational phase should give way to full non-doership. Practitioners reading Ch.IX in isolation may experience the two instructions as contradictory. See [[synthesis/destiny-and-doership]] for the broader framework.
+
+> [!warning] Guru Vashisht on ill-gotten charity
+> "Only they [those who deceived] derive the fruits of such charity" — implies that recipients of charity from corrupt sources receive no spiritual benefit. This subtly limits the multilevel seva propagation model: the channel must itself be clean for the benefit to flow.
 
 ## Key Themes (Ch. VIII)
 

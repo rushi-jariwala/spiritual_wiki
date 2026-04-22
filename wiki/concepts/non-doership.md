@@ -1,10 +1,10 @@
 ---
 title: Non-Doership
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/doer-ship]], [[concepts/karma]], [[concepts/moksha]], [[concepts/maya]], [[concepts/sanchit-karma]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+related: [[concepts/doer-ship]], [[concepts/karma]], [[concepts/moksha]], [[concepts/maya]], [[concepts/sanchit-karma]], [[concepts/vairagya]], [[concepts/samskars]], [[concepts/vasna]], [[entities/adi-shankaracharya]]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-04-22
 ---
 
 # Non-Doership
@@ -91,6 +91,39 @@ Ch.8 deepens the mechanism. Non-doership is not merely an ethical posture — it
 
 Non-doership must therefore reach the level of citta (the totality of conscious, subconscious, and unconscious mind), not just the surface mind's intellectual agreement. This is why it is described as requiring "rehearsals and years of practice."
 
+## Karm-mukt — The Term from *Aatma Sutra*
+
+*Aatma Sutra* Ch.IX uses the term *karm-mukt* (*karma* + *mukt* = freedom) to name the state of being fully free from karma's fruits through deeply embedded non-doership:
+
+> "The word *mukt* means freedom. Freedom from *karma* and its obligations is what you achieve if you become *karm-mukt* or free from bearing the fruits of *karma*."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.102
+
+The mechanism is the same as described in *Karma Sutra*, but with precision added: the belief in non-doership "has to be deeply embedded in the conscious, subconscious, and unconscious levels of your mind" — not just intellectually acknowledged.
+
+### The Problem: Credit Is Harder to Release Than Blame
+
+Hingori adds a nuance missing from the *Karma Sutra* treatment: practitioners find it easier to *not* take debit (for bad deeds) than to release credit (for good ones). Pride in seva, generosity, and spiritual accomplishment is the more tenacious form of doer-ship. In the early stages of evolution, this pride is motivating and expected. But at a more advanced level it must be replaced by the understanding that all actions — good and included — are pre-programmed fructifications.
+
+### Hingori's Shortcut Prayer
+
+Finding the "remove the 'I'" instruction too abstract to apply moment by moment, Hingori devised a practical formula. The full account is at [[stories/hingori-non-doership-shortcut]]; the formula itself:
+
+> "From the last time to this time and from this time until the next, I have not been the doer of any actions nor do I take any responsibility for any of my thoughts."
+> — Hingori, *Aatma Sutra*, Ch.IX, p.104
+
+The logic: ownership already taken between the last such declaration and this one is retroactively declared a misconception and rejected. Ownership between now and the next declaration is predicted and pre-rejected. The individual acts of doer-ship are bracketed out without needing to catch each one in real time.
+
+**Practice:** Spend five minutes a day reciting "I am not the doer" as a prayer.
+
+### Adi Shankaracharya — Nirvana Shatakam
+
+The most complete poetic expression of *karm-mukt* in Hingori's cited sources:
+
+> "I have neither virtue (*punyam*), nor vice (*papam*). I do not commit sins or good deeds, nor have happiness or sorrow, pain or pleasure, I do not need *mantras*, holy places, scriptures (*Vedas*), rituals or sacrifices (*yagnas*). I am none of the triad of the observer or one who experiences the process of observing or experiencing, or any object being observed or experienced. I am indeed, that eternal knowing and bliss, Shiva, love and pure consciousness."
+> — Adi Shankaracharya, *Nirvana Shatakam*, quoted in *Aatma Sutra*, Ch.IX, p.104
+
+See [[entities/adi-shankaracharya]].
+
 ## Cross-references
 
 - [[concepts/doer-ship]] — the binding mechanism that non-doership dissolves
@@ -101,3 +134,6 @@ Non-doership must therefore reach the level of citta (the totality of conscious,
 - [[concepts/attitude-to-deeds]] — the three-stage practical map; Stage 3 (Deeds with Detachment) is non-doership in daily action
 - [[concepts/samskars]] — the stored impressions that non-doership prevents from being renewed
 - [[concepts/vasna]] — the tendency-mechanism through which samskars fructify; non-doership severs the re-encoding loop
+- [[concepts/vairagya]] — detachment from self-identity is the prerequisite for sustained non-doership
+- [[stories/hingori-non-doership-shortcut]] — Hingori's bracketing formula for practical daily application
+- [[entities/adi-shankaracharya]] — *Nirvana Shatakam* as the fullest expression of karm-mukt

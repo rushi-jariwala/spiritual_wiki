@@ -51,6 +51,10 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/destiny|Destiny]] — Fructification of karmas aligned with planetary movements; acceptance of destiny as the antidote to guilt; astrology as exact science
 - [[concepts/astral-travel|Astral Travel]] — Spirit body exits physical body; gati (superfast travel); spirit world physics; nirman kaya in action; posthumous appearances
 - [[concepts/loks|Loks]] — 14-storey cosmological model of existence; Earth as the karma lok; lower tals and upper loks; guna mix as the qualification; spiritual ballooning as the method of ascent
+- [[concepts/vairagya|Vairagya (Detachment)]] — detachment from external bonds AND perceived identity; prerequisite for all other formulas of evolution; Gurudev as exemplar
+- [[concepts/empathy|Empathy]] — understanding others without adding emotions; self-acceptance requires accepting others first; Gurudev's transformation of Hingori
+- [[concepts/role-play|Role-Play (Spiritual)]] — inhabiting relationships as performances with detachment; Gurudev as fluid multi-role master; Brando/Steiger as the cautionary case
+- [[concepts/pratipakshbhavana|Pratipakshbhavana]] — superimposing positive thoughts on negative ones; cricket-at-100mph analogy; Golden Rule on rate of decreasing failure
 
 ---
 
@@ -65,6 +69,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/guru-vashisht|Guru Vashisht]] — Ram's preceptor; source of the Yog Vasishta teachings on Brahman, maya, and consciousness supreme (Advait Vedanta)
 - [[entities/puranji|Puranji]] — Gurudev's emissary; appeared in Hingori's dream state to call him for an astral tour
 - [[entities/rc-malhotra|R.C. Malhotra]] — Senior-most disciple of Gurudev; taught Hingori gati (*superfast astral travel*) in a vision state
+- [[entities/adi-shankaracharya|Adi Shankaracharya]] — Founder of Advaita Vedanta; *Nirvana Shatakam* cited as classical expression of karm-mukt
 
 ---
 
@@ -72,7 +77,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–VIII ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–IX ingested*
 
 ---
 
@@ -93,6 +98,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[quotes/aura|Quotes on Aura and Shakti]] — Protective shield, cosmic currency, spirit body nature, Frederick Lenz
 - [[quotes/destiny|Quotes on Destiny]] — Planetary mechanism, duality pendulum, astrology, acceptance, "not the guilty me"
 - [[quotes/loks|Quotes on Loks and Spiritual Evolution]] — Death-consciousness, tapo raj/rajo narak, the invested life, "keep intentions pure"
+- [[quotes/seva|Quotes on Seva and Service]] — Precursor to self-esteem, Golden Rules, multilevel propagation, Guru Vashisht's caveat, Gurudev's seva in verse
 
 ---
 
@@ -138,6 +144,9 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/hingori-third-eye-opened-closed|Gurudev Opens and Closes Hingori's Third Eye]] — Third eye opened, then deliberately shut so Hingori would not get stuck at the Tapa Lok level
 - [[stories/hingori-lok-visits|Hingori's Visits to the Loks]] — Three or four vision-state visits; grandmother in a darker lok ignores him; colour-coded togas
 - [[stories/guna-self-assessment|Guna Self-Assessment Worksheet]] — 18-attribute self-diagnostic for sattvic/rajasic/tamasic dominant guna
+- [[stories/hingori-non-doership-shortcut|Hingori's Non-Doership Shortcut]] — The bracketing prayer formula for practical daily application of karm-mukt
+- [[stories/gurudev-horse-gives-birth|"A Horse Gives Birth to a Horse"]] — Gurudev's patient empathy and unwavering vision transform Hingori
+- [[stories/gurudev-seva-poem|Gurudev's Seva — "A Few Minutes in Every Hour"]] — Verbatim verse capturing the scope of Gurudev's lifelong service
 
 ---
 

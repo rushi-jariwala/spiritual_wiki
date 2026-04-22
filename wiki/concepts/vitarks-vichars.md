@@ -2,7 +2,7 @@
 title: Vitarks and Vichars
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/citt-vritti-nirodh]], [[concepts/samskars]], [[concepts/kleshas]], [[concepts/non-doership]], [[concepts/karma]]
+related: [[concepts/citt-vritti-nirodh]], [[concepts/samskars]], [[concepts/kleshas]], [[concepts/non-doership]], [[concepts/karma]], [[concepts/pratipakshbhavana]]
 created: 2026-04-17
 updated: 2026-04-17
 ---
@@ -77,5 +77,6 @@ When both are fairly exhausted: a quieter mind, a stiller *citt*, and a more eff
 - [[concepts/samskars]] — both originate in the karmashaya; acceptance exhausts them without adding new samskars
 - [[concepts/kleshas]] — vitarks as anti-yams connect to the klesha framework (raga, dwesa, asmita in particular)
 - [[concepts/non-doership]] — not taking ownership of vitarks/vichars is non-doership applied at the level of thought
+- [[concepts/pratipakshbhavana]] — the active tool for substituting a positive thought when a negative vitark/vichar lands
 - [[stories/giri-embarrassing-dream]] — Gurudev's practical intervention to prevent guilt from converting a vitark into a samskar
 - [[stories/himachal-vitark-exhaustion]] — Gurudev's orchestrated exhaustion of Hingori's vitarks in a single bumpy jeep ride

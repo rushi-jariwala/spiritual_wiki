@@ -160,6 +160,8 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 - [[stories/hingori-puranji-missed-astral-tour]] — Gurudev arranges an astral tour; Puranji calls Hingori in dream state; Hingori physically wakes instead of exiting his body
 - [[stories/hingori-lonavala-temple-vision]] — Gurudev takes Hingori in dream-state to Lonavala temple; later verified exact match
 - [[stories/schoolmate-gurudev-gurgaon]] — posthumous appearance: Gurudev appears to a stranger in Gurgaon 20 years after death; directs him to the sthan
+- [[stories/gurudev-horse-gives-birth]] — his patient empathy and unwavering vision turn Hingori around; "A horse gives birth to a horse"
+- [[stories/gurudev-seva-poem]] — "A few minutes in every hour…"; the scope of his seva in verse
 
 ## Quotes
 
@@ -171,6 +173,9 @@ See [[quotes/guru]].
 ## Cross-references
 
 - [[concepts/guru-disciple]] — the teaching framework
+- [[concepts/vairagya]] — "he belonged to everyone, and yet, to no one" — the live embodiment of detachment
+- [[concepts/empathy]] — patient holding of Hingori's potential; the transformation of a self-described fool
+- [[concepts/role-play]] — fluid inhabitation of every relational role without being captured by any one
 - [[concepts/loks]] — Gurudev's afterlife HQ at Najafgarh; descended with hundreds of beings from higher loks
 - [[entities/hingori]] — his disciple and the author of the Sutras
 - [[practices/seva]] · [[practices/tapasya]] — his "one-point programme"

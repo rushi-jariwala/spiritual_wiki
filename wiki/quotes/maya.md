@@ -2,9 +2,9 @@
 title: Quotes on Maya and Moksha
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/maya]], [[concepts/moksha]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/sukshma-sharir]]
+related: [[concepts/maya]], [[concepts/moksha]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/sukshma-sharir]], [[entities/guru-vashisht]]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-18
 ---
 
 # Quotes on Maya and Moksha
@@ -86,3 +86,34 @@ Quotes related to [[concepts/maya]], [[concepts/moksha]], and the nature of the 
 > "Wealth across lifetimes is measured in the currency of *shakti*. You are only as rich as your aura and its potential."
 > — Hingori, *Aatma Sutra*, Ch.II, p.15
 [[concepts/sukshma-sharir]]
+
+---
+
+## On Maya — The Advait Teaching (Aatma Sutra Ch.VII)
+
+> "Whatever is seen, either in a dream or in the waking state, has space alone as support. It is born of space and it is of the nature of space (void). This space is none other than the supreme, infinite consciousness. Nothing, not even this body, has ever been created; hence nothing exists. The infinite consciousness experiences the existence as if in a dream."
+> — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.73)
+[[concepts/maya]] · [[concepts/aatma]] · [[entities/guru-vashisht]]
+
+> "All things in this world are forever unreal, but they are also real because of the consciousness that is the sole reality and their content. Whatever the consciousness decides 'This is such and such' that it becomes, whether it is real or unreal. Such is the nature of consciousness."
+> — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
+[[concepts/maya]] · [[concepts/aatma]] · [[entities/guru-vashisht]]
+
+> "Like a frog in the blind well, foolish and ignorant people base their understanding on the experience of the moment and, on account of their perverse understanding, they are deluded into thinking that the body alone is the source of experience or awareness."
+> — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
+[[concepts/maya]] · [[entities/guru-vashisht]]
+
+---
+
+## On Perception and Maya (Aatma Sutra Ch.VII)
+
+> "Scientists have proved that what you see with your naked eye is less than 0.00000000005 per cent of the entire electromagnetic spectrum."
+> — Hingori, *Aatma Sutra*, Ch.VII, p.77
+
+> "Is science finally catching up? It will not be long before science proves that the observer, the observed, and the observation are all a part of the same consciousness."
+> — Hingori, *Aatma Sutra*, Ch.VII, p.78
+[[concepts/maya]] · [[concepts/aatma]]
+
+> "The more you get into understanding your true nature, the more you will be able to understand the nature of 'what is' and 'who you really are.'"
+> — Hingori, *Aatma Sutra*, Ch.VII, p.80
+[[concepts/maya]] · [[concepts/aatma]]

@@ -61,6 +61,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/ashoka|Emperor Ashoka]] — Historical example of karmayoga cited in Ch.1
 - [[entities/guru-nanak|Guru Nanak]] — Example of realisation without a human sadguru
 - [[entities/bhrigu|Rishi Bhrigu]] — Ancient sage; author of the Bhrigu Nadi readings; cited as evidence for destiny's readability
+- [[entities/guru-vashisht|Guru Vashisht]] — Ram's preceptor; source of the Yog Vasishta teachings on Brahman, maya, and consciousness supreme (Advait Vedanta)
 - [[entities/puranji|Puranji]] — Gurudev's emissary; appeared in Hingori's dream state to call him for an astral tour
 - [[entities/rc-malhotra|R.C. Malhotra]] — Senior-most disciple of Gurudev; taught Hingori gati (*superfast astral travel*) in a vision state
 
@@ -70,7 +71,7 @@ Read this first when answering queries — then drill into relevant pages.
 *One summary page per source document.*
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
-- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–VI ingested*
+- [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Introduction + Ch.I–VII ingested*
 
 ---
 

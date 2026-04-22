@@ -242,3 +242,50 @@ The cracks (negative karma) cannot be removed — they can only be covered over 
 > — Hingori, *Karma Sutra*, Ch.5, p.90
 
 Full non-doership — the stature of the Buddha — is not an overnight achievement. It is a skill developed through repeated practice over many lives, like mastering a sport. The aspiration is not dismissed as impossible; it is reframed as a long-form discipline. People have reached there.
+
+---
+
+## Maya & Perception
+
+### The Artist and the Goat-Man
+*Illuminates: [[concepts/maya]] (Supreme Thought section)*
+
+An artist can visualise a "goat-man" — something that does not exist — using a couple of minutes' worth of energy. Healers visualise cures from across the world. Yogis create *nirman kayas* with independent consciousness. Now apply this capacity to the consciousness supreme, whose visualisation energy is a "zillion times more" than any human's. The thought forms of the consciousness supreme do not remain imaginary — they manifest as planets, beings, and other life forms. The universe is the artist's painting, and the artist is Brahman.
+
+*(Aatma Sutra, Ch.VII, p.76 — paraphrase; no single condensed quote)*
+*Illuminates how the "Supreme Thought" teaching grounds [[concepts/maya]] in an analogy the reader can feel.*
+
+---
+
+### The Rainbow in the Eye
+*Illuminates: [[concepts/maya]] (Limitations of Perception)*
+
+When you see a rainbow, the colours are not in the sky. They are created by the conical photoreceptor cells of the human eye and interpreted by the brain. An animal without those cells sees the same sky in shades of grey. "Reality" — even something as vivid as a rainbow — is a co-production of the perceiving apparatus and the perceived. Remove or change the perceiver, and the rainbow changes or vanishes. The sages' claim that the world is a projection of consciousness is not poetry; it is physics.
+
+> "When you 'see a rainbow', the colours are not in the sky, they are in your eyes and assimilated by your brain."
+> — Hingori, *Aatma Sutra*, Ch.VII, p.78
+[[concepts/maya]]
+
+---
+
+### The Frog in the Blind Well
+*Illuminates: [[concepts/maya]], [[entities/guru-vashisht]]*
+
+From *Yog Vasishta*: foolish people base their entire understanding of reality on what they experience through the body, just as a frog at the bottom of a well assumes the circle of sky above it is the full sky. The well is not the world; the senses are not the universe. The analogy captures the predicament of anyone who refuses to accept testimony that extends beyond sensory verification: their rejection is not rationality — it is a limitation mistaken for rigour.
+
+> "Like a frog in the blind well, foolish and ignorant people base their understanding on the experience of the moment and, on account of their perverse understanding, they are deluded into thinking that the body alone is the source of experience or awareness."
+> — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
+[[concepts/maya]] · [[entities/guru-vashisht]]
+
+---
+
+### The Dream-City (Viraat)
+*Illuminates: [[concepts/maya]], [[concepts/aatma]]*
+
+Brahma, the creator, is the *viraat* — the cosmic person, himself of pure consciousness. The world is the dream-city Brahma has conceived. Just as a dreamer's dream objects are entirely real within the dream yet have no independent existence beyond the dreamer's consciousness, the created universe is entirely real within Brahman's dream while having no existence independent of Brahman. Death does not exit the dream — consciousness simply "conceives of 'the other world' and experiences it as such." The dream ends only at moksh.
+
+> "Brahman, is the infinite consciousness; it conceives of this dream-city, which is the viraat or the cosmic person. This cosmic person is the creator Brahma and is also of pure consciousness, although it is known as this universe."
+> — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
+[[concepts/maya]] · [[concepts/aatma]] · [[entities/guru-vashisht]]
+
+> [!tip] *Note on "Walls as Thinnest Paper"* — that analogy (already filed under [[#Astral Travel & Spirit World]]) is repurposed in Ch.VII as evidence for the limits of physical perception: a wall that is impenetrable to the physical body is non-existent for the spirit body. Physical solidity is a property of the perceiving body, not of the wall. The analogy thus serves both astral travel and maya simultaneously.

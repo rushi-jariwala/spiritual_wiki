@@ -2,9 +2,9 @@
 title: Aatma Sutra — Unveiling Your Soul
 type: source
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[entities/hingori]], [[entities/mahaguru]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]], [[concepts/aura]]
+related: [[entities/hingori]], [[entities/mahaguru]], [[entities/puranji]], [[entities/rc-malhotra]], [[entities/bhrigu]], [[entities/guru-vashisht]], [[concepts/jivaatma]], [[concepts/aatma]], [[concepts/mukti]], [[concepts/isthul-sharir]], [[concepts/sukshma-sharir]], [[concepts/aura]], [[concepts/maya]]
 created: 2026-04-16
-updated: 2026-04-17
+updated: 2026-04-18
 ---
 
 # Aatma Sutra — Unveiling Your Soul
@@ -35,7 +35,7 @@ Structured in three parts:
 
 ## Ingestion Status
 
-**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** Chapters VII–XIV and Life Scorecard pending.
+**Introduction ingested (2026-04-16).** **Chapter I ingested (2026-04-16).** **Chapter II ingested (2026-04-16).** **Chapter III ingested (2026-04-17).** **Chapter IV ingested (2026-04-17).** **Chapter V ingested (2026-04-18).** **Chapter VI ingested (2026-04-18).** **Chapter VII ingested (2026-04-18).** Chapters VIII–XIV and Life Scorecard pending.
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ Structured in three parts:
 | IV | Aura | ← *ingested* |
 | V | Destiny | ← *ingested* |
 | VI | Astral Travel | ← *ingested* |
-| VII | Maya | pending |
+| VII | Maya | ← *ingested* |
 | VIII | Loks | pending |
 | IX | Key Formulas of Evolution | pending |
 | X | Protecting and Expanding Aura | pending |
@@ -57,6 +57,31 @@ Structured in three parts:
 | XII | Falling in Love with Yourself | pending |
 | XIII | Examining Self-Worship | pending |
 | XIV | Self-Worship, The Way Forward | pending |
+
+## Key Themes (Ch. VII)
+
+- **Maya as Advait Vedanta**: grounded in the *Advait* (Non-dualist) school; world as Brahman's dream-city (*viraat*); quotes from *Yog Vasishta* (Guru Vashisht to Lord Ram, tr. Swami Venkateshananda). [[concepts/maya]], [[entities/guru-vashisht]]
+- **The Advait subtlety**: the world is *not* simply unreal — it is "unreal" as independent of Brahman, yet "real" as Brahman. The consciousness supreme is the sole reality and content of everything.
+- **The Supreme Thought**: consciousness supreme's creative visualisation at cosmic scale = the universe; human analogues — artists, remote healers, yogi nirman kayas — point toward the same faculty scaled up infinitely. [[concepts/astral-travel]]
+- **Scientific limitations of perception**: 0.00000000005% EM spectrum visible; <1% acoustic audible; 220 km/s Milky Way travel imperceptible; atoms 99.99...% empty; rainbow in the eye not sky; double-slit experiment (observed universe = function of observer); quantum entanglement (faster than light). All presented as modern corroboration of maya.
+- **Vijay Mehra**: US corporate executive cited as empirical witness to the perception argument; brief reference only — no extended narrative.
+- No personal testimonies or stories. This is the most purely conceptual chapter so far.
+
+## Notable Quotes (Ch. VII)
+
+> "All things in this world are forever unreal, but they are also real because of the consciousness that is the sole reality and their content."
+> — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
+
+> "Is science finally catching up? It will not be long before science proves that the observer, the observed, and the observation are all a part of the same consciousness."
+> — Hingori, *Aatma Sutra*, Ch.VII, p.78
+
+> "The more you get into understanding your true nature, the more you will be able to understand the nature of 'what is' and 'who you really are.'"
+> — Hingori, *Aatma Sutra*, Ch.VII, p.80
+
+## New Concepts / Entities (Ch. VII)
+
+- [[entities/guru-vashisht]] — entity page created
+- *(No new concepts; [[concepts/maya]] substantially enriched)*
 
 ## Key Themes (Ch. VI)
 

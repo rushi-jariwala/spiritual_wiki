@@ -1,8 +1,8 @@
 ---
 title: Karmayoga
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/karma]], [[concepts/positive-karma]], [[concepts/non-doership]], [[concepts/attitude-to-deeds]], [[entities/mahaguru]], [[entities/ashoka]], [[practices/seva]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf]
+related: [[concepts/karma]], [[concepts/positive-karma]], [[concepts/non-doership]], [[concepts/attitude-to-deeds]], [[concepts/grihasth-ashram]], [[entities/mahaguru]], [[entities/ashoka]], [[practices/seva]]
 created: 2026-04-16
 updated: 2026-04-16
 ---

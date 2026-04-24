@@ -27,9 +27,9 @@ updated: 2026-04-12
 | Karma Sutra | Hingori | 2015 | Fully ingested (Ch.1–9) |
 | Dream Sutra | Hingori & Hannah | 2016 | Pending |
 | Guru Sutra | Hingori | 2019 | Pending |
-| Aatma Sutra | Hingori | 2022 | Pending |
+| Aatma Sutra | Hingori | 2022 | Fully ingested (Intro + Ch.I–XIV) |
 | Witnessing Greatness | Hingori | — | Pending |
-| The Guru of Gurus | Hingori | — | Pending |
+| The Guru of Gurus | Hingori | — | Partial — Overview + Ch.1–3 ingested |
 
 ---
 

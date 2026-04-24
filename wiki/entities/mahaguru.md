@@ -14,7 +14,7 @@ updated: 2026-04-25
 
 ## Status
 
-**Partial — Overview and Ch.1 ingested.** Biographical detail now covers birth through his early Delhi years (to ~1958). Chapters 2–4 of *The Guru of Gurus* pending ingestion.
+**Partial — Overview, Ch.1, Ch.2 (The Family Man), and Ch.3 (The Man of Mystery) ingested.** Biographical detail covers birth through the revelation of Buddhe Baba and Augarh. Ch.4 (The Mahaguru, pp.56–116) pending.
 
 ## Who
 
@@ -74,6 +74,67 @@ Despite the fun-loving, cigarette-smoking exterior, when Gurudev told Jain Saheb
 
 > Gurudev was a man who made mountains out of mountains, who thought they were molehills.
 > — Hingori, *Aatma Sutra*, biographical introduction
+
+## Family Life (The Family Man, pp.26–45)
+
+### Mataji
+
+In **1960** Gurudev married **Sudesh Sharma**, twenty years old, from Ludhiana, Punjab — known reverently as [[entities/mataji|Mataji]]. She was the Shakti (feminine principle) to his Shiv (masculine principle): a schoolteacher who kept the household running while he devoted himself to seva. He called her "Master." Their early life was full of simple pleasures — scooter rides and late-night movies.
+
+A few weeks into marriage, Gurudev attempted *sanyaas* in the modern way, leaving the marital home to pursue spiritual attainment. Five years later, meditating at Gurudwara Sri Santoksar Saheb in Amritsar, a voice told him: his final attainments were only possible if he fulfilled his responsibilities as a husband. He returned and taught this teaching of [[concepts/grihasth-ashram]] to his disciples.
+
+### As Father
+
+Gurudev was not overly demonstrative of affection. His love expressed through wisdom, counsel, and presence. He made kites for sons on Basant Panchami; took the family on summer camp trips with video cassette players packed for evenings. When Renu ji once complained that he spent more time with visitors than his children, Mataji replied: *"Beta, if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"* This response inspired Renu ji to feed the poor and tutor migrant labourers' children.
+
+His children: sons **Parvesh ji** and **Puneet ji** (involved in seva); daughters **Renu ji**, **Ila ji**, and **Alka ji**. The four musketeers of the Gurgaon sthan — **Nikku, Pappu, Bittu, and Gaggu** — were a second ring of quasi-family who managed his daily needs and lectured him when he neglected his health.
+
+He was best described as a **master role-player** — inhabiting the roles of father, friend, guru, husband, son, and brother with equal fluency, "acting out emotions unemotionally." See [[concepts/role-play]].
+
+The Billu story crystallises this: Billu, a devotee unable to quit alcohol despite repeated promises, sauntered into the cowshed reeking of alcohol. Gurudev unleashed a fury Hingori had never seen — reducing both Billu and Hingori to trembling submission. The moment Billu left, Gurudev turned to Hingori with a smile: *"Barkhurdar, kaisi lagi hamari acting?"* (What did you think of my performance?). See [[stories/gurudev-billu-acting]].
+
+### As Son
+
+Gurudev always taught that a person has three gurus in life: parents, teachers, and spiritual guide. He was deeply devoted to his mother **Ram Pyari ji**. She developed blisters chasing after him as a child to make him study — a devotion that may have deepened his own philosophy of service before self.
+
+He was drafted into the Army after high school but opted out at his mother's insistence. He applied to the **Film and Television Institute of India (FTII)** — and was turned down. Hingori remarks: *"Fortunately for the millions he would serve in the future."* He then learned role-playing better than any actor.
+
+### As Brother — and Chacha
+
+Gurudev had six siblings: eldest sister **Bimla**, brother **Satish (Chacha)**, and sisters Sudesh, Ramesh, Premlata, and Indira. He was the **pivot** in their lives: nurturing, indulging, and protecting them while keeping his spiritual transformation a secret. His sisters learned he had become a guru only by chance — via a classmate in 1976 who mentioned the 'OM wale baba' performing miracles at Kathog.
+
+He had a childhood relationship with a Ganpati idol — alternately asking for its help and threatening it with destruction. On one occasion he asked Ganpati to make his sister Bimla fail an upcoming exam (she did); on another, he threatened to smash the idol if he failed his own exam (he passed). See [[stories/gurudev-ganpati-exams]].
+
+His younger brother [[entities/chacha|Chacha]] became a powerful spiritualist in his own right — gifted with siddhis by Gurudev and instructed to oversee Hariana and the Khandsa farm. Chacha was a "casualist," defeated two tantriks without apparent effort, and died on 2nd August 1988, having waited — at Gurudev's gentle instruction — until Guru Purnima had passed. See [[stories/chacha-tantriks]].
+
+---
+
+## The Man of Mystery (pp.46–55)
+
+### Buddhe Baba — The Mysterious Mentor
+
+[[entities/buddhe-baba|Buddhe Baba]] was Gurudev's enigmatic spiritual guide. Gurudev described him as "an omnipresent part of his and our lives," consistently declined credit for his own seva (attributing it to Buddhe Baba), and refused to receive more garlands than his guru:
+
+> "I don't want more garlands on my neck than my guru."
+> — Gurudev, *The Guru of Gurus*, p.47
+
+The first meeting occurred sometime before 1970 in a remote hamlet in Madhya Pradesh. A sage at a deserted temple — who had asked Gurudev for tobacco — revealed an eight-word completion to a mantra Gurudev had been chanting, predicted a steel kada would appear under his pillow, and was nowhere to be found when Gurudev returned the next day. An older man nearby confirmed the temple had been empty for a long time. See [[stories/buddhe-baba-deserted-temple]].
+
+Buddhe Baba subsequently appeared to Gurudev's younger sister (as a reddish-light-encased sage), to Mataji (overheard in a night-time conversation), and to Renu ji (as a grey-haired man emerging from a storeroom). Multiple disciples also reported seeing him in the dream state, consistently describing the same physical features.
+
+His identity was never disclosed by Gurudev. Two theories persist: a realised manifestation of Shiv, or Sitaram ji of Benaras — the guru of Gurudev's first mentor, Sitaram ji of Dasua, who attained *seh sharir* after death.
+
+### Augarh — The Mysterious Disciple
+
+[[entities/augarh|Augarh]] is Gurudev's mysterious disciple and head of the **Aghor sect** — a spiritual domain centred on Haridwar. He is described as a realised manifestation of Shiv (Shiv minus Shakti): capable of manifesting in multiple human forms simultaneously, communicating telepathically, and vanishing instantaneously. See [[concepts/aghor]] for the sect's philosophy.
+
+Gurudev referred to Augarh as disciples' elder brother (*gurubhai*) — a resource they could call upon for spiritual help. Notable encounters:
+- Met Gurudev at Har ki Pauri aarti; bowed to touch his feet and slipped away into the crowd. See [[stories/augarh-har-ki-pauri]].
+- Appeared at a ghat near Laxman Jhoola as a sheet-clad man with red eyes; simultaneously participated in the healing of Surender Taneja ji's son with Gurudev. See [[stories/augarh-laxman-jhoola]].
+- Appeared to Hingori as a drunk man who recited Hingori's mental mantra aloud; guarded Mataji's family home all night. See [[stories/hingori-augarh-mataji-town]].
+- Guided Hingori telepathically to make tea — Gurudev praised it as excellent. See [[stories/hingori-augarh-tea]].
+
+---
 
 ## The Turning Point (Age 35)
 
@@ -201,6 +262,20 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 - [[stories/gurudev-agra-train-prediction]] — predicts friends won't reach Agra; train delayed five hours; verified
 - [[stories/hingori-bina-station-temple]] — Hingori convulses at station temple; explains why Gurudev avoided Shiv temples
 
+**Family Man and Man of Mystery (from *The Guru of Gurus*, Ch.2–3)**
+- [[stories/mataji-food-miracle-engagement]] — food for 150 feeds 250; Gurudev calls Mataji "Annapurna"
+- [[stories/gurudev-indu-subzi-mussoorie]] — Gurudev insists Indu ji eat the last portion with him; "one who learns the pleasure of feeding others…"
+- [[stories/gurudev-gully-cricket-lungi]] — gully cricket; ball lodged in lungi; firm "Not Out!"; role-play in action
+- [[stories/gurudev-billu-acting]] — staged fury at Billu's alcohol relapse; "Barkhurdar, kaisi lagi hamari acting?"
+- [[stories/gurudev-ganpati-exams]] — childhood relationship with Ganpati idol; sister's exam; his own exam
+- [[stories/chacha-tantriks]] — Chacha's two casual defeats of aggressors using his siddhis
+- [[stories/buddhe-baba-deserted-temple]] — first meeting with Buddhe Baba; tobacco, mantra, steel kada
+- [[stories/buddhe-baba-sister-vision]] — Buddhe Baba appears to Gurudev's sister; reassures her
+- [[stories/augarh-har-ki-pauri]] — Augarh bows to Gurudev's feet at aarti; disappears into crowd
+- [[stories/augarh-laxman-jhoola]] — red-eyed man on bench; joint healing of Surender's son
+- [[stories/hingori-augarh-mataji-town]] — Augarh chants Hingori's mental mantra; guards house all night
+- [[stories/hingori-augarh-tea]] — Augarh guides Hingori telepathically to make perfect tea
+
 **From *Karma Sutra* and *Aatma Sutra***
 - [[stories/hingori-arthritis-cure]] — cured Hingori's rheumatoid arthritis in a minute
 - [[stories/gurus-umbrella-wife-delivery]] — vision of Hingori's wife in danger, averted at the moment of delivery
@@ -223,10 +298,15 @@ See [[quotes/guru]].
 ## Cross-references
 
 - [[concepts/guru-disciple]] — the teaching framework
+- [[concepts/grihasth-ashram]] — Gurudev's teaching rooted in his own return from sanyaas
 - [[concepts/vairagya]] — "he belonged to everyone, and yet, to no one" — the live embodiment of detachment
 - [[concepts/empathy]] — patient holding of Hingori's potential; the transformation of a self-described fool
 - [[concepts/role-play]] — fluid inhabitation of every relational role without being captured by any one
 - [[concepts/loks]] — Gurudev's afterlife HQ at Najafgarh; descended with hundreds of beings from higher loks
+- [[entities/mataji]] — his wife; the Shakti to his Shiv; carried forward his legacy
+- [[entities/chacha]] — his younger brother; a casualist spiritualist; died on Gurudev's implied instruction
+- [[entities/buddhe-baba]] — his mysterious mentor; received all credit for Gurudev's seva
+- [[entities/augarh]] — his mysterious disciple; head of the Aghor sect; disciples' elder brother
 - [[entities/hingori]] — his disciple and the author of the Sutras
 - [[practices/seva]] · [[practices/tapasya]] — his "one-point programme"
 - [[sources/guru-of-gurus]] · [[sources/witnessing-greatness]] — full biographical sources
@@ -239,5 +319,5 @@ See [[quotes/guru]].
 > [!question] The worship of a devi
 > Hingori notes that Guru Nanak worshipped a devi and received spiritual attainments through her. Did Gurudev have a similar upstream relationship, or did his powers arise from his own practice? Unclear from available sources so far.
 
-> [!question] Siddhi surrender
-> At Haridwar, Gurudev gave up all his *siddhis* in the Ganges. What were these siddhis specifically, and what was the significance of surrendering them before beginning the healing phase of his life? [[sources/guru-of-gurus]] may address this.
+> [!tip] Siddhi surrender — now addressed
+> *The Guru of Gurus* Ch.3 (The Mahaguru Awakens, pp.57–59) clarifies: Buddhe Baba advised Gurudev in 1970 to discharge all his siddhis at Har ki Pauri. When he immersed his hands in the river, one siddhi pleaded not to be released, promising him whatever he desired. Unmoved, he walked out of the river stripped of his accumulated powers. This loss marked the beginning of his advent as a mahaguru.

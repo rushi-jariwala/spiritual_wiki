@@ -1,7 +1,7 @@
 ---
 title: Analogies
 type: analogy-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: []
 created: 2026-04-15
 updated: 2026-04-22
@@ -73,6 +73,26 @@ A sadguru is not a given. The fortune of finding one who takes full responsibili
 > — Hingori, *Karma Sutra*, Ch.1, p.21
 
 The guru does not usually cancel the disciple's destiny — the rain still comes. What changes is the disciple's capacity to pass through it. Two live examples: [[stories/gurus-umbrella-wife-delivery]], [[stories/scooter-accident-vision]].
+
+---
+
+### Shiv and Shakti — The Complementary Dyad
+*Illuminates: [[concepts/grihasth-ashram]], [[entities/mahaguru]], [[entities/mataji]]*
+
+> "She was the Shakti (feminine principle) to his Shiv (masculine principle), shouldering the responsibility of looking after the household while he focused on seva."
+> — Hingori, *The Guru of Gurus*, p.30
+
+Gurudev and Mataji are described not merely as a married couple but as a living enactment of the Shiv-Shakti principle: the masculine as pure intent and outward seva; the feminine as the sustaining ground that makes the masculine's mission possible. The model implies that spiritual attainment — even at the mahaguru level — is relational rather than solitary. One cannot exist without the other. See [[concepts/grihasth-ashram]].
+
+---
+
+### Judge G's Courtroom — The Guru as Judge, Mataji as Defence Lawyer
+*Illuminates: [[entities/mataji]], [[concepts/guru-disciple]]*
+
+> Mataji treated us as if we were her children. She defended us, cared about our well-being, and cheered us on as we navigated the snakes and ladders of Guruism.
+> — Hingori, *The Guru of Gurus*, p.30
+
+Disciples coined the term "**Judge G's courtroom**" for Gurudev's exacting standards — his reproach was a formal verdict. Mataji was their defence lawyer, fighting their cases when they fell short. The dual metaphor (judge/lawyer) captures the structure of Guruism as a disciplined institution with clear roles: Gurudev set the bar and held disciples to it; Mataji humanised the process, remembering they were still growing. The snakes and ladders of Guruism — ups and downs of discipleship (separate from the cosmological snakes-and-ladders of lok movement) — needed both.
 
 ---
 

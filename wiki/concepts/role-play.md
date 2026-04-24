@@ -1,7 +1,7 @@
 ---
 title: Role-Play (Spiritual)
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: [[concepts/vairagya]], [[concepts/empathy]], [[concepts/non-doership]], [[concepts/doer-ship]], [[concepts/samskars]], [[entities/mahaguru]]
 created: 2026-04-22
 updated: 2026-04-22
@@ -53,6 +53,14 @@ The practice is oriented inward, not outward. Its purpose is not to appear a cer
 
 Without [[concepts/empathy|empathy]], detached role-play could become cold and mechanical. Hingori explicitly pairs the two: "Detachment combined with empathy, helps us understand people's moods, behaviour, negative reactions and slip-ups, and makes us more forgiving." Empathy provides the warmth; detachment prevents emotional drowning.
 
+## *The Guru of Gurus* — Two Live Demonstrations
+
+*The Guru of Gurus* Ch.2 adds two vivid biographical examples that make the concept visceral:
+
+**The Billu Story** — Gurudev unleashes a fury at Billu (a devotee chronically unable to quit alcohol) that made both Billu and Hingori tremble. The moment Billu left the cowshed, Gurudev smiled and asked Hingori: *"Barkhurdar, kaisi lagi hamari acting?"* (What did you think of my performance?). The anger was real in its effect; it was absent in its ownership. See [[stories/gurudev-billu-acting]].
+
+**The Gully Cricket Story** — Gurudev played gully cricket with Bittu ji and friends. When the ball lodged in his lungi, he flatly refused the LBW appeal and stayed at the crease. *"Throughout his life, he wore many hats, including those of a guru, husband, father, son, brother, and friend, all while acting out emotions unemotionally."* See [[stories/gurudev-gully-cricket-lungi]].
+
 ## Cross-references
 
 - [[concepts/vairagya]] — the foundational attitude that makes role-play possible
@@ -61,3 +69,5 @@ Without [[concepts/empathy|empathy]], detached role-play could become cold and m
 - [[concepts/doer-ship]] — the trap role-play is designed to avoid: claiming the role as 'I'
 - [[concepts/samskars]] — emotional ownership of a role re-encodes it as a samskar; detached playing avoids this
 - [[entities/mahaguru]] — exemplar of multifaceted, fluid, always-detached role-play
+- [[stories/gurudev-billu-acting]] — staged fury; "Barkhurdar, kaisi lagi hamari acting?"
+- [[stories/gurudev-gully-cricket-lungi]] — role-play in a cricket game; "Not Out!"

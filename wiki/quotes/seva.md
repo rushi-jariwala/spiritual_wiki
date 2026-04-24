@@ -44,3 +44,14 @@ updated: 2026-04-25
 > "I am aware of that, but when someone asks for help, I cannot refuse."
 > — Gurudev (recalled by Dwarkanath ji), *The Guru of Gurus*, p.22
 [[entities/mahaguru]]
+
+> "Putt, jennu khellaan che mazaa agaya na, khaane da mazaa nahin rehnda."
+> [One who learns the pleasure of feeding others, seldom cares about feeding oneself!]
+> — Gurudev (recalled by Renu ji), *The Guru of Gurus*, p.35
+[[entities/mahaguru]] · [[stories/gurudev-indu-subzi-mussoorie]]
+
+## Mataji on Priorities
+
+> "Beta, if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"
+> — Mataji (recalled by Renu ji), *The Guru of Gurus*, p.34
+[[entities/mataji]]

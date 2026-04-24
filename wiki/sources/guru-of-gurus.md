@@ -39,8 +39,8 @@ updated: 2026-04-25
 |---|---|---|---|
 | Overview | — | 1–3 | ✅ ingested 2026-04-25 |
 | **HIS LIFE** | The Early Years | 6–25 | ✅ ingested 2026-04-25 |
-| | The Family Man | 26–45 | ⬜ pending |
-| | The Man of Mystery | 46–55 | ⬜ pending |
+| | The Family Man | 26–45 | ✅ ingested 2026-04-25 |
+| | The Man of Mystery | 46–55 | ✅ ingested 2026-04-25 |
 | | The Mahaguru | 56–116 | ⬜ pending |
 | **ENTREPRENEUR EXTRAORDINAIRE** | — | 118–137 | ⬜ pending |
 | **PHILOSOPHY & PRACTICES** | Ek Se Anek, Anek Se Ek | 141–144 | ⬜ pending |
@@ -185,6 +185,55 @@ updated: 2026-04-25
 > "Gurudev's magic touch that made cows lactate and radios play would be put to great use in the future when he would pull our ears to make us sing to his tunes."
 > — Hingori, *The Guru of Gurus*, p.23
 
+## Key Themes (The Family Man, pp.26–45)
+
+- Gurudev married Mataji in 1960; she was the Shakti to his Shiv; a schoolteacher who ran the household while he focused on seva. He addressed her as "Master."
+- Gurudev briefly attempted modern sanyaas (renunciation) weeks after marriage; a divine voice at Gurudwara Sri Santoksar Saheb in Amritsar told him five years later that final attainments require fulfilling householder duties — this became his teaching of [[concepts/grihasth-ashram]].
+- Mataji as a spiritual force in her own right: the Annapurna miracle (food for 150 feeds 250); skull fracture healed by laying hands; carried forward nisvarth seva after Gurudev's passing; died May 2014 at a queen's muhurat.
+- Gurudev as master role-player: the Billu acting story is the definitive demonstration — staged fury, followed by "Barkhurdar, kaisi lagi hamari acting?" the moment Billu left. See [[stories/gurudev-billu-acting]] and [[concepts/role-play]].
+- Chacha (Satish ji): a "casualist" spiritualist; defeated two tantriks without apparent effort; died 2 Aug 1988 having waited past Guru Purnima at Gurudev's gentle instruction. See [[entities/chacha]], [[stories/chacha-tantriks]].
+- Gurudev's childhood relationship with a Ganpati idol: bargaining, threatening, and ultimately relying on it for both a sibling spat and his own exam. See [[stories/gurudev-ganpati-exams]].
+- Sisters discovered Gurudev had become a guru only by chance in 1976 via news of 'OM wale baba' at Kathog, HP.
+
+## Key Themes (The Man of Mystery, pp.46–55)
+
+- Buddhe Baba: Gurudev's omnipresent spiritual mentor; never identified; Gurudev attributed all seva to him; refused more garlands than Buddhe Baba wore. Two theories: a manifestation of Shiv, or Sitaram ji of Benaras (who attained seh sharir after death). See [[entities/buddhe-baba]].
+- First meeting in MP forest: tobacco exchange, mantra completion, steel kada under pillow, temple found empty. See [[stories/buddhe-baba-deserted-temple]].
+- Buddhe Baba appeared to Gurudev's sister (reddish light, white-robed sage), Mataji (overheard conversation), Renu ji (emerged from storeroom), Puran ji and Roopal ji (independent dream-state visions with matching physical descriptions).
+- Augarh: head of Aghor sect; Gurudev's disciple; realised manifestation of Shiv (minus Shakti); manifests in multiple forms; domain is Haridwar. Gurudev's disciples call him "elder brother." See [[entities/augarh]], [[concepts/aghor]].
+- Augarh encounters documented by Mataji (Har ki Pauri, Laxman Jhoola), Hingori (three separate encounters), Shobha ji and Surender ji.
+
+## Notable Quotes (The Family Man)
+
+> "If a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"
+> — Mataji (recalled by Renu ji), *The Guru of Gurus*, p.34
+
+> "Putt, jennu khellaan che mazaa agaya na, khaane da mazaa nahin rehnda." [One who learns the pleasure of feeding others, seldom cares about feeding oneself!]
+> — Gurudev, *The Guru of Gurus*, p.35
+
+> "Barkhurdar, kaisi lagi hamari acting?" [My son, what did you think of my performance?]
+> — Gurudev to Hingori, after Billu's dressing-down, *The Guru of Gurus*, p.39
+
+> "Do not die before Guru Purnima."
+> — Gurudev to Chacha, *The Guru of Gurus*, p.43
+
+> "Gurudev and Mataji's relationship may have been that of a married couple, but in essence, it was and possibly continues to be an exceptionally powerful spiritual alliance."
+> — Hingori, *The Guru of Gurus*, p.31
+
+## Notable Quotes (The Man of Mystery)
+
+> "I don't want more garlands on my neck than my guru."
+> — Gurudev (about Buddhe Baba), *The Guru of Gurus*, p.47
+
+> "This incident marked the beginning, or perhaps the rekindling of a relationship that Gurudev held sacred."
+> — Hingori (on the Madhya Pradesh temple encounter), *The Guru of Gurus*, p.49
+
+> "Gurudev's hints at Buddhe Baba being Shiv only compound the confusion. Since the mahaguru never disclosed Buddhe Baba's identity, we can only guess but never be sure."
+> — Hingori, *The Guru of Gurus*, p.50
+
+> "Oy, chai bahut badiya banayi hai." [You've made lovely tea.]
+> — Gurudev to Hingori, after Augarh-guided tea, *The Guru of Gurus*, p.56
+
 ## Contradictions / Tensions
 
 > [!warning] Biographical source vs. philosophical source
@@ -192,3 +241,9 @@ updated: 2026-04-25
 
 > [!warning] Paternal uncle vs. paternal aunt (Delhi move)
 > *Aatma Sutra*'s biographical introduction describes Gurudev moving to Delhi to live with his "paternal aunt." *The Guru of Gurus*, Ch.1, p.17 states he moved into his "paternal uncle's house at Shahdara in Delhi." The *Guru of Gurus* account is more detailed and is based on eyewitness testimony; it is likely more accurate, but the discrepancy is unresolved.
+
+> [!warning] Buddhe Baba's identity — intentional ambiguity
+> Gurudev never disclosed Buddhe Baba's identity. Two theories co-exist: (1) a realised manifestation of Shiv; (2) Sitaram ji of Benaras (who attained seh sharir after death and thus "qualifies to be called Shiv"). Gurudev's hints reinforce both readings simultaneously, making resolution impossible. Hingori explicitly flags this as unresolvable. Do not resolve it speculatively in any wiki page.
+
+> [!warning] Augarh's followers are not Gurudev's disciples
+> Augarh was a disciple of Gurudev, but "his followers are not" (Hingori, p.51). This is an unusual asymmetry in a lineage where discipleship normally propagates downward. The text does not explain the reason; it should not be filled in speculatively.

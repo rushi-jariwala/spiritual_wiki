@@ -2,8 +2,8 @@
 title: Seva
 type: practice
 tags: [seva, service, practice, karmayoga]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/karma]], [[concepts/karmayoga]], [[concepts/guru-disciple]], [[concepts/non-doership]], [[concepts/gunas]], [[concepts/vairagya]], [[entities/mahaguru]], [[entities/guru-vashisht]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: [[concepts/karma]], [[concepts/karmayoga]], [[concepts/guru-disciple]], [[concepts/non-doership]], [[concepts/gunas]], [[concepts/vairagya]], [[concepts/grihasth-ashram]], [[entities/mahaguru]], [[entities/mataji]], [[entities/buddhe-baba]], [[entities/guru-vashisht]]
 created: 2026-04-12
 updated: 2026-04-22
 ---

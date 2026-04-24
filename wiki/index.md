@@ -58,6 +58,8 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/self-acceptance|Self-Acceptance]] — prerequisite to self-love and self-worship; overcoming societal evaluation, self-blame, and guilt; surmounting through non-doership and destiny acceptance
 - [[concepts/self-love|Self-Love]] — unemotional, agenda-free connectivity to all forms of the consciousness supreme; self-acceptance → self-like → self-respect → self-love → bhakti; love of the aatman (Ch.XII)
 - [[concepts/self-worship|Self-Worship]] — reverence of the jivaatma (inner light); two gates metaphor; three exercises; non-doership and self-worship as complementary; Tat Twam Asi in practice (Ch.XIII–XIV)
+- [[concepts/grihasth-ashram|Grihasth Ashram]] — householder path; Gurudev's teaching that final spiritual attainments require fulfilling domestic responsibilities; rooted in his own return from sanyaas
+- [[concepts/aghor|Aghor]] — philosophy of non-duality; Aghoris break free from maya by transcending sensory aversion through extreme practices; Augarh's sect
 
 ---
 
@@ -65,7 +67,7 @@ Read this first when answering queries — then drill into relevant pages.
 *People, lineages, sacred places, canonical texts.*
 
 - [[entities/mahaguru|The Mahaguru (Gurudev)]] — Central figure of the tradition; karmayoga personified; born 1938 Hariana, Punjab; given name Rajinder
-- [[entities/mataji|Mataji (Sudesh Sharma)]] — Gurudev's wife; the Shakti to his Shiv; mother-figure to disciples; full treatment pending Ch.2 ingest
+- [[entities/mataji|Mataji (Sudesh Sharma)]] — Gurudev's wife; the Shakti to his Shiv; schoolteacher; mother-figure to disciples; Annapurna miracle; died May 2014 at a queen's muhurat
 - [[entities/hingori|Hingori]] — Author of the Sutras; disciple whose arthritis was cured in a minute
 - [[entities/ashoka|Emperor Ashoka]] — Historical example of karmayoga cited in Ch.1
 - [[entities/guru-nanak|Guru Nanak]] — Example of realisation without a human sadguru
@@ -80,6 +82,9 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/vishvamitra|Vishvamitra]] — Arrogant king who sought revenge on Guru Vashisht; through penance reached the title of brahmarishi; Phase A-to-Z exemplar
 - [[entities/sant-tukaram|Sant Tukaram]] — 17th-century Marathi saint-poet; his verse on worship-through-any-image is the devotional ground for Exercise 1 of self-worship
 - [[entities/kapill|Kapill]] — Recurring disciple at the Mumbai sthan; vision of Shiv as himself; gati experience at supersonic speed
+- [[entities/chacha|Chacha (Satish ji)]] — Gurudev's younger brother; the "casualist"; powerful spiritualist; defeated two tantriks without effort; died 2 Aug 1988 on Gurudev's instruction
+- [[entities/buddhe-baba|Buddhe Baba]] — Gurudev's mysterious spiritual mentor; omnipresent; identity never disclosed; possibly Shiv or Sitaram ji of Benaras
+- [[entities/augarh|Augarh]] — Gurudev's mysterious disciple; head of the Aghor sect; realised manifestation of Shiv; manifests at will in multiple forms; disciples' elder brother
 
 ---
 
@@ -88,7 +93,7 @@ Read this first when answering queries — then drill into relevant pages.
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
-- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; Overview + Ch.1 ingested*
+- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; Overview + Ch.1–3 ingested (The Early Years, The Family Man, The Man of Mystery)*
 
 ---
 
@@ -188,6 +193,19 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/ram-speech-ch14-consciousness-alone|Ram's Summary — "Consciousness Alone Is the Reality" (Ch.XIV)]] — verbatim extract from *Supreme Yoga*; distinct from Ch.XI passage; "nothing has been created, nothing is lost" (Ch.XIV)
 - [[stories/hingori-closing-poem|Hingori's Closing Poem — "I Am the God to Whom We All Pray"]] — verbatim closing poem of *Aatma Sutra*; first-person Tat Twam Asi; ends on "the we" (Ch.XIV)
 - [[stories/life-scorecard|The Life Scorecard]] — verbatim three-part worksheet (Physical/Intellectual/Spiritual, 100 marks each); Mr. Iyengar and Mr. Kapur as example profiles
+- [[stories/mataji-food-miracle-engagement|Mataji and the Annapurna Miracle]] — food for 150 feeds 250 at an engagement; Gurudev names Mataji "Annapurna"
+- [[stories/gurudev-indu-subzi-mussoorie|Gurudev, Indu ji, and the Last Portion of Subzi]] — Gurudev divides the last serving with Indu ji; "one who learns the pleasure of feeding others…"
+- [[stories/gurudev-gully-cricket-lungi|Gurudev and the Gully Cricket Lungi]] — ball lodged in lungi; firm "Not Out!"; role-play at its most playful
+- [[stories/gurudev-billu-acting|Gurudev and Billu — "Kaisi Lagi Hamari Acting?"]] — staged fury at Billu's alcohol relapse; master demonstration of unemotional role-play
+- [[stories/gurudev-ganpati-exams|Gurudev and the Ganpati Idol — The Exam Stories]] — childhood bargaining and threats; sister's exam; his own matriculation
+- [[stories/chacha-tantriks|Chacha and the Two Tantriks]] — two tantriks attack Chacha; neither can harm him; both are casually forgiven and reformed
+- [[stories/buddhe-baba-deserted-temple|Buddhe Baba at the Deserted Temple]] — tobacco exchange, incomplete mantra, steel kada; commissioning of nisvarth seva
+- [[stories/buddhe-baba-sister-vision|Buddhe Baba Appears to Gurudev's Sister]] — reddish light, sage-form reassures distressed sister; Gurudev confirms the identity
+- [[stories/augarh-har-ki-pauri|Augarh at Har ki Pauri]] — bows to Gurudev's feet at aarti; disappears into crowd; touches Mataji's feet unnoticed
+- [[stories/augarh-laxman-jhoola|Augarh at Laxman Jhoola — The Red-Eyed Man]] — sheet-clad man with red eyes; joint healing of Surender's son; vanishes in seconds
+- [[stories/hingori-augarh-mataji-town|Hingori Meets Augarh — The Mantra and the Night Watch]] — drunk man chants Hingori's mental mantra; guards Mataji's family home all night
+- [[stories/hingori-augarh-tea|Augarh Teaches Hingori to Make Tea]] — telepathic thought-wave instructions; Gurudev praises the tea
+- [[stories/guru-of-gurus-family-mystery-poems|Chapter Opening Poems — The Family Man & The Man of Mystery]] — six verbatim verse epigraphs by Hingori
 
 ---
 

@@ -2,10 +2,10 @@
 title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/guru-disciple]], [[concepts/karmayoga]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]], [[concepts/astral-travel]], [[entities/puranji]], [[entities/rc-malhotra]]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: [[concepts/guru-disciple]], [[concepts/karmayoga]], [[entities/hingori]], [[practices/seva]], [[practices/tapasya]], [[concepts/astral-travel]], [[entities/puranji]], [[entities/rc-malhotra]], [[entities/mataji]]
 created: 2026-04-12
-updated: 2026-04-16
+updated: 2026-04-25
 ---
 
 # The Mahaguru (Gurudev)
@@ -14,7 +14,7 @@ updated: 2026-04-16
 
 ## Status
 
-**Partial.** The biographical introduction in *Aatma Sutra* adds significant early-life detail. Full treatment pending ingestion of [[sources/guru-of-gurus]] and [[sources/witnessing-greatness]].
+**Partial — Overview and Ch.1 ingested.** Biographical detail now covers birth through his early Delhi years (to ~1958). Chapters 2–4 of *The Guru of Gurus* pending ingestion.
 
 ## Who
 
@@ -24,13 +24,53 @@ Gurudev has also been referred to as the **Guru of Gurus** and, in at least one 
 
 ## Early Life
 
-*(From the biographical introduction to Aatma Sutra)*
+*(Primary source: [[sources/guru-of-gurus]], Ch.1, pp.6–25. Secondary: biographical introduction to Aatma Sutra.)*
 
-Gurudev was born into a family of six children — his father a trader, his mother a housewife — in **Hariana**, a village 17 km from **Hoshiyarpur** in Punjab. He studied at DAV school, where he was known as a mischievous student. His early marker of distinctiveness: he lit an earthen oil lamp at a *dargah* every Thursday and spent hours at a temple near his house.
+**Birth and name.** Gurudev was born in early spring of **1938** in **Hariana**, a small hamlet in the Hoshiarpur district of Punjab. His father was **Bhagat Ram ji**, a chemicals trader; his mother **Ram Pyari ji**. He had an elder sister, **Bimla**. His parents had been unable to conceive a second child; his paternal grandfather sought divine intervention from a sant at the Golden Temple, who gave Gurudev's mother *jal* (sanctified water) to drink for forty days. Gurudev was conceived shortly after.
 
-As he grew up, he developed the habit of spending hours with holy men much older than himself. He completed many *siddhis* to acquire spiritual energy. After school, he sold pens and orange sweets in buses in Delhi — his father had gone through a financial crisis. To continue his education he moved to Delhi to live with his paternal aunt, contributing physically to the household (including carrying 20 kg sacks of wheat to the mill).
+His given name was intended to be **Sant Prakash** (enlightened saint) on the sant's instruction. But it rained heavily at his birth, and his grandmother — seeing this as an auspicious omen from Indra, the rain god — insisted on a name containing 'Indra.' He was named **Rajinder**, meaning King of Kings. The Brighu Samhita had already foretold: *"An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."* See [[entities/bhrigu]].
 
-He was admitted to an overseer's course at **PUSA Agricultural University** in Delhi. After graduating, he joined the agricultural ministry as a **soil surveyor**.
+**Childhood signs.** In the weeks after his birth, his mother found a **hooded cobra seated on him** in his crib on the terrace. The cobra slid away; a temple priest told the family it was an excellent omen of exalted future. A sadhu who visited a few years later told his mother he would become a powerful saint, *"someone like Shiv,"* when he turned thirty-five. See [[stories/gurudev-birth-cobra]].
+
+Around age five he joined **DAV Modern School** in Hariana, studying Hindi, Urdu, and Farsi. His schoolmates remembered him as easy-going and mischievous.
+
+**The illness of 1948.** When he was around ten, he fell gravely ill after consuming food from an acquaintance and became bedridden. His parents carried him across kilometres of mountain road to the temple of **Baba Balak Nath** in Himachal Pradesh. A disciple of Baba Balak Nath gave him *jal* to drink; he vomited buttermilk and *masaan* (ashes) and recovered. [[entities/mataji|Mataji]] later recalled that this miraculous recovery may have triggered his quest for spiritual knowledge. See [[stories/gurudev-illness-baba-balak-nath]].
+
+**Spiritual beginnings.** Healed, he returned to mischievous ways with his schoolmate Subbhash Sabharwal — picking fruits from fields on the way home. At one such escapade at a dargah, they were caught by a fakir who lived there:
+
+> During a fruit picking escapade at a dargah, Gurudev and Subbhash were caught red-handed by a fakir (mystic) who lived there. He asked the boys to bow their heads at the shrine to atone for the act. They did as instructed. Following this incident, Gurudev returned to the dargah regularly to spend time with the fakir. This time, the desire was for the fruit of spiritual knowledge.
+> — Hingori, *The Guru of Gurus*, p.11
+
+He also skipped school regularly to spend time at the **Sheetla Devi temple** near his home and with sadhus and mystics who visited. His first formal spiritual mentor was **Sitaram ji of Dasua**, under whose guidance he acquired several *siddhis* (spiritual attainments). These were mediocre compared to the powers he later developed as a mahaguru; he renounced all of them before his ascent as a mahaguru. He also lit a *chirag* (oil lamp) at Sadak Shah Wali's dargah every Thursday — once wading through knee-deep floodwater to do so. See [[stories/gurudev-chirag-flood]].
+
+Even as a teenager his pocket money went to food for animals, birds, and fish, with any remainder spent on soft drinks for friends. He rarely spent on himself. As **Mohan Singh Chira** (a Hariana native, later a devotee) recalled: *"Even as a teenager, his heart was bigger than his chest!"*
+
+He graduated high school with average marks amid ongoing complaints from his teachers, and his parents relocated him to Delhi to pursue career opportunities.
+
+**Early Delhi years (1955–1958).** In 1955, Gurudev moved into his **paternal uncle's house** at **Shahdara, Delhi**.
+
+> [!warning] Paternal uncle vs. paternal aunt
+> *Aatma Sutra*'s biographical introduction says he moved to live with his "paternal aunt." *The Guru of Gurus* Ch.1 clearly states "paternal uncle's house at Shahdara." The latter is the more detailed, eyewitness-based source; the discrepancy is noted but not resolved. See [[sources/guru-of-gurus]] Contradictions section.
+
+Unwilling to burden his relatives, he did odd jobs — selling pens and toffees, working as a bus conductor — and volunteered for heavy household chores, including carrying **15–20 kg sacks of grains** to the grinding mill while chanting mantras.
+
+A chance encounter resolved his professional direction: he helped an older woman milk her stubborn cow (gently tapping it so it began to give milk), and she introduced him to her husband — the **principal of PUSA Institute**. At his suggestion, Gurudev enrolled in a two-year technical course at the **Bharat Sevak Samaj (BSS)**, a Government of India development agency. See [[stories/gurudev-cow-milk-pusa]].
+
+On completing the course in **1958**, he joined the **All India Soil and Land Use Survey** department at the **Indian Agricultural Research Institute (IARI)**. He received his first salary of **₹150** at the age of twenty.
+
+**Friends in Delhi.** At work he befriended **Kishanlal Nagpal ji** (whom he called *Naaga*) — whose hiring was itself a case of mistaken identity that Hingori calls *"coincidences designed to fit in an intricate jigsaw puzzle of the graphic that was Gurudev."* See [[stories/gurudev-kl-nagpal-jigsaw]]. Nagpal ji shared a 120-sq-ft room in Paharganj with **Dwarkanath ji** (a CWD employee), who became Gurudev's landlord and close friend. Colleague **Jain Saheb** and neighbour **Kundanlal Sahani** joined the circle.
+
+The friends lived frugally — plain parathas for breakfast and lunch, occasional pakoras, a shared monthly mess fund of ₹30 each. Gurudev was already noted for:
+- Meditating under a blanket in the middle of the night (observed by his roommates)
+- Refusing to enter Shiv temples even when his Shiv-devotee roommates took him along — he would wait outside. Hingori later discovered why: at Bina station he lit a diya in Gurudev's honour at a small temple and his body convulsed from magnetising the temple's power. Gurudev "most likely felt a sense of ownership over the Shiv temples and did not want to disturb their energy balance." See [[stories/hingori-bina-station-temple]].
+- Whatever he predicted came true. When Dwarkanath ji and Nagpal ji planned a day trip to Agra without him, Gurudev predicted they wouldn't make it. The train was delayed five hours; they returned home. See [[stories/gurudev-agra-train-prediction]].
+- An old radio in the apartment would not turn on — but whenever Gurudev tapped its rusting body, it would begin to play.
+- Generosity that invited exploitation: when Dwarkanath ji pointed this out, Gurudev said, *"I am aware of that, but when someone asks for help, I cannot refuse."*
+
+Despite the fun-loving, cigarette-smoking exterior, when Gurudev told Jain Saheb he was *"destined to become a guru to many,"* Jain Saheb laughed. Years later Jain Saheb became one of his most powerful disciples, while Dwarkanath ji and Nagpal ji became devotees.
+
+> Gurudev's magic touch that made cows lactate and radios play would be put to great use in the future when he would pull our ears to make us sing to his tunes.
+> — Hingori, *The Guru of Gurus*, p.23
 
 > Gurudev was a man who made mountains out of mountains, who thought they were molehills.
 > — Hingori, *Aatma Sutra*, biographical introduction
@@ -152,6 +192,16 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 
 ## Notable Stories
 
+**Early life (from *The Guru of Gurus*)**
+- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; priest calls it a good omen
+- [[stories/gurudev-illness-baba-balak-nath]] — bedridden in 1948; miraculous recovery at Baba Balak Nath; Mataji's testimony
+- [[stories/gurudev-chirag-flood]] — wades through knee-deep floodwater every Thursday to light a chirag
+- [[stories/gurudev-cow-milk-pusa]] — helps woman milk her cow; chance meeting leads to career at IARI
+- [[stories/gurudev-kl-nagpal-jigsaw]] — KL Nagpal's mistaken hiring; the "jigsaw coincidence" framing
+- [[stories/gurudev-agra-train-prediction]] — predicts friends won't reach Agra; train delayed five hours; verified
+- [[stories/hingori-bina-station-temple]] — Hingori convulses at station temple; explains why Gurudev avoided Shiv temples
+
+**From *Karma Sutra* and *Aatma Sutra***
 - [[stories/hingori-arthritis-cure]] — cured Hingori's rheumatoid arthritis in a minute
 - [[stories/gurus-umbrella-wife-delivery]] — vision of Hingori's wife in danger, averted at the moment of delivery
 - [[stories/scooter-accident-vision]] — vision of an impending scooter accident; the accident occurred, but Hingori's hand was not bleeding as foreseen
@@ -184,7 +234,7 @@ See [[quotes/guru]].
 ## Open Questions
 
 > [!question] Given name and dates
-> Neither *Karma Sutra* nor the *Aatma Sutra* introduction gives Gurudev's given name, date of birth, date of samadhi, or location of his samadhi. All of these should be compiled on ingesting [[sources/guru-of-gurus]].
+> *The Guru of Gurus* Ch.1 establishes given name **Rajinder**, birth year **1938**, birthplace **Hariana, Hoshiarpur, Punjab**. Date of samadhi and samadhi location remain to be found in later chapters.
 
 > [!question] The worship of a devi
 > Hingori notes that Guru Nanak worshipped a devi and received spiritual attainments through her. Did Gurudev have a similar upstream relationship, or did his powers arise from his own practice? Unclear from available sources so far.

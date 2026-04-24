@@ -30,7 +30,7 @@ Keep stories verbatim from the text. Never paraphrase. Mark them as block quotes
 **synthesis/** — Free-form analytical pages. Always note date and available sources.
 **analogies.md** — One file. Each entry: analogy name · what it illuminates · quote + page ref · backlinks to concepts. Organised by concept cluster.
 
-## INGEST
+## INGEST - make sure all 3 phases and verification checklist is completed. 
 
 ### Phase 1 — Plan
 1. Read the source chapter(s) from `raw/`.

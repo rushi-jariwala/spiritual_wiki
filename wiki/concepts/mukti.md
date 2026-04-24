@@ -53,6 +53,9 @@ Short-term memory (smruti) eventually merges into samskars. Working to dissolve 
 | **Realms** | Higher realms for 1,000–2,000 years | Dissolution into consciousness supreme |
 | **Self** | Still individual | Self disintegrates into the whole |
 
+> [!tip] Siddhi renunciation as threshold to higher attainment
+> A cross-source pattern across [[sources/guru-of-gurus]] and the *Aatma Sutra* biographical introduction: Gurudev acquired *siddhis* under his first mentor Sitaram ji of Dasua in his youth, then renounced all of them before his ascent as a mahaguru (described in Ch.1 as renouncing them "before his ascent as a mahaguru"; in *Aatma Sutra* as surrendering them in the Ganges at Haridwar at age 35). In both accounts, the first phase of spiritual attainment — siddhi acquisition — must be deliberately surrendered as a condition for the second phase. The siddhis are described as "mediocre compared to the powers he attained as a mahaguru." This inversion (gaining to give away) is structurally consistent with the non-doership / mukti framework: the capacities that feed ego-ownership must be released before subtler powers — those that cannot be claimed as "mine" — can arise.
+
 ## Cross-references
 
 - [[concepts/moksha]] — the final stage beyond mukti

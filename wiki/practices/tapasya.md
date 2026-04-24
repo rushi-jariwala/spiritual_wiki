@@ -41,6 +41,7 @@ It also serves a secondary purpose: it is how the power of the mind is developed
 
 - *Karma Sutra*, Ch.1, especially the "Instant Gratification By Guru" section (p.24)
 - [[stories/bada-guruvar-queue]] — the clearest example
+- [[stories/gurudev-chirag-flood]] — earliest biographical instance: Gurudev wades knee-deep floodwater as a young man to honour his Thursday chirag ritual; spiritual discipline before any formal training
 
 ## Related
 

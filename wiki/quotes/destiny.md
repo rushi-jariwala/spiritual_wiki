@@ -1,10 +1,10 @@
 ---
 title: Quotes on Destiny
 type: quote-collection
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/destiny]], [[concepts/mahurat]], [[concepts/prarabdh-karma]], [[concepts/doer-ship]]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: [[concepts/destiny]], [[concepts/mahurat]], [[concepts/prarabdh-karma]], [[concepts/doer-ship]], [[entities/bhrigu]]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-25
 ---
 
 # Quotes on Destiny
@@ -34,3 +34,9 @@ updated: 2026-04-18
 
 > "This is what I was meant to be and this is what I am. This is me — the created, the intended, the destined. The result of the karmic me. But not the 'guilty' me."
 > — Hingori, *Aatma Sutra*, Ch.V, p.61 [[concepts/destiny]] [[concepts/doer-ship]]
+
+## Destiny and Biography — Brighu Samhita
+
+> "An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."
+> — Brighu Samhita, cited in Hingori, *The Guru of Gurus*, p.8
+[[entities/bhrigu]] · [[entities/mahaguru]] · [[stories/gurudev-kl-nagpal-jigsaw]]

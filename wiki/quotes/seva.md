@@ -1,10 +1,10 @@
 ---
 title: Quotes on Seva and Service
 type: quote-collection
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: [[practices/seva]], [[concepts/non-doership]], [[concepts/gunas]], [[entities/mahaguru]], [[entities/guru-vashisht]]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-25
 ---
 
 # Quotes on Seva and Service
@@ -38,3 +38,9 @@ updated: 2026-04-22
 > That is the story of his *seva*.
 > — Hingori on Gurudev, *Aatma Sutra*, Ch.IX, p.116
 [[entities/mahaguru]] · [[stories/gurudev-seva-poem]]
+
+## Gurudev on Generosity
+
+> "I am aware of that, but when someone asks for help, I cannot refuse."
+> — Gurudev (recalled by Dwarkanath ji), *The Guru of Gurus*, p.22
+[[entities/mahaguru]]

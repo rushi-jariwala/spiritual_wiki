@@ -64,7 +64,8 @@ Read this first when answering queries — then drill into relevant pages.
 ## Entities
 *People, lineages, sacred places, canonical texts.*
 
-- [[entities/mahaguru|The Mahaguru (Gurudev)]] — Central figure of the tradition; karmayoga personified; full treatment pending [[sources/guru-of-gurus]] and [[sources/witnessing-greatness]]
+- [[entities/mahaguru|The Mahaguru (Gurudev)]] — Central figure of the tradition; karmayoga personified; born 1938 Hariana, Punjab; given name Rajinder
+- [[entities/mataji|Mataji (Sudesh Sharma)]] — Gurudev's wife; the Shakti to his Shiv; mother-figure to disciples; full treatment pending Ch.2 ingest
 - [[entities/hingori|Hingori]] — Author of the Sutras; disciple whose arthritis was cured in a minute
 - [[entities/ashoka|Emperor Ashoka]] — Historical example of karmayoga cited in Ch.1
 - [[entities/guru-nanak|Guru Nanak]] — Example of realisation without a human sadguru
@@ -87,6 +88,7 @@ Read this first when answering queries — then drill into relevant pages.
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
+- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; Overview + Ch.1 ingested*
 
 ---
 
@@ -116,6 +118,13 @@ Read this first when answering queries — then drill into relevant pages.
 ## Stories
 *Narratives, anecdotes, parables, personal experiences.*
 
+- [[stories/gurudev-birth-cobra|Gurudev's Birth and the Cobra]] — Hooded cobra on the infant's crib; priest calls it a good omen; sadhu predicts "someone like Shiv" at 35
+- [[stories/gurudev-illness-baba-balak-nath|Gurudev's Illness and Recovery at Baba Balak Nath]] — Bedridden in 1948; miraculous cure via jal; Mataji believed this triggered his spiritual quest
+- [[stories/gurudev-chirag-flood|Gurudev Wades the Flood to Light the Chirag]] — Wades knee-deep floodwater every Thursday to honour his dargah ritual
+- [[stories/gurudev-cow-milk-pusa|The Cow, the Principal, and the BSS]] — Helps woman milk her cow; chance meeting leads to PUSA, BSS course, and IARI career
+- [[stories/gurudev-kl-nagpal-jigsaw|The KL Nagpal Jigsaw]] — Mistaken hiring that brings Nagpal ji and Gurudev together; Hingori's "jigsaw coincidence" framing
+- [[stories/gurudev-agra-train-prediction|The Agra Trip That Never Happened]] — Gurudev predicts friends won't reach Agra; train delayed five hours; verified
+- [[stories/hingori-bina-station-temple|Hingori at Bina Station — Why Gurudev Avoided Temples]] — Hingori convulses lighting a diya; explains why Gurudev never entered Shiv temples
 - [[stories/hingori-arthritis-cure|Hingori's Arthritis Cure]] — The founding moment of his discipleship
 - [[stories/gurus-umbrella-wife-delivery|The Guru's Umbrella — The Wife's Delivery]] — Vision of masked figures, averted at birth
 - [[stories/scooter-accident-vision|The Scooter Accident Vision]] — Foreseen accident, foreseen outcome minus the bleeding

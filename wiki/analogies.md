@@ -327,6 +327,18 @@ Role-play is "a two-faced coin." The cautionary version is absorption: when the 
 
 ---
 
+## Destiny & Biography
+
+### The Jigsaw Puzzle of Coincidences
+*Illuminates: [[concepts/destiny]], [[concepts/prarabdh-karma]], [[entities/mahaguru]]*
+
+> "These were just a few of the coincidences designed to fit in an intricate jigsaw puzzle of the graphic that was Gurudev!"
+> — Hingori, *The Guru of Gurus*, p.18
+
+Used to frame a cluster of improbable accidents surrounding Gurudev's early life — a mistaken hiring, a chance encounter with a woman's cow that leads to a career, a friendship forged in a 120-sq-ft room — none of which appear connected until the full picture emerges. The jigsaw analogy captures the prarabdh mechanism: individual pieces look random, but the completed image was determined before the pieces were laid down. The puzzle was pre-assembled; life's work is living it out. See [[stories/gurudev-kl-nagpal-jigsaw]], [[stories/gurudev-cow-milk-pusa]].
+
+---
+
 ### Lord Ganapati Circling His Parents — The Arpan Logic
 *Illuminates: [[concepts/non-doership]]*
 

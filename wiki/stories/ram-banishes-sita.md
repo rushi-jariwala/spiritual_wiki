@@ -1,5 +1,5 @@
 ---
-title: Ram Banishes Sita â€” Beyond Maya, Beyond Guilt
+title: Ram Banishes Sita — Beyond Maya, Beyond Guilt
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/self-acceptance]]", "[[concepts/maya]]", "[[concepts/non-doership]]", "[[entities/guru-vashisht]]"]
@@ -7,11 +7,11 @@ created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Ram Banishes Sita â€” Beyond Maya, Beyond Guilt
+# Ram Banishes Sita — Beyond Maya, Beyond Guilt
 
 ## Source
 
-Hingori, *Aatma Sutra*, Ch.XI, pp.139â€“140
+Hingori, *Aatma Sutra*, Ch.XI, pp.139–140
 
 ## Full Narrative
 
@@ -23,7 +23,7 @@ Hingori, *Aatma Sutra*, Ch.XI, pp.139â€“140
 
 ## Related Concepts / Entities
 
-- [[concepts/self-acceptance]] â€” banishing Sita without guilt as an expression of being beyond duality; paired with [[stories/ram-kills-bali-behind-tree]]
-- [[concepts/maya]] â€” being beyond maya = acting without malice or guilt, even in acts that appear cruel
-- [[concepts/non-doership]] â€” no ownership of the act â†’ no guilt; action performed as duty, not as personal agenda
-- [[entities/guru-vashisht]] â€” whose teaching to Ram made this perspective possible
+- [[concepts/self-acceptance]] — banishing Sita without guilt as an expression of being beyond duality; paired with [[stories/ram-kills-bali-behind-tree]]
+- [[concepts/maya]] — being beyond maya = acting without malice or guilt, even in acts that appear cruel
+- [[concepts/non-doership]] — no ownership of the act → no guilt; action performed as duty, not as personal agenda
+- [[entities/guru-vashisht]] — whose teaching to Ram made this perspective possible

@@ -10,7 +10,7 @@ updated: 2026-04-12
 
 # Kriyaman Karma
 
-> *Present-life karmas â€” action whose result is instantly fructified and exhausted, leaving no carry-forward.*
+> *Present-life karmas — action whose result is instantly fructified and exhausted, leaving no carry-forward.*
 
 ## Definition
 
@@ -19,9 +19,9 @@ Kriyaman karma is any action where **cause and effect, action and reaction, effo
 ## Core Teaching
 
 > These karmas do not create positive or negative obligations, and as there is nothing to be squared off, they are not carried forward.
-> â€” *Karma Sutra*, Ch.1, p.4
+> — *Karma Sutra*, Ch.1, p.4
 
-Most of everyday life â€” the mundane and the insignificant â€” falls into this category. It is also the aspiration of evolved beings: **to convert all karmas into kriyaman form**, so that current karmic load exhausts quickly without generating new entries in [[concepts/sanchit-karma|sanchit]].
+Most of everyday life — the mundane and the insignificant — falls into this category. It is also the aspiration of evolved beings: **to convert all karmas into kriyaman form**, so that current karmic load exhausts quickly without generating new entries in [[concepts/sanchit-karma|sanchit]].
 
 ## Examples from the Text
 
@@ -38,14 +38,14 @@ Most of everyday life â€” the mundane and the insignificant â€” falls 
 
 ### The Aspiration of the Evolved
 
-Hingori distinguishes between deeds that "do get carried forward to either a future time or a future life" â€” which are *karmas* in the full sense â€” and kriyaman acts that neutralise themselves immediately. The evolved seeker's goal is not to stop acting but to act in such a way that every act exhausts in the doing.
+Hingori distinguishes between deeds that "do get carried forward to either a future time or a future life" — which are *karmas* in the full sense — and kriyaman acts that neutralise themselves immediately. The evolved seeker's goal is not to stop acting but to act in such a way that every act exhausts in the doing.
 
 ### Small Good Deeds as Kriyaman Generators
 
 > Little gestures can accrue a lot of good kriyaman karmas.
-> â€” *Karma Sutra*, Ch.1, p.8
+> — *Karma Sutra*, Ch.1, p.8
 
-Within the constraints of ordinary life â€” long commutes, operational demands, family follow-ups â€” ingenuity and attitude allow one to transform routine moments into positive kriyaman acts: being nice to others, small gestures of kindness, small helpings. These accumulate rapidly.
+Within the constraints of ordinary life — long commutes, operational demands, family follow-ups — ingenuity and attitude allow one to transform routine moments into positive kriyaman acts: being nice to others, small gestures of kindness, small helpings. These accumulate rapidly.
 
 ## In Practice
 
@@ -55,10 +55,10 @@ Within the constraints of ordinary life â€” long commutes, operational dema
 
 ## Cross-references
 
-- [[concepts/karma]] â€” parent concept
-- [[concepts/sanchit-karma]] â€” the stored balance that kriyaman karma *avoids* adding to
-- [[concepts/prarabdh-karma]] â€” the other karmic type that plays out in the current life
-- [[concepts/doer-ship]] â€” ownership is still what determines whether an act "counts"
+- [[concepts/karma]] — parent concept
+- [[concepts/sanchit-karma]] — the stored balance that kriyaman karma *avoids* adding to
+- [[concepts/prarabdh-karma]] — the other karmic type that plays out in the current life
+- [[concepts/doer-ship]] — ownership is still what determines whether an act "counts"
 
 ## Open Questions
 

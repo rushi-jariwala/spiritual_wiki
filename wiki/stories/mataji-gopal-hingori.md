@@ -1,5 +1,5 @@
 ---
-title: Mataji's Psychic Reading â€” Gopal and Hingori
+title: Mataji's Psychic Reading — Gopal and Hingori
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/destiny]]", "[[entities/hingori]]"]
@@ -7,7 +7,7 @@ created: 2026-04-18
 updated: 2026-04-18
 ---
 
-# Mataji's Psychic Reading â€” Gopal and Hingori
+# Mataji's Psychic Reading — Gopal and Hingori
 
 ## Full Narrative
 
@@ -15,13 +15,13 @@ updated: 2026-04-18
 >
 > I grew nervous and speechless when she asked me for the girl's photograph. It was a group photograph and there were other girls in it too, but she pointed out the one I was involved with. Looking at the photograph, she said there was no future in the relationship, and also that her mother had asthma and ulcers. The next day when I met the girl and asked her about her mother's ailments, she was surprised how I knew. And, yes, the relationship never took off. I thank my stars, as I eventually married a far nicer person (a little aggressive in old age, but nicer all the same).
 
-â€” Hingori, *Aatma Sutra*, Ch.V, pp.57â€“58
+— Hingori, *Aatma Sutra*, Ch.V, pp.57–58
 
 ## Source
 
-*Aatma Sutra*, Chapter V: Destiny, pp.57â€“58
+*Aatma Sutra*, Chapter V: Destiny, pp.57–58
 
 ## Related Concepts / Entities
 
-- [[concepts/destiny]] â€” psychic reading as a mode of accessing the pre-mapped future; both predictions fulfilled precisely
-- [[entities/hingori]] â€” narrator; one of the two subjects of the reading
+- [[concepts/destiny]] — psychic reading as a mode of accessing the pre-mapped future; both predictions fulfilled precisely
+- [[entities/hingori]] — narrator; one of the two subjects of the reading

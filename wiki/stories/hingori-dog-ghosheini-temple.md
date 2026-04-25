@@ -1,5 +1,5 @@
 ---
-title: The Dog Leads Hingori to the Temple â€” Ghosheini
+title: The Dog Leads Hingori to the Temple — Ghosheini
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/self-worship]]", "[[concepts/aura]]", "[[concepts/destiny]]", "[[entities/hingori]]"]
@@ -7,9 +7,9 @@ created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# The Dog Leads Hingori to the Temple â€” Ghosheini
+# The Dog Leads Hingori to the Temple — Ghosheini
 
-**Source:** *Aatma Sutra*, Ch.XIII, pp.166â€“168
+**Source:** *Aatma Sutra*, Ch.XIII, pp.166–168
 
 ## Full Narrative
 
@@ -25,11 +25,11 @@ updated: 2026-04-22
 
 ## Related Concepts
 
-Hingori's conclusion: "Can a lazy dog suddenly become a messenger between one spiritual energy and another? It must have had to reach a certain level of consciousness, far beyond the level of a lazy dog." The story is told in the chapter on self-worship as an illustration of how faith is built â€” through unmistakeable, observable evidence that spiritual intelligence operates through ordinary channels (animals, chance encounters, hotel bills, business partners).
+Hingori's conclusion: "Can a lazy dog suddenly become a messenger between one spiritual energy and another? It must have had to reach a certain level of consciousness, far beyond the level of a lazy dog." The story is told in the chapter on self-worship as an illustration of how faith is built — through unmistakeable, observable evidence that spiritual intelligence operates through ordinary channels (animals, chance encounters, hotel bills, business partners).
 
-The temple's follow-through two years later â€” sending the land offer through a business partner â€” demonstrates what Hingori calls an "exchange of services" with a spiritual intelligence: the tree knew how to reach him.
+The temple's follow-through two years later — sending the land offer through a business partner — demonstrates what Hingori calls an "exchange of services" with a spiritual intelligence: the tree knew how to reach him.
 
-- [[concepts/self-worship]] â€” animals and places as instruments of spiritual communication; faith-building
-- [[concepts/aura]] â€” the heaviness around Hingori's head = energy awareness; its lifting after the temple visit
-- [[concepts/destiny]] â€” the land offer arrives two years later through an entirely ordinary channel
-- [[entities/hingori]] â€” narrator; the one the temple selects as its interlocutor
+- [[concepts/self-worship]] — animals and places as instruments of spiritual communication; faith-building
+- [[concepts/aura]] — the heaviness around Hingori's head = energy awareness; its lifting after the temple visit
+- [[concepts/destiny]] — the land offer arrives two years later through an entirely ordinary channel
+- [[entities/hingori]] — narrator; the one the temple selects as its interlocutor

@@ -11,22 +11,22 @@ updated: 2026-04-22
 
 ## Who / What
 
-Devi Renuka is a Hindu deity â€” the mother of the sage-warrior Parshuram (Vishnu's sixth avatar). She is associated with Renuka Lake in Himachal Pradesh, which is named after her.
+Devi Renuka is a Hindu deity — the mother of the sage-warrior Parshuram (Vishnu's sixth avatar). She is associated with Renuka Lake in Himachal Pradesh, which is named after her.
 
-In *Aatma Sutra*, she appears in a vision to Hingori when he is under spiritual attack â€” the one instance of divine intervention by a deity outside Gurudev's lineage recorded in the Sutras.
+In *Aatma Sutra*, she appears in a vision to Hingori when he is under spiritual attack — the one instance of divine intervention by a deity outside Gurudev's lineage recorded in the Sutras.
 
 ## Appearance to Hingori
 
 When Hingori attempted to absorb power from a temple at Renuka and was attacked by Parshuramji's force, he walked to Renuka Lake and prayed to Devi Renuka for protection:
 
 > It was like watching a television screen on my forehead. I saw a beautiful woman (I assumed it was Devi Renuka), dressed in white, adorned with ornaments and with a crown on her head. She looked glorious. She touched my head and within a moment the heaviness disappeared.
-> â€” Hingori, *Aatma Sutra*, Ch.X, p.120
+> — Hingori, *Aatma Sutra*, Ch.X, p.120
 
-Gurudev subsequently confirmed that Hingori had been punished by Parshuramji for attempting to steal energy from his disciple's temple â€” making this a case of "attacked by the son, saved by the mother."
+Gurudev subsequently confirmed that Hingori had been punished by Parshuramji for attempting to steal energy from his disciple's temple — making this a case of "attacked by the son, saved by the mother."
 
 Hingori has preserved holy water from Renuka Lake in his place of worship as a connection to her.
 
 ## Sources
 
-- [[stories/hingori-renuka-temple-attack]] â€” the full narrative
-- [[concepts/aura]] â€” context: accidental aura attainment, energy better earned than stolen
+- [[stories/hingori-renuka-temple-attack]] — the full narrative
+- [[concepts/aura]] — context: accidental aura attainment, energy better earned than stolen

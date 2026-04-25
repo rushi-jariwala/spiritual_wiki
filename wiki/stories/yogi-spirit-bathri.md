@@ -11,7 +11,7 @@ updated: 2026-04-14
 
 ## Source
 
-Hingori, *Karma Sutra*, Ch.5, pp.82â€“83
+Hingori, *Karma Sutra*, Ch.5, pp.82–83
 
 ## Full Narrative
 
@@ -29,7 +29,7 @@ Hingori, *Karma Sutra*, Ch.5, pp.82â€“83
 
 ## Related Concepts / Entities
 
-- [[entities/mahaguru]] â€” Gurudev presides; instructs Mrs Taneja to have the child
-- [[concepts/sanchit-karma]] â€” the yogi spirit carries a powerful accumulated balance, enough to resolve the Tanejas' problems from within the womb
-- [[concepts/positive-karma]] â€” the yogi's post-death service is accumulating good karma even before rebirth
-- [[concepts/prarabdh-karma]] â€” the young man's present life is rich with fructifying positive karma; arrogance risks depleting it
+- [[entities/mahaguru]] — Gurudev presides; instructs Mrs Taneja to have the child
+- [[concepts/sanchit-karma]] — the yogi spirit carries a powerful accumulated balance, enough to resolve the Tanejas' problems from within the womb
+- [[concepts/positive-karma]] — the yogi's post-death service is accumulating good karma even before rebirth
+- [[concepts/prarabdh-karma]] — the young man's present life is rich with fructifying positive karma; arrogance risks depleting it

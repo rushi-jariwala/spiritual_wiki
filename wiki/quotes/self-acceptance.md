@@ -13,7 +13,7 @@ updated: 2026-04-22
 
 > "*Seerat ko dekho, surat ko nahi.*"
 > (Look at the inner qualities, not the outer beauty.)
-> â€” Hingori's grandfather, quoted in *Aatma Sutra*, Ch.XI, p.131
+> — Hingori's grandfather, quoted in *Aatma Sutra*, Ch.XI, p.131
 
 [[concepts/self-acceptance]]
 
@@ -21,34 +21,34 @@ updated: 2026-04-22
 
 > "*Nanak dukhiya sab sansaar.*"
 > (The world is always in a state of unhappiness.)
-> â€” Guru Nanak Dev, quoted in *Aatma Sutra*, Ch.XI, p.132
+> — Guru Nanak Dev, quoted in *Aatma Sutra*, Ch.XI, p.132
 
 [[entities/guru-nanak]], [[concepts/destiny]]
 
 ---
 
 > "Who are you to blame me? You are my painting. I am the artist. By blaming yourself, you are blaming me."
-> â€” Divine voice to Hingori, *Aatma Sutra*, Ch.XI, p.136
+> — Divine voice to Hingori, *Aatma Sutra*, Ch.XI, p.136
 
 [[concepts/self-acceptance]], [[concepts/non-doership]], [[stories/hingori-meat-chopper-guilt]]
 
 ---
 
 > "Guilt at a conscious level can be an insurmountable obstacle to self-acceptance."
-> â€” Hingori, *Aatma Sutra*, Ch.XI, p.142
+> — Hingori, *Aatma Sutra*, Ch.XI, p.142
 
 [[concepts/self-acceptance]], [[concepts/samskars]]
 
 ---
 
 > "A snake needs to bare its fangs to keep others in fear, else people might just trample it."
-> â€” Old Indian saying, quoted in *Aatma Sutra*, Ch.XI, p.140
+> — Old Indian saying, quoted in *Aatma Sutra*, Ch.XI, p.140
 
 [[concepts/self-acceptance]], [[concepts/role-play]]
 
 ---
 
 > "Truth can neither be limited to, nor interpreted by the five senses. Being pronounced guilty by reference to the senses alone lacks perfection."
-> â€” Hingori, *Aatma Sutra*, Ch.XI, p.142
+> — Hingori, *Aatma Sutra*, Ch.XI, p.142
 
 [[concepts/self-acceptance]], [[stories/hingori-neena-two-guilts]]

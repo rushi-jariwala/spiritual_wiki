@@ -11,16 +11,16 @@ updated: 2026-04-12
 # The Guru-Disciple Relationship
 
 > *"Guru means remover of darkness."*
-> â€” *Karma Sutra*, Ch.1, p.19
+> — *Karma Sutra*, Ch.1, p.19
 
 ## Definition
 
-A **guru** is one who takes upon themselves the task of reducing the *ignorance* (avidya) of their disciples. "Ignorance" here is not a lack of information but a specific kind of spiritual occlusion â€” one of the five [[concepts/kleshas|kleshas]] that distort human consciousness.
+A **guru** is one who takes upon themselves the task of reducing the *ignorance* (avidya) of their disciples. "Ignorance" here is not a lack of information but a specific kind of spiritual occlusion — one of the five [[concepts/kleshas|kleshas]] that distort human consciousness.
 
 A **sadguru** ("right teacher") goes further: they take responsibility for the *enlightenment* of the disciple, passing on all their knowledge and abilities.
 
 > Getting a sadguru is like winning a lottery.
-> â€” *Karma Sutra*, Ch.1, p.19
+> — *Karma Sutra*, Ch.1, p.19
 
 ## Core Teaching
 
@@ -28,11 +28,11 @@ The guru-disciple relationship, in the Hingori framing, is not primarily instruc
 
 - **Activate positive prarabdh early**, granting relief the disciple could not otherwise access
 - **Re-balance the equation** by helping the disciple accumulate positive karma through seva and tapasya
-- **Release sanchit benefits into the current life** â€” tapping the warehouse ahead of schedule
+- **Release sanchit benefits into the current life** — tapping the warehouse ahead of schedule
 - **Provide an "umbrella"** of energy that neutralises negative planetary effects
 
 > By adding a substantive number of positive karma, strictly avoiding the negative, and by committing to a lifestyle that will keep the karmic assets increasing and liabilities reducing, the guru can even give the disciple benefit of his sanchit karmas in this life, thus re-balancing the equation in his/her favour.
-> â€” *Karma Sutra*, Ch.1, p.21
+> — *Karma Sutra*, Ch.1, p.21
 
 ## Nuances
 
@@ -41,14 +41,14 @@ The guru-disciple relationship, in the Hingori framing, is not primarily instruc
 The umbrella metaphor is central and deserves its own treatment:
 
 > The blessings of the guru may not avert the rain of bad luck, but it could provide an umbrella, by neutralising the negativity of the planetary effects. By getting attached to the aura of the disciple, his ability to withstand the negative rays gets enhanced.
-> â€” *Karma Sutra*, Ch.1, p.21
+> — *Karma Sutra*, Ch.1, p.21
 
 The guru does not usually *cancel* the disciple's destiny. He **changes how the disciple experiences it**. The difficulty still arrives, but the will-power, perception, and reaction of the disciple are altered such that the negativity rounds off. Two vivid examples are filed as [[stories/gurus-umbrella-wife-delivery]] and [[stories/scooter-accident-vision]].
 
 ### Changing the Experience, Not the Script
 
 > A guru can make his disciple die in his/her dream-state. He can give his disciple a new lease of life and extend his/her present life span by several years wherein the situation may remain the same, but the experience may be different.
-> â€” *Karma Sutra*, Ch.1, p.22
+> — *Karma Sutra*, Ch.1, p.22
 
 The critical distinction: the outer events may still occur, but inner response, consciousness, and capacity are transformed. A financial squeeze is still endured, but with enhanced will-power and higher consciousness.
 
@@ -57,9 +57,9 @@ The critical distinction: the outer events may still occur, but inner response, 
 Not all seekers have a human guru. Hingori acknowledges:
 
 > Many people also evolve without the help of a guru or spiritual guide. They read religious or spiritual books, practice philanthropy, chant mantras or prayers, and do seva by working with NGOs... Such people are well informed about the spiritual world and its dynamics. Their intellect helps them understand the laws of karma... It is a do-it-yourself process, but sometimes it works.
-> â€” *Karma Sutra*, Ch.1, p.20
+> — *Karma Sutra*, Ch.1, p.20
 
-The do-it-yourself route is real but implicitly harder, with fewer guarantees. **Guru Nanak himself**, Hingori notes, did not have a guru in human form â€” he worshipped a devi, and through her received the attainment of OM on his palm and his spiritual powers. See [[stories/guru-nanak-river-bain]].
+The do-it-yourself route is real but implicitly harder, with fewer guarantees. **Guru Nanak himself**, Hingori notes, did not have a guru in human form — he worshipped a devi, and through her received the attainment of OM on his palm and his spiritual powers. See [[stories/guru-nanak-river-bain]].
 
 ### Posthumous Guidance
 
@@ -67,10 +67,10 @@ A guru's relationship with disciples does not end at death. Hingori says his own
 
 ### The Guru Across Traditions
 
-Hingori names renowned gurus across cultures and eras â€” **Guru Vashisht** (to Lord Ram), **Jesus Christ** (with his eleven disciples), **Guru Nanak**, **Gautam Buddha**, **Ramakrishna Paramhansa**, and beyond India: **Aristotle**, **Plato**, **Lao Tzu**, **Prophet Mohammed**, **Khalil Gibran**. His view:
+Hingori names renowned gurus across cultures and eras — **Guru Vashisht** (to Lord Ram), **Jesus Christ** (with his eleven disciples), **Guru Nanak**, **Gautam Buddha**, **Ramakrishna Paramhansa**, and beyond India: **Aristotle**, **Plato**, **Lao Tzu**, **Prophet Mohammed**, **Khalil Gibran**. His view:
 
-> Every religious teacher has said almost the same thing in different languages â€” all have advocated performing good deeds... The truth is one and presentations many.
-> â€” *Karma Sutra*, Ch.1, p.19
+> Every religious teacher has said almost the same thing in different languages — all have advocated performing good deeds... The truth is one and presentations many.
+> — *Karma Sutra*, Ch.1, p.19
 
 ## In Practice
 
@@ -83,22 +83,22 @@ For the disciple:
 ## Quotes
 
 > "A competent guru takes upon himself/herself the responsibility of the enlightenment of his disciple, by passing on all his/her knowledge and abilities."
-> â€” *Karma Sutra*, Ch.1, p.19
+> — *Karma Sutra*, Ch.1, p.19
 
 > "The power of the mind, it is said, can move mountains. This means, a person can, through sadhana and his/her guru's grace, achieve powers that are supernormal."
-> â€” *Karma Sutra*, Ch.1, p.22
+> — *Karma Sutra*, Ch.1, p.22
 
 See more in [[quotes/guru]].
 
 ## Cross-references
 
-- [[concepts/karma]] Â· [[concepts/sanchit-karma]] Â· [[concepts/prarabdh-karma]]
-- [[concepts/kleshas]] â€” avidya is the ignorance a guru removes
-- [[entities/mahaguru]] â€” the central guru figure of the Hingori Sutras
-- [[entities/hingori]] â€” the disciple-author
-- [[practices/seva]] Â· [[practices/tapasya]] Â· [[practices/sadhana]]
-- [[stories/hingori-arthritis-cure]] Â· [[stories/gurus-umbrella-wife-delivery]] Â· [[stories/scooter-accident-vision]] Â· [[stories/bada-guruvar-queue]] Â· [[stories/guru-nanak-river-bain]]
-- [[concepts/empathy]] â€” the guru's empathy as the transformative force: holding the disciple's potential when they cannot see it themselves ([[stories/gurudev-horse-gives-birth]])
+- [[concepts/karma]] · [[concepts/sanchit-karma]] · [[concepts/prarabdh-karma]]
+- [[concepts/kleshas]] — avidya is the ignorance a guru removes
+- [[entities/mahaguru]] — the central guru figure of the Hingori Sutras
+- [[entities/hingori]] — the disciple-author
+- [[practices/seva]] · [[practices/tapasya]] · [[practices/sadhana]]
+- [[stories/hingori-arthritis-cure]] · [[stories/gurus-umbrella-wife-delivery]] · [[stories/scooter-accident-vision]] · [[stories/bada-guruvar-queue]] · [[stories/guru-nanak-river-bain]]
+- [[concepts/empathy]] — the guru's empathy as the transformative force: holding the disciple's potential when they cannot see it themselves ([[stories/gurudev-horse-gives-birth]])
 
 ## Open Questions
 
@@ -106,4 +106,4 @@ See more in [[quotes/guru]].
 > Hingori distinguishes "guru" from "sadguru" (right teacher) but does not in this chapter give explicit criteria. This is likely developed further in [[sources/guru-sutra]].
 
 > [!question] Contracts of the relationship
-> If the guru can release sanchit benefits into a disciple's current life, does the disciple incur any obligation in return â€” karmically, energetically, or otherwise? Or is the guru's giving free? Worth tracking through later sources.
+> If the guru can release sanchit benefits into a disciple's current life, does the disciple incur any obligation in return — karmically, energetically, or otherwise? Or is the guru's giving free? Worth tracking through later sources.

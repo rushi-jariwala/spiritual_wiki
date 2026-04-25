@@ -12,7 +12,7 @@ updated: 2026-04-18
 ## Full Narrative
 
 > Virenderji, a retired judge in Haryana, was a devotee of Gurudev. One morning, having overslept, he missed going to the park for his morning walk. At 8:30 that morning, three of his friends came to his house. Apparently, he had invited them at 6:30 that morning at the park! This was very strange, since the judge had obviously missed his walk that morning. He did not know what to make of this incident. Here was a clear example of how another version of you can exist whilst on a path of spiritual evolution.
-> â€” Hingori, *Aatma Sutra*, Ch.VI, p.71
+> — Hingori, *Aatma Sutra*, Ch.VI, p.71
 
 ## Source
 
@@ -20,6 +20,6 @@ updated: 2026-04-18
 
 ## Related Concepts / Entities
 
-- [[concepts/astral-travel]] â€” involuntary nirman kaya of a devotee; another version of Virenderji acted and spoke independently of his waking self
-- [[concepts/mukti]] â€” nirman kaya as a marker of advancement on the path of spiritual evolution
-- [[entities/mahaguru]] â€” Virenderji was a devotee of Gurudev
+- [[concepts/astral-travel]] — involuntary nirman kaya of a devotee; another version of Virenderji acted and spoke independently of his waking self
+- [[concepts/mukti]] — nirman kaya as a marker of advancement on the path of spiritual evolution
+- [[entities/mahaguru]] — Virenderji was a devotee of Gurudev

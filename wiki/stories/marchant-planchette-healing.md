@@ -1,5 +1,5 @@
 ---
-title: Mr Marchant and the Planchette â€” Post-Death Karma in Action
+title: Mr Marchant and the Planchette — Post-Death Karma in Action
 type: story
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
 related: ["[[entities/hingori]]", "[[concepts/positive-karma]]", "[[concepts/non-doership]]", "[[stories/hingori-arthritis-cure]]"]
@@ -7,11 +7,11 @@ created: 2026-04-14
 updated: 2026-04-14
 ---
 
-# Mr Marchant and the Planchette â€” Post-Death Karma in Action
+# Mr Marchant and the Planchette — Post-Death Karma in Action
 
 ## Source
 
-Hingori, *Karma Sutra*, Ch.5, pp.85â€“87
+Hingori, *Karma Sutra*, Ch.5, pp.85–87
 
 ## Full Narrative
 
@@ -29,13 +29,13 @@ Hingori, *Karma Sutra*, Ch.5, pp.85â€“87
 > 
 > Clueless of what had transpired, he set up the planchette and what happened next was quite shocking. The pendulum kept swinging vigorously than normal, as if it was charged with extra energy. Normally, it would swing about 50-60 degrees but that day it was swinging more than 90 degrees, almost aggressively. More than me, Mr Marchant was taken aback. He broke into a conversation with his box, "But how can he be alright?" "What are you saying, please?" Unwittingly, he forgot that I was a witness to his interaction! After the pendulum had done a lot of swinging, he looked at me with an expression of helplessness. "He is saying, you are alright, is it true?"
 > 
-> This was quite a moment for me. I decided to do an acid test. I said, "Ask him how I got alright?" The pendulum was swinging again â€” and how! He said, "He is saying jungle man, jungle medicine". I asked, "How much am I cured?" He said, "95 per cent". That blew my mind! I realised that his guru must have been his partner in this effort, and it could not have been a figment of his imagination.
+> This was quite a moment for me. I decided to do an acid test. I said, "Ask him how I got alright?" The pendulum was swinging again — and how! He said, "He is saying jungle man, jungle medicine". I asked, "How much am I cured?" He said, "95 per cent". That blew my mind! I realised that his guru must have been his partner in this effort, and it could not have been a figment of his imagination.
 > 
 > His guru was earning post-death karmas by healing people and not allowing Mr Marchant to charge for it. It strengthened my belief in karmayoga, almost 40 years back. Today, it can be your third-party experience if you allow it to be.
 
 ## Related Concepts / Entities
 
-- [[entities/hingori]] â€” the patient; witnesses and conducts the acid test
-- [[concepts/positive-karma]] â€” Mr Marchant's late guru accumulates positive karma post-death through continued healing service
-- [[stories/hingori-arthritis-cure]] â€” the arthritis cure that the planchette independently confirms ("jungle man, jungle medicine"; 95%)
-- [[concepts/non-doership]] â€” the late guru instructs no fees to be charged; keeps his healing free of personal encashment; service without ownership
+- [[entities/hingori]] — the patient; witnesses and conducts the acid test
+- [[concepts/positive-karma]] — Mr Marchant's late guru accumulates positive karma post-death through continued healing service
+- [[stories/hingori-arthritis-cure]] — the arthritis cure that the planchette independently confirms ("jungle man, jungle medicine"; 95%)
+- [[concepts/non-doership]] — the late guru instructs no fees to be charged; keeps his healing free of personal encashment; service without ownership

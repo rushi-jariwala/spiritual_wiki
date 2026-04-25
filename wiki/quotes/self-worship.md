@@ -12,87 +12,87 @@ updated: 2026-04-22
 ## On Love
 
 > "I believe love is devoid of emotion. Love is not a quid pro quo, nor is it something you direct towards a specific person or even a set of people. It is an attitude with an underlying theme, wherein you love all forms of the consciousness supreme outside of you, and in doing so, you can love the same spark of the consciousness supreme within you."
-> â€” Hingori, *Aatma Sutra*, Ch.XII, p.145
+> — Hingori, *Aatma Sutra*, Ch.XII, p.145
 
 > "Human love is the highest emotion most of us know. It frees us to some extent from our egotism in our relation to one or more individuals. But human love is still possessive and exclusive. Love for the *aatman* is neither. What people 'really are' is the *aatman*, nothing less. To love the *aatman* in ourselves is to love it everywhere."
-> â€” Patanjali, quoted by Hingori, *Aatma Sutra*, Ch.XII, p.147
+> — Patanjali, quoted by Hingori, *Aatma Sutra*, Ch.XII, p.147
 
 > "I have no separation from my true self, no doubt about my existence, nor have I discrimination based on birth. I have no father or mother, nor did I have a birth. I am not the relative, nor the friend, nor the guru, nor the disciple, I am indeed, that eternal knowing and bliss, Shiva, love, and pure consciousness."
-> â€” Adi Shankaracharya, quoted by Hingori, *Aatma Sutra*, Ch.XII, p.148
+> — Adi Shankaracharya, quoted by Hingori, *Aatma Sutra*, Ch.XII, p.148
 
 ---
 
 ## On Self-Love and Phase A-to-Z
 
 > "Why judge yourself at the cross-section today? If you have embarked on the voyage of self-discovery, then give yourself a fair chance."
-> â€” Hingori, *Aatma Sutra*, Ch.XII, p.154
+> — Hingori, *Aatma Sutra*, Ch.XII, p.154
 
 > "I didn't! Someone taught me how to look within. He taught me how to sense my reflection in the mirror without looking at it. I learnt to experience what I was rather than who I was."
-> â€” Hingori, *Aatma Sutra*, Ch.XII, p.174 *(approx.)*
+> — Hingori, *Aatma Sutra*, Ch.XII, p.174 *(approx.)*
 
 ---
 
 ## On Self-Worship
 
 > "The 'self' in self-worship we are referring to, is not the self of the gate but the self of the light within. Therefore self-worship is justifiable even for the most wretched, the most evil or the most perceivably unqualified."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.172
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.172
 
 > "There are nine billion doorways (the number of people alive) to the supreme, yours is one of them. So, use it."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.173
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.173
 
 > "Your physical self is the doorway that leads to the 'you' that can be worshipped. So why not use this doorway instead of some other? There is no vanity involved, so do not fear it."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.173
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.173
 
 > "Remember those magic words in Sanskrit: *Tat Twam Asi* (That You Are)."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.175
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.175
 
 > "It is a case of an atheist worshipping himself and benefitting from his own divinity. John did it, you can do it too."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.182
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.182
 
 ---
 
 ## On Dreams and Faith
 
 > "Knowing that your so-called normal life is one of *maya* (delusion) is a great awareness. Therefore, living with the realisation of *maya* keeps you flexible enough to oscillate in and out of its circle."
-> â€” Hingori, *Aatma Sutra*, Ch.XIII, p.156
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.156
 
 > "For those who characterise this as make-believe or delusionary, my question to them is, what is not?"
-> â€” Hingori, *Aatma Sutra*, Ch.XIII, p.158
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.158
 
 > "If the heightening of awareness can happen for a crow or a dog, then why not us?"
-> â€” Hingori, *Aatma Sutra*, Ch.XIII, p.168
+> — Hingori, *Aatma Sutra*, Ch.XIII, p.168
 
 ---
 
 ## On Gurudev's Self-Worship in Action
 
 > "I am carrying this photograph so that I can take myself along for this important mission. I want myself to come and help me complete it."
-> â€” Gurudev, reported by Hingori, *Aatma Sutra*, Ch.XIV, p.181
+> — Gurudev, reported by Hingori, *Aatma Sutra*, Ch.XIV, p.181
 
-> "I realised that my guru was not the 5-feet-8-inch man, well-spoken, incredible exemplar. He was more than human â€” a ball of energy. I knew that I should stop worshipping the man and worship the being."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.180
+> "I realised that my guru was not the 5-feet-8-inch man, well-spoken, incredible exemplar. He was more than human — a ball of energy. I knew that I should stop worshipping the man and worship the being."
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.180
 
 ---
 
 ## Sant Tukaram on Worship Through Any Image
 
 > "I made an earthen image of Shiva, but the Earth is not Shiva; My worship reaches Shiva, the Earth remains the Earth it was... the saint is but His servant, an instrument, a conduit pipe."
-> â€” Sant Tukaram, quoted in *Aatma Sutra*, Ch.XIV, pp.173â€“174
+> — Sant Tukaram, quoted in *Aatma Sutra*, Ch.XIV, pp.173–174
 
 See [[stories/sant-tukaram-worship-poem]] for the full verse. [[entities/sant-tukaram]]
 
 ---
 
-## Guru Vashisht â€” The Advait Ground
+## Guru Vashisht — The Advait Ground
 
 > "There is no god, and this world's appearance is generated by the collective mind and is not the creation of the creator."
-> â€” Guru Vashisht, *Yog Vasishta*, quoted in *Aatma Sutra*, Ch.XIV, p.183
+> — Guru Vashisht, *Yog Vasishta*, quoted in *Aatma Sutra*, Ch.XIV, p.183
 
 > "What you perceive outside is within you."
-> â€” Guru Vashisht (Hingori's paraphrase), *Aatma Sutra*, Ch.XIV, p.183
+> — Guru Vashisht (Hingori's paraphrase), *Aatma Sutra*, Ch.XIV, p.183
 
 > "The truth is variable at different stages of *gyan* or intuitive knowledge."
-> â€” Hingori, *Aatma Sutra*, Ch.XIV, p.183
+> — Hingori, *Aatma Sutra*, Ch.XIV, p.183
 
 ---
 
@@ -103,6 +103,6 @@ See [[stories/sant-tukaram-worship-poem]] for the full verse. [[entities/sant-tu
 > *My God in the mirror will finally unpeel.*
 > *Now worship the me or worship thee,*
 > *Let enlightenment happen and showcase the we."*
-> â€” Hingori, *Aatma Sutra*, p.188
+> — Hingori, *Aatma Sutra*, p.188
 
 See [[stories/hingori-closing-poem]] for the full poem.

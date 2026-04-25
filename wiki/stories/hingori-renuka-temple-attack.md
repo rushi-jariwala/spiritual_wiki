@@ -1,5 +1,5 @@
 ---
-title: Hingori at Renuka â€” Attacked by the Son, Saved by the Mother
+title: Hingori at Renuka — Attacked by the Son, Saved by the Mother
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/aura]]", "[[entities/hingori]]", "[[entities/devi-renuka]]"]
@@ -7,7 +7,7 @@ created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Hingori at Renuka â€” Attacked by the Son, Saved by the Mother
+# Hingori at Renuka — Attacked by the Son, Saved by the Mother
 
 ## Full Narrative
 
@@ -18,14 +18,14 @@ updated: 2026-04-22
 > Attacked by the son, saved by the mother!
 >
 > When I returned to Gurudev's camp, I sat like a mouse at the rear. He walked upto me and confirmed that I had been punished by Parshuramji because I had erred.
-> â€” Hingori, *Aatma Sutra*, Ch.X, pp.119â€“120
+> — Hingori, *Aatma Sutra*, Ch.X, pp.119–120
 
 ## Source
 
-*Aatma Sutra*, Chapter X: Protecting and Expanding Aura, pp.119â€“120
+*Aatma Sutra*, Chapter X: Protecting and Expanding Aura, pp.119–120
 
 ## Related Concepts / Entities
 
-- [[concepts/aura]] â€” the central lesson: accidental aura attainment from a place of worship without permission invites a reaction; "energy was better earned than stolen"
-- [[entities/hingori]] â€” the narrator; in a period of "spiritual immaturity and adventurism"
-- [[entities/devi-renuka]] â€” appeared in vision on Hingori's inner screen; touched his head; the attack ceased
+- [[concepts/aura]] — the central lesson: accidental aura attainment from a place of worship without permission invites a reaction; "energy was better earned than stolen"
+- [[entities/hingori]] — the narrator; in a period of "spiritual immaturity and adventurism"
+- [[entities/devi-renuka]] — appeared in vision on Hingori's inner screen; touched his head; the attack ceased

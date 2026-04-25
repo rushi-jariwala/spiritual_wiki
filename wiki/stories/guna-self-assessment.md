@@ -11,7 +11,7 @@ updated: 2026-04-22
 
 ## Source
 
-*Aatma Sutra*, Ch.VIII, pp.96â€“97
+*Aatma Sutra*, Ch.VIII, pp.96–97
 
 ## Worksheet (Verbatim)
 
@@ -42,12 +42,12 @@ updated: 2026-04-22
 >
 > Note the score under each guna personality:
 >
-> Score of 18â€“27 = *Sattvic*
-> Score of 28â€“36 = *Rajasic*
+> Score of 18–27 = *Sattvic*
+> Score of 28–36 = *Rajasic*
 > Score of 37 or above = *Tamasic*
-> â€” Hingori, *Aatma Sutra*, Ch.VIII, pp.96â€“97
+> — Hingori, *Aatma Sutra*, Ch.VIII, pp.96–97
 
 ## Related Concepts
 
-- [[concepts/gunas]] â€” the three gunas this worksheet is designed to diagnose
-- [[concepts/loks]] â€” guna mix determines lok qualification; this worksheet is the self-diagnostic tool for that qualification
+- [[concepts/gunas]] — the three gunas this worksheet is designed to diagnose
+- [[concepts/loks]] — guna mix determines lok qualification; this worksheet is the self-diagnostic tool for that qualification

@@ -1,5 +1,5 @@
 ---
-title: Hingori and the Meat Chopper â€” Guilt Dissolves
+title: Hingori and the Meat Chopper — Guilt Dissolves
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/self-acceptance]]", "[[concepts/non-doership]]", "[[concepts/destiny]]", "[[entities/hingori]]"]
@@ -7,11 +7,11 @@ created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Hingori and the Meat Chopper â€” Guilt Dissolves
+# Hingori and the Meat Chopper — Guilt Dissolves
 
 ## Source
 
-Hingori, *Aatma Sutra*, Ch.XI, pp.135â€“136
+Hingori, *Aatma Sutra*, Ch.XI, pp.135–136
 
 ## Full Narrative
 
@@ -25,7 +25,7 @@ Hingori, *Aatma Sutra*, Ch.XI, pp.135â€“136
 
 ## Related Concepts / Entities
 
-- [[concepts/self-acceptance]] â€” the central story of Ch.XI; guilt dissolving as the gateway to self-acceptance
-- [[concepts/non-doership]] â€” refusing ownership of the act as the mechanism that dissolves guilt
-- [[concepts/destiny]] â€” both Hingori's rage and the worker's suffering were destined; the pawn logic
-- [[entities/hingori]] â€” personal testimony; occurred approximately 30 years before the writing of *Aatma Sutra*
+- [[concepts/self-acceptance]] — the central story of Ch.XI; guilt dissolving as the gateway to self-acceptance
+- [[concepts/non-doership]] — refusing ownership of the act as the mechanism that dissolves guilt
+- [[concepts/destiny]] — both Hingori's rage and the worker's suffering were destined; the pawn logic
+- [[entities/hingori]] — personal testimony; occurred approximately 30 years before the writing of *Aatma Sutra*

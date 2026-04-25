@@ -1,5 +1,5 @@
 ---
-title: Rajee's Shiv Darshan â€” Mrityu, Mrityu, Mrityu
+title: Rajee's Shiv Darshan — Mrityu, Mrityu, Mrityu
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[concepts/maya]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
@@ -7,9 +7,9 @@ created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Rajee's Shiv Darshan â€” Mrityu, Mrityu, Mrityu
+# Rajee's Shiv Darshan — Mrityu, Mrityu, Mrityu
 
-**Source:** *Aatma Sutra*, Ch.XIII, pp.157â€“158
+**Source:** *Aatma Sutra*, Ch.XIII, pp.157–158
 
 ## Full Narrative
 
@@ -21,11 +21,11 @@ updated: 2026-04-22
 
 ## Related Concepts
 
-Hingori presents this as an example of **Category 1 dreams** â€” where the interaction is so vivid and real that it shifts the dreamer's self-perception. Rajee is "qualified" to stand before Shankar; the vision encodes this qualification into his unconscious.
+Hingori presents this as an example of **Category 1 dreams** — where the interaction is so vivid and real that it shifts the dreamer's self-perception. Rajee is "qualified" to stand before Shankar; the vision encodes this qualification into his unconscious.
 
-*Mrityu, mrityu, mrityu* â€” "death, death, death" â€” Hingori interprets this as probably meaning the end of existence as an ego-bound individual: the dissolution that follows the exhaustion of *samskars*. A blessing, not a curse.
+*Mrityu, mrityu, mrityu* — "death, death, death" — Hingori interprets this as probably meaning the end of existence as an ego-bound individual: the dissolution that follows the exhaustion of *samskars*. A blessing, not a curse.
 
-- [[concepts/self-worship]] â€” dreams as faith-builders; the vision as mandate for self-faith
-- [[concepts/astral-travel]] â€” Gurudev takes Rajee out of his body; non-Earth cave as other-dimensional location
-- [[concepts/maya]] â€” "delusion within delusion is as real as your perceived reality"
-- [[entities/mahaguru]] â€” Gurudev orchestrates the out-of-body journey as Rajee's guide
+- [[concepts/self-worship]] — dreams as faith-builders; the vision as mandate for self-faith
+- [[concepts/astral-travel]] — Gurudev takes Rajee out of his body; non-Earth cave as other-dimensional location
+- [[concepts/maya]] — "delusion within delusion is as real as your perceived reality"
+- [[entities/mahaguru]] — Gurudev orchestrates the out-of-body journey as Rajee's guide

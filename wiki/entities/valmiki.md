@@ -15,14 +15,14 @@ Valmiki is the ancient Indian sage credited with composing the *Ramayan*, one of
 
 ## In Aatma Sutra
 
-Hingori mentions Valmiki in Ch.XII as an example of the **Phase A-to-Z principle** â€” the teaching that a life cannot be judged by any single cross-section:
+Hingori mentions Valmiki in Ch.XII as an example of the **Phase A-to-Z principle** — the teaching that a life cannot be judged by any single cross-section:
 
 > "The great sage Valmiki, who wrote the Indian epic Ramayan, was a bandit and murderer at one stage of his life. And yet, he is referred to as a *maharishi*."
-> â€” Hingori, *Aatma Sutra*, Ch.XII, p.153
+> — Hingori, *Aatma Sutra*, Ch.XII, p.153
 
 Valmiki represents the most dramatic instance in the book of destined transformation: a criminal who became one of the most revered sages in Indian civilisation. His story is offered alongside [[entities/vishvamitra]] to argue that the present cross-section of a life is not its measure.
 
 ## Related Concepts
 
-- [[concepts/self-love]] â€” Phase A-to-Z; do not judge yourself by today's cross-section
-- [[concepts/samskars]] â€” the transformation from bandit to maharishi implies a radical clearing of negative samskars
+- [[concepts/self-love]] — Phase A-to-Z; do not judge yourself by today's cross-section
+- [[concepts/samskars]] — the transformation from bandit to maharishi implies a radical clearing of negative samskars

@@ -19,5 +19,5 @@ updated: 2026-04-14
 
 ## Related Concepts / Entities
 
-- [[concepts/positive-karma]] â€” greening as inexhaustible karma; compounding benefit across lifetimes
-- [[entities/hingori]] â€” narrator; citing a reader's example
+- [[concepts/positive-karma]] — greening as inexhaustible karma; compounding benefit across lifetimes
+- [[entities/hingori]] — narrator; citing a reader's example

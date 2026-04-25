@@ -1,5 +1,5 @@
 ---
-title: Chapter Opening Poems â€” The Family Man & The Man of Mystery
+title: Chapter Opening Poems — The Family Man & The Man of Mystery
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
 related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[entities/chacha]]", "[[entities/buddhe-baba]]", "[[entities/augarh]]"]
@@ -7,9 +7,9 @@ created: 2026-04-25
 updated: 2026-04-25
 ---
 
-# Chapter Opening Poems â€” The Family Man & The Man of Mystery
+# Chapter Opening Poems — The Family Man & The Man of Mystery
 
-Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2â€“3. Preserved verbatim.
+Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2–3. Preserved verbatim.
 
 ---
 
@@ -19,7 +19,7 @@ Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2�
 > The Shakti to his Shiv.
 > She took on the mantle of mother to his clan,
 > serving selflessly as long as she lived."
-> â€” Hingori, *The Guru of Gurus*, p.26
+> — Hingori, *The Guru of Gurus*, p.26
 
 *Illuminates:* [[entities/mataji]], [[concepts/grihasth-ashram]]
 
@@ -31,7 +31,7 @@ Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2�
 > accepting the here and now.
 > There was no pageantry, no sermons to give,
 > he just lived and taught them how."
-> â€” Hingori, *The Guru of Gurus*, p.33
+> — Hingori, *The Guru of Gurus*, p.33
 
 *Illuminates:* [[entities/mahaguru]], [[concepts/role-play]]
 
@@ -43,7 +43,7 @@ Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2�
 > soon grew from a child to a man.
 > But he never forgot the sacrifices she made
 > like only a mother can."
-> â€” Hingori, *The Guru of Gurus*, p.37
+> — Hingori, *The Guru of Gurus*, p.37
 
 *Illuminates:* [[entities/mahaguru]]
 
@@ -55,7 +55,7 @@ Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2�
 > and did what he asked them to do.
 > In return for a pinni, he asked for a tickle,
 > a sibling bartering a miracle or two."
-> â€” Hingori, *The Guru of Gurus*, p.41
+> — Hingori, *The Guru of Gurus*, p.41
 
 *Illuminates:* [[entities/mahaguru]], [[entities/chacha]], [[stories/gurudev-ganpati-exams]]
 
@@ -68,7 +68,7 @@ Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2�
 > He called him Buddhe Baba
 > and despite countless excavations,
 > that was all we ever knew!"
-> â€” Hingori, *The Guru of Gurus*, p.46
+> — Hingori, *The Guru of Gurus*, p.46
 
 *Illuminates:* [[entities/buddhe-baba]], [[concepts/guru-disciple]]
 
@@ -80,6 +80,6 @@ Verses by Hingori that open each sub-section of *The Guru of Gurus*, Chapters 2�
 > manifesting and multiplying at will.
 > Eyes bright as rubies, an intoxicating swagger,
 > he appears wherever he pleases still."
-> â€” Hingori, *The Guru of Gurus*, p.51
+> — Hingori, *The Guru of Gurus*, p.51
 
 *Illuminates:* [[entities/augarh]], [[concepts/astral-travel]]

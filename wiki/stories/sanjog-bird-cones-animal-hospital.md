@@ -19,5 +19,5 @@ updated: 2026-04-14
 
 ## Related Concepts / Entities
 
-- [[concepts/positive-karma]] â€” benefits to other life forms as a category of positive karma
-- [[entities/hingori]] â€” narrator
+- [[concepts/positive-karma]] — benefits to other life forms as a category of positive karma
+- [[entities/hingori]] — narrator

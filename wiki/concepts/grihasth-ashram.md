@@ -11,11 +11,11 @@ updated: 2026-04-25
 
 ## Definition
 
-Grihasth ashram is the stage of life as a householder â€” the second of the four classical ashrams (student, householder, forest-dweller, renunciate). In Gurudev's teaching, it carries a specific and counter-intuitive weight: **final spiritual attainments are only possible by fully fulfilling one's responsibilities as a householder.**
+Grihasth ashram is the stage of life as a householder — the second of the four classical ashrams (student, householder, forest-dweller, renunciate). In Gurudev's teaching, it carries a specific and counter-intuitive weight: **final spiritual attainments are only possible by fully fulfilling one's responsibilities as a householder.**
 
 ## Core Teaching
 
-Gurudev himself lived this teaching. After his marriage to Mataji in 1960, he decided â€” within a few weeks â€” to practise *sanyaas* (renunciation) in a modern way, leaving his marital home to pursue spiritual attainment. Five years passed.
+Gurudev himself lived this teaching. After his marriage to Mataji in 1960, he decided — within a few weeks — to practise *sanyaas* (renunciation) in a modern way, leaving his marital home to pursue spiritual attainment. Five years passed.
 
 Then, while meditating at **Gurudwara Sri Santoksar Saheb in Amritsar**, he heard a voice tell him:
 
@@ -25,7 +25,7 @@ He returned to his wife and settled into the life of a householder. He subsequen
 
 ## Nuances
 
-- This teaching does not reject renunciation â€” Gurudev practised inner *vanaprasth* (forest-dweller detachment) through his work as a soil surveyor, spending months in remote camps. The outer form of sanyaas was what he was instructed to relinquish.
+- This teaching does not reject renunciation — Gurudev practised inner *vanaprasth* (forest-dweller detachment) through his work as a soil surveyor, spending months in remote camps. The outer form of sanyaas was what he was instructed to relinquish.
 - The teaching implies that domestic responsibilities are not an obstacle to spiritual growth but a required field for its culmination. The very friction, accountability, and service of householder life generates the karma necessary for certain attainments.
 - Gurudev modelled this: he was the Shiv to Mataji's Shakti. His deep spiritual focus was sustained by her management of the household, her financial contributions as a schoolteacher, and her absorption of domestic burden without complaint.
 
@@ -33,11 +33,11 @@ He returned to his wife and settled into the life of a householder. He subsequen
 
 Disciples who sought to abandon family life in pursuit of spiritual goals were implicitly redirected by Gurudev's own example and by this teaching.
 
-> [!tip] The teaching subverts the conventional equation: renunciation â‰  abandonment of domestic duties. Final attainments come *through* the householder's path, not despite it.
+> [!tip] The teaching subverts the conventional equation: renunciation ≠ abandonment of domestic duties. Final attainments come *through* the householder's path, not despite it.
 
 ## Cross-references
 
-- [[entities/mahaguru]] â€” lived the teaching himself; returned from sanyaas on divine instruction
-- [[entities/mataji]] â€” Mataji as the enabling Shakti; shouldered the household so Gurudev could focus on seva
-- [[concepts/karmayoga]] â€” the householder's karmic field as the ground of karmayoga
-- [[practices/seva]] â€” nisvarth seva begins within the householder's orbit before extending outward
+- [[entities/mahaguru]] — lived the teaching himself; returned from sanyaas on divine instruction
+- [[entities/mataji]] — Mataji as the enabling Shakti; shouldered the household so Gurudev could focus on seva
+- [[concepts/karmayoga]] — the householder's karmic field as the ground of karmayoga
+- [[practices/seva]] — nisvarth seva begins within the householder's orbit before extending outward

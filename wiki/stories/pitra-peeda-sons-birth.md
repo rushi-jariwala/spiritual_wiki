@@ -1,5 +1,5 @@
 ---
-title: Pitra Peeda â€” Hingori's Son's Birth
+title: Pitra Peeda — Hingori's Son's Birth
 type: story
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
 related: ["[[concepts/pitra-peeda]]", "[[concepts/positive-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
@@ -7,7 +7,7 @@ created: 2026-04-13
 updated: 2026-04-14
 ---
 
-# Pitra Peeda â€” Hingori's Son's Birth
+# Pitra Peeda — Hingori's Son's Birth
 
 ## Full Narrative
 
@@ -18,7 +18,7 @@ updated: 2026-04-14
 > Though the story may sound bizarre, I will share with you another related experience. Months before my wife conceived, I woke up one night, and as I opened my eyes after meditation, I saw a man in the form of a thin shining cloud sitting below her bed, staring at her feet while she slept. It was 4 a.m! I was too shocked to react! The spirit turned towards me, (as I was 270 degrees from where he was) and when his ether eyes met mine, there was a look of shock on his face as he disappeared. My guru said, he was giving my wife a mother's form (of course he was not my grandfather).
 
 > "If you don't believe this story, just ignore it."
-> â€” Hingori, *Karma Sutra*, p.70
+> — Hingori, *Karma Sutra*, p.70
 
 > Pitra peeda can be corrected by doing many good deeds in your ancestors' name and also by conducting their shraadhs (shraadh is a ritual that is done on designated days in a year where you can make offerings in the name of your ancestors so that the benefit accrues to them) regularly.
 > 
@@ -26,11 +26,11 @@ updated: 2026-04-14
 
 ## Source
 
-*Karma Sutra*, pp.69â€“70 (`Karma Sutra June 2017-edited Final_E-print_19.pdf`)
+*Karma Sutra*, pp.69–70 (`Karma Sutra June 2017-edited Final_E-print_19.pdf`)
 
 ## Related Concepts / Entities
 
-- [[concepts/pitra-peeda]] â€” ancestral suffering; kul; shraadhs; remediation
-- [[concepts/positive-karma]] â€” remediation through good deeds assigned to ancestors; greening; feeding
-- [[entities/mahaguru]] â€” prescribes the specific remediation programme
-- [[entities/hingori]] â€” narrator; first-person account
+- [[concepts/pitra-peeda]] — ancestral suffering; kul; shraadhs; remediation
+- [[concepts/positive-karma]] — remediation through good deeds assigned to ancestors; greening; feeding
+- [[entities/mahaguru]] — prescribes the specific remediation programme
+- [[entities/hingori]] — narrator; first-person account

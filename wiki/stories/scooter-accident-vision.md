@@ -27,11 +27,11 @@ Told in "Defective Vision Or Defective Accident?" (*Karma Sutra*, Ch.1, p.23):
 *Karma Sutra*, Ch.1, "Defective Vision Or Defective Accident?", p.23.
 ## Hingori's Title
 
-The title Hingori gives the section â€” *"Defective Vision Or Defective Accident?"* â€” is a small joke: either the vision was flawed (it showed bleeding that did not happen), or the accident was flawed (it should have bled but didn't). Hingori leaves the reader to choose.
+The title Hingori gives the section — *"Defective Vision Or Defective Accident?"* — is a small joke: either the vision was flawed (it showed bleeding that did not happen), or the accident was flawed (it should have bled but didn't). Hingori leaves the reader to choose.
 
 ## Related
 
-- [[stories/gurus-umbrella-wife-delivery]] â€” the companion story
-- [[concepts/guru-disciple]] â€” the umbrella teaching
-- [[concepts/prarabdh-karma]] â€” destined events, altered experience
-- [[entities/hingori]] Â· [[entities/mahaguru]]
+- [[stories/gurus-umbrella-wife-delivery]] — the companion story
+- [[concepts/guru-disciple]] — the umbrella teaching
+- [[concepts/prarabdh-karma]] — destined events, altered experience
+- [[entities/hingori]] · [[entities/mahaguru]]

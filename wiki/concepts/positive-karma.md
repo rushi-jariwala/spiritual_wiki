@@ -15,12 +15,12 @@ What we get as karmic profit.
 
 ## Core Teaching
 
-Ch.4 of [[sources/karma-sutra]] catalogs 13 categories of positive karma. The unifying logic: any act that benefits life â€” directly or through chain effects â€” generates karmic credit. Key principles running across all categories:
+Ch.4 of [[sources/karma-sutra]] catalogs 13 categories of positive karma. The unifying logic: any act that benefits life — directly or through chain effects — generates karmic credit. Key principles running across all categories:
 
-- **Multiplier effect** â€” Some categories (education, greening, healing) compound across time and individuals far beyond the original act.
-- **Assignment** â€” Positive karma can be deliberately dedicated to ancestors (or even departed pets) by visualisation, speech to their photograph, or written dedication.
-- **No encashment** â€” Positive karma that earns social recognition or praise is encashed (see [[concepts/negative-karma]]). Quiet service preserves the credit.
-- **Humility as prerequisite** â€” Arrogance when good karma fructifies forfeits future opportunities.
+- **Multiplier effect** — Some categories (education, greening, healing) compound across time and individuals far beyond the original act.
+- **Assignment** — Positive karma can be deliberately dedicated to ancestors (or even departed pets) by visualisation, speech to their photograph, or written dedication.
+- **No encashment** — Positive karma that earns social recognition or praise is encashed (see [[concepts/negative-karma]]). Quiet service preserves the credit.
+- **Humility as prerequisite** — Arrogance when good karma fructifies forfeits future opportunities.
 
 ## The 13 Categories (Ch.4)
 
@@ -34,13 +34,13 @@ Allowing a seed to grow, investing in its space and nurturing it is considered g
 
 Therefore, helping to grow and sustain greenery is an inexhaustible wealth of karma as it has multiple effects and benefits. If a tree was to bear fruit for 60 years, the benefit of that fruit when consumed would accrue to the planter or the person taking care, or probably both, for those 60 years. All the plants, insects, birds, animals and humans who took refuge under the tree would also be obligated. The use of wood during its lifetime or thereafter would also be a credit to the planter and a debt to those who benefitted from its usage.
 
-See [[stories/delhi-reader-plants-trees]] â€” a reader with no land of her own who found creative ways to green a densely populated locality in New Delhi.
+See [[stories/delhi-reader-plants-trees]] — a reader with no land of her own who found creative ways to green a densely populated locality in New Delhi.
 
 ### 3. Benefits to Other Life Forms *(p.59)*
 
 One can provide benefit to life forms in several ways. Food is only one such way. One can provide shelter, medication and other benefits to the needy.
 
-See [[stories/sanjog-bird-cones-animal-hospital]] â€” a criminal lawyer putting up artificial cones for birds in Mumbai; a film producer's wife raising money for an animal hospital in Panvel.
+See [[stories/sanjog-bird-cones-animal-hospital]] — a criminal lawyer putting up artificial cones for birds in Mumbai; a film producer's wife raising money for an animal hospital in Panvel.
 
 Many Hindus offer fodder and shelter to cows. Hindu saints considered the cow as the second most evolved species after human beings. Some even anointed it as their second mother. After mother's milk, cow's milk provides most nutrition to the child. In the villages, cow-dung is still used as fuel for cooking, as an air purifier and for coating walls and floors. In fact, even cow's urine is used extensively in Ayurvedic recipes. It is considered a privilege to serve a life form which benefits us in so many ways.
 
@@ -52,7 +52,7 @@ You can oblige people by doing all kinds of positive things for them. Making peo
 
 Educating even one person who cannot afford to educate himself/herself can have a multiplier effect. That one person could do well in life, work and benefit several others.
 
-See [[stories/grandfather-education-multiplier]] â€” one benefactor's help to Hingori's grandfather compounded across three generations and beyond.
+See [[stories/grandfather-education-multiplier]] — one benefactor's help to Hingori's grandfather compounded across three generations and beyond.
 
 Several people offer services by giving their precious time to help educate others and enhance their positive karma.
 
@@ -60,7 +60,7 @@ Several people offer services by giving their precious time to help educate othe
 
 Medical aid can help alleviate physical suffering of the needy. If one can help such people, one has the right to claim positive karma and in plenty. Philanthropists fund hospitals, provide free medical treatment, organise medical camps and free distribution of medicines. Several doctors work pro bono for poor patients.
 
-See [[stories/fudge-lady-clinic-lonavala]] â€” a fudge maker sets up a free homeopathic clinic in Lonavala; her friends continue it after her death; hundreds benefit.
+See [[stories/fudge-lady-clinic-lonavala]] — a fudge maker sets up a free homeopathic clinic in Lonavala; her friends continue it after her death; hundreds benefit.
 
 ### 7. Benefitting Ancestors *(p.67)*
 
@@ -68,7 +68,7 @@ We humans generally remain highly indebted to our parents and grandparents for a
 
 In order to assign any of the benefits to one's ancestors, one can either say this in front of their photograph or simply visualise them in one's mind and offer that assignment. If one is donating money to a charitable trust then one can write it in a letter saying that the donation be attributed to the ancestor. One of the readers of the manuscript of this book fed some people and attributed it to the spirit of his dead dog, which was very dear to the family.
 
-### 8. Pitra Peeda Remediation *(p.69â€“71)*
+### 8. Pitra Peeda Remediation *(p.69–71)*
 
 Good deeds in ancestors' name; shraadhs. See [[concepts/pitra-peeda]] and [[stories/pitra-peeda-sons-birth]].
 
@@ -78,7 +78,7 @@ When people criticise us wrongfully and talk against us, they owe us for their s
 
 Most great saints have warned against the loss made by criticism of others and conversely, the profit made in the admiration of the good qualities of others. So, prayers, mantras, poems are odes to the greatness of saints, gods and prophets. Therefore, allowing people to criticise us and not reciprocating helps us grow our positive karmic balance at the cost of someone else's negative balance. Reacting negatively would neutralise that.
 
-### 10. Spiritual Healings and Helping Others *(p.75â€“77)*
+### 10. Spiritual Healings and Helping Others *(p.75–77)*
 
 Jesus was a great karmayogi, as was Sai Baba. Gurudev from Himgiri Najafgarh, healed me of arthritis in a minute. I saw him heal thousands of people. His only teachings were seva, which he practiced day and night. He never allowed himself to be photographed by the press, never gave interviews and maintained a low profile even though there were queues of thousands of people waiting to meet him.
 
@@ -87,11 +87,11 @@ The L.C.M. (least common multiple) of most religions is service to others. The S
 The power to spiritually help and heal others comes to a person only if they have a huge positive karmic balance. It may take several lifetimes to achieve these energising powers. Many saints have attained these powers. Often the potential to heal needs to be unlocked by an experienced preceptor. I have come across many people with such abilities who go about doing good deeds without making a show.
 
 > "Positive karma does not need social recognition and so there are hundreds of saints in the present, who we shall probably never hear of, and who continue to perform these karmas quietly."
-> â€” Hingori, *Karma Sutra*, p.77
+> — Hingori, *Karma Sutra*, p.77
 
 ### 11. Being Righteous *(p.77)*
 
-Being a respected member of a family, society or a group and following the accepted norms and rules makes you a 'blend-in'. Believing and following a set of principles and avoiding excessiveness in action takes you to better karma. Being righteous can be achieved by small acts. Not being aggressive with people, being courteous, practicing fair play, smiling more than frowning, having pleasant conversations, positive body language and expressions â€” all neutralise negative karma or increase our positive karma.
+Being a respected member of a family, society or a group and following the accepted norms and rules makes you a 'blend-in'. Believing and following a set of principles and avoiding excessiveness in action takes you to better karma. Being righteous can be achieved by small acts. Not being aggressive with people, being courteous, practicing fair play, smiling more than frowning, having pleasant conversations, positive body language and expressions — all neutralise negative karma or increase our positive karma.
 
 ### 12. Being Empathetic *(p.79)*
 
@@ -102,19 +102,19 @@ Very few people understand destiny. Even those who do, often forget its role in 
 When good karmas fructify, people attain wealth of different kinds like money, property, status, fame, glory, well-paid jobs and thriving businesses. They are also gifted physical wealth like good looks, good health, and physique. Some get wisdom, intellectual and spiritual wealth and a lot more! People think such favours of good karma are due to their own achievements. They credit themselves for their education, their capabilities and become self-impressed. Often they become arrogant, demonstrative and tend to show off. Their behaviour offend others and make people feel inferior or small. Even if this does not get you negative karma, it takes away the opportunity to receive neutral or positive ones. Being humble helps condition your mind to see things differently. Humility and acceptance of good fortune offers a shade of greatness to an individual.
 
 > "Humility makes a person more expressive than impressive. It is the perfect seed to sprout good karmas."
-> â€” Hingori, *Karma Sutra*, p.81
+> — Hingori, *Karma Sutra*, p.81
 
 > "People should be grateful for their carry-forward karmic wealth from past incarnations and work towards its enhancement rather than depletion."
-> â€” Hingori, *Karma Sutra*, p.81
+> — Hingori, *Karma Sutra*, p.81
 
 Therefore, one should aspire to be humble and sidestep the pitfalls of arrogance.
 
 ## Cross-refs
 
-- [[concepts/karma]] â€” accounting framework within which positive karma operates
-- [[concepts/negative-karma]] â€” the debit side; encashment rule mirrors the quiet-service rule
-- [[concepts/pitra-peeda]] â€” ancestral suffering and its remediation through positive karma
-- [[concepts/doer-ship]] â€” social recognition encashes positive karma
-- [[practices/seva]] â€” selfless service as the highest practical expression
-- [[entities/mahaguru]] â€” cited as exemplar: seva day and night, low profile, no press
-- [[stories/grandfather-education-multiplier]] Â· [[stories/fudge-lady-clinic-lonavala]] Â· [[stories/pitra-peeda-sons-birth]] Â· [[stories/delhi-reader-plants-trees]] Â· [[stories/sanjog-bird-cones-animal-hospital]]
+- [[concepts/karma]] — accounting framework within which positive karma operates
+- [[concepts/negative-karma]] — the debit side; encashment rule mirrors the quiet-service rule
+- [[concepts/pitra-peeda]] — ancestral suffering and its remediation through positive karma
+- [[concepts/doer-ship]] — social recognition encashes positive karma
+- [[practices/seva]] — selfless service as the highest practical expression
+- [[entities/mahaguru]] — cited as exemplar: seva day and night, low profile, no press
+- [[stories/grandfather-education-multiplier]] · [[stories/fudge-lady-clinic-lonavala]] · [[stories/pitra-peeda-sons-birth]] · [[stories/delhi-reader-plants-trees]] · [[stories/sanjog-bird-cones-animal-hospital]]

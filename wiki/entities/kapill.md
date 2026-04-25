@@ -18,14 +18,14 @@ Kapill is a *sevadaar* (one who serves) at the Mumbai *sthan* of Gurudev's tradi
 ### Vision of Shiv in Himself
 Before coming to the *sthan*, an astrologer had predicted that Kapill would have a dream of Lord Shiva in his thirties. Years later, while meditating, Kapill saw a vision of Shankar. Continuing to gaze, he realised he was looking at himself. Gurudev told him there was no difference between Shiv and him, as the same consciousness supreme exists in everyone. See [[stories/kapill-shiv-in-himself]].
 
-### Gati â€” Supersonic Astral Travel
+### Gati — Supersonic Astral Travel
 Kapill often wondered what *gati* was, until he understood it directly in an out-of-body experience: he felt himself propelled at supersonic speed through tunnels "like a rocket," arriving at a room with an amber-coloured light falling through a crack in the wall. He instinctively knew to rest there. The speed indicated his spiritual progress; he knew more remained.
 
 > "He felt like he was being propelled at supersonic speed, 'unimaginable, like a rocket'. He rapidly went through tunnels until he arrived at a room and noticed an amber-coloured light falling through a crack in the wall."
-> â€” Hingori on Kapill, *Aatma Sutra*, Ch.XIII, p.163
+> — Hingori on Kapill, *Aatma Sutra*, Ch.XIII, p.163
 
 ## Related Concepts
 
-- [[concepts/self-worship]] â€” his vision is one of Hingori's primary examples of spiritual experience as a faith-builder for self-worship
-- [[concepts/astral-travel]] â€” the gati experience is a first-person demonstration of *gati* as described in Ch.VI
-- [[entities/mahaguru]] â€” Gurudev deciphers the Shiv vision; Kapill practises at the Mumbai sthan
+- [[concepts/self-worship]] — his vision is one of Hingori's primary examples of spiritual experience as a faith-builder for self-worship
+- [[concepts/astral-travel]] — the gati experience is a first-person demonstration of *gati* as described in Ch.VI
+- [[entities/mahaguru]] — Gurudev deciphers the Shiv vision; Kapill practises at the Mumbai sthan

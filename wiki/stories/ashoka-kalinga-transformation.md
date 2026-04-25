@@ -33,6 +33,6 @@ Hingori's Ashoka is the Ashoka of Indian devotional memory: the emperor who was 
 ## Related
 
 - [[entities/ashoka]]
-- [[concepts/karma]] â€” the theoretical frame
-- [[practices/seva]] â€” what Ashoka institutionalised
-- [[quotes/karma]] â€” where Ashoka's quotation is filed
+- [[concepts/karma]] — the theoretical frame
+- [[practices/seva]] — what Ashoka institutionalised
+- [[quotes/karma]] — where Ashoka's quotation is filed

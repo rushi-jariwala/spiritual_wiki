@@ -32,8 +32,8 @@ Judges, parliamentarians, and businessmen stood in these queues. Gurudev did not
 
 ## Related
 
-- [[entities/mahaguru]] â€” whose practice this was
-- [[practices/tapasya]] â€” the currency being paid
-- [[practices/seva]] â€” the other side of the same coin
-- [[concepts/guru-disciple]] â€” the umbrella teaching, here as mechanism
-- [[concepts/prarabdh-karma]] â€” what Gurudev altered through this process
+- [[entities/mahaguru]] — whose practice this was
+- [[practices/tapasya]] — the currency being paid
+- [[practices/seva]] — the other side of the same coin
+- [[concepts/guru-disciple]] — the umbrella teaching, here as mechanism
+- [[concepts/prarabdh-karma]] — what Gurudev altered through this process

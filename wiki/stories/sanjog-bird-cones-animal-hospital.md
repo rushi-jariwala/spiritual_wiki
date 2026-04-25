@@ -2,7 +2,7 @@
 title: Sanjog's Bird Cones and the Panvel Animal Hospital
 type: story
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/positive-karma]], [[entities/hingori]]
+related: ["[[concepts/positive-karma]]", "[[entities/hingori]]"]
 created: 2026-04-14
 updated: 2026-04-14
 ---
@@ -19,5 +19,5 @@ updated: 2026-04-14
 
 ## Related Concepts / Entities
 
-- [[concepts/positive-karma]] — benefits to other life forms as a category of positive karma
-- [[entities/hingori]] — narrator
+- [[concepts/positive-karma]] â€” benefits to other life forms as a category of positive karma
+- [[entities/hingori]] â€” narrator

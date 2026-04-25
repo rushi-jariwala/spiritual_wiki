@@ -3,7 +3,7 @@ title: Guru Nanak at River Bain
 type: story
 tags: [guru-nanak, realisation, sikhism, japji, devi]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[entities/guru-nanak]], [[concepts/guru-disciple]], [[concepts/moksha]]
+related: ["[[entities/guru-nanak]]", "[[concepts/guru-disciple]]", "[[concepts/moksha]]"]
 created: 2026-04-12
 updated: 2026-04-12
 ---
@@ -28,7 +28,7 @@ And, as a teaching Hingori received from Gurudev and transmits here (p.21):
 
 ## Source
 
-*Karma Sutra*, Ch.1, "Guru," pp.20–21.
+*Karma Sutra*, Ch.1, "Guru," pp.20â€“21.
 ## A Note on Claim-Handling
 
 The attribution of Nanak's powers to devi-worship is *Gurudev's reading*, transmitted by Hingori. It is not mainstream Sikh historiography, which does not usually frame Nanak's realisation in these terms. This wiki files it as a **distinctive interpretation within the Hingori tradition**, not as a consensus historical claim. See [[entities/guru-nanak]].
@@ -36,5 +36,5 @@ The attribution of Nanak's powers to devi-worship is *Gurudev's reading*, transm
 ## Related
 
 - [[entities/guru-nanak]]
-- [[concepts/guru-disciple]] — the range of forms the guru can take
-- [[quotes/guru]] — where the Japji quotation is filed
+- [[concepts/guru-disciple]] â€” the range of forms the guru can take
+- [[quotes/guru]] â€” where the Japji quotation is filed

@@ -3,7 +3,7 @@ title: Hingori's Arthritis Cure
 type: story
 tags: [hingori, mahaguru, healing, miracle, conversion]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[entities/hingori]], [[entities/mahaguru]], [[concepts/guru-disciple]], [[practices/seva]], [[concepts/aura]]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]"]
 created: 2026-04-12
 updated: 2026-04-12
 ---
@@ -26,8 +26,8 @@ Told in Hingori's own voice in the section "A Personal Tale" (*Karma Sutra*, Ch.
 
 ## Related Concepts & Entities
 
-- [[entities/hingori]] — whose story this is
-- [[entities/mahaguru]] — who healed him
-- [[concepts/guru-disciple]] — the relationship inaugurated by this event
-- [[practices/seva]] — the obligation the healing created
-- [[concepts/karma]] — the "karmically wealthier existence" he entered
+- [[entities/hingori]] â€” whose story this is
+- [[entities/mahaguru]] â€” who healed him
+- [[concepts/guru-disciple]] â€” the relationship inaugurated by this event
+- [[practices/seva]] â€” the obligation the healing created
+- [[concepts/karma]] â€” the "karmically wealthier existence" he entered

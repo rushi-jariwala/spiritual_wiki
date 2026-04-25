@@ -1,13 +1,13 @@
 ---
-title: Rabia of Basra — From Slave to Sufi Saint
+title: Rabia of Basra â€” From Slave to Sufi Saint
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/self-acceptance]], [[entities/rabia-of-basra]]
+related: ["[[concepts/self-acceptance]]", "[[entities/rabia-of-basra]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Rabia of Basra — From Slave to Sufi Saint
+# Rabia of Basra â€” From Slave to Sufi Saint
 
 ## Source
 
@@ -19,5 +19,5 @@ Hingori, *Aatma Sutra*, Ch.XI, p.134
 
 ## Related Concepts / Entities
 
-- [[concepts/self-acceptance]] — used by Hingori as the exemplar of refusing self-blame despite extreme circumstances
-- [[entities/rabia-of-basra]] — the saint's biography stub
+- [[concepts/self-acceptance]] â€” used by Hingori as the exemplar of refusing self-blame despite extreme circumstances
+- [[entities/rabia-of-basra]] â€” the saint's biography stub

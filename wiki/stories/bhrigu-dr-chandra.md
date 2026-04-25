@@ -1,13 +1,13 @@
 ---
-title: Bhrigu's Prophecy — Dr. Chandra's Family
+title: Bhrigu's Prophecy â€” Dr. Chandra's Family
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/destiny]], [[concepts/mahurat]], [[entities/hingori]]
+related: ["[[concepts/destiny]]", "[[concepts/mahurat]]", "[[entities/hingori]]"]
 created: 2026-04-18
 updated: 2026-04-18
 ---
 
-# Bhrigu's Prophecy — Dr. Chandra's Family
+# Bhrigu's Prophecy â€” Dr. Chandra's Family
 
 ## Full Narrative
 
@@ -17,14 +17,14 @@ updated: 2026-04-18
 >
 > Dr. Chandra called my mother one year and told her he was going to die in August. Since he was physically fit and suffered from no major ailment, my mother refused to believe him. But Bhrigu was right again; he died of natural causes in August that same year.
 
-— Hingori, *Aatma Sutra*, Ch.V, pp.52–53
+â€” Hingori, *Aatma Sutra*, Ch.V, pp.52â€“53
 
 ## Source
 
-*Aatma Sutra*, Chapter V: Destiny, pp.52–53
+*Aatma Sutra*, Chapter V: Destiny, pp.52â€“53
 
 ## Related Concepts / Entities
 
-- [[concepts/destiny]] — three independent predictions fulfilled across one family; demonstrates the pre-mapped quality of the future
-- [[concepts/mahurat]] — planetary alignment as the mechanism through which Bhrigu's readings materialise
-- [[entities/hingori]] — narrator; personally acquainted with the family
+- [[concepts/destiny]] â€” three independent predictions fulfilled across one family; demonstrates the pre-mapped quality of the future
+- [[concepts/mahurat]] â€” planetary alignment as the mechanism through which Bhrigu's readings materialise
+- [[entities/hingori]] â€” narrator; personally acquainted with the family

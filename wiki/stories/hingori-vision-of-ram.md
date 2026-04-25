@@ -1,15 +1,15 @@
 ---
-title: Hingori's Vision of Ram — Offering Good Wishes
+title: Hingori's Vision of Ram â€” Offering Good Wishes
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/self-worship]], [[concepts/aatma]], [[concepts/jivaatma]], [[entities/hingori]]
+related: ["[[concepts/self-worship]]", "[[concepts/aatma]]", "[[concepts/jivaatma]]", "[[entities/hingori]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Hingori's Vision of Ram — Offering Good Wishes
+# Hingori's Vision of Ram â€” Offering Good Wishes
 
-**Source:** *Aatma Sutra*, Ch.XIII, pp.160–161
+**Source:** *Aatma Sutra*, Ch.XIII, pp.160â€“161
 
 ## Full Narrative
 
@@ -21,11 +21,11 @@ updated: 2026-04-22
 
 ## Related Concepts
 
-Hingori categorises this as a **Category 1 dream** — where the interaction shows that the dreamer's unconscious considers itself qualified and significant enough to stand as an equal before Ram, Sita, and Lakshman. The offering of good wishes (rather than asking for a boon) reflects a self-perception of equality, not supplication.
+Hingori categorises this as a **Category 1 dream** â€” where the interaction shows that the dreamer's unconscious considers itself qualified and significant enough to stand as an equal before Ram, Sita, and Lakshman. The offering of good wishes (rather than asking for a boon) reflects a self-perception of equality, not supplication.
 
-The wry grins of Ram and Lakshman suggest gentle approval — they recognise the shift in Hingori before he does. Only after waking does the shock arrive: "What was *I*, 'Mr. Ordinary', doing offering good wishes to someone who is a god to millions?"
+The wry grins of Ram and Lakshman suggest gentle approval â€” they recognise the shift in Hingori before he does. Only after waking does the shock arrive: "What was *I*, 'Mr. Ordinary', doing offering good wishes to someone who is a god to millions?"
 
-- [[concepts/self-worship]] — the vision as a personal mandate for self-identification with divinity
-- [[concepts/aatma]] — "I was a part of the divine, which in reality, existed within me"
-- [[concepts/jivaatma]] — identification with the divine fragment rather than the physical identity
-- [[entities/hingori]] — narrator and dreamer
+- [[concepts/self-worship]] â€” the vision as a personal mandate for self-identification with divinity
+- [[concepts/aatma]] â€” "I was a part of the divine, which in reality, existed within me"
+- [[concepts/jivaatma]] â€” identification with the divine fragment rather than the physical identity
+- [[entities/hingori]] â€” narrator and dreamer

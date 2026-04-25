@@ -2,14 +2,14 @@
 title: The Stranger Who Knocked on My Door
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/destiny]], [[entities/hingori]]
+related: ["[[concepts/destiny]]", "[[entities/hingori]]"]
 created: 2026-04-18
 updated: 2026-04-18
 ---
 
 # The Stranger Who Knocked on My Door
 
-A poem received intuitively by Hingori's late sister Gita — a journalist in the US who often wrote on spiritual matters. It is a conversation between the future and the present, placed by Hingori at the end of *Aatma Sutra* Ch.V to carry the chapter's teaching on acceptance of destiny.
+A poem received intuitively by Hingori's late sister Gita â€” a journalist in the US who often wrote on spiritual matters. It is a conversation between the future and the present, placed by Hingori at the end of *Aatma Sutra* Ch.V to carry the chapter's teaching on acceptance of destiny.
 
 ## Full Text
 
@@ -83,13 +83,13 @@ A poem received intuitively by Hingori's late sister Gita — a journalist in th
 >
 > It is about you that men and women have dreams. It is in you that goals are set. I am what is. You are what can be. I am limited by reality. You are limitless by possibilities."
 
-— Gita (Hingori's sister), in *Aatma Sutra*, Ch.V, pp.62–65
+â€” Gita (Hingori's sister), in *Aatma Sutra*, Ch.V, pp.62â€“65
 
 ## Source
 
-*Aatma Sutra*, Chapter V: Destiny, pp.62–65. Introduced by Hingori: "My late sister Gita, a journalist in the US, often wrote on spiritual matters. Some of the writings were messages she had received intuitively."
+*Aatma Sutra*, Chapter V: Destiny, pp.62â€“65. Introduced by Hingori: "My late sister Gita, a journalist in the US, often wrote on spiritual matters. Some of the writings were messages she had received intuitively."
 
 ## Related Concepts / Entities
 
-- [[concepts/destiny]] — the poem embodies the chapter's central move: the future is not alien; it is constituted of every element of the present (duty, love, forgiveness, follies, lessons), each of which has already been determined. The "reply from the present" is the voice of reality acknowledging possibility — the residue of hope within a predetermined script.
-- [[entities/hingori]] — includes the poem in his own book; his late sister Gita is credited as the channel
+- [[concepts/destiny]] â€” the poem embodies the chapter's central move: the future is not alien; it is constituted of every element of the present (duty, love, forgiveness, follies, lessons), each of which has already been determined. The "reply from the present" is the voice of reality acknowledging possibility â€” the residue of hope within a predetermined script.
+- [[entities/hingori]] â€” includes the poem in his own book; his late sister Gita is credited as the channel

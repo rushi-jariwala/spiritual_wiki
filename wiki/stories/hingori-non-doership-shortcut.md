@@ -2,14 +2,14 @@
 title: Hingori's Non-Doership Shortcut
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/non-doership]], [[concepts/doer-ship]], [[concepts/samskars]], [[concepts/vairagya]], [[entities/hingori]]
+related: ["[[concepts/non-doership]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/vairagya]]", "[[entities/hingori]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
 
 # Hingori's Non-Doership Shortcut
 
-**Source:** *Aatma Sutra*, Ch.IX, pp.103–104
+**Source:** *Aatma Sutra*, Ch.IX, pp.103â€“104
 
 ## Full Narrative
 
@@ -20,16 +20,16 @@ updated: 2026-04-22
 > I saw the logic in this. I had nullified my misunderstandings of the past and predicted my mix-ups of the future. In order to feel deeply sincere, I used the concept of *arpan* or surrender at the *sthan* (I am not trying to compete with Lord Ganapati, but I do not believe he has the monopoly of outwitting situations. I am referring to the competition with Lord Kartikeya, his elder brother, for going around the universe. While Lord Kartikeya actually went around the universe, Lord Ganapati circled his parents in a few seconds and said it was equal to going around the universe.) So, if Lord Shankar could accept the logic of his son, why would he not accept ours?
 >
 > Spend five minutes a day reciting "I am not the doer" to yourself. Make it a prayer. It will surely work.
-> — Hingori, *Aatma Sutra*, Ch.IX, pp.103–104
+> â€” Hingori, *Aatma Sutra*, Ch.IX, pp.103â€“104
 
 ## Source
 
-*Aatma Sutra*, Ch.IX, pp.103–104
+*Aatma Sutra*, Ch.IX, pp.103â€“104
 
 ## Related Concepts / Entities
 
-- [[concepts/non-doership]] — the practice this shortcut is designed to make accessible
-- [[concepts/doer-ship]] — the habit being dissolved
-- [[concepts/samskars]] — the loop that non-doership interrupts
-- [[concepts/vairagya]] — the deeper detachment from self-identity that this formula approaches incrementally
-- [[entities/hingori]] — personal testimony; the development of a practical formula from lived difficulty
+- [[concepts/non-doership]] â€” the practice this shortcut is designed to make accessible
+- [[concepts/doer-ship]] â€” the habit being dissolved
+- [[concepts/samskars]] â€” the loop that non-doership interrupts
+- [[concepts/vairagya]] â€” the deeper detachment from self-identity that this formula approaches incrementally
+- [[entities/hingori]] â€” personal testimony; the development of a practical formula from lived difficulty

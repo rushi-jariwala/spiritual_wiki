@@ -2,7 +2,7 @@
 title: The Delhi Reader Who Planted Trees Without Land
 type: story
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/positive-karma]], [[entities/hingori]]
+related: ["[[concepts/positive-karma]]", "[[entities/hingori]]"]
 created: 2026-04-14
 updated: 2026-04-14
 ---
@@ -19,5 +19,5 @@ updated: 2026-04-14
 
 ## Related Concepts / Entities
 
-- [[concepts/positive-karma]] — greening as inexhaustible karma; compounding benefit across lifetimes
-- [[entities/hingori]] — narrator; citing a reader's example
+- [[concepts/positive-karma]] â€” greening as inexhaustible karma; compounding benefit across lifetimes
+- [[entities/hingori]] â€” narrator; citing a reader's example

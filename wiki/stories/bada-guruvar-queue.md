@@ -3,7 +3,7 @@ title: The Bada Guruvar Queue
 type: story
 tags: [mahaguru, seva, tapasya, bada-guruvar, practice]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[entities/mahaguru]], [[practices/seva]], [[practices/tapasya]], [[concepts/guru-disciple]]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-12
 updated: 2026-04-12
 ---
@@ -32,8 +32,8 @@ Judges, parliamentarians, and businessmen stood in these queues. Gurudev did not
 
 ## Related
 
-- [[entities/mahaguru]] — whose practice this was
-- [[practices/tapasya]] — the currency being paid
-- [[practices/seva]] — the other side of the same coin
-- [[concepts/guru-disciple]] — the umbrella teaching, here as mechanism
-- [[concepts/prarabdh-karma]] — what Gurudev altered through this process
+- [[entities/mahaguru]] â€” whose practice this was
+- [[practices/tapasya]] â€” the currency being paid
+- [[practices/seva]] â€” the other side of the same coin
+- [[concepts/guru-disciple]] â€” the umbrella teaching, here as mechanism
+- [[concepts/prarabdh-karma]] â€” what Gurudev altered through this process

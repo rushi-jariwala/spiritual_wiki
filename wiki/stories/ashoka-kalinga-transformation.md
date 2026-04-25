@@ -3,7 +3,7 @@ title: Ashoka's Transformation After Kalinga
 type: story
 tags: [ashoka, historical, karmayoga, dharma]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[entities/ashoka]], [[concepts/karma]], [[practices/seva]]
+related: ["[[entities/ashoka]]", "[[concepts/karma]]", "[[practices/seva]]"]
 created: 2026-04-12
 updated: 2026-04-12
 ---
@@ -33,6 +33,6 @@ Hingori's Ashoka is the Ashoka of Indian devotional memory: the emperor who was 
 ## Related
 
 - [[entities/ashoka]]
-- [[concepts/karma]] — the theoretical frame
-- [[practices/seva]] — what Ashoka institutionalised
-- [[quotes/karma]] — where Ashoka's quotation is filed
+- [[concepts/karma]] â€” the theoretical frame
+- [[practices/seva]] â€” what Ashoka institutionalised
+- [[quotes/karma]] â€” where Ashoka's quotation is filed

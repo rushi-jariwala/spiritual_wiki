@@ -2,7 +2,7 @@
 title: Pitra Peeda
 type: concept
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/positive-karma]], [[concepts/karma]], [[concepts/sanchit-karma]], [[entities/mahaguru]], [[entities/hingori]]
+related: ["[[concepts/positive-karma]]", "[[concepts/karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-04-13
 updated: 2026-04-14
 ---
@@ -11,18 +11,18 @@ updated: 2026-04-14
 
 ## Definition
 
-Suffering experienced by living descendants as a result of the ire of unsettled ancestors. The term applies not to a specific individual but to a line of descendants — *kul* — spanning a few generations of a family.
+Suffering experienced by living descendants as a result of the ire of unsettled ancestors. The term applies not to a specific individual but to a line of descendants â€” *kul* â€” spanning a few generations of a family.
 
-> "Pitra Peeda is not applicable to any specific individual, but to a line of descendants — of a few generations of a family."
-> — Hingori, *Karma Sutra*, p.70
+> "Pitra Peeda is not applicable to any specific individual, but to a line of descendants â€” of a few generations of a family."
+> â€” Hingori, *Karma Sutra*, p.70
 
 ## Quotes
 
 > "Sometimes, the ancestors are adamant that suffering is meted out to their descendants for having troubled them (while alive)."
-> — Hingori, *Karma Sutra*, p.69
+> â€” Hingori, *Karma Sutra*, p.69
 
 > "In a nutshell, we should do good deeds in the name of our ancestors and pass on the credit to them."
-> — Hingori, *Karma Sutra*, p.70
+> â€” Hingori, *Karma Sutra*, p.70
 
 ## Core Teaching
 
@@ -47,7 +47,7 @@ Positive karma can be assigned to a departed spirit by:
 
 ## Cross-refs
 
-- [[concepts/positive-karma]] — good deeds in ancestors' name as a positive karma category; assignment of credit
-- [[concepts/karma]] — deeds shared across generations; accounting framework
-- [[concepts/sanchit-karma]] — ancestral karmic load as stored balance
-- [[stories/pitra-peeda-sons-birth]] — Hingori's first-person account
+- [[concepts/positive-karma]] â€” good deeds in ancestors' name as a positive karma category; assignment of credit
+- [[concepts/karma]] â€” deeds shared across generations; accounting framework
+- [[concepts/sanchit-karma]] â€” ancestral karmic load as stored balance
+- [[stories/pitra-peeda-sons-birth]] â€” Hingori's first-person account

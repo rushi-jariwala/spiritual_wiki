@@ -2,7 +2,7 @@
 title: Guna Self-Assessment Worksheet
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/gunas]], [[concepts/loks]]
+related: ["[[concepts/gunas]]", "[[concepts/loks]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -11,7 +11,7 @@ updated: 2026-04-22
 
 ## Source
 
-*Aatma Sutra*, Ch.VIII, pp.96–97
+*Aatma Sutra*, Ch.VIII, pp.96â€“97
 
 ## Worksheet (Verbatim)
 
@@ -42,12 +42,12 @@ updated: 2026-04-22
 >
 > Note the score under each guna personality:
 >
-> Score of 18–27 = *Sattvic*
-> Score of 28–36 = *Rajasic*
+> Score of 18â€“27 = *Sattvic*
+> Score of 28â€“36 = *Rajasic*
 > Score of 37 or above = *Tamasic*
-> — Hingori, *Aatma Sutra*, Ch.VIII, pp.96–97
+> â€” Hingori, *Aatma Sutra*, Ch.VIII, pp.96â€“97
 
 ## Related Concepts
 
-- [[concepts/gunas]] — the three gunas this worksheet is designed to diagnose
-- [[concepts/loks]] — guna mix determines lok qualification; this worksheet is the self-diagnostic tool for that qualification
+- [[concepts/gunas]] â€” the three gunas this worksheet is designed to diagnose
+- [[concepts/loks]] â€” guna mix determines lok qualification; this worksheet is the self-diagnostic tool for that qualification

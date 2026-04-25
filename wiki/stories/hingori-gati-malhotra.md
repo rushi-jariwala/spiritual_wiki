@@ -1,13 +1,13 @@
 ---
-title: Hingori Attains Gati — R.C. Malhotra's Teaching
+title: Hingori Attains Gati â€” R.C. Malhotra's Teaching
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/astral-travel]], [[entities/mahaguru]], [[entities/hingori]], [[entities/rc-malhotra]]
+related: ["[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]"]
 created: 2026-04-18
 updated: 2026-04-18
 ---
 
-# Hingori Attains Gati — R.C. Malhotra's Teaching
+# Hingori Attains Gati â€” R.C. Malhotra's Teaching
 
 ## Full Narrative
 
@@ -16,15 +16,15 @@ updated: 2026-04-18
 > After attaining *gati* and several rehearsals later, I experienced a few travels where my spirit body moved like a rocket, accompanied with a buzzing sound. I was travelling so incredibly fast that I was unable to focus on anything, and my only sensation was movement.
 >
 > This was an out-of-body state and not a dream state.
-> — Hingori, *Aatma Sutra*, Ch.VI, pp.68–69
+> â€” Hingori, *Aatma Sutra*, Ch.VI, pp.68â€“69
 
 ## Source
 
-*Aatma Sutra*, Chapter VI: Astral Travel, pp.68–69
+*Aatma Sutra*, Chapter VI: Astral Travel, pp.68â€“69
 
 ## Related Concepts / Entities
 
-- [[concepts/astral-travel]] — gati as the advanced form of astral travel; "Guru bin gati nahi"
-- [[entities/rc-malhotra]] — teacher of gati; senior disciple of Gurudev; appeared in vision state
-- [[entities/mahaguru]] — sent R.C. Malhotra to Hingori; the guru whose grace enables gati
-- [[entities/hingori]] — recipient; spirit body moved like a rocket with buzzing sound after attaining gati
+- [[concepts/astral-travel]] â€” gati as the advanced form of astral travel; "Guru bin gati nahi"
+- [[entities/rc-malhotra]] â€” teacher of gati; senior disciple of Gurudev; appeared in vision state
+- [[entities/mahaguru]] â€” sent R.C. Malhotra to Hingori; the guru whose grace enables gati
+- [[entities/hingori]] â€” recipient; spirit body moved like a rocket with buzzing sound after attaining gati

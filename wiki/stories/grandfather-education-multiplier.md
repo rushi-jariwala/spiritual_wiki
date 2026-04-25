@@ -1,13 +1,13 @@
 ---
-title: The Grandfather's Benefactor — Multiplier Effect of Education
+title: The Grandfather's Benefactor â€” Multiplier Effect of Education
 type: story
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: [[concepts/positive-karma]], [[entities/hingori]]
+related: ["[[concepts/positive-karma]]", "[[entities/hingori]]"]
 created: 2026-04-13
 updated: 2026-04-14
 ---
 
-# The Grandfather's Benefactor — Multiplier Effect of Education
+# The Grandfather's Benefactor â€” Multiplier Effect of Education
 
 ## Full Narrative
 
@@ -23,5 +23,5 @@ updated: 2026-04-14
 
 ## Related Concepts / Entities
 
-- [[concepts/positive-karma]] — education as multiplier karma; the compounding chain of benefit
-- [[entities/hingori]] — narrator; his family and the Bandra hotel as the living chain of the multiplier
+- [[concepts/positive-karma]] â€” education as multiplier karma; the compounding chain of benefit
+- [[entities/hingori]] â€” narrator; his family and the Bandra hotel as the living chain of the multiplier

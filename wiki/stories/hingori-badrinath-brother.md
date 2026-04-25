@@ -1,15 +1,15 @@
 ---
-title: Hingori at Badrinath — "Hello Brother!"
+title: Hingori at Badrinath â€” "Hello Brother!"
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/self-worship]], [[concepts/aatma]], [[concepts/jivaatma]], [[entities/hingori]], [[entities/mahaguru]], [[entities/adi-shankaracharya]]
+related: ["[[concepts/self-worship]]", "[[concepts/aatma]]", "[[concepts/jivaatma]]", "[[entities/hingori]]", "[[entities/mahaguru]]", "[[entities/adi-shankaracharya]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Hingori at Badrinath — "Hello Brother!"
+# Hingori at Badrinath â€” "Hello Brother!"
 
-**Source:** *Aatma Sutra*, Ch.XIII, pp.159–160
+**Source:** *Aatma Sutra*, Ch.XIII, pp.159â€“160
 
 ## Full Narrative
 
@@ -25,12 +25,12 @@ updated: 2026-04-22
 
 ## Related Concepts
 
-The story is the biographical seed of the entire concept of self-worship in *Aatma Sutra*. Hingori acknowledges: "It took me years to figure it out. It was one of the reasons that could have led to this book." The Badrinath instruction — equality of one *aatma* with another — is the lived experience behind the philosophical argument.
+The story is the biographical seed of the entire concept of self-worship in *Aatma Sutra*. Hingori acknowledges: "It took me years to figure it out. It was one of the reasons that could have led to this book." The Badrinath instruction â€” equality of one *aatma* with another â€” is the lived experience behind the philosophical argument.
 
 Hingori's instinct to hug the Shankaracharya statue (tangible, measurable, huggable) rather than the abstract deity is also characteristic: he works from the concrete and visible toward the invisible.
 
-- [[concepts/self-worship]] — the founding personal experience of the concept
-- [[concepts/aatma]] — equality of one aatma with another; the *Tat Twam Asi* principle
-- [[entities/hingori]] — the disciple given the instruction
-- [[entities/mahaguru]] — Gurudev's indirect teaching style ("googlies, not straight balls")
-- [[entities/adi-shankaracharya]] — whose marble statue Hingori hugs first
+- [[concepts/self-worship]] â€” the founding personal experience of the concept
+- [[concepts/aatma]] â€” equality of one aatma with another; the *Tat Twam Asi* principle
+- [[entities/hingori]] â€” the disciple given the instruction
+- [[entities/mahaguru]] â€” Gurudev's indirect teaching style ("googlies, not straight balls")
+- [[entities/adi-shankaracharya]] â€” whose marble statue Hingori hugs first

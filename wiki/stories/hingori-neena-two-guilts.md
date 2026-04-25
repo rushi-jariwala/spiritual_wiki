@@ -1,17 +1,17 @@
 ---
-title: Hingori and Neena — Two Guilts Become None
+title: Hingori and Neena â€” Two Guilts Become None
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: [[concepts/self-acceptance]], [[concepts/non-doership]], [[entities/hingori]], [[entities/mahaguru]]
+related: ["[[concepts/self-acceptance]]", "[[concepts/non-doership]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
 
-# Hingori and Neena — Two Guilts Become None
+# Hingori and Neena â€” Two Guilts Become None
 
 ## Source
 
-Hingori, *Aatma Sutra*, Ch.XI, pp.141–142
+Hingori, *Aatma Sutra*, Ch.XI, pp.141â€“142
 
 ## Full Narrative
 
@@ -23,7 +23,7 @@ Hingori, *Aatma Sutra*, Ch.XI, pp.141–142
 
 ## Related Concepts / Entities
 
-- [[concepts/self-acceptance]] — illustrates that guilt judged purely at the sensory/conventional level "lacks perfection"; truth operates at a level beyond the five senses
-- [[concepts/non-doership]] — Gurudev's teaching: "we are beyond lies and truth"; speaking from inner consciousness transcends the guilt/no-guilt binary
-- [[entities/hingori]] — personal testimony; involves family and Gurudev's *sthan* in Gurgaon and Mumbai
-- [[entities/mahaguru]] — Gurudev appears as the silent background agent; his guidance at the *sthan* proved convergent with Hingori's lie
+- [[concepts/self-acceptance]] â€” illustrates that guilt judged purely at the sensory/conventional level "lacks perfection"; truth operates at a level beyond the five senses
+- [[concepts/non-doership]] â€” Gurudev's teaching: "we are beyond lies and truth"; speaking from inner consciousness transcends the guilt/no-guilt binary
+- [[entities/hingori]] â€” personal testimony; involves family and Gurudev's *sthan* in Gurgaon and Mumbai
+- [[entities/mahaguru]] â€” Gurudev appears as the silent background agent; his guidance at the *sthan* proved convergent with Hingori's lie

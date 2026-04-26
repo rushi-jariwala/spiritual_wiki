@@ -1,4 +1,12 @@
-# Wiki Index
+# Hingori Sutras
+
+A living study wiki of Hingori's books and Gurudev's teaching world — arranged through concepts, stories, source pages, practices, and synthesis notes.
+
+- [[overview|Read the overview]]
+- [[blog/index|Read the blog]]
+- [[sources|Browse the sources]]
+- [[stories|Enter through stories]]
+- [[synthesis|See the synthesis pages]]
 
 Master catalog of all pages. Updated on every ingest.
 Read this first when answering queries — then drill into relevant pages.
@@ -60,6 +68,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/self-worship|Self-Worship]] — reverence of the jivaatma (inner light); two gates metaphor; three exercises; non-doership and self-worship as complementary; Tat Twam Asi in practice (Ch.XIII–XIV)
 - [[concepts/grihasth-ashram|Grihasth Ashram]] — householder path; Gurudev's teaching that final spiritual attainments require fulfilling domestic responsibilities; rooted in his own return from sanyaas
 - [[concepts/aghor|Aghor]] — philosophy of non-duality; Aghoris break free from maya by transcending sensory aversion through extreme practices; Augarh's sect
+- [[concepts/ulta-guru|Ulta Guru]] — the "inverted guru" who serves his disciples; coined by a gurubhai; grounded in aatmic equality; not permissiveness — correction follows if service enables complacency
+- [[concepts/mantra-transfer|Mantra Transfer]] — two forms: laung-based siddhi declaration (before disciple chants) and paath-hours allocation; has a stated limit ("earn your own spiritual points")
+- [[concepts/intent-as-healing|Intent as Healing]] — the guru's intent is the operative agent in every healing; all physical methods are incidental; Gurudev: "even a paper touched to the forehead would have served as a cure"
+- [[concepts/guru-tattva|Guru Tattva]] — the latent guru element in every being; awakened by the mahaguru's touch; Kathog teachers became healers overnight after drinking jal
+- [[concepts/ek-vakyas|Ek Vakyas]] — single-sentence teachings that germinate over decades; Gurudev's pedagogical method of planting seeds rather than spoon-feeding
 
 ---
 
@@ -85,6 +98,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/chacha|Chacha (Satish ji)]] — Gurudev's younger brother; the "casualist"; powerful spiritualist; defeated two tantriks without effort; died 2 Aug 1988 on Gurudev's instruction
 - [[entities/buddhe-baba|Buddhe Baba]] — Gurudev's mysterious spiritual mentor; omnipresent; identity never disclosed; possibly Shiv or Sitaram ji of Benaras
 - [[entities/augarh|Augarh]] — Gurudev's mysterious disciple; head of the Aghor sect; realised manifestation of Shiv; manifests at will in multiple forms; disciples' elder brother
+- [[entities/neelkanth-dham|Neelkanth Dham]] — Gurudev's samadhi site in Najafgarh; visited daily in metaphysical form per Brighu Samhita's post-death reading; divya aatma; Shiv swaroop
+- [[entities/sitaram-taki|Sitaram Taki]] — disciple who witnessed two of Gurudev's astral departures (Haridwar, sarson ka saag); healed the disabled girl at Renuka on Gurudev's instruction
+- [[entities/bittu|Bittu]] — one of the "four musketeers" (Nikku, Pappu, Bittu, Gaggu); Gurudev's driver and companion; elderly couple rescue; tea correction story
+- [[entities/dr-shankarnarayan|Dr. Shankarnarayan]] — senior colleague at IARI; first to call Gurudev "Guruji"; healed daughter Vaishali by throwing away medicines; first to photograph Gurudev
+- [[entities/giri|Giri]] — factory owner, Mumbai; broken-hand karmic return; Mohammedpur greening (1988); blister healing in *Aatma Sutra*
 
 ---
 
@@ -93,7 +111,7 @@ Read this first when answering queries — then drill into relevant pages.
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
-- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; Overview + Ch.1–3 ingested (The Early Years, The Family Man, The Man of Mystery)*
+- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; His Life section fully ingested (pp.1–116): Early Years, Family Man, Man of Mystery, The Mahaguru*
 
 ---
 
@@ -206,6 +224,32 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/hingori-augarh-mataji-town|Hingori Meets Augarh — The Mantra and the Night Watch]] — drunk man chants Hingori's mental mantra; guards Mataji's family home all night
 - [[stories/hingori-augarh-tea|Augarh Teaches Hingori to Make Tea]] — telepathic thought-wave instructions; Gurudev praises the tea
 - [[stories/guru-of-gurus-family-mystery-poems|Chapter Opening Poems — The Family Man & The Man of Mystery]] — six verbatim verse epigraphs by Hingori
+- [[stories/gurudev-siddhi-discharge|Gurudev Releases His Siddhis at Har Ki Pauri]] — 1970; siddhi "begs" not to be released; transition from accomplished siddha to mahaguru
+- [[stories/gurudev-kurwai-first-healing|Gurudev's First Healing at Kurwai]] — 1973; Dhanna's fever; abdominal cramps; Buddhe Baba's command: serve without prejudice of caste, creed, or gender
+- [[stories/malhotra-initiation-ganges|RC Malhotra's Initiation — The Ganges Stands Still]] — 1971; Ganges current stills during initiation; first disciple formally received
+- [[stories/malhotra-buffalo-mantra-prank|Malhotra and the Buffalo Mantra Prank]] — Mahamritunjay mantra chanted on a buffalo's back, facing its tail; Gurudev's mild reprimand; boyish grin
+- [[stories/sushila-four-children-prophecy|Sushila's Four-Children Prophecy]] — three sons delivered; fourth declined; evolved spirit of late father given to another family; husband initiated; destinies interlinked
+- [[stories/shankarnarayan-vaishali-healing|Dr. Shankarnarayan Heals Vaishali]] — faith so deep he threw away the medicines; daughter recovered; he became the first to say "Guruji"
+- [[stories/kathog-thapa-tantrik|The Kathog Tantrik Test]] — Thapa sends a spirit; it doesn't return; "You need to stop taking these silly tests!"; doubt becomes devotion
+- [[stories/kathog-suresh-kohli-vision|Suresh Kohli's Seven Nights at Kathog]] — 7 nights of Gurudev's form in the home temple; teachers initiated as healers overnight via jal
+- [[stories/renuka-overnight-queue|The Renuka Overnight Queue]] — 2-km queue; 17 hours of continuous seva; government investigation; jal tested immaculately pure
+- [[stories/renuka-cursed-woman|The Cursed Woman at Renuka]] — annual miscarriage; resident spirit sets sthan on fire; Gurudev overrules; woman accepts taweez against advice; child dies
+- [[stories/renuka-disabled-girl|The Disabled Girl Who Walked at Renuka]] — Sitaram Taki stands on toes; RP Sharma lifts; girl walks for the first time; "Aap ka bhala ho!"
+- [[stories/gurudev-renuka-parshuram-alliance|Gurudev and Parshuramji at Renuka — The Alliance]] — 1980; spiritual meetings; alliance formed; sthan established; broader inter-lineage network
+- [[stories/bittu-tea-correction|Gurudev Serves Tea for Three Days, Then Gives Bittu Ji an Earful]] — 3am tea; Bittu revels for 3 days; earful on day 4; now makes tea and washes cups
+- [[stories/elderly-couple-van-rescue|The Elderly Couple and the Van]] — Gurudev in concentration 30 min; redirects van; couple had been heading to railway tracks; bhav + kripa teaching
+- [[stories/gurudev-not-eating-hungry-disciples|Gurudev Fasts When His Disciples Go Hungry]] — 4–5 fasts per month; "if any member of my spiritual family goes to bed hungry, I do not eat that night"
+- [[stories/gurudev-mohammedpur-greening|Gurudev Greens Mohammedpur Village]] — 1988; Giri ji's arid plot; Gurudev tills, sows, plants; other farmers return; village revived
+- [[stories/ashok-bhalla-anger-invisible-force|Ashok Bhalla and the Invisible Force]] — 3 months of controlled anger; invisible force stops the blow; Gurudev: "believe him when he pleads innocence"; attitude permanently changed
+- [[stories/giri-broken-hand|Giri's Broken Hand — Karmic Return]] — slaps a worker; Gurudev phones that evening; three days later the exact hand is fractured in a scooter accident
+- [[stories/hingori-chira-self-esteem|Gurudev Turns Hingori from Cat to Lion]] — Mohan Singh Chira bullies Hingori; Gurudev places hand on head: "not to bow to any man or spiritual power"; Chira in awe ever since
+- [[stories/gurudev-diary-guru-not-doctor|Hingori's Ayurvedic Diary — "I Have Made You a Guru"]] — Hingori keeps detailed remedies; Gurudev: "Maine tujhe guru banaya hai. Tu kaagaz bhi mathe se laga kar usko de dega, toh woh theek ho jayega."
+- [[stories/hingori-vision-100-spirits|Hingori's Vision of 100 Spirits]] — 100 bald cream-toga spirits descend to join Gurudev; understood months later when Gurudev mentions 500 years of gathering disciples
+- [[stories/sitaram-taki-haridwar-astral|Sitaram Taki Witnesses Gurudev's Astral Exit at Haridwar]] — 1970s; sheet-wrapped astral form emerges; Sitaram wets himself; astral body returns and merges
+- [[stories/gurudev-sarson-saag-astral|The Sarson Ka Saag Departure]] — head falls back at dinner; no pulse; desi ghee poured on body; Sitaram recalls 3:30am deadline; Gurudev revives; laughter and Punjabi words
+- [[stories/bajrang-matchmaking|Bajrang the Monkey Gets a Matchmaker]] — sulking monkey; "Tera kaam ho jayega"; female monkey on the parapet next day; happy dance; "just as a father would for a son"
+- [[stories/manikaran-cave-sage|The Cave Sage at Manikaran]] — hidden waterfall passageway; stone slides; sage with 500-year-old body preserved via Hatha Yog amrit; Gurudev visited every five years
+- [[stories/gurudev-brighu-samhita-after-death|The Brighu Samhita Reading After Gurudev's Death]] — August 1991; Narinder/Virender/Saroj ji; visit predicted thousands of years prior; Shiv Lok ganns; eleven disciples + five ganns appointed
 
 ---
 
@@ -216,6 +260,13 @@ Read this first when answering queries — then drill into relevant pages.
 - [[practices/tapasya|Tapasya]] — Voluntary austerity; the disciple's currency
 - [[practices/sadhana|Sadhana]] — The umbrella term for sustained spiritual practice *(stub)*
 - [[practices/karmic-worksheet|The Karmic Worksheet]] — Daily positive/negative self-audit; scoring system; the CCTV principle
+
+---
+
+## Blog
+*Daily reflections from the tradition.*
+
+- [[blog/index|Blog]] — All posts
 
 ---
 

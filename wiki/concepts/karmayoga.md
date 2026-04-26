@@ -33,6 +33,30 @@ At the highest levels of spiritual development — specifically at the [[concept
 
 Hingori's post-death karma example reinforces this: Mr Marchant's guru continued healing through Marchant even after death, earning post-death karmas. Hingori cites this as what "strengthened my belief in karmayoga, almost 40 years back" (*Karma Sutra*, Ch.5, pp.85–87). The guru's karmayoga persisted beyond his body because the acts were selfless — the 'I' had already been largely dissolved.
 
+## Karmayoga in the Mahaguru's Life (*The Guru of Gurus*, pp.87–90)
+
+*The Guru of Gurus* Ch.4 adds detailed biographical texture to what *Karma Sutra* only names in principle. The Khandsa farm episode is the most extended account.
+
+Gurudev's farm at Khandsa near Gurgaon served simultaneously as a karmic labour site and a classroom:
+
+> "I am a man of moderate means. My financial capacity to assist people is limited. I will use my body to serve regardless of how physically demanding the work is. I also drink milk from the cows who live here and eat the vegetables grown here, so I must perform the seva of tending to them."
+> — Gurudev to Bittu ji, *The Guru of Gurus*, p.89
+
+He ploughed the field on his tractor, milked cows, picked vegetables, and assisted at harvest — physical work chosen deliberately to exhaust karmic debts that money alone could not settle. Heavy lifting raised blisters on his hands; he did not stop.
+
+In 1988, Gurudev personally oversaw the greening of a plot of land in Mohammedpur village (near Gurgaon) purchased by his disciple Giri ji. The land was arid and most farmers had abandoned it. Gurudev tilled the soil, sowed seeds, and planted trees until the plot became cultivable. Other farmers in the area returned and re-cultivated their land — a single act of karmic labour revived a village. See [[stories/gurudev-mohammedpur-greening]].
+
+The farm work demonstrated what karmayoga looks like without any theatrical dimension: dirty boots, blistered hands, no audience. His stated principle: *"I draw my salary from the Government of India. I am obligated to carry out my professional duties with sincerity and honesty. That is something I will never compromise on."*
+
+### Luxury as a Spiritual Expense
+
+The most compressed teaching on karmayoga from this chapter:
+
+> "Luxury is an expense in spiritualism."
+> — Gurudev, *The Guru of Gurus*, p.116
+
+Hingori's interpretation: Gurudev chose a life of difficulty — not as mortification, but as energy conservation. Luxury consumes spiritual energy. That energy, conserved, becomes available for seva and for the disciples whose transformation it funds. See [[concepts/ek-vakyas]].
+
 ## Cross-references
 
 - [[concepts/karma]] — the underlying accounting framework

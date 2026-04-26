@@ -29,4 +29,5 @@ Hingori has preserved holy water from Renuka Lake in his place of worship as a c
 ## Sources
 
 - [[stories/hingori-renuka-temple-attack]] — the full narrative
+- [[stories/gurudev-renuka-parshuram-alliance]] — 1980; Gurudev meets Parshuramji at Renuka Lake; sthan established; the same territory of power from a different lineage's vantage point
 - [[concepts/aura]] — context: accidental aura attainment, energy better earned than stolen

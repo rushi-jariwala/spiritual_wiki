@@ -39,6 +39,25 @@ updated: 2026-04-25
 > — Hingori on Gurudev, *Aatma Sutra*, Ch.IX, p.116
 [[entities/mahaguru]] · [[stories/gurudev-seva-poem]]
 
+## Gurudev on Nisvarth Seva (The Mahaguru Chapter)
+
+> "Yeh kal bhi peete the, hum kal bhi peelate the. Yeh aaj bhi peete hai, hum aaj bhi peelate hai. Yeh kal bhi piyenge, hum kal bhi pilayenge."
+> (They have drunk at my expense in the past, I served them in the past. They drink at my expense today, I serve them today. They will drink at my expense in the future, I will serve them in the future.)
+> — Gurudev, when asked why he allowed himself to be taken advantage of at Gupta ji's tea stall, *The Guru of Gurus*, p.67
+[[entities/mahaguru]]
+
+> "Prayers and rituals are bound by limitations. Selfless service, on the other hand, has no limits. The more seva you perform, the more you align with the consciousness supreme. If you help others, you serve the supreme within and without."
+> — Gurudev, *The Guru of Gurus*, p.105
+[[entities/mahaguru]] · [[stories/elderly-couple-van-rescue]]
+
+> "Putt, you question me every day about my reason for not eating the food you serve. I may be physically present here in Gurgaon, but if any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night!"
+> — Gurudev to Bittu ji, *The Guru of Gurus*, p.107
+[[entities/mahaguru]] · [[entities/bittu]] · [[stories/gurudev-not-eating-hungry-disciples]]
+
+> "Nisvarth seva was, is and will always be the cornerstone of Gurudev's spiritual philosophy."
+> — Hingori, *The Guru of Gurus*, p.79
+[[entities/mahaguru]]
+
 ## Gurudev on Generosity
 
 > "I am aware of that, but when someone asks for help, I cannot refuse."

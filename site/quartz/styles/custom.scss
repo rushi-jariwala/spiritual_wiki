@@ -1,3 +1,234 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+a {
+  text-underline-offset: 0.15em;
+}
+
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: color-mix(in srgb, var(--secondary) 7%, var(--light) 93%);
+  border-radius: 0 4px 4px 0;
+  padding: 0.85rem 1.2rem;
+}
+
+hr {
+  background: var(--lightgray);
+  height: 1px;
+}
+
+.page {
+  max-width: 1400px;
+  padding: 0 1.25rem 3rem;
+}
+
+.page #quartz-body {
+  column-gap: 2rem;
+  row-gap: 1.5rem;
+}
+
+.page #quartz-body .sidebar {
+  padding-top: 2rem;
+  gap: 0.5rem;
+}
+
+.page-title {
+  padding: 1.2rem 0;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.page-title a {
+  color: var(--dark);
+  display: block;
+}
+
+.sidebar .flex-component {
+  padding: 0.5rem 0;
+  align-items: center;
+}
+
+.center > .page-header {
+  padding: 2rem 0 0;
+}
+
+.center > article {
+  padding: 0.5rem 0 2.75rem;
+}
+
+.popover-hint > .article-title,
+.page-header .content-meta {
+  text-align: center;
+}
+
+.popover-hint > .article-title {
+  font-family: var(--titleFont);
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  margin-top: 0.5rem;
+}
+
+article > h1:first-of-type {
+  font-family: var(--titleFont);
+}
+
+article > h2,
+article > h3 {
+  letter-spacing: 0;
+}
+
+footer {
+  padding: 1.5rem 0 1.75rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+footer .footer-copy {
+  margin: 0 0 0.75rem;
+  color: var(--gray);
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+footer ul {
+  flex-wrap: wrap;
+  gap: 0.75rem 1.2rem;
+  margin-top: 0;
+}
+
+footer .footer-note {
+  margin: 1rem 0 0;
+  max-width: 48ch;
+  opacity: 0.7;
+}
+
+/* ── Two-column layout (no right sidebar) ──────────────────── */
+
+@media all and (min-width: 1200px) {
+  .page #quartz-body {
+    grid-template-columns: 320px minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+}
+
+/* ── Index / hero page ─────────────────────────────────────── */
+
+body[data-slug="index"] .page-header {
+  display: none;
+}
+
+body[data-slug="index"] .center > article {
+  padding-top: clamp(2rem, 4vw, 3.2rem);
+}
+
+body[data-slug="index"] article > h1:first-of-type {
+  font-size: clamp(3.2rem, 8vw, 5.4rem);
+  line-height: 1.0;
+  text-align: center;
+  white-space: nowrap;
+  margin: 0 auto 1rem;
+}
+
+body[data-slug="index"] article > h1:first-of-type + p {
+  font-size: 1.16rem;
+  line-height: 1.8rem;
+  max-width: 60ch;
+  text-align: center;
+  margin: 0 auto 2rem;
+}
+
+body[data-slug="index"] article > h1:first-of-type + p + ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 3rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+body[data-slug="index"] article > h1:first-of-type + p + ul li {
+  margin: 0;
+}
+
+body[data-slug="index"] article > h1:first-of-type + p + ul li a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.6rem;
+  padding: 0.55rem 1.1rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 30%, transparent);
+  color: var(--secondary);
+  font-size: 0.92rem;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
+body[data-slug="index"] article > h1:first-of-type + p + ul li a:hover {
+  background: var(--secondary);
+  color: var(--light);
+}
+
+body[data-slug="index"] article > h2 {
+  text-align: center;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+body[data-slug="index"] article > h2 + p {
+  max-width: 50ch;
+  margin: 0.5rem auto 1.5rem;
+  text-align: center;
+  color: var(--gray);
+}
+
+body[data-slug="index"] article > h2 + ul,
+body[data-slug="index"] article > h2 + p + ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0;
+}
+
+body[data-slug="index"] article > h2 + ul li,
+body[data-slug="index"] article > h2 + p + ul li {
+  margin: 0;
+  padding: 0.85rem 0.5rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+body[data-slug="index"] article > h2 + ul li a,
+body[data-slug="index"] article > h2 + p + ul li a {
+  color: var(--dark);
+  text-decoration: none;
+}
+
+body[data-slug="index"] article > h2 + ul li:hover a,
+body[data-slug="index"] article > h2 + p + ul li:hover a {
+  color: var(--secondary);
+}
+
+/* ── Responsive ────────────────────────────────────────────── */
+
+@media all and (max-width: 800px) {
+  .page {
+    padding: 0 0.75rem 2rem;
+  }
+
+  .page #quartz-body .sidebar {
+    padding-top: 1.25rem;
+  }
+
+  .center > .page-header,
+  .center > article {
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+  }
+
+  body[data-slug="index"] article > h1:first-of-type {
+    max-width: 100%;
+  }
+}

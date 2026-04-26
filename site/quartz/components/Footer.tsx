@@ -1,29 +1,38 @@
+import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version } from "../../package.json"
-import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
 }
 
 export default ((opts?: Options) => {
-  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const year = new Date().getFullYear()
+  const Footer: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
     const links = opts?.links ?? []
+    const baseDir = pathToRoot(fileData.slug!)
+
+    const resolveHref = (link: string) => {
+      if (/^(?:[a-z]+:)?\/\//i.test(link) || link.startsWith("#")) {
+        return link
+      }
+
+      return joinSegments(baseDir, link as FullSlug)
+    }
+
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
+        <p class="footer-copy">{cfg.pageTitle}</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a href={resolveHref(link)}>{text}</a>
             </li>
           ))}
         </ul>
+        <p class="footer-note">
+          Concepts, stories, practices, source pages, and cross-source syntheses gathered into one
+          reading path.
+        </p>
       </footer>
     )
   }

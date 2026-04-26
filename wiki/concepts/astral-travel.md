@@ -80,6 +80,26 @@ Evolved saints continue to appear in spirit form after physical death:
 
 Twenty years after Gurudev's passing, Hingori's schoolmate (DLF, Gurgaon) had a midday waking vision of a stranger projected on his wall: "Don't worry I will solve your problems. Come to Guruji of Gurgaon in Sector 7." He Googled it, found the sthan, and his life now revolves around it. See [[stories/schoolmate-gurudev-gurgaon]].
 
+## *The Guru of Gurus* — New Accounts (*The Mahaguru*, pp.98–100)
+
+The Mahaguru chapter adds several first-hand witness accounts of Gurudev's astral capacity not present in *Aatma Sutra*:
+
+### Sitaram Taki — Haridwar (1970s)
+
+The earliest documented witness account. One night in Haridwar, Gurudev told Sitaram Taki ji to press his feet and accompany him on an astral journey. He wrapped himself in a sheet, began *paath*, and Sitaram ji watched an identical sheet-wrapped Gurudev emerge from his body while the physical form remained seated. Paralysed with fear, Sitaram ji wet his pants before the astral form returned and merged. See [[stories/sitaram-taki-haridwar-astral]].
+
+### The Sarson Ka Saag Departure
+
+On another night at Gurudev's home in Hariana, while disciples ate sarson ka saag with desi ghee, Gurudev's head fell back with a sudden jerk. Finding no pulse or breath, his disciples assumed he had died and, in panic, emptied the household's supply of desi ghee over his body hoping to generate warmth. Sitaram ji recalled that Gurudev had mentioned returning from astral meetings with Buddhe Baba by 3:30 am — so the group waited. Gurudev revived a few minutes after 3:30 am, walked to the bathroom, and returned saying: *"What have you people done to me? I'm stumbling all over the place because I've got desi ghee all over my body!"* He then laughed and "let loose a volley of his favourite Punjabi words." See [[stories/gurudev-sarson-saag-astral]].
+
+### Control Over the Elements
+
+*The Guru of Gurus* establishes a direct link between Gurudev's astral capacity and command over natural phenomena. Two documented instances:
+
+**Parwanoo:** Rain disrupted a seva day. Gurudev looked up at the sky; within seconds the rain reduced to a trickle and stopped. Hingori notes that since that day, it has never rained in the area of that sthan on a designated seva day.
+
+**Mungaoli, Madhya Pradesh:** Rain began while Gurudev and Hingori sat together. Gurudev stepped outside, returned to his seat with an agitated expression, then rose, opened the tent flap, and delivered harsh words skyward. The rain stopped instantly; dark clouds lifted.
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — the spirit body that performs astral travel

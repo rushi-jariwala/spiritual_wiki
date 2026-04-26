@@ -76,6 +76,7 @@ See more in [[quotes/karma]].
 - Obligations: [[concepts/karmic-debt]] — the expenditure side; debts incurred by the mere fact of embodied life
 - Relationship: [[concepts/guru-disciple]] — how a guru can manipulate karma
 - Practices: [[practices/seva]] · [[practices/tapasya]] · [[practices/sadhana]]
+- Narrative: [[stories/giri-broken-hand]] — Giri slaps a worker; Gurudev phones that evening; three days later the exact hand is fractured; a near-perfect case study in karmic return through kriyaman karma
 
 ## On Debt as Strategy
 

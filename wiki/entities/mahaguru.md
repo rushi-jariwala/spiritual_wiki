@@ -14,7 +14,7 @@ updated: 2026-04-25
 
 ## Status
 
-**Partial — Overview, Ch.1, Ch.2 (The Family Man), and Ch.3 (The Man of Mystery) ingested.** Biographical detail covers birth through the revelation of Buddhe Baba and Augarh. Ch.4 (The Mahaguru, pp.56–116) pending.
+**Ingested through Ch.4 (The Mahaguru, pp.56–116).** Full biography now covers birth through death and legacy. Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature, and back matter pending.
 
 ## Who
 
@@ -136,11 +136,102 @@ Gurudev referred to Augarh as disciples' elder brother (*gurubhai*) — a resour
 
 ---
 
-## The Turning Point (Age 35)
+## The Mahaguru Awakens (pp.56–60)
 
-At the age of 35, a spiritual turning point occurred: an inner voice directed him to go to **Hari ki Pawri, Haridwar**, and give up all his *siddhis* in the Ganges river. When this was done, he understood it marked the beginning of a new phase of his spiritual life, though the shape of it was not yet clear.
+In **1970**, on Buddhe Baba's advice, Gurudev went to Har ki Pauri in Haridwar and immersed his hands in the Ganges to discharge all the *siddhis* he had accumulated under Sitaram ji of Dasua. As he did so, one of the siddhis pleaded with him not to release her, promising him whatever he desired. He was unmoved. He walked out of the river stripped of his powers. Surprisingly, this loss marked the **beginning** of his advent as a mahaguru.
 
-Subsequently, the inner voice told him that an **Om had formed in his right palm**, which he could see clearly. Over time, he acquired the symbols of *Trishul*, *Shivling* and *Gileri*, *Ganpati*, *Nandi bull*, etc. He was then guided to begin healing people.
+The symbols of OM and *jyot* (flame), representing the spiritual powers he had acquired, appeared on his hands. The OM also appeared on his chest and back. Over time he acquired the symbols of *Trishul*, *Shivling*, *Ganpati*, and *Nandi bull*. See [[stories/gurudev-siddhi-discharge]].
+
+> [!tip] The open question in earlier chapters — what specifically happened at Har ki Pauri — is answered here. Buddhe Baba commanded the discharge; a siddhi begged to stay; Gurudev refused.
+
+In **1973**, while on a soil survey camp in Kurwai, Madhya Pradesh, a man named Dhanna who had been running a high fever for four days approached him. Gurudev sprinkled jal on him, placed a hand on his forehead, and within a minute Dhanna felt better. From then on, growing numbers came to the camp seeking help. Gurudev described the Kurwai healing as having begun on Buddhe Baba's command to perform nisvarth seva — to serve without prejudice, even those who had done much wrong. See [[stories/gurudev-kurwai-first-healing]].
+
+He was thirty-five years old at his first public healing at Kurwai. The sadhu's prophecy — *"someone like Shiv"* at thirty-five — had come true.
+
+## Building the Spiritual Family (pp.60–72)
+
+### The First Disciple — RC Malhotra
+
+During a joint survey tour of Himachal Pradesh and Madhya Pradesh in **1963**, Gurudev befriended a colleague named **RC Malhotra ji**, who was drawn to his simplicity and generosity. Malhotra ji observed that Gurudev funded colleagues' rent, paid for peons' daughters' weddings, and attached no importance to money. In **1971**, Malhotra ji was initiated as Gurudev's first disciple — prostrating at his feet while lying horizontally underwater in the Ganges. The current was strong; Gurudev told him to follow instructions, and the river stood still for the duration of the ceremony. See [[stories/malhotra-initiation-ganges]] and [[entities/rc-malhotra]].
+
+### Seeding the Tree at the Workplace
+
+Gurudev's workplace became his first field of seva. When colleagues mentioned pain or suffering in casual conversation, he offered to help. Word spread. A crowd gathered at all eight office entrances. At Haribabu Gupta ji's tea stall on Curzon Road below the office, Gurudev met disciples and helped those who sought him. He always addressed seniors as "Sir" and never entered their offices without permission — and his former boss, Pratap Singh ji, praised his disciplined professionalism even as disciples filled the office corridors. Key early disciples: **Dr Shankarnarayan** (first to call him "Guruji"; healed daughter Vaishali — see [[stories/shankarnarayan-vaishali-healing]] and [[entities/dr-shankarnarayan]]), and **Sushila Chaudhary** (prophecy of four children — see [[stories/sushila-four-children-prophecy]]).
+
+### The Sthan Network
+
+Gurudev opened the first *sthan* at Malhotra ji's home at Shadipur, Delhi in **1973**. The following year seva moved to Gurudev's own home at Shivpuri in Gurgaon, following the visit of two women from Rohtak who had sought the "man who performed miracles on Thursdays." After a complex encounter involving a cursed woman whose guru's spirit entered the sthan and set it afire (see [[stories/renuka-cursed-woman]]), Gurudev formalised the **Bada Guruvar** schedule: seva on the first Thursday after the night of no moon (*amavasya*). No payment was accepted at any sthan.
+
+He built a multilevel spiritual structure — appointing disciples as gurus, bestowing his powers on them, and gathering many *ganns* (spiritual heirs). It is widely held that he carried forward eleven disciples from his past and, in this lifetime, gathered many more.
+
+## The Mahaguru in the Field (pp.72–80)
+
+### Kathog, Himachal Pradesh (1976)
+
+In 1976 Gurudev's soil survey team set up camp at Kathog, Kangra District, HP. He began seva in May. Thousands came from nearby areas. A local *tantrik* named Thapa, suspicious that Gurudev was an illusionist, dispatched a powerful spirit to frighten him — and waited all night for the spirit to return. It never did. At sunrise, Thapa peered through the slightly ajar door of the dorm; Gurudev laughed and said: *"You need to stop taking these silly tests!"* Doubt became devotion. See [[stories/kathog-thapa-tantrik]].
+
+A teacher at the school across the dorm, Suresh Kohli, dismissed Thapa's accounts. Nonetheless he went to meet Gurudev. Gurudev instructed him to meditate at night with a glass of water by his side. For seven nights Suresh ji saw Gurudev appear in his home temple during meditation. On the ninth day he returned; Gurudev told him: *"Hun mainu ess tarah vekhiya Masterji, te samajhna rab nu paa lita!"* (From now on, whenever you see a vision of me, know that you have met the supreme power.) Suresh ji bowed. See [[stories/kathog-suresh-kohli-vision]].
+
+At Kathog Gurudev healed hundreds of thousands, earning the sobriquet **'OM wale Baba'**. He placed his hands on a man with a bent spine and straightened it in minutes. He initiated teachers from the school — Suresh ji, Shambhu ji, Santosh ji — as spiritual healers by making them drink jal. Kathog is described as the springboard for Gurudev's ascent to the spiritual exosphere.
+
+### Renuka, Himachal Pradesh (1980)
+
+In 1980, Gurudev set up camp at Renuka (Sirmaur District, HP) on a plot owned by politician Chandramani Vashisht. He concealed his identity and instructed disciples to be the visible face of the seva. A two-kilometre queue appeared overnight before the first seva day — and seventeen hours of continuous healing followed, with disciples too exhausted to lift their arms by the end.
+
+At Renuka, Gurudev formed a spiritual alliance with **Parshuram ji** — the immortal son of Devi Renuka, who rules that spiritual domain. The Renuka sthan was handed over to Vashisht ji; it is believed Parshuram ji still visits it. See [[stories/renuka-overnight-queue]].
+
+The Government of Himachal Pradesh dispatched officers to investigate. The jal was tested in a laboratory and found immaculately pure. *The Tribune* dispatched reporters.
+
+## Character as the Mahaguru (pp.81–109)
+
+### Ulta Guru — The Server, Not the Served
+
+In a tradition where disciples serve their guru, Gurudev systematically inverted the convention. He called all who came to the sthan "Putt" (child, on Buddhe Baba's advice), sat on the floor to eat with disciples, slept in a storeroom when disciples filled his house on Mahashivratri, single-handedly cooked aloo gobi for disciples before eating himself, and stopped road-trip cars at dhabas to buy cold drinks for disciples. He said: *"I don't mind being inconvenienced as long as my disciples are comfortable."* This pattern is summed up by the term his disciples coined: [[concepts/ulta-guru|ulta guru]]. See [[stories/bittu-tea-correction]].
+
+He also used [[concepts/mantra-transfer|mantra transfer]] to accelerate disciples' evolution: declaring them *siddh* in mantras before they had chanted them, allocating his own paath hours to their spiritual account, and modifying advanced mantras with his "unique flavour" to increase their potency.
+
+### The Karmayogi — Khandsa Farm
+
+Gurudev understood karma yog as a body-level practice, not merely philosophical stance. At his Khandsa farm he ploughed fields on his tractor, milked cows (spouting milk into calves' mouths), picked vegetables, and separated chaff at harvest — despite the physical toll. When Bittu ji raised the blisters on his hands as a concern, Gurudev replied: *"I am a man of moderate means. My financial capacity to assist people is limited. I will use my body to serve regardless of how physically demanding the work is."* See [[stories/bajrang-matchmaking]] for a lighter episode from the same farm.
+
+### The Transformer
+
+Gurudev's omniscience extended to knowing which facets of a disciple's character needed changing. When Ashok Bhalla ji struggled with anger, an invisible force stopped his hand mid-blow against a worker, and Gurudev later told him: *"Even if you are certain that someone has taken your money, you should believe him when he pleads innocence."* See [[stories/ashok-bhalla-anger-invisible-force]]. When Giri ji slapped a worker, the same hand was fractured in a motorcycle accident three days later. See [[stories/giri-broken-hand]]. When Hingori was being bullied by Mohan Singh Chira, Gurudev placed a hand on his head and said he was not to bow to any man or spiritual power from that day forward. See [[stories/hingori-chira-self-esteem]].
+
+### Modesty
+
+Gurudev shunned fame with a thoroughness that extended to practical measures:
+
+- At Kathog, when women asked *"Guruji kahan hai?"* he pointed to a disciple performing seva and said "There he is."
+- People who photographed him without permission found blank reels; cameras malfunctioned. The first photograph he allowed after becoming a mahaguru was taken at Dr Shankarnarayan ji's specific request for an important professional matter.
+- When disciples erected a banner with his photograph at Guru Purnima near the Gurgaon sthan, Gurudev walked to the road, muttered something, chastised them, and forbade any such promotion in future.
+- When a man wearing a copper kada (a sign of sthan connection) greeted Gurudev on the street and asked him the time without recognising him, Gurudev silently stopped Hingori from revealing his identity.
+
+### Compassion Without Separation
+
+One afternoon, Gurudev directed Bittu ji to drive toward Khandsa with a van of langar. En route Gurudev — sitting unusually in the back — told Bittu ji to offer a ride to an elderly couple in summer heat. The couple were distressed; they had been turned away rudely from the sthan and had resolved to die at the railway tracks. Gurudev blessed them, gave them food from the langar, and money for rations. He then explained: *"I may be physically present here in Gurgaon, but if any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night!"* See [[stories/elderly-couple-van-rescue]] and [[stories/gurudev-not-eating-hungry-disciples]].
+
+### Simplicity
+
+By the mid-1980s Gurudev's following had grown exponentially. When a cavalcade of luxury cars met him at Mumbai airport, he left instead on a motorcycle driven by his devotee Uddhav Kirtikar, a dashing police officer. A wealthy devotee who gifted him a BMW received it back minutes later. His sole extravagances were a Fiat car and a 250-sq-yard home. Until the mid-1980s he shared a toilet-cum-bathroom with a dozen disciples.
+
+> "Luxury is an expense in spiritualism."
+> — Gurudev, *The Guru of Gurus*, p.116
+
+### Respect and the Equal Treatment of Women
+
+Gurudev opposed dowry and lavish weddings, conducted simple ceremonies at the sthan, and instructed disciples to mentally touch their wives' feet during a specific time each year. He told his sisters he would arrange their marriages only when they wanted, not before — and encouraged their financial independence. *"We have to set an example in society so that no one thinks of a female child as a burden."*
+
+## Passing and Legacy (pp.111–117)
+
+Gurudev **chose** to leave his body on **28 July 1991**, aged 53, to continue his spiritual pursuits in the afterlife. His remains were interred at [[entities/neelkanth-dham|Neelkanth Dham]] in Najafgarh. He had overseen the construction of the site himself and prophesied that those who visited would be relieved of suffering. This has been borne out; many claim to have sighted him at the Dham decades later.
+
+In August 1991, a reading from the Brighu Samhita in Saharanpur confirmed his identity: a *divya aatma* who had lived as *Shiv swaroop* (manifestation of Shiv) without revealing his identity to anyone. The Samhita described ganns from Shiv Lok descending on covert missions, and stated that Gurudev, in metaphysical form, returns to the Dham daily to serve. He appointed eleven disciples and five ganns to carry on his legacy; their identities were never disclosed — "even Sage Brighu was unaware of their true identity." See [[stories/gurudev-brighu-samhita-after-death]].
+
+Hingori's summary of his mission:
+
+> I always believed the healing and miracles under his watch were incidental. His true purpose was to remind us of who we truly are. To this end, he fanned the flames of our divinity till we realised we were divine.
+> — Hingori, *The Guru of Gurus*, p.117
 
 ## The Sthaan Network
 

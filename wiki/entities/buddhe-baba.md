@@ -58,6 +58,8 @@ Two theories circulate:
 - [[entities/mahaguru]] — Gurudev; his principal disciple and the conduit of all Buddhe Baba's known teachings
 - [[stories/buddhe-baba-deserted-temple]] — first meeting; tobacco; incomplete mantra; steel kada
 - [[stories/buddhe-baba-sister-vision]] — appearance to Gurudev's sister; reassurance and vanishing
+- [[stories/gurudev-siddhi-discharge]] — 1970 Har Ki Pauri; the moment Gurudev surrendered his siddhis; the transition from siddha to mahaguru enabled by Buddhe Baba's guidance
+- [[stories/gurudev-sarson-saag-astral]] — the 3:30am deadline Sitaram ji recalled during Gurudev's astral departure suggests an unseen hand setting the boundary — consistent with Buddhe Baba's omnipresent guidance
 - [[concepts/non-doership]] — Gurudev's attribution of all seva to Buddhe Baba is the living enactment of non-doership
 - [[concepts/guru-disciple]] — the guru-disciple relationship operates even at Gurudev's level; he too had a mentor
 - [[concepts/sukshma-sharir]] — seh sharir; Sitaram ji of Benaras as a possible identity

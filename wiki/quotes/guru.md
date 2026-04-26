@@ -57,6 +57,39 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 ---
 
+## Gurudev on Detachment and Identity (*The Guru of Gurus*)
+
+> "Main sab ka hoon aur sab mere hain.
+> Lekin main kisi ka nahi hu aur mera koi nahi."
+> (I belong to all, and all belong to me.
+> Yet I belong to no one, and no one belongs to me.)
+> — Gurudev, *The Guru of Gurus*, p.108
+[[concepts/vairagya]] · [[concepts/role-play]] · [[entities/mahaguru]]
+
+> "Hun mainu ess tarah vekhiya Masterji, te samajhna rab nu paa lita!"
+> (From now on, whenever you see a vision of me, know that you have met the supreme power.)
+> — Gurudev to Suresh Kohli at Kathog, *The Guru of Gurus*, p.75
+[[entities/mahaguru]] · [[stories/kathog-suresh-kohli-vision]]
+
+> "Tu doctor kyon ban raha hai. Maine tujhe guru banaya hai. Tu kaagaz bhi mathe se laga kar usko de dega, toh woh theek ho jayega."
+> (I have made you a guru, not a doctor. Even if you touched a piece of paper to your forehead and gave it to him, it would have served as a cure.)
+> — Gurudev to Hingori, *The Guru of Gurus*, p.97
+[[concepts/intent-as-healing]] · [[concepts/guru-tattva]] · [[stories/gurudev-diary-guru-not-doctor]]
+
+> "Luxury is an expense in spiritualism."
+> — Gurudev, *The Guru of Gurus*, p.116
+[[concepts/karmayoga]] · [[concepts/ek-vakyas]] · [[entities/mahaguru]]
+
+> "When one goes to a temple to plead for the fulfilment of one's desire, it is not the temple's energy that provides a solution. That wish is fulfilled by the jivaatma, the spark of the consciousness supreme that resides within each being."
+> — Gurudev, *The Guru of Gurus*, p.116
+[[concepts/jivaatma]] · [[concepts/intent-as-healing]] · [[entities/mahaguru]]
+
+> "I don't mind being inconvenienced as long as my disciples are comfortable."
+> — Gurudev, *The Guru of Gurus*, p.83
+[[concepts/ulta-guru]] · [[entities/mahaguru]]
+
+---
+
 ## On Waiting as Practice
 
 > "Their waiting in line was a test of their tapasya or sadhana. Based on this effort, he gave them or willed them relief from their suffering."

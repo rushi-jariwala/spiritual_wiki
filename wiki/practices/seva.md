@@ -151,8 +151,10 @@ Service to other life forms is, at the deepest level, service to the consciousne
 - [[concepts/vairagya]] — detachment from outcomes keeps seva clean
 - [[concepts/gunas]] — seva elevates sattva; the guna mix shifts with every genuine act of service
 - [[concepts/aura]] — seva listed as one of six concrete aura enhancement methods in Ch.X; dua/gratitude from those served transfers as blessings that expand the aura
+- [[concepts/ulta-guru]] — the mahaguru's seva did not stop at giving; when service became enabling of complacency, he corrected it; seva has limits, and the ulta guru enforces them
 - [[entities/mahaguru]] — whose life was seva's living embodiment
 - [[entities/guru-vashisht]] — the warning about charity from ill-gotten wealth
 - [[practices/tapasya]] · [[practices/sadhana]]
 - [[stories/gurudev-seva-poem]] — Gurudev's seva captured in verse
 - [[stories/grandfather-education-multiplier]] — the multigenerational education seva chain
+- [[stories/elderly-couple-van-rescue]] — the bhav (sentiment) + kriya (action) + kripa (grace) model in action; Gurudev perceives the couple's distress across distance and redirects the van

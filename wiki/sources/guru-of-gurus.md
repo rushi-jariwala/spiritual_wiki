@@ -41,7 +41,7 @@ updated: 2026-04-25
 | **HIS LIFE** | The Early Years | 6–25 | ✅ ingested 2026-04-25 |
 | | The Family Man | 26–45 | ✅ ingested 2026-04-25 |
 | | The Man of Mystery | 46–55 | ✅ ingested 2026-04-25 |
-| | The Mahaguru | 56–116 | ⬜ pending |
+| | The Mahaguru | 56–116 | ✅ ingested 2026-04-26 |
 | **ENTREPRENEUR EXTRAORDINAIRE** | — | 118–137 | ⬜ pending |
 | **PHILOSOPHY & PRACTICES** | Ek Se Anek, Anek Se Ek | 141–144 | ⬜ pending |
 | | Stages of Spiritual Transformation | 145–153 | ⬜ pending |
@@ -233,6 +233,70 @@ updated: 2026-04-25
 
 > "Oy, chai bahut badiya banayi hai." [You've made lovely tea.]
 > — Gurudev to Hingori, after Augarh-guided tea, *The Guru of Gurus*, p.56
+
+## Key Themes (The Mahaguru, pp.56–116)
+
+- **The Mahaguru Awakens (pp.57–60):** Siddhi discharge at Har Ki Pauri, Haridwar, 1970. The siddhi "begged" not to be released — a rare instance of an accomplished power having its own volition. First healing in 1973 at Kurwai (Dhanna's fever, abdominal cramps) — age 35, fulfilling the sadhu's childhood prophecy. Buddhe Baba's command: serve anyone who asks, without prejudice of caste, creed, or gender.
+- **The First Disciple (pp.61–64):** RC Malhotra — friend since 1963, initiated 1971 on the banks of the Ganges. During initiation, the Ganges current stilled; elements under control. Malhotra's subsequent mischief (buffalo mantra prank) and advocacy for gurubhais. Malhotra died April 2019.
+- **Seeding the Spiritual Tree (pp.65–68):** Gurudev seeds disciples within his professional network at IARI (Dr Shankarnarayan, others). "Gupta ji's tea stall" — Gurudev funds disciples' tea every day; asks nothing. The nisvarth seva teaching: *"Yeh kal bhi peete the, hum kal bhi peelate the..."*
+- **A Spiritual Tree Takes Roots (pp.69–72):** Kathog 1976 — first mass healing camp. 'OM wale baba' discovery by Gurudev's sisters. Thapa tantrik's assault vs Gurudev. Suresh Kohli's 7-night vision; teachers initiated as healers overnight via jal. Beginning of the sthan network.
+- **Miracles Up His Sleeve (pp.73–76):** Sushila's four-children prophecy; husband initiated after evolved spirit of late father refused the fourth child and was given to another family. Dr Shankarnarayan heals daughter Vaishali — faith so deep he threw away the medicines. Bajrang (monkey) matchmaking. Cave sage at Manikaran — 500-year-old body preserved via Hatha Yog amrit.
+- **The Healer Extraordinaire (pp.77–80):** Renuka 1980 — 2-km overnight queue; 17 hours of continuous seva; government investigation (jal tested immaculately pure). Renuka cursed woman (annual miscarriage; Gurudev overrules resident spirit; woman accepts taweez against advice; child dies). Disabled girl healed at Renuka (Sitaram Taki stands on toes; RP Sharma lifts; girl walks). Spiritual alliance with Parshuramji formed.
+- **The Server, Not the Served (pp.81–86):** The ulta guru paradigm — Gurudev called this by a gurubhai. Tea service for three days (Bittu ji), earful on the fourth: limits of generosity. Elderly couple van rescue — bhav (sentiment) → kriya (action) → kripa (grace) sequence. "I don't mind being inconvenienced as long as my disciples are comfortable." Fast for hungry disciples: 4–5 fasts per month; "if any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night."
+- **The Karmayogi (pp.87–90):** Khandsa farm — tractor, cows, blisters; "I am a man of moderate means — I will use my body." Mohammedpur greening (1988): arid plot cultivated; village revived. IARI duties never compromised. "Luxury is an expense in spiritualism."
+- **The Transformer (pp.91–94):** Ashok Bhalla — 3 months controlling anger; invisible force stops blow at the end; Gurudev: "believe him." Giri — slaps worker; Gurudev phones same evening; fractures exact hand three days later. Hingori's Chira encounter — Gurudev's touch on the head; "the cat shapeshifted into a lion."
+- **A Spiritual Powerhouse (pp.95–100):** Hingori's ayurvedic diary — *"Tu doctor kyon ban raha hai. Maine tujhe guru banaya hai."* Intent-as-healing teaching: even a paper touched to the forehead would have served as a cure. Mantra transfer: two forms — laung (siddhi declared before disciple's chant) and paath-hours allocation. Hingori's vision of 100 spirits (cream togas, bald); understood when Gurudev mentioned 500 years gathering disciples.
+- **The Spiritual Compass (pp.101–110):** "Main sab ka hoon aur sab mere hain / Lekin main kisi ka nahi hu aur mera koi nahi." Gratitude inversion: Gurudev thanked those who came to him for providing him a seva opportunity. Weather control anecdotes (Parwanoo, Mungaoli). Gupta ji's temple quote on jivaatma as real healer. Identity modesty: cameras malfunction, BMW refused, no banners.
+- **The Mahaguru Returns to His Abode (pp.111–114):** Death 28 July 1991, age 53. Neelkanth Dham samadhi in Najafgarh. Brighu Samhita reading (August 1991, Narinder/Virender/Saroj ji): Sage Brighu predicted their visit thousands of years prior; Shiv Lok ganns appointed; eleven disciples + five ganns; identity unknown even to Brighu.
+- **In Continuum (pp.115–116):** Gurudev's mission defined. Ek vakyas: single-sentence teachings that germinate over decades. Luxury as expense. Jivaatma quote. "Nisvarth seva was, is and will always be the cornerstone of Gurudev's spiritual philosophy."
+
+## Notable Quotes (The Mahaguru)
+
+> "I am a man of moderate means. My financial capacity to assist people is limited. I will use my body to serve regardless of how physically demanding the work is."
+> — Gurudev to Bittu ji, *The Guru of Gurus*, p.89
+
+> "Main sab ka hoon aur sab mere hain. Lekin main kisi ka nahi hu aur mera koi nahi."
+> (I belong to all, and all belong to me. Yet I belong to no one, and no one belongs to me.)
+> — Gurudev, *The Guru of Gurus*, p.108
+
+> "Tu doctor kyon ban raha hai. Maine tujhe guru banaya hai. Tu kaagaz bhi mathe se laga kar usko de dega, toh woh theek ho jayega."
+> — Gurudev to Hingori, *The Guru of Gurus*, p.97
+
+> "Luxury is an expense in spiritualism."
+> — Gurudev, *The Guru of Gurus*, p.116
+
+> "Prayers and rituals are bound by limitations. Selfless service, on the other hand, has no limits."
+> — Gurudev, *The Guru of Gurus*, p.105
+
+> "If any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night!"
+> — Gurudev to Bittu ji, *The Guru of Gurus*, p.107
+
+> "I don't mind being inconvenienced as long as my disciples are comfortable."
+> — Gurudev, *The Guru of Gurus*, p.83
+
+> "Nisvarth seva was, is and will always be the cornerstone of Gurudev's spiritual philosophy."
+> — Hingori, *The Guru of Gurus*, p.79
+
+## Stories Extracted (The Mahaguru)
+
+- [[stories/gurudev-siddhi-discharge]] · [[stories/gurudev-kurwai-first-healing]] · [[stories/malhotra-initiation-ganges]] · [[stories/malhotra-buffalo-mantra-prank]]
+- [[stories/sushila-four-children-prophecy]] · [[stories/shankarnarayan-vaishali-healing]] · [[stories/bajrang-matchmaking]] · [[stories/manikaran-cave-sage]]
+- [[stories/kathog-thapa-tantrik]] · [[stories/kathog-suresh-kohli-vision]]
+- [[stories/renuka-overnight-queue]] · [[stories/renuka-cursed-woman]] · [[stories/renuka-disabled-girl]] · [[stories/gurudev-renuka-parshuram-alliance]]
+- [[stories/bittu-tea-correction]] · [[stories/elderly-couple-van-rescue]] · [[stories/gurudev-not-eating-hungry-disciples]]
+- [[stories/gurudev-mohammedpur-greening]]
+- [[stories/ashok-bhalla-anger-invisible-force]] · [[stories/giri-broken-hand]] · [[stories/hingori-chira-self-esteem]]
+- [[stories/gurudev-diary-guru-not-doctor]] · [[stories/hingori-vision-100-spirits]]
+- [[stories/sitaram-taki-haridwar-astral]] · [[stories/gurudev-sarson-saag-astral]]
+- [[stories/gurudev-brighu-samhita-after-death]]
+
+## New Concepts Introduced (The Mahaguru)
+
+- [[concepts/ulta-guru]] — the inverted guru who serves disciples; coined by a gurubhai; grounded in aatmic equality
+- [[concepts/mantra-transfer]] — two forms: laung (siddhi declared before disciple chants) and paath-hours allocation
+- [[concepts/intent-as-healing]] — the guru's intent is the operative agent; all methods are incidental
+- [[concepts/guru-tattva]] — the latent guru element in every being; awakened by the mahaguru's touch
+- [[concepts/ek-vakyas]] — single-sentence teachings that germinate over decades
 
 ## Contradictions / Tensions
 

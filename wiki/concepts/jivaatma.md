@@ -58,6 +58,22 @@ The jivaatma persists after bodily death and remains capable of karma. Saints an
 
 See [[concepts/koshas]]. This is the anatomy of how the jivaatma is encased in — and occluded by — layers of identification, and the structural path along which the seeker climbs toward oneness.
 
+## The Jivaatma as the Real Healer
+
+*The Guru of Gurus* adds a teaching on the jivaatma that extends its application beyond karma into the domain of prayer and healing:
+
+> "When one goes to a temple to plead for the fulfilment of one's desire, it is not the temple's energy that provides a solution. That wish is fulfilled by the jivaatma, the spark of the consciousness supreme that resides within each being."
+> — Gurudev, *The Guru of Gurus*, p.116
+
+The temple is the occasion, not the cause. The jivaatma — already a fragment of the consciousness supreme — is the actual operative power. This is structurally consistent with [[concepts/intent-as-healing]]: in both cases, the external form (temple, remedy, ritual) is incidental; the consciousness behind it is what acts.
+
+The teaching also explains Gurudev's broader mission, in Hingori's formulation:
+
+> I always believed the healing and miracles under his watch were incidental. His true purpose was to remind us of who we truly are.
+> — Hingori, *The Guru of Gurus*, p.117
+
+Healing was not the goal; awakening recognition of the jivaatma within each person was.
+
 ## In Practice
 
 - **Hold the distinction.** Remember that the "I" you identify with is not the jivaatma itself but a sheath around it.

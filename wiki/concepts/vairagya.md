@@ -54,6 +54,34 @@ Detachment is not indifference. Gurudev's example shows that *vairagya* at its p
 - Detachment from the perceived identity — the 'I' — is the substrate of [[concepts/non-doership|non-doership]] and [[concepts/karm-mukt|karm-mukt]].
 - The aspiration is not sudden severance but a progressive loosening: *vairagya* is a direction, not a destination.
 
+## *The Guru of Gurus* — Vairagya in Action (*The Mahaguru*, pp.101–109)
+
+The Mahaguru chapter provides Gurudev's own formulation of his detachment, spoken directly:
+
+> "Main sab ka hoon aur sab mere hain.
+> Lekin main kisi ka nahi hu aur mera koi nahi."
+> (I belong to all, and all belong to me.
+> Yet I belong to no one, and no one belongs to me.)
+> — Gurudev, *The Guru of Gurus*, p.108
+
+This is the most precise first-person statement of *vairagya* in the corpus. The paradox is structural: unlimited belonging (first line) and complete non-attachment (second line) are not contradictions — they are the same state described from opposite directions. Because he belonged to no one in particular, he could belong to everyone equally.
+
+### Vairagya in Role-Play of Love
+
+Hingori observes Gurudev's expression of love from the inside:
+
+> Gurudev role-played affection to perfection. He manipulated us into believing he loved us more than the others. The truth is he loved everyone equally but without an iota of emotion.
+> — Hingori, *The Guru of Gurus*, p.108
+
+This is *vairagya* operating at full integration: the love is real in its effect — disciples genuinely felt uniquely cared for — but there was no emotional ownership underneath it. Love as function, not as feeling. This is the most advanced expression of [[concepts/role-play]], and it explains why no disciple felt neglected: the love that asked nothing of him could be given to everyone without diminishing.
+
+### Seva With No Joy and No Pain
+
+> Practising detachment from the outcome of a deed helped make seva a habit. That meant there was no joy to be found in it and no pain to be felt doing it. It was a duty that needed to be carried out without emotion and with utmost humility.
+> — Hingori, *The Guru of Gurus*, p.108
+
+This is the final destination of *vairagya* as a practice: not the suppression of joy and pain, but the natural subsidence of both when the 'I' is no longer claiming authorship over the act.
+
 ## Cross-references
 
 - [[concepts/non-doership]] — non-doership requires *vairagya* from self-identity to fully function

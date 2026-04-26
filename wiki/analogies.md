@@ -347,6 +347,48 @@ Role-play is "a two-faced coin." The cautionary version is absorption: when the 
 
 ---
 
+## The Mahaguru's Character
+
+### A Walking-Talking Shivalay
+*Illuminates: [[entities/mahaguru]], [[concepts/intent-as-healing]]*
+
+> "Gurudev became a temple personified due to the manifestation of multiple powers. Worshipping him was the worship of a walking-talking Shivalay."
+> — Hingori, *The Guru of Gurus*, p.59
+
+After Gurudev discharged his siddhis and the symbols of OM, trishul, and jyot appeared on his body, he became — in Hingori's formulation — the temple itself rather than a worshipper at a temple. The analogy reframes what a holy site is: not a building, but a concentrated field of divine consciousness. A Shivalay is a Shiv temple; Gurudev as Shivalay implies the same sacred field without walls.
+
+---
+
+### The Spiritual Compass — True North
+*Illuminates: [[entities/mahaguru]], [[concepts/nisvarth-seva]]*
+
+> "Gurudev was and will remain a Spiritual Compass guiding us to the true north."
+> — Hingori, *The Guru of Gurus*, p.109
+
+The compass metaphor is precise: a compass does not walk the path for you, does not coerce you toward north, and works whether or not you acknowledge it. Gurudev's guidance was of the same quality — perpetual, directionless in itself (pointing outward, not toward itself), and accurate even after his physical death. The "true north" is the divine within; the compass is the guru who refuses to point anywhere else.
+
+---
+
+### Luxury as a Spiritual Expense
+*Illuminates: [[concepts/karmayoga]], [[concepts/ek-vakyas]]*
+
+> "Luxury is an expense in spiritualism."
+> — Gurudev, *The Guru of Gurus*, p.116
+
+Hingori's gloss: Gurudev chose a life of difficulty not as mortification but as energy conservation. Every comfort diverts the shakti that could otherwise power spiritual service. The analogy treats spiritual energy as a budget: luxury is a line item; whatever you spend on it is unavailable for seva. Gurudev's spiritual savings — his conserved energy — were what allowed him to transform hundreds of disciples and heal hundreds of thousands of strangers.
+
+---
+
+### The Cheese Matured to Cheddar
+*Illuminates: [[entities/mahaguru]], [[practices/seva]]*
+
+> "The cheese has matured to cheddar!"
+> — Hingori, *The Guru of Gurus*, p.113
+
+Used by Hingori to describe the state of the spiritual lineage after Gurudev's passing: thirty to forty sthans still function as they did in his lifetime; the disciples he trained have gained decades of experience and are training a new generation. The cheddar analogy captures the quality of maturation — not merely more time elapsed, but a qualitative deepening. What began as fresh milk (early seekers) has become something richer and sharper through the pressures of practice.
+
+---
+
 ## Destiny & Biography
 
 ### The Jigsaw Puzzle of Coincidences

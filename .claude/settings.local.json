@@ -21,7 +21,13 @@
       "Bash(awk 'NR>=1530 && NR<=1555 {print NR\": \"$0}' \"D:/spiritual_wiki/raw/aatma-sutra.md\")",
       "Bash(awk 'NR>=1865 && NR<=1890 {print NR\": \"$0}' \"D:/spiritual_wiki/raw/aatma-sutra.md\")",
       "Bash(chmod +x \"D:/spiritual_wiki/scripts/ingest-chapters.sh\")",
-      "Bash(/usr/bin/python3 -c \"import json; d=json.load\\(open\\('D:/spiritual_wiki/wiki/.ingest/aatma-sutra.json'\\)\\); print\\(f'Valid JSON — {len\\(d[\\\\\"chapters\\\\\"]\\)} chapters'\\); [print\\(f'  Ch.{c[\\\\\"n\\\\\"]:>2} {c[\\\\\"title\\\\\"]:<40} lines {c[\\\\\"lines\\\\\"][0]:>4}-{c[\\\\\"lines\\\\\"][1]:>4}  {c[\\\\\"status\\\\\"]}'\\) for c in d['chapters']]\")"
+      "Bash(/usr/bin/python3 -c \"import json; d=json.load\\(open\\('D:/spiritual_wiki/wiki/.ingest/aatma-sutra.json'\\)\\); print\\(f'Valid JSON — {len\\(d[\\\\\"chapters\\\\\"]\\)} chapters'\\); [print\\(f'  Ch.{c[\\\\\"n\\\\\"]:>2} {c[\\\\\"title\\\\\"]:<40} lines {c[\\\\\"lines\\\\\"][0]:>4}-{c[\\\\\"lines\\\\\"][1]:>4}  {c[\\\\\"status\\\\\"]}'\\) for c in d['chapters']]\")",
+      "Bash(git -C D:/spiritual_wiki remote -v)",
+      "Bash(npm --version)",
+      "PowerShell(node --version)",
+      "PowerShell(npm --version)",
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\",\"User\"\\); node --version; npm --version)",
+      "Bash(npm run *)"
     ]
   }
 }

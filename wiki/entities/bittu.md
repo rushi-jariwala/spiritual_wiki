@@ -28,6 +28,8 @@ Bittu ji drove Gurudev to and from the office, managed logistics at Khandsa farm
 
 - **Khandsa road trip cold drinks.** Gurudev would stop road-trip cars at dhabas to buy cold drinks for his disciples, serving them while sitting in the vehicle rather than accepting service himself. Bittu ji is one of the witnesses to this inversion of convention.
 
+- **Burns healed via dream.** After sustaining severe burns in a house fire, the mahaguru appeared in Bittu ji's dream, spoke to him, and offered him sipped water. Within a week, his scorched skin flaked off and he was able to walk. His vision was reportedly restored following third-degree burns. See [[stories/bittu-burns-healing-dream]].
+
 ## Cross-references
 
 - [[entities/mahaguru]] — Gurudev, the guru Bittu ji served

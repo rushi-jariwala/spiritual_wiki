@@ -38,6 +38,15 @@ For Hindus antim shraadh (final ceremony) is done at Gaya in Bihar. A prayer cer
 
 > [!tip] Hingori's personal experience: [[entities/mahaguru|Gurudev]] prescribed greening family land, farming, donating all produce to an ashram, and rearing cows and donating all milk. See [[stories/pitra-peeda-sons-birth]].
 
+## Gurudev's Prescriptions for Pitra Peeda
+
+Gurudev treated many cases of pitra peeda at his sthans. His prescription varied per individual. Hingori's own pitra peeda was resolved through a specific multi-year prescription:
+
+> He made me take up farming for several years and donate the proceeds to charitable causes. That ended the pitra peeda for me and my kula.
+> — Hingori, *The Guru of Gurus*, p.226
+
+The mahaguru could also dilute curses placed by mighty saints and temples — cases where conventional remediation would be insufficient. See [[concepts/spiritual-healing]].
+
 ## In Practice
 
 Positive karma can be assigned to a departed spirit by:

@@ -18,8 +18,22 @@ updated: 2026-04-17
 
 *Aatma Sutra*, Ch.IV, "Black Magic on Aura", pp.47–48.
 
+## Cross-Source Variant — *The Guru of Gurus*
+
+*The Guru of Gurus* (Healing chapter, pp.224–225) contains a parallel account of the same episode, narrated by Hingori. Key differences:
+
+- *Aatma Sutra* names the disciple handling the glass pieces as "Mohna." *The Guru of Gurus* names him "Mohan Chira ji." Both accounts are first-person Hingori; the name discrepancy is unresolved.
+- *The Guru of Gurus* specifies that the glass pieces needed to form **nine bangles** before Kamlesh would be free.
+- *The Guru of Gurus* adds that Hingori was standing right next to Gurudev when the taweez finally emerged: Gurudev **tapped her on her back**, and the taweez popped out. (The *Aatma Sutra* account says he "hit her on the back a couple of times.")
+
+> Often, under the mahaguru's treatment, people would vomit out the carriers of dark energy. I most vividly remember the incident of Kamlesh throwing up colourful glass bangles. When she came to the sthan seeking help, Gurudev deputed Mohan Chira ji to pick out pieces of glass from her vomit and put them together to form a round bangle. He said that she would be free of the negativity when she had vomited out all the material that could create nine bangles. The grand finale was when she vomited a taweez after Gurudev tapped her on her back! I was standing right next to him when that happened.
+> — Hingori, *The Guru of Gurus*, p.225
+
+> [!warning] "Mohna" vs "Mohan Chira ji" — two first-person Hingori accounts give different names for the disciple who assembled the glass pieces. Do not resolve speculatively.
+
 ## Related Concepts & Entities
 
 - [[concepts/aura]] — black magic as targeted aura attack; the *sthan*'s spiritual power as counter-force
+- [[concepts/spiritual-healing]] — expulsion of physical carriers of dark energy as a documented healing mode
 - [[entities/hingori]] — eyewitness narrator
 - [[entities/mahaguru]] — whose disciples treated Kamlesh and who personally extracted the *taveez*

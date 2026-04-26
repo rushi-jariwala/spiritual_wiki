@@ -144,6 +144,10 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 - [[stories/ram-banishes-sita]] — maya teaching applied: banishing Sita without malice
 - [[stories/ram-speech-to-guru-vashisht]] — Ram's own account of his state
 
+## Maya and Ek Se Anek
+
+*The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
+
 ## Open Questions
 
 > [!question] Is maya neutral or obstructive?

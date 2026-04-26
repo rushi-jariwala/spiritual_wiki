@@ -73,6 +73,11 @@ Read this first when answering queries — then drill into relevant pages.
 - [[concepts/intent-as-healing|Intent as Healing]] — the guru's intent is the operative agent in every healing; all physical methods are incidental; Gurudev: "even a paper touched to the forehead would have served as a cure"
 - [[concepts/guru-tattva|Guru Tattva]] — the latent guru element in every being; awakened by the mahaguru's touch; Kathog teachers became healers overnight after drinking jal
 - [[concepts/ek-vakyas|Ek Vakyas]] — single-sentence teachings that germinate over decades; Gurudev's pedagogical method of planting seeds rather than spoon-feeding
+- [[concepts/stages-of-spiritual-transformation|Stages of Spiritual Transformation]] — Gurudev's six-stage framework: Shraddha → Vishwas → Seva → Gyan → Bhakti → Divya Gyan; non-linear and co-mingling
+- [[concepts/senses-management|Senses Management]] — observer stance toward the five senses; Gurudev's specific techniques per sense; neuroplasticity; "in a nutshell" dissolution of the experiencer
+- [[concepts/constant-awareness|Constant Awareness]] — multi-planar perpetual awareness; one-point concentration; OM/Ajna architecture; manifesting visualisation; probability reduction
+- [[concepts/hygiene|Hygiene (Social, Commercial, Mental, Spiritual)]] — Gurudev's four-part framework of habit-grade practices for amplifying spiritual efforts across all domains of life
+- [[concepts/spiritual-healing|Spiritual Healing]] — sources of negativity, dispassionate approach, spirit possession mechanics, life extension, modes of healing, non-doership as the frame
 
 ---
 
@@ -103,6 +108,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[entities/bittu|Bittu]] — one of the "four musketeers" (Nikku, Pappu, Bittu, Gaggu); Gurudev's driver and companion; elderly couple rescue; tea correction story
 - [[entities/dr-shankarnarayan|Dr. Shankarnarayan]] — senior colleague at IARI; first to call Gurudev "Guruji"; healed daughter Vaishali by throwing away medicines; first to photograph Gurudev
 - [[entities/giri|Giri]] — factory owner, Mumbai; broken-hand karmic return; Mohammedpur greening (1988); blister healing in *Aatma Sutra*
+- [[entities/rajpal|Rajpal ji]] — disciple; Heathrow airport exchange on healing authority; hoarse voice corrected and cured
 
 ---
 
@@ -111,7 +117,7 @@ Read this first when answering queries — then drill into relevant pages.
 
 - [[sources/karma-sutra|Karma Sutra — Cracking the Karmic Code]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[sources/aatma-sutra|Aatma Sutra — Unveiling Your Soul]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
-- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; His Life section fully ingested (pp.1–116): Early Years, Family Man, Man of Mystery, The Mahaguru*
+- [[sources/guru-of-gurus|The Guru of Gurus — His Life]] — Hingori · *Biography of Gurudev; ingested pp.1–230: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing*
 
 ---
 
@@ -133,6 +139,7 @@ Read this first when answering queries — then drill into relevant pages.
 - [[quotes/destiny|Quotes on Destiny]] — Planetary mechanism, duality pendulum, astrology, acceptance, "not the guilty me"
 - [[quotes/loks|Quotes on Loks and Spiritual Evolution]] — Death-consciousness, tapo raj/rajo narak, the invested life, "keep intentions pure"
 - [[quotes/seva|Quotes on Seva and Service]] — Precursor to self-esteem, Golden Rules, multilevel propagation, Guru Vashisht's caveat, Gurudev's seva in verse
+- [[quotes/healing|Quotes on Healing]] — Non-doership in healing, divine authority, intention over method, jal as elixir
 - [[quotes/self-acceptance|Quotes on Self-Acceptance and Guilt]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, the "You are my painting" divine voice, guilt as obstacle, snake fang saying
 - [[quotes/self-worship|Quotes on Self-Love and Self-Worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Sant Tukaram's conduit-pipe, Guru Vashisht's "there is no god," Hingori's closing poem
 
@@ -250,16 +257,41 @@ Read this first when answering queries — then drill into relevant pages.
 - [[stories/bajrang-matchmaking|Bajrang the Monkey Gets a Matchmaker]] — sulking monkey; "Tera kaam ho jayega"; female monkey on the parapet next day; happy dance; "just as a father would for a son"
 - [[stories/manikaran-cave-sage|The Cave Sage at Manikaran]] — hidden waterfall passageway; stone slides; sage with 500-year-old body preserved via Hatha Yog amrit; Gurudev visited every five years
 - [[stories/gurudev-brighu-samhita-after-death|The Brighu Samhita Reading After Gurudev's Death]] — August 1991; Narinder/Virender/Saroj ji; visit predicted thousands of years prior; Shiv Lok ganns; eleven disciples + five ganns appointed
+- [[stories/renu-milk-market-visit|Renu's Milk — The Night of Doubt]] — early 1970s market visit; Gurudev learns family cannot afford dietary essentials; sleepless night of questioning; service before self becomes backbone
+- [[stories/uddhav-ji-black-triangles|Uddhav Ji and the Black Triangles]] — two black triangles with yellow eyes; Uddhav grabs nunchaku; Gurudev intervenes astrally to save his life
+- [[stories/mungaoli-sweater-incident|The Mungaoli Sweater]] — Hingori wears sweater as social pretence; Gurudev makes the cold real; surrender includes false ego; "Grihasth mein bhi vairagya hai"
+- [[stories/hingori-wife-dosa-correction|Hingori's Wife — Three Years of Dosas]] — wife complains of late-night gossip; Gurudev redirects; three years of Bada Guruvar dosas instead of seva
+- [[stories/hingori-faith-development|Hingori's Five-Year Delay in Faith]] — 1977 first visit; arthritis returns; 1982 actual spiritual entry; "You will get a lot more than you can imagine"
+- [[stories/hingori-bhakti-journey|Hingori's Four-Year Bhakti Journey]] — personality demolished; 6 hrs mantra daily; Shiv-parivaar symbols appear; Mumbai sthan
+- [[stories/blank-cassette-disciple|The Blank Cassette — Disciple's Denial Exposed]] — sealed blank cassette plays verbatim bragging; Gurudev's understated display of supernormal discernment
+- [[stories/family-road-accident-gurgaon|The Family Road Accident — Probability Reduced]] — Gurudev's foreknowledge; Bittu ji tails the vehicle; crash survived; "I can change probability from 100% to lesser"
+- [[stories/inland-letter-yantra|The Inland Letter with a Death Yantra]] — Gurudev reads contents before opening; reveals yantra meant to kill him; negative tantrik foiled
+- [[stories/bathri-yogi-immaculate-birth|The Bathri Yogi — A Spirit Chooses Its Womb]] — 100-year wait; spirit chooses Shobha Taneja ji's womb; Abhay Taneja born
+- [[stories/snake-reborn-as-baby|The Snake Reborn as a Baby]] — enslaved snake freed via ceremonious burial; couple from Renuka returns with baby; Bakshi ji recognises hood marks
+- [[stories/kasturi-gas-station-breakfast|Kasturi's Gas Station — Honouring Devotion Over Obligation]] — family wakes at 3am to prepare breakfast; disciples refuse out of obligation-anxiety; Gurudev enjoys it and reprimands them
+- [[stories/sikh-headache-briefcase|The Sikh with the Briefcase]] — chronic headache cured instantly; lakh of rupees refused: "It is my duty, not my business"
+- [[stories/srinagar-dehradun-kada-mission|The Srinagar Mission — A Kada Not Offered]] — Hingori fails to offer his kada to a critically ill woman; she dies overnight
+- [[stories/bittu-burns-healing-dream|Bittu Ji's Burns Healed Via Dream]] — Gurudev appears in dream after house fire; offers sipped water; scorched skin flakes off within a week
+- [[stories/om-singh-thirteen-chains|Om Singh and the Thirteen Chains]] — Man shackled to 13 chains, possessed by spirit; freed with ease; sent shopping with Hingori
+- [[stories/guddan-barfi-healing|Guddan Ji — The Barfi and the Long-Term Illness]] — Young girl barely able to stand; vomits a square piece of barfi; recovers
+- [[stories/vishwamitraj-blood-cancer-babies|Vishwamitra Ji's Couple — Blood Cancer Decree]] — Four newborns die of blood cancer; sixth decreed cancer-free; comes to pass
+- [[stories/charan-singh-daughter-cancer|Charan Singh Ji's Daughter — "He Is Shiv"]] — Head of Radha Soami Satsang Beas sends daughter; tumour recedes after sipped water
+- [[stories/rajpal-heathrow-bhagwan-authority|Rajpal Ji at Heathrow — The Question of Authority]] — Departure lounge; Gurudev explains healing authority granted by Bhagwan
+- [[stories/rajpal-hoarse-voice-snow|Rajpal Ji's Hoarse Voice — Ego in Seva]] — Voice cursed for showing off; cured instantaneously by eating snow
+- [[stories/giri-sister-fungal-ghee|Giri Ji's Sister — Fungal Infection and Ghee on Rotis]] — Fungal growth healed by applying ghee on rotis at the sthan for 11 days
+- [[stories/hingori-wrong-remedy-intention|The Wrong Remedy — Healing Is Intention, Not Method]] — Piles remedy given to hernia patient; patient improves; proves intention over method
+- [[stories/sore-throat-gol-gappas|The Sore Throat and the Gol-Gappas]] — Chronic sore throat prescribed spicy gol-gappas; voice restored; becomes a staunch believer
 
 ---
 
 ## Practices
 *Sadhana, conduct, rituals, practical guidance.*
 
-- [[practices/seva|Seva]] — Selfless service; Gurudev's one-point programme
+- [[practices/seva|Seva]] — Selfless service; Gurudev's one-point programme; four levels (philanthropy → duty → every breath)
 - [[practices/tapasya|Tapasya]] — Voluntary austerity; the disciple's currency
 - [[practices/sadhana|Sadhana]] — The umbrella term for sustained spiritual practice *(stub)*
 - [[practices/karmic-worksheet|The Karmic Worksheet]] — Daily positive/negative self-audit; scoring system; the CCTV principle
+- [[practices/significant-days|Significant Days]] — Bada Guruvar, Monday fasts, Ganesh Chauth, Mahashivratri, Guru Purnima, Dussehra/Dhanteras/Diwali; eclipse and shraddh observances
 
 ---
 

@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: []
 created: 2026-04-15
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 
 # Analogies
@@ -561,3 +561,169 @@ Every person alive is an entrance to the consciousness supreme. Worshipping your
 > — Hingori, *Aatma Sutra*, Ch.XIII, p.156
 
 Spiritual consciousness is not a ratchet — it oscillates. A practitioner moves between the equivalent of fifth grade and PhD depending on circumstances. Knowing this is itself an advancement: it produces flexibility and removes the self-criticism triggered by "falling back." Living with the realisation of *maya* keeps one flexible enough to oscillate without losing direction. The grade school metaphor replaces linear progression with a fluid, honest model of daily spiritual life.
+
+---
+
+## The Guru-Disciple Relationship as Cricket
+
+*Illuminates: [[concepts/guru-disciple]], [[concepts/role-play]], [[concepts/ulta-guru]], [[entities/mahaguru]]*
+
+Hingori's sustained metaphor throughout the Entrepreneur Extraordinaire chapter: the guru-disciple training ground is a cricket ground. The cluster of images operates together as a single extended analogy:
+
+- **The corridor of uncertainty** — the zone outside off-stump where a batsman cannot decide whether to play or leave; applied to Gurudev's tests: "we were never sure whether to attempt a shot or leave the ball alone."
+- **Yorker** — an unplayable delivery that goes beneath the bat. Used for Gurudev's most unexpected gifts: when Hingori was granted Mahamritunjay siddhi without having chanted a syllable — "This was a yorker!"
+- **Googly** — a spin delivery that turns opposite to expectation. Used for Gurudev's indirection: when Hingori's wife complained about late-night gossip, Gurudev's response was three years of dosa outings — "With one googly, he had me for a golden duck."
+- **Golden duck** — out first ball, no runs. The disciple caught entirely off-guard.
+- **Batting from the front** — playing with full intent, leading the charge. Applied to Gurudev's personal style: "Batting from the front was his personality streak."
+- **Non-strikers to spiritual batsmen** — the disciple's journey from passive observer to active spiritual contributor.
+
+*(Hingori, The Guru of Gurus*, Entrepreneur Extraordinaire, pp.126–134)*
+
+The cricket cluster is an authorial device — Hingori's own framing, not Gurudev's. It maps a Sanskrit-era tradition onto the aesthetics of the colonial game, and in doing so makes the guru's testing methodology legible to a modern Indian readership.
+
+---
+
+### Cashmere and Goals
+*Illuminates: [[practices/seva]], [[concepts/karmayoga]]*
+
+> "Spirituality was Gurudev's chosen line, and he went the whole nine yards. Along this taxing path, seva became the cashmere with which he knit his goals."
+> — Hingori, *The Guru of Gurus*, p.120
+
+Seva is not merely the method — it is the material itself. Just as cashmere is what gives the knitted garment its warmth and value, seva is what gives spiritual attainment its quality. The analogy implies that without nisvarth seva, the goals would unravel.
+
+---
+
+### Defence Attorney for the Jivaatma
+*Illuminates: [[concepts/jivaatma]], [[practices/tapasya]], [[entities/mahaguru]]*
+
+> He acted as a defence attorney to the jivaatma of the diseased, the planets and their rays. He frequently made people wait in the queue and return to the sthan several times for treatment. He counted these acts as tapasya and justified his adjustment of their destinies as their deserving merit.
+> — Hingori, *The Guru of Gurus*, pp.136–137
+
+Gurudev navigated the forces aligned against a seeker — spirits, planets, earned negative karma, black magic — the way an advocate navigates a courtroom. The waiting periods he imposed were not logistical delays but procedural steps in a cosmic trial: the tapasya of repeated return was the evidence the defence needed before the adjustment could be made.
+
+---
+
+### Coding the DNA with Divinity
+*Illuminates: [[concepts/guru-tattva]], [[concepts/samskars]], [[entities/mahaguru]]*
+
+> "He became an integral part of their heartbeat and coded their DNA with divinity."
+> — Hingori, *The Guru of Gurus*, p.137
+
+The most compressed metaphor for Gurudev's transformative effect on disciples. DNA is the deepest inherited structure — if it is coded with divinity, the transformation is not merely behavioural or intellectual but constitutional. What the mahaguru planted does not wash out with the body's death — it passes forward through the kaarna sharir into subsequent lives.
+
+---
+
+## Spiritual Transformation (Philosophy & Practices)
+
+### The Air Traffic Controller
+*Illuminates: [[concepts/stages-of-spiritual-transformation]], [[concepts/guru-disciple]]*
+
+> "He taught us to fly, but left the controls of the altimeter and machmeter in our hands. However, in his role as an air-traffic controller, he guided our flight manoeuvres from take-off to landing."
+> — Hingori, *The Guru of Gurus*, p.155
+
+The guru does not fly the plane for the disciple — he teaches them to fly, and then monitors and guides from the ground. The autonomy is real; so is the oversight. The disciple chooses altitude and speed; the guru maintains safe navigation through the stages. The analogy also captures the invisible but constant quality of a mahaguru's awareness: the air traffic controller sees everything the pilot does not.
+
+---
+
+### Plumbing and the Flush
+*Illuminates: [[concepts/gunas]], [[concepts/mantra-transfer]], [[practices/seva]], [[concepts/stages-of-spiritual-transformation]]*
+
+> "The process of spiritual transformation includes a series of stages and is enabled by a few tools. These tools work like plumbing, flushing away all the layers that dilute the recognition and expression of ourselves as the consciousness supreme."
+> — *The Guru of Gurus*, p.155
+
+The three tools (gunas, mantras, seva) do not add to you — they flush away what obscures you. The analogy positions spiritual transformation as a clearing operation, not an accumulation. And like plumbing, the tools are only as useful as the knowledge to wield them.
+
+---
+
+### Primary Colours and the Guna Mix
+*Illuminates: [[concepts/gunas]]*
+
+> "Just as an artist can create a million combinations of the three primary colours — red, yellow, and blue, the guna mix can also have multiple combinations."
+> — *The Guru of Gurus*, p.156
+
+The three gunas are not categories but primaries. Any human character, any being, any created thing is a specific mixture. The artist analogy also implies that the mix is not fixed — the practitioner can learn to consciously adjust their palette.
+
+---
+
+### Coffee or Tea vs. Guna Management
+*Illuminates: [[concepts/gunas]]*
+
+> "To stay awake, you may drink coffee or tea. However, if you learn to manage your gunas consciously, you will no longer require external stimulants and can summon tamas when you want to sleep or rajas when you choose to stay awake."
+> — *The Guru of Gurus*, p.157
+
+External stimulants are a proxy for something the practitioner can eventually do directly. The analogy makes guna management concrete and immediately relatable.
+
+---
+
+### The Corporate Performance Review
+*Illuminates: [[concepts/jivaatma]], [[concepts/loks]], [[concepts/karma]], [[concepts/hygiene]]*
+
+> "In the spiritual realm, your jivaatma evaluates itself objectively at the end of each life term based on attitudes changed, attributes gained, and the altitude attained. This transformation assessment score determines the quality of your next life."
+> — *The Guru of Gurus*, p.196
+
+At death, the jivaatma conducts a performance review — like a professional's end-of-term assessment that determines their next position. The self-evaluation is objective, the scorer is the jivaatma itself, and the result determines the next incarnation's starting conditions. No external judge; no plea bargaining.
+
+In the Hygiene chapter, Hingori extends this: *"every lifetime becomes an opportunity to improve one's score and move closer to the goal post."* The four hygiene domains (social, commercial, mental, spiritual) are the competency framework for this review.
+
+---
+
+### Doctor and Patient (Faith Amplifies the Medicine)
+*Illuminates: [[concepts/stages-of-spiritual-transformation]] — vishwas*
+
+> "A doctor can prescribe the medication, but until the patient has faith in the doctor, the medicines will not be as effective."
+> — Gurudev, *The Guru of Gurus*, p.146
+
+Faith is not a supplement to the spiritual work — it is the mechanism that determines how much of the guru's transmission actually reaches the disciple. The medication (grace, healing, initiation) is already there; receptivity determines the dose absorbed.
+
+---
+
+### Mind as Warehouse — Declutter to Preserve Energy
+*Illuminates: [[concepts/hygiene]] (Mental Hygiene), [[concepts/citt-vritti-nirodh]]*
+
+> Consider the mind to be a warehouse. Getting rid of unwanted inventory is part of the process of reducing clutter. When clutter is regularly decanted, mental energy is preserved, and psychosomatic disorders are avoided. A decluttered mind leaves room for self-observation and self-reflection and makes way for constant awareness.
+> — Hingori, *The Guru of Gurus*, p.208
+
+The warehouse image makes mental hygiene concrete: clutter is inventory you are paying to store without using. Decluttering is not about suppressing thoughts — it is about not adding to the pile by reacting emotionally to every *vritti* that arrives. The counterpart analogy is the cell-phone battery: [[#The Cell Phone and the Battery]].
+
+---
+
+### Spiritual Mutual Funds — Unheard-of Returns on Investment
+*Illuminates: [[concepts/hygiene]], [[practices/seva]], [[entities/mahaguru]]*
+
+> His methods, like spiritual mutual funds, provided unheard of returns on investment. When we adopted his practices as our habits, they aided our spiritual transcendence.
+> — Hingori, *The Guru of Gurus*, p.197
+
+Gurudev's hygiene practices are framed as an investment vehicle: low input (daily habits), compounding returns (spiritual transcendence). The mutual fund analogy implies that the returns are not instant — they accumulate over time and across lifetimes — and that the skill is in choosing the right fund manager (the guru) and staying the course.
+
+---
+
+### The Olympic Athlete Visualising Victory
+*Illuminates: [[concepts/constant-awareness]] — manifesting visualisation*
+
+> "Most Olympic players visualise their manoeuvers and victory before their games begin. History is full of examples of those who have successfully manifested their conscious thoughts."
+> — *The Guru of Gurus*, p.185
+
+The brain cannot differentiate between thought and the activity triggered by that thought. Gurudev's instruction to visualise the OM — and to repeat it endlessly — is the spiritual version of the same mechanism. Repeated conscious intent creates physiological and subtle change; both the athlete and the practitioner are using the same faculty.
+
+---
+
+## Spiritual Healing
+
+### Magnetising Negativity
+*Illuminates: [[concepts/spiritual-healing]], [[concepts/aura]], [[entities/mahaguru]]*
+
+> Earth's history bears testimony to the presence of spiritually advanced beings endowed with magnetic energy and enriched auras. They could magnetise the negative energies manifesting in others and were advanced spiritual healers.
+> — Hingori, *The Guru of Gurus*, p.219
+
+Gurudev is described as a magnetic field for negativity: he drew negative energy out of others toward himself and neutralised it — the way a magnet attracts iron filings and holds them. The analogy captures both the passive quality of the attraction (negativity is pulled toward the healer without effort or drama) and the absorptive quality (the healer contains what would otherwise remain destructive). It also explains why advanced healers bear residual suffering: some of the drawn negativity must be discharged through the healer's own body. See [[concepts/spiritual-healing]].
+
+---
+
+### Mud from the Sthan — The Vehicle Is Incidental
+*Illuminates: [[concepts/intent-as-healing]], [[concepts/spiritual-healing]]*
+
+> "Even mud from the sthan would work as effectively as any other spiritual treatment."
+> — Gurudev, *The Guru of Gurus*, p.228
+
+An extreme statement of the intent-over-method teaching. Mud has no medicinal property; the sthan's sacred soil has no pharmacological value. Yet Gurudev asserted it would work as well as cloves, cardamoms, or jal. The analogy reduces the healing method to its least impressive possible form — dirt — to make the point that the medium is irrelevant when the intent animating it is pure. See [[concepts/intent-as-healing]].
+

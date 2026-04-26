@@ -30,6 +30,15 @@ The ulta guru model does not abolish hierarchy — it inverts its logic. The gur
 > He didn't just preach aatmic equality, he practised it. He would appreciate it when his disciples were given preferential treatment instead of him.
 > — Hingori, *The Guru of Gurus*, p.84
 
+## The Mahaguru's Own Formulation
+
+In the People Management vignettes of the Entrepreneur Extraordinaire chapter, Gurudev articulated the logic of the ulta guru relationship directly:
+
+> "I carry them on my shoulders so that they can see much further than I can."
+> — Gurudev (on his disciples), *The Guru of Gurus*, p.128
+
+The image captures the inversion precisely: the one with the greater attainment is the *foundation*, not the pinnacle. The disciple stands higher not despite the guru but *because of* him. This is how the ulta guru understands evolution — not as the teacher descending wisdom to the student, but as the teacher physically elevating the student above his own eyeline.
+
 ## Relationship to Aatmic Equality
 
 The ulta guru behaviour is grounded in Gurudev's conviction of [[concepts/jivaatma|aatmic equality]] — that all beings are the same consciousness at their core, at different stages of evolution. If all jivaatmas are equal, the one who *happens* to have evolved further has no right to extract service from those still climbing. The obligation of attainment is to give, not to receive.
@@ -49,3 +58,4 @@ The inversion was not indulgence. Gurudev corrected disciples sharply when they 
 - [[concepts/aatmic-equality]] — the philosophical ground of the inversion (see [[concepts/jivaatma]])
 - [[entities/mahaguru]] — the living embodiment of the concept
 - [[practices/seva]] — seva as applicable to the guru's own conduct, not only disciples'
+- [[stories/hingori-wife-dosa-correction]] — Gurudev serves Hingori's wife's unspoken need; seva of the family member as seva; redirection via structure not lecture

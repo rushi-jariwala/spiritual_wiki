@@ -1,7 +1,7 @@
 ---
 title: Quotes on the Guru
 type: quote-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]"]
 created: 2026-04-12
 updated: 2026-04-12
@@ -87,6 +87,115 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 > "I don't mind being inconvenienced as long as my disciples are comfortable."
 > — Gurudev, *The Guru of Gurus*, p.83
 [[concepts/ulta-guru]] · [[entities/mahaguru]]
+
+---
+
+## Gurudev on Disciples and Time (Entrepreneur Extraordinaire)
+
+> "Vidhi ke vidhaan ko koi badal nahi sakta, par mein samay ka pabandh nahin, samay mera pabandh hai."
+> (Whatever is destined to happen cannot be avoided. But I am not bound by time. Time is bound by me.)
+> — Gurudev, *The Guru of Gurus*, p.123
+[[entities/mahaguru]] · [[concepts/astral-travel]] · [[concepts/ek-vakyas]]
+
+> "I carry them on my shoulders so that they can see much further than I can."
+> — Gurudev (on his disciples), *The Guru of Gurus*, p.128
+[[concepts/ulta-guru]] · [[entities/mahaguru]]
+
+> "Beta yeh sab humara hi toh hai."
+> (All of this is mine — all religions are ours.)
+> — Gurudev, *The Guru of Gurus*, p.128
+[[entities/mahaguru]] · [[concepts/guru-disciple]]
+
+> "In his book of metaphysics, there was neither one concept for all nor all concepts for one, but different concepts for different people."
+> — Hingori, *The Guru of Gurus*, p.128
+[[entities/mahaguru]] · [[concepts/role-play]]
+
+---
+
+## Gurudev on Consciousness, Awareness, and the Self (Philosophy & Practices)
+
+> "Ek se anek, anek se ek."
+> (From one to many, from many to one.)
+> — Gurudev, *The Guru of Gurus*, p.141
+[[concepts/jivaatma]] · [[concepts/moksha]] · [[entities/mahaguru]]
+
+> "OM is the sound that created everything in the universe. OM is the guru. When you chant OM, you chant my name, and when you think of OM, you think of me."
+> — Gurudev to Surinder Kaushal ji, *The Guru of Gurus*, p.181
+[[concepts/constant-awareness]] · [[entities/mahaguru]]
+
+> "Try as you might, you will never know me even though you think you do."
+> — Gurudev, *The Guru of Gurus*, p.177
+[[entities/mahaguru]] · [[concepts/constant-awareness]]
+
+> "The world believes I sleep, but how would they know that I keep an eye on them and guide them?"
+> — Gurudev to his wife, *The Guru of Gurus*, p.178
+[[concepts/constant-awareness]] · [[entities/mahaguru]]
+
+> "I am a guru, and I can change the probability of an event's occurrence from 100% to lesser. Yet what is destined to happen will happen."
+> — Gurudev to Bittu ji, *The Guru of Gurus*, p.179
+[[concepts/constant-awareness]] · [[concepts/destiny]] · [[stories/family-road-accident-gurgaon]]
+
+> "Buddhu ban ja."
+> (Stop filtering perception through the prism of perspectives. Intuition begins where logic ends.)
+> — Gurudev to Hingori, *The Guru of Gurus*, p.182
+[[concepts/constant-awareness]] · [[concepts/senses-management]] · [[entities/mahaguru]]
+
+> "What you can do physically, you can do mentally."
+> — Gurudev, *The Guru of Gurus*, p.185
+[[concepts/constant-awareness]] · [[concepts/mantra-transfer]]
+
+> "I am an ordinary man, not an ordinary guru."
+> — Gurudev to childhood friend Subbhash ji (in a dream), *The Guru of Gurus*, p.180
+[[entities/mahaguru]] · [[concepts/constant-awareness]]
+
+> "A doctor can prescribe the medication, but until the patient has faith in the doctor, the medicines will not be as effective."
+> — Gurudev, *The Guru of Gurus*, p.146
+[[concepts/stages-of-spiritual-transformation]] · [[entities/mahaguru]]
+
+> "To conquer happiness, you must conquer sorrow."
+> — Gurudev to Hingori, *The Guru of Gurus*, p.151
+[[concepts/stages-of-spiritual-transformation]] · [[stories/hingori-bhakti-journey]]
+
+> "All my disciples have gyan within them, even if they may not be consciously aware of it. As and when the need arises, gyan will emerge on its own."
+> — Gurudev to Bittu ji, *The Guru of Gurus*, p.153
+[[concepts/stages-of-spiritual-transformation]] · [[entities/mahaguru]]
+
+> "You will get a lot more than you can imagine."
+> — Gurudev to Hingori (at their first meeting), *The Guru of Gurus*, p.148
+[[concepts/stages-of-spiritual-transformation]] · [[stories/hingori-faith-development]]
+
+> "It's natural when you see your mother after a long time."
+> — Gurudev to Hingori (handing him a handkerchief for his tears), *The Guru of Gurus*, p.148
+[[concepts/role-play]] · [[stories/hingori-faith-development]]
+
+> "Whenever you see an image of me, remind yourself that you have discovered god."
+> — Gurudev to Suresh Kohli ji, *The Guru of Gurus*, p.153
+[[concepts/stages-of-spiritual-transformation]] · [[entities/mahaguru]]
+
+---
+
+## Gurudev on Hygiene, Money, and Thought (Hygiene Chapter)
+
+> "Vichaar vishay se aata hai."
+> (Thought arises from the object of engagement.)
+> — Gurudev, *The Guru of Gurus*, p.208
+[[concepts/hygiene]] · [[concepts/citt-vritti-nirodh]] · [[concepts/ek-vakyas]]
+
+> "Beyond that moment, I offer everything to Mallik and do not retain even the memory within."
+> — Gurudev, *The Guru of Gurus*, p.210
+[[concepts/hygiene]] · [[concepts/citt-vritti-nirodh]] · [[entities/mahaguru]]
+
+> "As soon as I touch the briefcase, your headache will return. It is my duty to do seva, not my business."
+> — Gurudev, *The Guru of Gurus*, p.207
+[[concepts/hygiene]] · [[practices/seva]] · [[stories/sikh-headache-briefcase]]
+
+> "Don't crave for money because I will give you so much spiritual wealth that you will never run out."
+> — Gurudev (to a disciple), *The Guru of Gurus*, p.208
+[[concepts/hygiene]] · [[entities/mahaguru]]
+
+> "Clearer the mirror, clearer is your self-realisation and greater your spiritual awareness."
+> — Gurudev, *The Guru of Gurus*, p.212
+[[concepts/hygiene]] · [[concepts/constant-awareness]] · [[entities/mahaguru]]
 
 ---
 

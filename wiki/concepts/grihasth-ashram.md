@@ -4,7 +4,7 @@ type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf]
 related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/karmayoga]]", "[[practices/seva]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # Grihasth Ashram (The Householder Path)
@@ -35,9 +35,24 @@ Disciples who sought to abandon family life in pursuit of spiritual goals were i
 
 > [!tip] The teaching subverts the conventional equation: renunciation ≠ abandonment of domestic duties. Final attainments come *through* the householder's path, not despite it.
 
+## *The Guru of Gurus* — Vairagya Within the Householder Life
+
+The Entrepreneur Extraordinaire chapter adds a further dimension: Gurudev lived as a renunciate *inside* the householder life, not by abandoning it. His biannual offsite seva camps in remote locations — near jails, cremation grounds, forests — meant extended absences from home. The makeshift tents, decrepit guest houses, and open grounds were his lodgings regardless of his status. He was unconcerned.
+
+> "Grihasth mein bhi vairagya hai."
+> (There is renunciation within the householder life too.)
+> — Gurudev, *The Guru of Gurus*, p.130
+
+Hingori recorded this as an ek vakya delivered at Mungaoli after a teaching where Gurudev made Hingori's social pretence real — shivering in a sweater — to demonstrate that surrender includes the sacrifice of false ego, social graces, and make-believe. See [[stories/mungaoli-sweater-incident]].
+
+> [!tip] The teaching refines the earlier Santoksar teaching: it is not merely that *final attainments require* the householder's field — it is that the householder's field can itself *be* renunciation, if inhabited with vairagya.
+
 ## Cross-references
 
 - [[entities/mahaguru]] — lived the teaching himself; returned from sanyaas on divine instruction
 - [[entities/mataji]] — Mataji as the enabling Shakti; shouldered the household so Gurudev could focus on seva
 - [[concepts/karmayoga]] — the householder's karmic field as the ground of karmayoga
 - [[practices/seva]] — nisvarth seva begins within the householder's orbit before extending outward
+- [[concepts/vairagya]] — "Grihasth mein bhi vairagya hai": renunciation and detachment are possible *within* householder life
+- [[concepts/ek-vakyas]] — the Mungaoli statement is one of Gurudev's compressed seed teachings
+- [[stories/mungaoli-sweater-incident]] — the context in which this ek vakya was delivered

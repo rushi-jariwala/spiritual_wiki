@@ -31,6 +31,8 @@ This is consistent with the tradition's broader claim that the jivaatma is alrea
 
 At Kathog in 1976, Gurudev initiated teachers from a local school — Suresh ji, Shambhu ji, and Santosh ji — by making them drink the jal he had sipped. Within days, they became spiritual healers. See [[stories/kathog-suresh-kohli-vision]].
 
+The Entrepreneur Extraordinaire chapter names Santosh ji more specifically — a bodybuilder and PT instructor. The transformation is described as immediate and precise: the jal *"miraculously transformed him into a healer who could cure people purely by touching the affected part of their body."* The guru tattva activation did not require prior spiritual knowledge or even understanding of what was happening; it required only the jal and the mahaguru's intent behind it.
+
 > Over the next few days, men with no practical knowledge of spiritualism (in this lifetime) became spiritual healers.
 > — Hingori, *The Guru of Gurus*, p.75
 

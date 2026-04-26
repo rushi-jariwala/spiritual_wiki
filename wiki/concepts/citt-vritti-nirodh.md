@@ -1,10 +1,10 @@
 ---
 title: Citt, Vritti, Nirodh
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/samskars]]", "[[concepts/kaarna-sharir]]", "[[concepts/non-doership]]", "[[concepts/vitarks-vichars]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/moksha]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: ["[[concepts/samskars]]", "[[concepts/kaarna-sharir]]", "[[concepts/non-doership]]", "[[concepts/vitarks-vichars]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/hygiene]]"]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-26
 ---
 
 # Citt, Vritti, Nirodh
@@ -82,5 +82,41 @@ A phone disconnected from the network is not depleted. *Nirodh* is not about swi
 - [[concepts/non-doership]] — nirodh is the thought-level application of non-doership: not owning what passes through the mind
 - [[concepts/sukshma-sharir]] — the spirit body "barely receives any thoughts and its thinking is substituted by observation"; nirodh moves the jivaatma toward this state
 - [[concepts/mukti]] / [[concepts/moksha]] — the goal that nirodh serves; no new karma added = progress toward liberation
+- [[concepts/hygiene]] — mental hygiene section applies nirodh principles to daily thought and emotion management; "clearer the mirror, clearer the self-realisation"
 - [[stories/hingori-sees-thought]] — Hingori's direct vision of a thought-ray entering his forehead; confirms the external origin of thoughts
 - [[stories/himachal-vitark-exhaustion]] — the morning after vitark exhaustion: fewer vrittis, more observation — the nirodh state arrived naturally
+
+---
+
+## *The Guru of Gurus* — Mental Hygiene (pp.209–212)
+
+The Mental Hygiene section of *The Guru of Gurus* presents Gurudev's thinking on thought and emotion management in his own words via FC Sharma ji and Hingori's account. It enriches the citt-vritti-nirodh framework with a specific ek vakya and the emotion-samskar loop.
+
+### "Vichaar Vishay Se Aata Hai"
+
+This *ek vakya* condenses the teaching on thought origin into one sentence. Hingori unpacks it as four sub-observations:
+
+1. Thoughts emerge from sensory interaction — control reactions to sensory inputs and you control the type of thoughts you attract.
+2. Your guna mix determines the type of thoughts you attract.
+3. The mind has a magnetic nature — similar discoveries happen simultaneously in different parts of the world because many minds attract the same thought from the atmosphere.
+4. Thoughts also arise from samskars surfacing from the causal body.
+
+### Objectivity as the Operative Tool
+
+> "While you are in physical form, you cannot stop thoughts from coming to you. So you must let them come as they please and not react hastily. Instead, you should evaluate them objectively to select those to be acted upon or dismissed."
+> — FC Sharma ji (recalling Gurudev), *The Guru of Gurus*, p.210
+
+Objectivity is what prevents a *vritti* from hardening into a *samskar*. When bias intensifies — harboured thoughts churn into feelings → feelings devolve into emotions → emotions bias actions and reactions — the entire nirodh project is compromised.
+
+### The Emotion–Samskar Loop
+
+Whenever an emotion is associated with an experience, it creates a memory. Memories stored in the causal body resurface as thoughts and circumstances in this and future lives. The relationship between emotions, samskars, and thoughts is cyclical and continues beyond the current lifetime — making mental hygiene a multi-lifetime concern.
+
+### Gurudev's Own Emotional Control
+
+Gurudev carried the burden of knowing the past, present, and future of everyone he met. This made mastering emotional control not optional but existential: without it, his cosmic intuitiveness could have destroyed his mind. His method was consistent:
+
+> "Beyond that moment, I offer everything to Mallik and do not retain even the memory within."
+> — Gurudev (Mallik = the param-aatma), *The Guru of Gurus*, p.210
+
+See [[concepts/hygiene]] for the full mental hygiene section.

@@ -4,7 +4,7 @@ type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[concepts/vairagya]]", "[[concepts/empathy]]", "[[concepts/non-doership]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 
 # Role-Play (Spiritual)
@@ -81,6 +81,17 @@ This is role-play at its endpoint: the performance so thoroughly inhabited, and 
 ### Gratitude Inverted
 
 One further inversion Gurudev performed in the role-play of seva: he instructed disciples to express *gratitude* to those who came for assistance, rather than the other way around. His reasoning: the visitors provided disciples with an *opportunity* to perform seva, which is the vehicle of the disciples' own spiritual transformation. The one who receives service is performing a service to the server.
+
+## *The Guru of Gurus* — Testing in Disguise
+
+The People Management section of the Entrepreneur Extraordinaire chapter documents a further form of role-play: Gurudev testing disciples by appearing to them unrecognised.
+
+> When Bagga Saheb attended to an elegant lady in his shop while ignoring the man in rags, he had no idea that the older man was possibly the master, or his attendant, Augarh, in disguise. We often failed the random tests Gurudev threw at us because we were not vigilant enough.
+> — Hingori, *The Guru of Gurus*, p.128
+
+The test is the inversion of ordinary social discrimination: attention to the well-dressed customer, dismissal of the ragged one. The mahaguru or his attendant appeared precisely as the person social habit would overlook. This is role-play as a *diagnostic* — used not by the disciple to navigate life, but by the guru to reveal where the disciple still operates from social programming rather than aatmic equality.
+
+> [!tip] The implication: any encounter with any person could be a test. The guru's role-play does not pause in the guru's absence — it continues through every ordinary human interaction the disciple has.
 
 ## Cross-references
 

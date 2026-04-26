@@ -2,10 +2,10 @@
 title: Tapasya
 type: practice
 tags: [tapasya, penance, austerity, practice]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[practices/seva]]", "[[practices/sadhana]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-26
 ---
 
 # Tapasya
@@ -48,6 +48,15 @@ It also serves a secondary purpose: it is how the power of the mind is developed
 - [[practices/seva]] — the practice tapasya is paired with
 - [[practices/sadhana]] — the broader umbrella term
 - [[concepts/guru-disciple]] — the relational frame that makes tapasya meaningful
+
+## *The Guru of Gurus* — Tapasya as Deliberate Governance of Seekers
+
+The Entrepreneur Extraordinaire chapter confirms and extends the waiting-as-tapasya teaching from *Karma Sutra* Ch.1. The biographical account makes Gurudev's intent explicit: he was not simply unavailable. He *deliberately* made people return to the sthan multiple times as a form of designed tapasya for them:
+
+> He frequently made people wait in the queue and return to the sthan several times for treatment. He counted these acts as tapasya and justified his adjustment of their destinies as their deserving merit.
+> — Hingori, *The Guru of Gurus*, p.136–137
+
+"Deserving merit" is the operative phrase: the tapasya of repeated waiting was the currency that *entitled* the seeker to the karmic adjustment Gurudev then made. At his peak, Gurudev dealt with approximately 100,000 people per month — sometimes 50,000 in 600 square feet on a single day. The structured delays were a spiritual technology, not a logistical limitation.
 
 ## Ch.7 — Tapasya as Karmic Reduction
 

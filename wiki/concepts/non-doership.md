@@ -1,8 +1,8 @@
 ---
 title: Non-Doership
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/doer-ship]]", "[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/sanchit-karma]]", "[[concepts/vairagya]]", "[[concepts/samskars]]", "[[concepts/vasna]]", "[[entities/adi-shankaracharya]]", "[[concepts/self-acceptance]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: ["[[concepts/doer-ship]]", "[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/sanchit-karma]]", "[[concepts/vairagya]]", "[[concepts/samskars]]", "[[concepts/vasna]]", "[[entities/adi-shankaracharya]]", "[[concepts/self-acceptance]]", "[[concepts/spiritual-healing]]"]
 created: 2026-04-14
 updated: 2026-04-22
 ---
@@ -146,6 +146,15 @@ Hingori's resolution: the two practices operate at different levels and are **co
 
 Non-doership reduces karmic weight by severing the ownership mechanism. Self-worship re-anchors identity in the divine core rather than the physical and mental noise. Together they exhaust *samskars* from below (non-doership) and affirm divinity from above (self-worship). The affirmation "I am not the doer" must be repeated thousands of times hypnotically, seeping from conscious to unconscious. See [[concepts/self-worship]].
 
+## Non-Doership in Healing
+
+Gurudev applied the same principle explicitly to his healing work:
+
+> "I don't cure anyone who comes for help. They cure themselves. I am not the doer."
+> — Gurudev, *The Guru of Gurus*, p.227
+
+He practised and recommended non-doership in all healing — only those *meant* to get cured came to him; he was merely the facilitator. No one meant to receive healing was turned away; no one not meant to be healed could be forced to recover. The outcome was not in the doer's hands. See [[concepts/spiritual-healing]].
+
 ## Cross-references
 
 - [[concepts/doer-ship]] — the binding mechanism that non-doership dissolves
@@ -160,3 +169,4 @@ Non-doership reduces karmic weight by severing the ownership mechanism. Self-wor
 - [[concepts/self-worship]] — the complementary movement; non-doership exhausts samskars; self-worship affirms the divinity that remains
 - [[stories/hingori-non-doership-shortcut]] — Hingori's bracketing formula for practical daily application
 - [[entities/adi-shankaracharya]] — *Nirvana Shatakam* as the fullest expression of karm-mukt
+- [[concepts/spiritual-healing]] — Gurudev's "I am not the doer" as non-doership applied in the healing context

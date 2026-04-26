@@ -57,6 +57,15 @@ The most compressed teaching on karmayoga from this chapter:
 
 Hingori's interpretation: Gurudev chose a life of difficulty — not as mortification, but as energy conservation. Luxury consumes spiritual energy. That energy, conserved, becomes available for seva and for the disciples whose transformation it funds. See [[concepts/ek-vakyas]].
 
+## Acceptance — The Practical Bridge Through Sattva (*The Guru of Gurus*, p.158)
+
+*The Guru of Gurus* Philosophy & Practices chapter names **acceptance** as the operative mechanism for transcending the sattva bind — bridging karmayoga into non-doership:
+
+> The unwavering ability to neither avoid negative karmas nor remain attached to positive karmas, performing every action solely as your duty and nothing more. If this happens, there will be neither the indifference of tamas, nor the pain of rajas, nor the pleasure of sattva.
+> — *The Guru of Gurus*, p.158
+
+This is not passive resignation. It is a precision posture: full engagement, zero grasping. Until a practitioner reaches this acceptance, they cannot rise above the stages of gyan and bhakti toward divya gyan (see [[concepts/stages-of-spiritual-transformation]]). It is the same principle as karmayoga — action as pure duty — stated from the angle of guna transcendence.
+
 ## Cross-references
 
 - [[concepts/karma]] — the underlying accounting framework
@@ -66,3 +75,4 @@ Hingori's interpretation: Gurudev chose a life of difficulty — not as mortific
 - [[entities/mahaguru]] — karmayoga personified
 - [[entities/ashoka]] — historical exemplar cited in Ch.1
 - [[practices/seva]] — the most direct practice of karmayoga in the tradition
+- [[stories/renu-milk-market-visit]] — the night Gurudev resolved that service before self was the backbone; the biographical root of the karmayogi stance

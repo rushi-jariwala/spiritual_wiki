@@ -2,10 +2,10 @@
 title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-26
 ---
 
 # The Guru-Disciple Relationship
@@ -99,6 +99,17 @@ See more in [[quotes/guru]].
 - [[practices/seva]] · [[practices/tapasya]] · [[practices/sadhana]]
 - [[stories/hingori-arthritis-cure]] · [[stories/gurus-umbrella-wife-delivery]] · [[stories/scooter-accident-vision]] · [[stories/bada-guruvar-queue]] · [[stories/guru-nanak-river-bain]]
 - [[concepts/empathy]] — the guru's empathy as the transformative force: holding the disciple's potential when they cannot see it themselves ([[stories/gurudev-horse-gives-birth]])
+
+## *The Guru of Gurus* — Precision of the Guru's Watch
+
+The Entrepreneur Extraordinaire chapter adds a dimension of **disciplinary accountability** to the relationship. Gurudev maintained a constant vigilance over disciples' conduct, and correction was swift:
+
+> When his disciple, Malhotra ji, delayed a train to suit his convenience, the mahaguru threatened to withdraw his powers. Malhotra ji later rose to become one of the mahaguru's most accomplished disciples. The mentor kept a tight vigil and a lofty attitude.
+> — Hingori, *The Guru of Gurus*, p.128
+
+Powers are granted conditionally; they can be withdrawn. The same Malhotra ji who could delay a train was threatened with losing the ability to do so — not as cruelty, but because the powers belong to the guru's trust, not the disciple's ego. The severity of the consequence matched the gravity of misuse: Malhotra ji's power was not a personal possession but a tool placed in his keeping for seva.
+
+This also illustrates why the relationship is not sentimentally indulgent despite its warmth. The "lofty attitude" Hingori names is the guru's refusal to normalise misuse of spiritual gifts.
 
 ## Open Questions
 

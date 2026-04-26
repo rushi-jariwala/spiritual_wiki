@@ -2,10 +2,10 @@
 title: Jivaatma
 type: concept
 tags: [jivaatma, soul, individual-self, atman]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/sanchit-karma]]", "[[concepts/maya]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[concepts/kaarna-sharir]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: ["[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/sanchit-karma]]", "[[concepts/maya]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[concepts/kaarna-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/gunas]]"]
 created: 2026-04-12
-updated: 2026-04-16
+updated: 2026-04-26
 ---
 
 # Jivaatma
@@ -32,6 +32,40 @@ The jivaatma is the individuated fragment of the Supreme Consciousness that take
 In the Hingori framing, the jivaatma is **a breakaway from the whole**. Because it is a fragment, it is also mandatory — or at least always *possible* — for it to merge back. This reunion is [[concepts/moksha|moksha]]: *ek se anek aur anek se ek* — "from one to many, and from many back to one."
 
 Until that return, the jivaatma accumulates karmas through embodied action, and these karmas form its personal balance sheet — the moving record of [[concepts/sanchit-karma|sanchit]], drawn down life by life as [[concepts/prarabdh-karma|prarabdh]].
+
+## Ek Se Anek, Anek Se Ek — The Full Cosmology
+
+*The Guru of Gurus* (Philosophy & Practices, pp.141–144) gives the most complete treatment of the jivaatma's arc in Gurudev's own words. The teaching is structured around a single palindromic phrase:
+
+> "Ek se anek, anek se ek." (From one to many, from many to one.)
+> — Gurudev, *The Guru of Gurus*, p.141
+
+### The Consciousness Supreme
+
+The **consciousness supreme** (also: param-aatma / source / cosmic identity) is the only original identity. It can break away into as many atomic and subatomic fragments as it chooses. Each fragment *is* the source — but in reduced potency and altered identity.
+
+### The Break-Away Fragment
+
+Each break-away fragment is the jivaatma. Even though split from the same source, each jivaatma behaves as a distinct entity — *almost as if in cosmic amnesia*, unaware of its genesis and power. Once it begins thinking of itself as different from its origin, it becomes a victim of **duality**, unable to look beyond itself, and gradually sinks deeper into [[concepts/maya|maya]] — the web of its own creation.
+
+The jivaatma in this state forgets who it truly is. It neither recognises itself as a fractured shard nor recognises other jivaatmas as its cosmogenic tribe. This process of recognition may take several cycles of birth and death.
+
+### The Aspiration to Return
+
+Eventually, when the jivaatma awakens to its true nature, it aspires to merge back into the consciousness supreme — to become whole again. This is [[concepts/moksha|moksha]]. Hingori notes that despite the simplicity of the explanation, *the actual realisation is the most challenging achievement of any living being* — because it is the only achievement of permanent significance.
+
+> The pot of clay sees how it got churned from mud to pot and realises the need to get unchurned and return to the source, losing its temporary false identity supported by the faulty logic of ego.
+> — *The Guru of Gurus*, p.142
+
+### The Guru as Bridge
+
+A siddh guru is the remover of darkness — darkness being the metaphor for ignorance of cosmic oneness. The guru's grace serves as a bridge between the jivaatma and param-aatma, narrowing the separation of divinity from itself.
+
+At the stage of a **mahaguru**, the jivaatma is qualified for merger with the param-aatma. Yet it may voluntarily choose to sustain its jivaatmic hologram in partnership with maya — appearing in human form to improve the condition of the world. See [[entities/mahaguru]] for how this applies to Gurudev.
+
+### The Non-Linear Journey
+
+The six [[concepts/stages-of-spiritual-transformation|stages of spiritual transformation]] (shraddha → vishwas → seva → gyan → bhakti → divya gyan) are the milestones along this arc. They are explicitly neither linear nor parallel — they co-mingle and support each other. The arc of *ek se anek, anek se ek* is the overarching story within which those stages are chapters.
 
 ## Nuances
 
@@ -82,6 +116,8 @@ Healing was not the goal; awakening recognition of the jivaatma within each pers
 
 ## Cross-references
 
+- [[concepts/stages-of-spiritual-transformation]] — the milestones of the jivaatma's return arc
+- [[concepts/gunas]] — the jivaatma carries its guna profile across lives; the guna mix at death determines the next loka
 - [[concepts/karma]] — what accumulates on the jivaatma's balance sheet
 - [[concepts/sanchit-karma]] — the stored ledger itself
 - [[concepts/moksha]] — the return of the jivaatma to the Supreme

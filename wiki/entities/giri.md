@@ -3,7 +3,7 @@ title: Giri Ji
 type: entity
 tags: [disciple]
 sources: [The-Guru-of-Gurus-Eng.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/karmayoga]]", "[[stories/giri-broken-hand]]", "[[stories/gurudev-mohammedpur-greening]]", "[[stories/giri-blister-healing]]", "[[stories/giri-embarrassing-dream]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/karmayoga]]", "[[stories/giri-broken-hand]]", "[[stories/gurudev-mohammedpur-greening]]", "[[stories/giri-blister-healing]]", "[[stories/giri-embarrassing-dream]]", "[[stories/giri-sister-fungal-ghee]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -23,6 +23,10 @@ Giri ji slapped a misbehaving factory worker. Gurudev — who was in another cit
 ### Greening Mohammedpur (Karmayoga)
 
 In 1988, Giri ji purchased a small plot in Mohammedpur village, near Gurgaon — land most farmers had abandoned due to aridity. Gurudev personally oversaw its greening: tilling the soil, sowing seeds, planting trees. The plot became cultivable, inspiring surrounding farmers to return to their own lands. Within a short time, the village recovered its greenery. See [[stories/gurudev-mohammedpur-greening]].
+
+### Sister's Fungal Infection (Healing chapter)
+
+When Giri ji's sister's hands became infected with fungal growth, Gurudev prescribed applying ghee on rotis made at the sthan for eleven days. By the twelfth day, the fungal infection had subsided completely. See [[stories/giri-sister-fungal-ghee]].
 
 ### The Blister and the Embarrassing Dream (*Aatma Sutra*)
 

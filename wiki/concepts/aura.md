@@ -1,10 +1,10 @@
 ---
 title: Aura
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/isthul-sharir]]", "[[concepts/gunas]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/kaarna-sharir]]", "[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/pratipakshbhavana]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/isthul-sharir]]", "[[concepts/gunas]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/kaarna-sharir]]", "[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/pratipakshbhavana]]", "[[concepts/hygiene]]"]
 created: 2026-04-17
-updated: 2026-04-22
+updated: 2026-04-26
 ---
 
 # Aura
@@ -129,6 +129,50 @@ Gurudev's followers observe weekly restrictions on **Thursdays** (*Guruvar* — 
 
 The principle underlying all restrictions is the same: preserve the aura on the day it is most susceptible to Jupiter's influence.
 
+Beyond cutting and nails there is a disposal implication: *there is some auric loss whenever we cut or discard any part of our body.* Cut hair and nails should be offered to a running stream of water rather than swept into a trash can — the aura contributed to the energy of water counts as repayment of one's debt to nature. (*The Guru of Gurus*, p.215)
+
+---
+
+### Planetary Colours — Days of the Week
+
+Gurudev wore specific colours on certain days of the week to maximise the effect of planetary rays on his aura (*The Guru of Gurus*, p.215):
+
+| Day | Colour |
+|---|---|
+| Monday | White |
+| Tuesday | Browns |
+| Wednesday | Blues |
+| Thursday | Yellow |
+| Friday | Greens |
+| Saturday | Black and white |
+| Sunday | Red |
+
+He typically wore half-sleeved shirts and open sandals, keeping arms and feet bare to sense ethereal energies, including spirits.
+
+---
+
+### Food, Clothes, and Saliva as Aura Vectors
+
+(*The Guru of Gurus*, Spiritual Hygiene, pp.213–215*)
+
+- **Food:** Food prepared by others is affected by the cook's thoughts, mental disposition, and aura transmitted through the eyes. White-coloured foods are most susceptible. Gurudev's instruction: change the colour before consuming (turmeric in milk, cinnamon in yoghurt). At sthans, kitchen management is assigned to those with higher levels of thinking.
+- **Saliva:** Saliva is a carrier of aura. Drinking from a saintly person's sipped glass or eating from their used plate can infuse that aura in you. Conversely, eating from the used plate of someone under the influence of negative energies can infect you.
+- **Used clothes:** Gurudev transferred some of his aura by giving disciples his used clothes to wear, specifying the number of days to wear them.
+
+---
+
+### Sthan Energy and Nirman Kaya
+
+Gurudev could channel and root his energy wherever he desired. When he opened sthans, he stored some of his energies there. Over time those energies multiplied due to the collective energy deposits of the sevadaars and the sthan's visitors. He also carried his own photograph on important missions — a gesture Hingori understood as taking the [[concepts/astral-travel|nirman kaya]] along as a co-presence. (*The Guru of Gurus*, p.216)
+
+---
+
+### The Copper Kada
+
+A copper *kada* blessed by a guru infuses some of the guru's energy. Copper is a good conductor of electricity and minimises energy leaks from the body. When worn, the guru's aura circulates within the wearer's aura, connecting them to a higher source of consciousness.
+
+Offering one's kada to a critically ill person links them to the guru's protective grace — a lesson Hingori learned too late. See [[stories/srinagar-dehradun-kada-mission]]. See also [[stories/hingori-kada-nairobi]] for an account of Gurudev's blessed kada repeatedly blocking Hingori's intended wrongdoing.
+
 ---
 
 ### Outward Transmission of Aura
@@ -183,6 +227,15 @@ Notable cases:
 
 > [!warning] Anyone's aura can be infiltrated by practitioners of black magic, provided they have access to the person's personal objects. (Hingori, *Aatma Sutra*, Ch.IV, p.48)
 
+## Laxmi Bandh — The Abundance Block
+
+Beyond physical and spiritual ailments, the aura can be afflicted by a specific energy lock called **Laxmi Bandh**: a curse that blocks barkat (abundance and flourishing). A person under Laxmi Bandh lives a tight-fisted life — their money never stretches, their efforts rarely yield proportionate returns. Gurudev could identify and clear this block:
+
+> He could heal energy blocks in people, the most common of which was Laxmi bandh. It meant overcoming the lack of barkat in those who had been cursed with tight-fisted living. Unblocking this bandh (energy lock) would ensure that a poor man's buck would fetch more for any amount spent.
+> — *The Guru of Gurus*, p.226
+
+The concept is consistent with [[concepts/hygiene]]'s commercial hygiene teachings — money is a form of barkat connected to Laxmi Devi. Disrespecting money or being under a curse can interrupt this flow. See also [[concepts/spiritual-healing]].
+
 ## Cosmic Currency — Aura in the Afterlife
 
 Ch.XIV extends the aura-as-cosmic-currency teaching into its fullest statement:
@@ -203,5 +256,8 @@ Charity done in the name of ancestors adds to *their* cosmic currency in the aft
 - [[practices/seva]] — seva as a direct aura enhancement mechanism (Ch.X); also benefits ancestors' cosmic currency
 - [[concepts/non-doership]] — arpan to a higher power prevents the healer from absorbing negative energy during healing
 - [[concepts/pratipakshbhavana]] — the bluetooth/meditation principle: sustained focus on a quality instils it
+- [[concepts/hygiene]] — the full four-part hygiene framework; Spiritual Hygiene section covers the complete set of aura-maintenance practices
 - [[stories/hingori-renuka-temple-attack]] — "energy was better earned than stolen"
 - [[stories/giri-blister-healing]] — negative energy drawn into the healer's body and dissolved
+- [[stories/srinagar-dehradun-kada-mission]] — the price of failing to offer one's kada to a critically ill person
+- [[stories/hingori-kada-nairobi]] — Gurudev's blessed kada as an active protective force

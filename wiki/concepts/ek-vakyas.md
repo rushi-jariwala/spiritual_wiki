@@ -24,6 +24,8 @@ Gurudev spoke sparsely on doctrine. He was a man of demonstration first — his 
 - *"Luxury is an expense in spiritualism."* — a complete philosophy of spiritual energy conservation in one sentence.
 - *"I have made you a guru, not a doctor."* — a complete teaching on [[concepts/intent-as-healing|intent as healing]].
 - *"If any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night."* — the full scope of compassion without separation.
+- *"Vichaar vishay se aata hai."* — (Thought arises from the object of engagement.) A seed-sentence on the origin of thoughts that opens into four distinct observations: thoughts emerge from sensory interaction; from the guna mix; from the magnetic nature of the mind; and from samskars surfacing. Hingori needed multiple paragraphs to unpack it. See [[concepts/hygiene]] and [[concepts/citt-vritti-nirodh]].
+- *"As soon as I touch the briefcase, your headache will return. It is my duty to do seva, not my business."* — the entire teaching on commercial hygiene and the difference between seva and commerce in one response. See [[stories/sikh-headache-briefcase]].
 
 None of these were explained at length when spoken. The point was the seed, not the commentary.
 

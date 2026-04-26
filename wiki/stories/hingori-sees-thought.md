@@ -2,7 +2,7 @@
 title: Hingori Sees a Thought
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/citt-vritti-nirodh]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/citt-vritti-nirodh]]", "[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/hygiene]]"]
 created: 2026-04-17
 updated: 2026-04-17
 ---
@@ -25,3 +25,4 @@ updated: 2026-04-17
 - [[concepts/citt-vritti-nirodh]] — confirms the external origin of thoughts; the ray enters at the ajna point (above the centre of the forehead) and disperses in the mind
 - [[entities/hingori]] — narrator and direct experiencer; this vision resolved years of inner conflict about thought ownership
 - [[entities/mahaguru]] — whose teaching ("thoughts are external") this vision directly vindicates
+- [[concepts/hygiene]] — Hingori cites this experience as the direct confirmation of Gurudev's *ek vakya* "Vichaar vishay se aata hai"; recounted in the Mental Hygiene section of *The Guru of Gurus*

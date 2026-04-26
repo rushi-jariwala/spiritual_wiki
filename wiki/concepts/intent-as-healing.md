@@ -45,6 +45,24 @@ In both cases, the apparent external agent (temple, method) is not the cause. Th
 
 Gurudev did not tell Hingori to discard all methods. He told Hingori to *identify himself as a guru*, not a doctor. The implication: a guru who knows the true source of healing does not need an elaborate toolkit. The doctor role is not wrong — it is insufficient. It stops at the method and misses the consciousness animating it.
 
+## Non-Doership as the Frame
+
+The chapter on Healing (*The Guru of Gurus*, pp.218–230) extends the principle further. Gurudev consistently refused personal credit for healing:
+
+> "I don't cure anyone who comes for help. They cure themselves. I am not the doer."
+> — Gurudev, *The Guru of Gurus*, p.227
+
+This is not modesty — it is a philosophical position consistent with intent-as-healing: if intent (not the individual) is the operative agent, and if that intent flows from a divine authority granted to the guru, then the guru is a conduit, not a cause. See [[concepts/non-doership]] and [[concepts/spiritual-healing]].
+
+### Proof: The Wrong Remedy
+
+The teaching received its most direct empirical test when Hingori accidentally gave a piles remedy to a hernia patient. When he met the patient the following week:
+
+> He said he was much better than before. I realised that healing was not backed by the science we were conditioned to… It was more the magic of intention than the process of the cure.
+> — Hingori, *The Guru of Gurus*, p.228
+
+See [[stories/hingori-wrong-remedy-intention]].
+
 ## Related Teaching — Mantra Transfer
 
 [[concepts/mantra-transfer|Mantra transfer]] operates by the same logic. When Gurudev declared Hingori *siddh* in a mantra before Hingori had chanted it, the siddhi resided in Gurudev's intent, not in the syllables. The mantra words were given *after*, as a formal structure to house what had already been transmitted.
@@ -56,3 +74,5 @@ Gurudev did not tell Hingori to discard all methods. He told Hingori to *identif
 - [[concepts/guru-disciple]] — the guru-disciple relationship as the conduit for this intent
 - [[entities/mahaguru]] — source of the teaching and its consistent demonstrator
 - [[practices/seva]] — healing through seva operates by the same principle: it is the intent of nisvarth service, not the method, that transforms
+- [[concepts/spiritual-healing]] — the full treatment of healing modes, sources of negativity, and how intent-as-healing operates in practice
+- [[stories/hingori-wrong-remedy-intention]] — empirical proof: wrong remedy, right result

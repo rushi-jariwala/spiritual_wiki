@@ -91,3 +91,5 @@ This is the final destination of *vairagya* as a practice: not the suppression o
 - [[concepts/kleshas]] — raga (attraction) and dwesa (aversion) are the klesha pair that *vairagya* directly targets
 - [[concepts/samskars]] — attachment fructifies and re-stores samskars; detachment disrupts the re-encoding step
 - [[concepts/moksha]] — the progressive detachment is the highway; full *vairagya* from the jivaatma is moksh's approach
+- [[concepts/stages-of-spiritual-transformation]] — vairagya underpins the bhakti stage; "to conquer happiness, you must conquer sorrow"
+- [[concepts/senses-management]] — sensory management is vairagya in its most practical, daily form

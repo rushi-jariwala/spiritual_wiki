@@ -1,10 +1,10 @@
 ---
 title: Astral Travel
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/puranji]]", "[[entities/rc-malhotra]]"]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-26
 ---
 
 # Astral Travel
@@ -100,6 +100,30 @@ On another night at Gurudev's home in Hariana, while disciples ate sarson ka saa
 
 **Mungaoli, Madhya Pradesh:** Rain began while Gurudev and Hingori sat together. Gurudev stepped outside, returned to his seat with an agitated expression, then rose, opened the tent flap, and delivered harsh words skyward. The rain stopped instantly; dark clouds lifted.
 
+## *The Guru of Gurus* — Time Manipulation and Astral Alliances (Entrepreneur Extraordinaire, pp.122–134)
+
+### Time as a Navigable Dimension
+
+The Entrepreneur Extraordinaire chapter extends the picture of Gurudev's astral range to include the dimension of *time*:
+
+> In some cases, he could transfer a few years from a person's next life to their current one. When Chandramani Vashisht ji knew that his death was on the anvil, he requested Gurudev for his wristwatch. When the mahaguru acceded to his request and sent him his watch as a gift, Vashisht ji knew his life had been extended.
+> — Hingori, *The Guru of Gurus*, p.124
+
+The wristwatch served as a tangible confirmation of the life-extension — a symbolic transfer from Gurudev to Vashisht ji of the time remaining. Gurudev's own stated self-understanding of time: *"Vidhi ke vidhaan ko koi badal nahi sakta, par mein samay ka pabandh nahin, samay mera pabandh hai."* (Whatever is destined cannot be avoided. But I am not bound by time. Time is bound by me.)
+
+He could provide the fruit of the future in the present; he could also travel into the past. The distinction from ordinary astral travel is that these journeys crossed temporal as well as spatial boundaries.
+
+### Astral Alliances with Spiritual Greats
+
+Gurudev maintained ongoing astral relationships with a range of spiritual figures — alliances formed in previous lifetimes:
+
+> He had astral meetings with Sai Baba, Guru Nanak Dev, Guru Gobind Singh, Parshuram ji, Lord Krishna, Ganpati, Hanuman, Devis like Renuka, Laxmi, Saraswati, Mahakali, and a host of other spiritual greats.
+> — Hingori, *The Guru of Gurus*, pp.134–135
+
+During his astral trips to Mumbai, he stopped at Shirdi to honour his alliance with Sai Baba. Hingori records: *"I requested his darshan for a lady several years ago, and he gladly obliged"* — Sai acting in response to a living disciple's request, channelled through Gurudev's astral network.
+
+In his final days, Gurudev reportedly told his sister-in-law: *"Since Guru Shukracharya and Guru Brihaspati were serving on earth, it was his turn to protect the world from evil forces."*
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — the spirit body that performs astral travel
@@ -110,3 +134,5 @@ On another night at Gurudev's home in Hariana, while disciples ate sarson ka saa
 - [[entities/rc-malhotra]] — teacher of gati to Hingori in vision state
 - [[entities/puranji]] — Gurudev's emissary; appeared in Hingori's dream state
 - [[concepts/loks]] — the realms visited through astral travel; higher and lower levels of existence accessible to the spirit body
+- [[stories/uddhav-ji-black-triangles]] — Gurudev acts astrally at a distance to protect a disciple from a dangerous spirit apparition
+- [[concepts/constant-awareness]] — constant awareness is the standing state within which astral travel occurs; documented in the same incidents (flight to Hyderabad, Bathri yogi, inland letter)

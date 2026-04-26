@@ -35,7 +35,7 @@ Keep stories verbatim from the text. Never paraphrase. Mark them as block quotes
 ### Phase 1 — Plan
 1. Read the source chapter(s) from `raw/`.
 2. **Inventory** every distinct element in the chapter before editing anything:
-   - Concepts (new or extensions of existing)
+   - Concepts (new or extensions of existing). Create a new concept page only if its genuinely new. 
    - Entities (people, places, texts mentioned)
    - Stories / anecdotes / personal testimonies — **every one**, even single-paragraph ones
    - Embedded texts (poems, letters, worksheets, channelled messages, dialogues)

@@ -27,7 +27,13 @@
       "PowerShell(node --version)",
       "PowerShell(npm --version)",
       "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\",\"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\",\"User\"\\); node --version; npm --version)",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(grep -n \"^---$\\\\|<!-- PDF page\" \"D:\\\\spiritual_wiki\\\\raw\\\\The-Guru-of-Gurus-Eng.md\")",
+      "Read(//usr/**)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Bash(/c/Users/Lenovo/AppData/Local/Programs/Python/Python313/python -c ' *)"
     ]
   }
 }

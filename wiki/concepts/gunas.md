@@ -1,10 +1,10 @@
 ---
 title: Gunas
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]"]
 created: 2026-04-14
-updated: 2026-04-15
+updated: 2026-04-26
 ---
 
 # Gunas
@@ -99,6 +99,57 @@ Gurudev's instruction: *"Apni niyat saaf rakho"* — keep your intentions pure. 
 
 See [[stories/guna-self-assessment]] for the 18-attribute worksheet (pp.96–97) that allows a practitioner to compute their dominant guna (score 18–27 = sattvic; 28–36 = rajasic; 37+ = tamasic).
 
+---
+
+## *The Guru of Gurus* — Gunas as Tools of Spiritual Transformation
+
+*The Guru of Gurus* (Philosophy & Practices, pp.155–158) gives the gunas their most applied treatment in the Hingori corpus, framing them explicitly as the first of three **tools of spiritual transformation** (gunas → mantras → seva).
+
+### The Three Gunas — Extended Table
+
+| Guna | Quality | Leads to | Results in |
+|---|---|---|---|
+| **Tamas** | Inertia · Dullness · Doubt · Obsession · Sleep | Negative emotions · Lethargy · Depression | Apathy towards self and others · Inactivity · Indifference |
+| **Rajas** | Ambition · Desire · Emotions · Anger · Greed · Attachment · Lust · Arrogance | Focus on personal achievements · Empathy for self and apathy for others | Hyperactivity · Pain |
+| **Sattva** | Tranquility · Simple living · Higher thinking · Frugality · Gratitude · Minimalism | Control on senses · Empathy for self and others | Relaxed attitude · Pleasure |
+
+The goal is to stabilise sattva so that gunas become **deployable at will** — a precondition for ascent into divya gyan.
+
+### The Progression
+
+- **Tamas → Rajas:** The dynamic energy of rajas is needed to break tamas's inertia.
+- **Rajas → Sattva:** Accomplished through sense control and emotional detachment.
+- **Sattva → Beyond:** The pleasure of being detached itself becomes a bind. Those in prolonged sattvic states perform great seva, but may attach to doership. Only by transcending sattva — through *acceptance* — can the sattva bind be broken.
+
+> [!tip] Practical shortcut: *"To stay awake, you drink coffee or tea. But if you learn to manage your gunas consciously, you can summon tamas when you want to sleep and rajas when you choose to stay awake."* — Hingori, *The Guru of Gurus*, p.157
+
+### Acceptance — The Bridge Through Sattva
+
+Hingori identifies acceptance as the practical route *past* sattva:
+
+> The unwavering ability to neither avoid negative karmas nor remain attached to positive karmas, performing every action solely as your duty and nothing more. If this happens, there will be neither the indifference of tamas, nor the pain of rajas, nor the pleasure of sattva.
+> — *The Guru of Gurus*, p.158
+
+This echoes the teaching in [[concepts/karmayoga]] and [[concepts/non-doership]]: action performed as duty alone, without grasping or aversion, transcends all three gunas simultaneously.
+
+### Gurudev's Guna Mastery
+
+The ultimate letting-go: Gurudev renounced all his siddhis before accepting Malhotra ji as his first disciple, immersing them in the Ganges at Har Ki Pauri. Hingori reads this as the washing-away of attachment's last vestige — the genesis of his transformation from accomplished seeker to mahaguru.
+
+Virender ji, an ardent devotee, gives a verbatim account:
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. Can you imagine queues of people going up to several kilometres, and he would be standing for eighteen to twenty hours a day, showing absolutely no sign of fatigue or anxiety? He would come inside the room, have a glass of water, sit for five minutes, and go outside again to bless people. And the way his blessings worked, miracles happened!"
+> — Virender ji, *The Guru of Gurus*, p.157
+
+### Guna Mix at Death
+
+> The guna mix at the time of your death becomes the curriculum vitae of your afterlife. Basis that, you are granted residence or domicile in one of the many lokas.
+> — *The Guru of Gurus*, p.158
+
+The three gunas thus have a temporal arc: they shape each life, and the final ratio determines the afterlife loka. This links directly to [[concepts/loks]] and the broader framework of the jivaatma's journey across lifetimes.
+
+---
+
 ## Cross-references
 
 - [[concepts/kleshas]] — raga and dwesa are fuel for rajas and tamas; kleshas and gunas are interdependent
@@ -111,3 +162,5 @@ See [[stories/guna-self-assessment]] for the 18-attribute worksheet (pp.96–97)
 - [[concepts/isthul-sharir]] — gunas are the instrument by which the physical body pursues self-purification
 - [[concepts/loks]] — guna mix determines lok qualification; sattvic → higher loks, tamasic → lower tals
 - [[stories/guna-self-assessment]] — the 18-attribute self-assessment worksheet from *Aatma Sutra* Ch.VIII
+- [[concepts/stages-of-spiritual-transformation]] — gunas are one of three tools in Gurudev's six-stage framework; sattva must be transcended before divya gyan
+- [[concepts/karmayoga]] — acceptance as duty-without-grasping is the practical bridge through sattva

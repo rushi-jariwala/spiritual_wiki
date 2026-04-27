@@ -49,14 +49,9 @@ Write entirely in **Hingori's voice**. Study his prose in the concept and story 
 - **Story handling: mix.** Tell stories in flowing prose (Hingori's voice), but preserve one or two key lines verbatim in italics — the line that cannot be paraphrased
 - **Connectors between sections are mandatory.** Each bold subheading section must begin with a sentence that links it to the previous section (e.g. "To understand this more clearly...", "I recall how Gurudev demonstrated this...", "Understanding this is one thing; practicing it is another.")
 - Close with one short, direct line — a call to awareness or action, the way Hingori ends his chapters
-- **Length: 450–600 words.** Tight and complete. Do not pad.
+- **Length: let the story determine it.** A post may run 450 words or 750 — fit the material, never pad, never cut short.
 
-**Structure (use light bold subheadings to give shape):**
-1. Hook paragraph — first-person story or vivid image, no subheading
-2. **What Is [Concept]?** — unfold the idea, link to concept page inline
-3. **[Analogy or second illustration]** — makes it land, connector sentence opening
-4. **[Practice or second story]** — deepens it, connector sentence opening
-5. Closing line — direct, clean, one sentence (no subheading)
+**Structure:** Let the arc of the content determine the shape. You need: a hook (story or vivid image, no subheading), an unfolding of the concept, at least one analogy or illustration woven in naturally, at least one deeper story, and a clean closing line. Use light bold subheadings to give the reader handholds — but the number and naming of sections should serve the material, not a template.
 
 **Inline references (not a footnote block):**
 - Place `*(→ [[stories/<slug>|Story Title]])* ` or `*(→ [[concepts/<slug>]])* ` immediately after the paragraph where that story or concept is introduced.
@@ -85,7 +80,7 @@ updated: <YYYY-MM-DD>
 
 *References: [[concepts/<slug>|<Concept Name>]] · [[stories/<slug>|<Story Title>]] · <Book Title>, Ch.<N>, p.<N> (where known).*
 
-*This post is AI-generated using the Hingori Sutras wiki as source material.*
+*Generated from the Hingori Sutras wiki.*
 ```
 
 Save to: `wiki/blog/YYYY-MM-DD-<concept-slug>.md` (use today's date).
@@ -129,6 +124,6 @@ If it already exists, add the new post link there too.
 - [ ] No more than one `---` divider (before the references footer)
 - [ ] Footnotes cite the actual source pages
 - [ ] AI-generated notice is in the footnote
-- [ ] Length is 450–600 words
+- [ ] Length fits the material — no padding, no premature cuts
 - [ ] Frontmatter is complete
 - [ ] Does not feel repetitive against any existing post

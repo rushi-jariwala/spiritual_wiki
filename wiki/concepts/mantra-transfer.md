@@ -125,3 +125,4 @@ Mantras lower blood pressure, heart rate, and respiration rate; increase oxygen 
 - [[entities/mahaguru]] — the source of all transfers described in the chapter
 - [[entities/rc-malhotra]] — senior disciple who also taught gati to Hingori in a vision state (a parallel form of transfer)
 - [[practices/tapasya]] — the accumulated tapasya that creates the reserve available for transfer
+- [[concepts/power-symbols]] — a related transfer mechanism: power symbols (jyot, trishul, Ganpati) are transmitted via touch, sipped water, or pure will — an extension of the same guru-to-disciple transference

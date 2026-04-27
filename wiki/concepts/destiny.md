@@ -82,6 +82,19 @@ Destiny belief is offered as the philosophical counterweight — a way to releas
 
 The practical implication: if the outcome was already encoded in the birth configuration, the person experiencing "failure" is not its cause. Self-blame under these conditions is an illusion of authorship over a pre-written script. See [[concepts/self-acceptance]] for the full treatment of how destiny acceptance dissolves guilt.
 
+## The Supernature-Destiny Inversion (*The Guru of Gurus*, p.248)
+
+The SUPERNATURE chapter introduces a nuance that inverts the ordinary relationship between destiny and nature. For the mahaguru, destiny was not a constraint on his nature — it was a medium through which he chose to express it:
+
+> The mahaguru's supernature was not limited by his destiny, but he chose to limit his destiny to express his supernature.
+> — Hingori, *The Guru of Gurus*, p.248
+
+This is the most radical statement about destiny in the entire corpus. Ordinary beings are *shaped* by their destiny. The mahaguru *chose* his destiny as one chooses a costume — from limitlessness, not toward it. The commoner's life was not a ceiling; it was a precision instrument.
+
+> [!tip] This does not contradict the philosophy that destiny is the fructification of past karmas. Rather, it suggests that at the highest level of evolution, the being's will and the karmic script converge — the mahaguru's will *became* his karma, and the ordinary circumstances *were* his chosen expression.
+
+See [[concepts/supernature]] for the full treatment.
+
 ## Cross-references
 
 - [[concepts/mahurat]] — the birth timing mechanism through which destiny is encoded

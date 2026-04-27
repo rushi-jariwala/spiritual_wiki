@@ -14,3 +14,4 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 ---
 
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: how removing the 'I' from your actions dissolves guilt, breaks the samskar loop, and points toward freedom
+- [[blog/2026-04-27-seva|2026-04-27 — The Fruit Is in the Giving]] — Seva: why selfless service compounds invisibly across generations, and why the Golden Rule of never accepting return is what keeps it clean

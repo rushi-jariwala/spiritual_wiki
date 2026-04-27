@@ -727,3 +727,27 @@ Gurudev is described as a magnetic field for negativity: he drew negative energy
 
 An extreme statement of the intent-over-method teaching. Mud has no medicinal property; the sthan's sacred soil has no pharmacological value. Yet Gurudev asserted it would work as well as cloves, cardamoms, or jal. The analogy reduces the healing method to its least impressive possible form — dirt — to make the point that the medium is irrelevant when the intent animating it is pure. See [[concepts/intent-as-healing]].
 
+---
+
+## Supernature & The Mahaguru's Nature
+
+### The Veil of Drapes — Daagh Delhvi
+*Illuminates: [[concepts/supernature]], [[entities/mahaguru]]*
+
+> Khoob parda hai ke chilaman se lage baithe hain.
+> Saaf chupte bhi nahi, saamne aate bhi nahin.
+> (There is a lot concealed when you are veiled in drapes. Neither are you completely hidden nor are you clearly visible.)
+> — Daagh Delhvi, cited in *The Guru of Gurus*, p.235
+
+Hingori invokes this Urdu couplet to describe the mahaguru's mode of self-concealment. The chilaman (reed screen) allows light and sound through while obscuring the one behind it. The mahaguru was fully present, fully visible in his actions, yet "the real entity behind this human form" remained inaccessible. Disciples saw a man with a spirit, not the spirit wearing a man. The analogy applies equally to any advanced being whose inner nature exceeds what ordinary perception can register. See [[concepts/supernature]].
+
+---
+
+### The Photograph and the Ocean — On the Mahaguru's Vastness
+*Illuminates: [[concepts/supernature]], [[entities/mahaguru]]*
+
+> "You cannot contain a scenery in a photograph or lock the ocean in a bottle. The mahaguru was too vast and very difficult to understand. None of his disciples seemed to have got more than just a whiff of his reality."
+> — Uddhav ji (recalled by Hingori), *The Guru of Gurus*, p.245
+
+Uddhav ji's reflection on decades of proximity to Gurudev. The photograph captures light but not depth; the bottle holds water but not the ocean's nature. Disciples received what their capacity allowed — glimpses, not the whole. The analogy is offered not as defeat but as calibration: even a whiff of an ocean is more than most beings access. See [[concepts/supernature]].
+

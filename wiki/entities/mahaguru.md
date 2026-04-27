@@ -14,7 +14,7 @@ updated: 2026-04-25
 
 ## Status
 
-**Ingested through Ch.4 (The Mahaguru, pp.56–116).** Full biography now covers birth through death and legacy. Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature, and back matter pending.
+**Ingested through Supernature (pp.231–248).** Full biography now covers birth through death, legacy, and supernature chapter. Who's Who and Glossary back matter pending.
 
 ## Who
 
@@ -222,6 +222,57 @@ By the mid-1980s Gurudev's following had grown exponentially. When a cavalcade o
 
 Gurudev opposed dowry and lavish weddings, conducted simple ceremonies at the sthan, and instructed disciples to mentally touch their wives' feet during a specific time each year. He told his sisters he would arrange their marriages only when they wanted, not before — and encouraged their financial independence. *"We have to set an example in society so that no one thinks of a female child as a burden."*
 
+## Supernature (pp.231–248)
+
+The SUPERNATURE chapter of *The Guru of Gurus* is the most systematic account of the mahaguru's transcendent capacities. See [[concepts/supernature]] for the full concept treatment.
+
+### Power Symbols
+
+After discharging his siddhis at Har ki Pauri in 1970, spiritual symbols began appearing on Gurudev's body — not as decorations but as certifications of the powers they represent. He carried the full Shiv-parivaar on both hands: on the right — OM, Nandi, gileri, shivling with a snake; on the left — OM with a trishul, Ganpati, and the jyot. The OM also appeared on his chest, back, and forehead. Disciples reported seeing trishuls on his fingernails (Santlal ji), a Sudarshan Chakra on his hand (Mataji), and the OM occasionally radiating such light it seemed ringed in silver.
+
+He transferred these symbols to disciples — through touch, sipped water, or pure will across any distance. VP Sharma ji received the jyot when a visible flame entered the Khar sthan through a window and lodged itself in his left hand in full public view. See [[concepts/power-symbols]].
+
+### Multiple Forms
+
+The mahaguru was seen appearing in different forms by several disciples. He reluctantly allowed Shambhu ji to see him in a five-headed form on Mahashivratri 1974 — Shambhu ji fainted and was revived with jal. Other glimpses witnessed:
+
+- Kwatra ji: form turned to pure light upon prostrating
+- Rajpal ji: head seen double in size
+- Gupta ji of Parwanoo: dwarfed form
+- Pappu ji (Shambhu ji's son): long-bearded form within minutes of clean-shaven avatar
+
+See [[stories/shambhuji-five-headed-form]].
+
+### Elemental Command
+
+His connectivity to the elements was direct and documented:
+
+- **Water**: Located potable water on the Khandsa farm by instinct; a wave at Juhu Beach moved thirty feet forward specifically to caress his feet; a wave at Mahabalipuram did the same (witnessed by Giri ji)
+- **Rain**: Could will rain on or stop it. On one Guru Purnima, rain fell to exactly where the queue ended — no further
+- **Fire**: The Mahagayatri mantra confers containment of fire; every Mahashivratri he dipped his hands in boiling lemon tea to bless it — without a flinch, wince, or blister
+
+### Body-Mind Capacities
+
+- Could live without food for days (Mahashivratri queues lasted two days; he ate nothing until he had met everyone)
+- Withstood extreme temperatures in a light cardigan while others wore layers of wool
+- Could put one brain hemisphere to sleep while the other operated — Pehalwan ji witnessed him riding a scooter with his eyes closed, doing *paath*
+- Never said NO to anyone who asked for help (Ashok Bhalla ji: *"The word NO does not exist in my dictionary"*)
+- Lived in constant awareness of past, present, and future of every person who came to him: *"Their past, present and future flashes on a screen in my mind"* (to Das Saheb)
+
+### Bilocation and Invisibility
+
+He could be physically present and absent simultaneously. Three documented bilocation instances: visiting Sunil ji's shop in London while seated with Bakshi ji in Gurgaon; at his office and his farm at the same time; attending a phone call in a locked room in Nagpur while seated with disciples moments before.
+
+Invisibility was a *yogic kriya* he had mastered — withdrawing the quality that makes one recognisable without disappearing. In Srinagar, he purchased spare parts from a shop whose owner worshipped his photograph — without being recognised. Cameras froze or produced blank reels if he chose not to be photographed. See [[stories/gurudev-invisible-srinagar-shop]].
+
+### Spiritual Mastery
+
+He had command over the world of spirits — propelling them from lower realms to higher ones, granting them human birth when needed. He allied with advanced spiritual entities: Shirdi Sai, Guru Nanak, Guru Gobind Singh, Guru Vashisht, Parshuram ji, Lord Krishna, Dattatreya, Ganpati, Hanuman, Muslim saints, Shiv manifestations, Mahakali, Laxmi, Saraswati, Renuka, and the Ashvin Kumaras (per Brighu Samhita).
+
+He developed multiple *nirman kayas* to attend to many people simultaneously. He also could exhaust adverse karmas in the dream state rather than the physical one — making destined events happen in dreams to eliminate them from physical life.
+
+Before his passing, he began construction of his samadhi at Najafgarh. He has been sighted there in the decades since. His final statement on his own nature: *"His limitlessness is still felt at his sthans across the world and at his samadhi in Najafgarh."*
+
 ## Passing and Legacy (pp.111–117)
 
 Gurudev **chose** to leave his body on **28 July 1991**, aged 53, to continue his spiritual pursuits in the afterlife. His remains were interred at [[entities/neelkanth-dham|Neelkanth Dham]] in Najafgarh. He had overseen the construction of the site himself and prophesied that those who visited would be relieved of suffering. This has been borne out; many claim to have sighted him at the Dham decades later.
@@ -394,12 +445,16 @@ See [[quotes/guru]].
 - [[concepts/empathy]] — patient holding of Hingori's potential; the transformation of a self-described fool
 - [[concepts/role-play]] — fluid inhabitation of every relational role without being captured by any one
 - [[concepts/loks]] — Gurudev's afterlife HQ at Najafgarh; descended with hundreds of beings from higher loks
-- [[entities/mataji]] — his wife; the Shakti to his Shiv; carried forward his legacy
+- [[concepts/supernature]] — the full taxonomy of his transcendent capacities; the destiny-supernature inversion
+- [[concepts/power-symbols]] — the Shiv-parivaar symbols on his body; meanings and transfer
+- [[entities/mataji]] — his wife; the Shakti to his Shiv; carried forward his legacy; the only one who could bring him back from astral travel
 - [[entities/chacha]] — his younger brother; a casualist spiritualist; died on Gurudev's implied instruction
 - [[entities/buddhe-baba]] — his mysterious mentor; received all credit for Gurudev's seva
 - [[entities/augarh]] — his mysterious disciple; head of the Aghor sect; disciples' elder brother
 - [[entities/hingori]] — his disciple and the author of the Sutras
 - [[practices/seva]] · [[practices/tapasya]] — his "one-point programme"
+- [[stories/shambhuji-five-headed-form]] — Mahashivratri 1974; Shambhu ji witnesses five-headed form
+- [[stories/gurudev-invisible-srinagar-shop]] — Srinagar; purchased spare parts without being recognised by his own devotee
 - [[sources/guru-of-gurus]] · [[sources/witnessing-greatness]] — full biographical sources
 
 ## Open Questions

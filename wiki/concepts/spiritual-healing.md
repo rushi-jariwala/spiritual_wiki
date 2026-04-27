@@ -170,4 +170,5 @@ Spiritual healing was a significant part of Gurudev's seva. He did it without ac
 - [[concepts/sukshma-sharir]] — spirit possession understood through the mechanics of the subtle body
 - [[concepts/guru-tattva]] — healing powers transmitted to disciples
 - [[entities/mahaguru]] — source and exemplar
+- [[concepts/supernature]] — healing as one expression of the mahaguru's supernature; life extension, karma exhaustion in dream state, spirit navigation
 - [[practices/seva]] — healing was seva; done without remuneration

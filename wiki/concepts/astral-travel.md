@@ -124,15 +124,66 @@ During his astral trips to Mumbai, he stopped at Shirdi to honour his alliance w
 
 In his final days, Gurudev reportedly told his sister-in-law: *"Since Guru Shukracharya and Guru Brihaspati were serving on earth, it was his turn to protect the world from evil forces."*
 
+## *The Guru of Gurus* — SUPERNATURE Chapter (pp.241–248)
+
+The SUPERNATURE chapter adds the most detailed first-person and witness accounts of the mahaguru's astral range and reveals several new dimensions.
+
+### Astral Voyages Shared with Disciples
+
+Gurudev took disciples on some of his astral voyages. Documented instances:
+
+- **Paris bridge**: Hingori remembers being taken to a bridge in Paris.
+- **Raft voyage**: Hingori was made to sail on a raft alongside Gurudev and *"someone he respected."*
+- **The Brahmaand offer**: One night before going for *paath*, Gurudev told Hingori: *"Let me take you on a journey of the Brahmaand."* Brahmaand here did not mean the moon and back — it was the whole Milky Way. The offer was lost: that night while Hingori slept, Puranji (in his astral form) called him, but Hingori physically woke up instead of exiting his body astrally. When he went to Gurudev's room, he found only the body lying there — Gurudev had already left. Puranji, in his physical form, was seated by the bedside pressing Gurudev's legs. See [[stories/hingori-puranji-missed-astral-tour]].
+- **Planetary tour**: Surinder Kaushal ji remembers being made to touch all the planets, one by one, on an astral expedition.
+- **Navigation training**: Santlal ji, Amichand ji, and Bakshi ji were taught navigation of the astral realms. Gurudev took them on a journey and instructed them to visit their respective homes but not talk to their families and return to their bodies before dawn. Santlal ji and Bakshi ji returned; Amichand ji lost his way and had to be fetched by the mahaguru.
+
+### Astral Return Protocol
+
+If an emergency demanded Gurudev's physical intervention during an astral journey, only Mataji could bring him back to his physical form. He had taught her:
+
+> "Depending on where I have travelled to, it may take me some time to return."
+> — Gurudev to Mataji, *The Guru of Gurus*, p.247
+
+The method: Mataji would place both his toes together and pull his legs.
+
+### Karma Exhaustion in the Dream State
+
+One of the most unusual capacities documented in this chapter is the mahaguru's ability to make adverse events — destined to happen physically — transpire instead in the dream state, thereby eliminating their possibility of occurring physically. He could exhaust a person's karmas in the dream rather than in their physical life.
+
+### Bilocation — Three Documented Instances
+
+The chapter records three specific bilocation events:
+
+1. Visiting Sunil ji at his shop in London at approximately the time he was also seated with Bakshi ji at the Gurgaon sthan.
+2. Conversing with people at his office and at his farm at about the same time.
+3. In Nagpur, found attending to a phone call in a tightly padlocked room — even though he had been seated with disciples elsewhere only minutes before.
+
+### Astral Alliances with Spiritual Associates
+
+The chapter provides the fullest list of Gurudev's astral spiritual allies — entities with whom he had formed alliances across previous lifetimes and who jointly served life forms with him:
+
+> Shirdi Sai, Guru Nanak, Guru Gobind Singh, Guru Vashisht, Parshuram ji, Lord Krishna, Dattatreya, Ganpati and Hanuman ji, some Muslim saints, several manifestations of Shiv and Devis such as Mahakali, Laxmi, Saraswati and Renuka.
+> — Hingori, *The Guru of Gurus*, p.247
+
+The Brighu Samhita also alludes to Gurudev's alliance with the Ashvin Kumaras.
+
+### Nirman Kayas — Multiple Subtle Bodies
+
+Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultaneously attend to many people's problems. Many disciples also have nirman kayas. Hingori writes that his own nirman kaya has appeared in people's dreams, healed them, given them answers to their problems, and occasionally given them mantras he has never consciously heard of.
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — the spirit body that performs astral travel
 - [[concepts/aura]] — the *shakti* that powers gati and astral capacity
 - [[concepts/mukti]] — nirman kaya mechanism; advanced spiritualists active in the spirit realm
+- [[concepts/supernature]] — bilocation, invisibility, and elemental control as dimensions of supernature
 - [[entities/mahaguru]] — primary exemplar; travelled astrally thrice a week; appeared posthumously
 - [[entities/hingori]] — first-person witness and practitioner across all stages
 - [[entities/rc-malhotra]] — teacher of gati to Hingori in vision state
 - [[entities/puranji]] — Gurudev's emissary; appeared in Hingori's dream state
+- [[entities/mataji]] — the only one who could bring Gurudev back from astral travel
 - [[concepts/loks]] — the realms visited through astral travel; higher and lower levels of existence accessible to the spirit body
 - [[stories/uddhav-ji-black-triangles]] — Gurudev acts astrally at a distance to protect a disciple from a dangerous spirit apparition
+- [[stories/hingori-puranji-missed-astral-tour]] — Brahmaand offer; Hingori physically wakes instead of going astrally
 - [[concepts/constant-awareness]] — constant awareness is the standing state within which astral travel occurs; documented in the same incidents (flight to Hyderabad, Bathri yogi, inland letter)

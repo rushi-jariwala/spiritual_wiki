@@ -33,7 +33,8 @@
       "Bash(ls /c/Python*/python.exe)",
       "Bash(where python *)",
       "Bash(where python3 *)",
-      "Bash(/c/Users/Lenovo/AppData/Local/Programs/Python/Python313/python -c ' *)"
+      "Bash(/c/Users/Lenovo/AppData/Local/Programs/Python/Python313/python -c ' *)",
+      "Read(//c/Users/Lenovo/.claude/**)"
     ]
   }
 }

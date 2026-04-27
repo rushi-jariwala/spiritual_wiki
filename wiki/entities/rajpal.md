@@ -30,10 +30,12 @@ See [[stories/rajpal-hoarse-voice-snow]].
 
 ## Sources
 
-- *The Guru of Gurus*, Healing chapter, pp.225, 228
+- *The Guru of Gurus*, Healing chapter, pp.225, 228; Supernature chapter, p.244
 
 ## Cross-references
 
 - [[entities/mahaguru]] — guru and corrector
 - [[concepts/spiritual-healing]] — the Heathrow exchange as a key teaching on healing authority
 - [[concepts/non-doership]] — Gurudev's framing of healing as divinely authorised, not personally owned
+- [[concepts/supernature]] — witness in Srinagar to Gurudev's invisibility; also saw his guru's head double in size
+- [[stories/gurudev-invisible-srinagar-shop]] — present as witness; raised the concern about the shop owner recognising them

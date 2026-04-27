@@ -54,7 +54,7 @@ updated: 2026-04-25
 | | Mental Hygiene | 209–212 | ✅ ingested 2026-04-26 |
 | | Spiritual Hygiene | 213–217 | ✅ ingested 2026-04-26 |
 | **HEALING** | — | 218–230 | ✅ ingested 2026-04-26 |
-| **SUPERNATURE** | — | 231–248 | ⬜ pending |
+| **SUPERNATURE** | — | 231–248 | ✅ ingested 2026-04-27 |
 | **WHO'S WHO** | — | 249–262 | ⬜ pending |
 | **GLOSSARY** | — | 263–276 | ⬜ pending |
 
@@ -468,6 +468,49 @@ updated: 2026-04-25
 - [[concepts/aura]] — Laxmi Bandh (abundance block) added
 - [[concepts/intent-as-healing]] — enriched with wrong-remedy proof case and non-doership frame
 - [[concepts/pitra-peeda]] — enriched with Hingori's farming prescription
+
+## Key Themes (Supernature, pp.231–248)
+
+- **Opening frame (pp.231–232):** The chapter opens with the central question: why did a spiritual superman choose a commoner's destiny? The answer is the chapter's conclusion: "His supernature was not limited by his destiny, but he chose to limit his destiny to express his supernature." The Brighu Samhita describes him as Shiv in meditation, Vishnu in speech, Brahma in seva, Jagdamba in healing — and notes: "People will not be able to know the real entity behind this human form."
+- **Multiple Identities (pp.233–235):** Mahashivratri 1974 — Shambhu ji insists on seeing Gurudev's true form; Gurudev warns he will lose his five-year life extension; Shambhu ji faints in golden light, sees five-headed form. Other glimpses: Kwatra ji (pure light), Rajpal ji (double-sized head), Gupta ji of Parwanoo (dwarfed form), Pappu ji (long-bearded form within minutes of clean-shaven). Uddhav ji's nunchaku on black triangles — more complete account; hand froze, passed out, Gurudev: "First you invite me, then try to attack me." Daagh Delhvi's couplet on concealment.
+- **Power Symbols (pp.236–239):** Full taxonomy of the Shiv-parivaar on Gurudev's hands. Right hand: OM, Nandi, gileri, shivling with snake. Left: OM with trishul, Ganpati, jyot. Meanings of each symbol. Transfer mechanisms (touch, sipped water, will across distance). VP Sharma ji receives jyot via visible flame entering the Khar sthan window. The trishul's acquisition: no longer internalising disease — now directing Shakti.
+- **Elemental Synergies (pp.241–243):** Water divination at Khandsa farm; Renuka land greening. Wave at Juhu Beach (Hingori witnessed) and Mahabalipuram (Giri ji). Rain control on Guru Purnima — fell only to the length of the queue. Mahagayatri siddhi: hands in boiling lemon tea every Mahashivratri. Pappu ji (Jwalamukhi) saved from tantrik fireballs by deceased father Shambhu ji.
+- **Body, Mind & Beyond (pp.244–245):** No food for days; extreme temperature control; split-brain sleep (Pehalwan ji on scooter); bilocation (3 instances); invisibility as yogic kriya (Srinagar shop, cameras freezing, German photographer); speech power ("NO does not exist in my dictionary"); constant awareness — past/present/future on a screen (Das Saheb); ability to exhaust karmas, change samskars, add years from future life.
+- **Spiritual Mastery (pp.246–247):** Command over the world of spirits; astral travel 4–5 days a week, 2–7 hours. Astral voyages shared: Hingori to Paris bridge; raft voyage; Brahmaand offer (missed); Surinder Kaushal ji touches all planets. Santlal/Amichand/Bakshi navigation training. Mataji's toe-pulling return protocol. Nirman kayas for simultaneous seva. Karma exhaustion in dream state. Spiritual allies: Shirdi Sai, Guru Nanak, Guru Gobind Singh, Guru Vashisht, Parshuram ji, Lord Krishna, Dattatreya, Ganpati, Hanuman, Muslim saints, Shiv manifestations, Devis. Ashvin Kumaras (Brighu Samhita).
+- **Unwrapped (p.248):** Mahaguru chose to underplay his miracles. He gathered disciples of the last 500 years, bestowed Shiv-parivaar powers, elevated them to siddh gurus. "Rose to the status of a mahaguru when he renounced his siddhis in the Ganges and became the manifestation of the powers he represented." The invisible man is still a visible force.
+
+## Notable Quotes (Supernature)
+
+> "He is like Shiv while in meditation and like Vishnu in his speech. In seva and protection, he is like Brahma, and in relieving people of their pain, he is like Jagdamba."
+> — Brighu Samhita, cited in *The Guru of Gurus*, p.232
+
+> "Neither am I Krishna nor are you Arjuna, so the question of showing you my form does not arise."
+> — Gurudev to Shambhu ji, *The Guru of Gurus*, p.233
+
+> "I showed you a small part of who I am, and you could not handle it."
+> — Gurudev, *The Guru of Gurus*, p.234
+
+> "You don't need to absorb the disease because you now have the Shakti to deal with it."
+> — Gurudev (on distributing the trishul), *The Guru of Gurus*, p.237
+
+> "When people come to meet me, their past, present and future flashes on a screen in my mind."
+> — Gurudev to Das Saheb, *The Guru of Gurus*, p.245
+
+> "The mahaguru's supernature was not limited by his destiny, but he chose to limit his destiny to express his supernature."
+> — Hingori, *The Guru of Gurus*, p.248
+
+## Stories Extracted (Supernature)
+
+- [[stories/shambhuji-five-headed-form]] — Mahashivratri 1974; five-headed form; fainting; golden light
+- [[stories/gurudev-invisible-srinagar-shop]] — Srinagar; spare parts; unrecognised by his own devotee
+- [[stories/uddhav-ji-black-triangles]] — enriched: hand froze; passed out; "First you invite me…"
+- [[stories/pappu-shambhuji-flames]] — GoG version added as second source
+- [[stories/hingori-puranji-missed-astral-tour]] — Brahmaand detail added from GoG
+
+## New Concepts Introduced (Supernature)
+
+- [[concepts/supernature]] — the mahaguru's transcendent nature; the supernature-destiny inversion
+- [[concepts/power-symbols]] — the Shiv-parivaar symbols on his body; meanings; transfer mechanisms
 
 ## Contradictions / Tensions
 

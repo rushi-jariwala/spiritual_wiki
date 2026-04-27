@@ -1,10 +1,10 @@
 ---
 title: Pappu Sharma and Shambhuji — Father Protects from Black Magic Flames
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[entities/hingori]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/supernature]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-04-27
 ---
 
 # Pappu Sharma and Shambhuji — Father Protects from Black Magic Flames
@@ -27,3 +27,4 @@ The story is offered in the context of how dreams and spiritual experiences buil
 - [[concepts/astral-travel]] — Shambhuji operates as a spirit from the afterlife
 - [[concepts/sukshma-sharir]] — the spirit body retaining the ability to intervene after death
 - [[entities/mahaguru]] — Gurudev had transmitted spiritual powers to Shambhuji during his lifetime
+- [[concepts/supernature]] — the SUPERNATURE chapter (*The Guru of Gurus*, p.242) records this same incident: "fireballs directed towards him by jealous tantriks missed their mark. He saw his deceased father, Shambhu ji, stop the fireballs before they could hit him." The *Aatma Sutra* phrasing is "extinguished before hitting his bed"; the *Guru of Gurus* says "missed their mark" — both confirm Shambhu ji's posthumous protective intervention.

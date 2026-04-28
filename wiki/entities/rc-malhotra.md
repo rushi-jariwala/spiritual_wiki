@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Who / What
 
-**Shri R.C. Malhotra** is Gurudev's **first disciple** and the senior-most of his disciples. He was initiated in **1971** and died in **April 2019**, having dedicated his entire adult life to the mahaguru's mission.
+**Shri R.C. Malhotra** is Gurudev's **first disciple** and the senior-most of his disciples. He was initiated in **1971** and died in **April 2019**, having dedicated his entire adult life to the mahaguru's mission. Among his gurubhais he was affectionately known as **Chote Guruji**.
 
 ## Discipleship
 
@@ -24,6 +24,10 @@ In **1971**, Malhotra ji was initiated as Gurudev's first disciple. The ceremony
 > — Malhotra ji, recalled in *The Guru of Gurus*, p.61
 
 When he inquired how the river had stopped, Gurudev replied that the elements of nature were under his control. Despite the initial difficulty in accepting a friend as a guru, Malhotra ji made the transition and rose to spiritual prominence as one of the most accomplished proponents of Gurudev's philosophy of selfless service. He also assisted Gurudev in training and promoting other disciples. See [[stories/malhotra-initiation-ganges]].
+
+## The Advocate
+
+Malhotra ji was not as devoted to Gurudev in a conventional sense as he was to his gurubhais — he fought with the mahaguru almost constantly to ensure that he met and spent more time with them. Humorously speaking, he served as the informal union leader for Gurudev's disciples and devotees, always pleading their cases.
 
 ## The Naughty Streak
 

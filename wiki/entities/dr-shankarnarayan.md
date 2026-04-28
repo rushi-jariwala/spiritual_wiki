@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Who / What
 
-Dr. Shankarnarayan was a senior colleague of Gurudev at the All India Soil and Land Use Survey department. He became one of the early disciples drawn into Gurudev's circle through a personal crisis — and holds the distinction of being **the first person to call Gurudev "Guruji."**
+Dr. Shankarnarayan was a senior colleague of Gurudev at the All India Soil and Land Use Survey department. He became one of the early disciples drawn into Gurudev's circle through a personal crisis — and holds the distinction of being **the first person to call Gurudev "Guruji."** As a disciple, he oversaw the sthan's community kitchen, which he managed admirably, and later ran a sthan in Bangalore for decades.
 
 ## Story of Discipleship
 

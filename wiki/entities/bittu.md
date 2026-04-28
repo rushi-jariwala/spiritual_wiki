@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Who / What
 
-Bittu ji is one of the "four musketeers" of the Gurgaon sthan — named alongside Nikku, Pappu, and Gaggu — who managed Gurudev's daily needs and were described as a second ring of quasi-family. Bittu ji appears more than any other disciple in *The Mahaguru* chapter, serving as driver, farmhand, cook, and constant companion.
+Bittu ji is one of the "four musketeers" of the Gurgaon sthan — named alongside Nikku, Pappu, and Gaggu — who managed Gurudev's daily needs and were described as a second ring of quasi-family. Bittu ji appears more than any other disciple in *The Mahaguru* chapter, serving as driver, farmhand, cook, and constant companion. He met Gurudev at fourteen and eventually volunteered to help with the sthan's administration; his organisational skills ensured crowds were well-managed and comfortable during their stay in Gurgaon.
 
 ## Role
 

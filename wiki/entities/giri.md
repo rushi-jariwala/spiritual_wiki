@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Who / What
 
-Giri ji is a factory owner from Mumbai's outskirts and one of Gurudev's disciples. He appears across both *Aatma Sutra* and *The Guru of Gurus* as a case study in transformation and karmic consequence, and as a collaborator in Gurudev's greening work.
+Giri ji is originally from Mumbai and one of Gurudev's disciples. His life and conversations primarily centre around the mahaguru. He owns a farm in Mohammedpur, near Sector 7, Gurgaon, where he raises cattle; during Gurudev's lifetime, the produce from his farm was used in the langar. He appears across both *Aatma Sutra* and *The Guru of Gurus* as a case study in transformation and karmic consequence, and as a collaborator in Gurudev's greening work.
 
 ## Notable Stories
 

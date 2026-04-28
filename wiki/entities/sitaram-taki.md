@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Who / What
 
-Sitaram Taki ji is one of Gurudev's disciples, notable in *The Guru of Gurus* as the most frequent witness to Gurudev's astral departures — and as a healer who assisted at the Renuka seva camp.
+Sitaram Taki ji is an imposing personality and one of Gurudev's devoted disciples. He worked for the **Bank of America** but, as Hingori puts it, personally banked on Gurudev. He was always willing to help, serve, and contribute. He is notable in *The Guru of Gurus* as the most frequent witness to Gurudev's astral departures — and as a healer who assisted at the Renuka seva camp.
 
 ## Notable Stories
 

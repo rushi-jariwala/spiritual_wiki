@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Who
 
-Rajpal ji is a disciple of Gurudev, named in the Healing chapter of *The Guru of Gurus*. He appears in two distinct episodes that illuminate key aspects of Gurudev's approach to healing and to discipline in seva.
+Rajpal ji is an imposing, well-spoken disciple of Gurudev with a distinct sense of style — complete with suspenders, attractive in speech, body, and persona. Hingori describes him as *"a disciple in the mould of Don Juan."* He has been doing seva at Punjabi Bagh for nearly four decades and was a favourite of Gurudev. He appears in two distinct episodes that illuminate key aspects of Gurudev's approach to healing and to discipline in seva.
 
 ## Notable Stories
 

@@ -25,12 +25,13 @@ Otherwise:
 
 Read **all** of the following before writing a word:
 
+- `wiki/blog/index.md` → load the `## Stories Used` list. These stories should be avoided as it can be repetitive to audience. It can still be used if atleast 3 months have passed by or absoultely necessary to explain a concept.
 - `wiki/concepts/<slug>.md` — the full concept page
-- Every `wiki/stories/` page linked from that concept (read them all)
+- Every `wiki/stories/` page linked from that concept (read them all), skipping those on the used list
 - The most relevant `wiki/quotes/<theme>.md` file(s)
 - `wiki/analogies.md` — scan for analogies tagged to this concept
 
-Minimum haul before writing: **2 distinct stories**, **2–3 quotes**, **1 analogy**.
+Minimum haul before writing: **2 distinct stories not on the used list**, **2–3 quotes**, **1 analogy**.
 
 ---
 
@@ -89,10 +90,16 @@ Save to: `wiki/blog/YYYY-MM-DD-<concept-slug>.md` (use today's date).
 
 ## Step 5 — Update the blog index
 
-Append one line to `wiki/blog/index.md` under the `---` separator:
+Append one line to `wiki/blog/index.md` under the `---` separator (before `## Stories Used`):
 
 ```
 - [[blog/YYYY-MM-DD-<slug>|YYYY-MM-DD — <Post Title>]] — one-line description of the theme
+```
+
+Then append each story used in this post to the `## Stories Used` section in the same file:
+
+```
+- `<story-slug>` — <concept> (<YYYY-MM-DD>)
 ```
 
 ---

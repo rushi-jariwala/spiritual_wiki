@@ -15,7 +15,7 @@ updated: 2026-04-25
 
 **Satish ji**, affectionately known as **Chacha** (uncle) by Gurudev's disciples, was Gurudev's younger brother. He adored Gurudev and addressed him reverently as **Papaji**. Gurudev bestowed spiritual powers on him and instructed him to undertake seva at **Hariana** and oversee his farm at **Khandsa**.
 
-He grew into a tall and handsome man with a naughty glint in his eyes. He is survived by his wife, **Snehlata**, and two sons.
+He grew into a tall and handsome man with a naughty glint in his eyes and an endearing sense of humour. He was in awe of his older brother's spiritual stature. He is survived by his wife, **Snehlata** (also known as Chachi ji), and two sons.
 
 ## The Casualist
 

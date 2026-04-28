@@ -291,7 +291,12 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Blog
 
-- [[blog/index]] — All posts
+- [[blog/index|Blog]] — All posts
+- [[blog/2026-04-27-self-worship|2026-04-27 — The God in Your Mirror]] — Self-Worship: recognizing the inner divinity
+- [[blog/2026-04-28-samskars|2026-04-28 — The Oldest To-Do List in the World]] — Samskars: the storage mechanism of karma, carried across lives and either exhausted or re-encoded
+- [[blog/2026-04-28-koshas-manomaya|2026-04-28 — The Villain in the Middle]] — Manomaya Kosha: the mind body that names, claims, and mistakes its constructions for the self
+- [[blog/2026-04-27-seva|2026-04-27 — The Fruit Is in the Giving]] — Seva: selfless service and its compounding power
+- [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 
 ---
 

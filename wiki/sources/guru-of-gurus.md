@@ -55,7 +55,7 @@ updated: 2026-04-25
 | | Spiritual Hygiene | 213–217 | ✅ ingested 2026-04-26 |
 | **HEALING** | — | 218–230 | ✅ ingested 2026-04-26 |
 | **SUPERNATURE** | — | 231–248 | ✅ ingested 2026-04-27 |
-| **WHO'S WHO** | — | 249–262 | ⬜ pending |
+| **WHO'S WHO** | — | 249–262 | ✅ ingested 2026-04-28 |
 | **GLOSSARY** | — | 263–276 | ⬜ pending |
 
 ## Table of Contents (Full)
@@ -511,6 +511,118 @@ updated: 2026-04-25
 
 - [[concepts/supernature]] — the mahaguru's transcendent nature; the supernature-destiny inversion
 - [[concepts/power-symbols]] — the Shiv-parivaar symbols on his body; meanings; transfer mechanisms
+
+## Cast of People (Who's Who, pp.249–262)
+
+The Who's Who is described as "an Almanac of people, illustrious in disposition, from varied backgrounds, who rose like phoenixes to become super saints under the mahaguru's tutelage. Although from higher lokas, they converged together on earth to become part of his mission." All who appear in the book are listed alphabetically.
+
+People with existing entity pages are noted with a link. All others are recorded here for reference.
+
+**A**
+- **Abhay Taneja** — a yogi incarnate who waited ~100 years in spirit form for the mahaguru to grant him human birth. A hotelier by profession and soccer fan by choice; his spiritual inclinations are gradually coming to the fore. Born of the yogi spirit that sought out Shobha Taneja ji at Bathri. See [[stories/bathri-yogi-immaculate-birth]].
+- **Amichand ji** — oversaw a sthan at Kotla; epitomised decency and served many people with zeal. Distinguishing feature: slept in the same position as a Muslim performing namaaz — a habit from childhood.
+- **Anand Parashar ji** — Gurudev's junior at the workplace; observed the mahaguru at the office and at camps; eventually became an ardent devotee.
+- **Alka ji** — Gurudev's youngest daughter; simple but chirpy; known for her wit and sense of humour.
+- **Ashok Bhalla ji** — astute businessman; prone to extreme anger in younger days; chiselled by the mahaguru's persistence into a calm, peace-loving spiritual brigadier. See [[stories/ashok-bhalla-anger-invisible-force]].
+
+**B**
+- **Bagga Saheb** — managed a sthan in Hamirpur with his wife; failed one of Gurudev's tests (did not recognise Augarh in the guise of an older man — an incident that made the mahaguru laugh); otherwise a sincere sevadaar with a pure heart.
+- **Bakshi ji** — oversees the Shimla sthan; former Himachal Pradesh Ministry employee; served people for over four decades; intelligent with an engaging conversational style; influence extends to several hamlets around Shimla. Received astral navigation training from the mahaguru (*Supernature* chapter).
+- **Baljeet ji** — sacrificed time, effort, and wealth to pursue spirituality; responsible for constructing Neelkanth Dham and the sthan at Sector-10, Gurgaon; goes to the sthan at 5:30 am every day to light a diya.
+- **Bhagat Ram ji** — Gurudev's father; a good-hearted chemicals trader; partially successful commercially; a powerful personality.
+- **Billu ji** — confirmed alcoholic who could not give up drinking despite genuine attempts; the mahaguru adored him and "left no stone unturned." After Gurudev's death Billu ji achieved what he could not manage while his guru was alive: he became a teetotaller. Estimated to have sacrificed 18,000 bottles or more since Gurudev's passing.
+- **Bimla ji** — Gurudev's eldest sister; strict with him in childhood, constantly watching for his mischievous antics; often the butt of his jokes; shared his extraordinary sense of humour. Mother of Gaggu ji.
+- **[[entities/bittu|Bittu ji]]** — met Gurudev at fourteen; volunteered for sthan administration; ensured crowds were well-managed in Gurgaon.
+
+**C**
+- **[[entities/chacha|Chacha ji / Satish ji]]** — Gurudev's younger brother; handsome, sweet-natured, endearing sense of humour; powerful spiritualist who survived tantrik attacks with near-total nonchalance; died 2 Aug 1988.
+- **Chachi ji / Snehlata ji** — Satish ji's wife; oversees the temple and the sthan Gurudev built in Hariana.
+- **Chandramani Vashisht ji** — managed the sthan at Renuka; local politician; made numerous improvements to the Renuka temples; introduced many people to spirituality. Recipient of life-extension via wristwatch (*Entrepreneur Extraordinaire* chapter).
+- **Charan Singh ji** — head of the Radha Soami Satsang Beas during Gurudev's time; accomplished spiritualist; on a couple of occasions his wife sought the mahaguru's advice on personal matters. His daughter's tumour receded after sipped water. See [[stories/charan-singh-daughter-cancer]].
+
+**D**
+- **Das Saheb** — former lawyer; deeply committed to public service in Chandigarh and Ambala. Gurudev told him: *"When people come to meet me, their past, present and future flashes on a screen in my mind."* See [[concepts/supernature]].
+- **[[entities/dr-shankarnarayan|Dr Shankarnarayan]]** — Gurudev's co-work colleague; oversaw the sthan's community kitchen; ran a sthan in Bangalore for decades; first to call Gurudev "Guruji."
+- **Dwarkanath ji** — Gurudev's landlord and friend; shared a 120 sq ft room with Gurudev and Nagpal ji for nearly five years; transitioned from seeing Gurudev as a tenant to worshipping him as a guru. See [[stories/gurudev-kl-nagpal-jigsaw]].
+
+**F**
+- **FC Sharma ji** — Gurudev's mild-mannered work colleague; rose to senior disciple; personified simple living and high thinking; involved in seva until his last breath without taking credit. *"In his way of being, he taught me the value of humility."* — Hingori. Recalled Gurudev's teaching on emotions in the Mental Hygiene chapter.
+
+**G**
+- **Gaggu ji** — Gurudev's nephew; son of Bimla ji; golden-hearted with a mischievous streak; one of the four musketeers; affectionately referred to Gurudev as 'Uncle ji'; occasionally bullied him with great affection.
+- **[[entities/giri|Giri ji]]** — originally from Mumbai; owns a farm in Mohammedpur raising cattle; farm produce used in the langar; spent many years with the mahaguru.
+- **Guddan ji** — came initially as a patient, then became a disciple; has co-managed the sthan in Kanpur with her brother Surender ji since 1974; neither pretence nor pride can be ascribed to her. See [[stories/guddan-barfi-healing]].
+- **Gupta ji (Parwanoo)** — runs a sthan in Parwanoo, Himachal Pradesh; known as *kade wala mahatma*; every Bada Guruvar serves long queues from morning to night without break; enthusiasm undimmed after nearly forty years of seva. Saw Gurudev's dwarfed form (*Supernature* chapter).
+
+**H**
+- **Haribabu Gupta (Gupta ji)** — well-known for his tea and juice stall near Gurudev's office; the stall served as a gathering place for devotees; served as Gurudev's aide-de-escape — rescuing the mahaguru from crowds, helmet in hand, scooter in motion. On his last day of work, Gurudev handed him his ID card, which Gupta ji keeps as a memento.
+- **Harish ji** — disciple from Hariana, the mahaguru's hometown; tending to devotees there for more than three decades.
+
+**I**
+- **Illa ji** — Gurudev's second daughter; inherited her father's sense of humour; fun-loving with a naughty sparkle in her eyes.
+- **Indu ji** — no ordinary woman; dedicated to seva till her dying breath; all who knew her believe she was a saint; noted for caring attitude, willingness to share, and ability to serve with a smile. Appears in [[stories/gurudev-indu-subzi-mussoorie]].
+
+**J**
+- **Jain Saheb (Bade Jain Saheb)** — remarkable man with an unusual destiny; Gurudev's friend from work, later one of his most powerful disciples. Fate dealt him a lousy hand — his spiritual journey came to an abrupt halt when his inflated ego refused to surrender. Gurudev eventually forgave him. A high point: darshan of a manifestation of Shiv emerging from a ceramic idol of Shankar at his home. Hingori: *"The power he attained through the mahaguru's grace influenced his mind by inflating his ego rather than causing him to surrender."*
+
+**K**
+- **Kulbir Sethi ji (Papaji)** — Gurudev's first disciple in Mumbai; appointed head of the city's first sthan (all Mumbai sthans are offshoots). Gurudev miraculously cured his younger brother Yash, who recovered eighty per cent of his strength from stretcher to climbing steps after renowned medical institutions had given up.
+- **Kundanlal Sahani ji** — lived in Dwarkanath ji's neighbourhood; enjoyed spending time with Gurudev; later became a devotee.
+- **Kwatra ji** — Gurudev's neighbour in Gurgaon; not easily persuaded; once he realised Gurudev's greatness, became a daily visitor to the sthan. Saw pure light (Gurudev's true form) — mentioned in the Supernature chapter.
+
+**M**
+- **[[entities/rc-malhotra|Malhotra ji / RC Malhotra ji]]** — Gurudev's first disciple; began as office acquaintances, progressed to friends; not as devoted to Gurudev as to his gurubhais — fought with the mahaguru almost constantly to ensure more time with them; affectionately known as Chote Guruji.
+- **[[entities/mataji|Mataji]]** — Gurudev's wife; schoolteacher; on her feet at work and seva at least 18 hours daily; entire life marked by self-sacrifice. *"Outside of fiction, such a wife does not exist!"* — Hingori.
+- **Mohan Singh Chira ji** — a real person described as *"like the fictional Luca Brasi"*; used by Gurudev for dangerous spiritual work against negative spirits; rude and crude by default; served as a litmus test for disciples; Hingori's first friend in Gurgaon, who taught him many tricks of the trade. See [[stories/hingori-chira-self-esteem]].
+
+**N**
+- **Nagpal ji (Kundanlal Nagpal)** — Gurudev's roommate, associate in the soil survey department, and co-worker at camps. Hingori: *"Vice President of the complaints department and General Manager in the 'Let me do your work for you' department."* The mahaguru was diplomatic and appreciative of his efforts. See [[stories/gurudev-kl-nagpal-jigsaw]].
+- **Narender ji** — bureaucrat; along with elder brother Virender ji was a frequent visitor to the sthan; well-liked by Gurudev; continues seva to this day; performs the Rudra Abhishek Yagya in Rishikesh annually in honour of his guru.
+- **Nikku ji** — Mataji's nephew; practically abducted by Gurudev from his Ludhiana family home; stayed at the sthan for a decade or more; served with incredible sincerity, humour, and shenanigans; one of the four musketeers; a charming, kind-hearted soul.
+
+**P**
+- **Pappu ji (Gurgaon)** — a permanent fixture in Gurgaon; one of the four musketeers alongside Nikku and Gaggu; clean-hearted, fair-minded, not easily influenced; did his duty with great diligence.
+- **Pappu Pahadia (Pappu ji)** — Shambhu ji's son; based in Jwalamukhi but preferred to live in Gurudev's house; spent significant time there; Gurudev adored him; a devout proponent of guru culture; saved from tantrik fireballs by his deceased father Shambhu ji. See [[stories/pappu-shambhuji-flames]].
+- **Parvesh ji (Babba)** — Gurudev's elder son; doing seva since childhood; head of the sthan at Sector-7, Gurgaon; said to be the reincarnation of Gurudev's grandfather.
+- **Pehalwan ji** — the most devout sevadaar Hingori has ever met; worked at the Khandsa farm for over three decades ensuring vegetables, milk, and milk products for the sthan's use and surplus.
+- **Pradeep Sethi ji** — performs seva in Mumbai and Lonavala; his wife is Pooncho ji, Rajpal ji's daughter; their daughter is Pragya.
+- **Pratap Singh ji** — Gurudev's boss; an atheist with no faith in anyone but admired Gurudev for his kindness and willingness to serve everyone.
+- **Puneet ji (Nitu / Pandit ji)** — Gurudev's younger son; affectionately called Nitu; Gurudev referred to him as Pandit ji; said to be a reincarnation of Gurudev's father; most endearing trait: the mischievous sparkle in his eyes.
+- **[[entities/puranji|Puran ji]]** — mighty saint; important part of the Gurgaon sthan for over a decade; Gurudev treated him like a son; also served as Gurudev's emissary in Hingori's dream state.
+
+**R**
+- **Ram Pyari ji** — Gurudev's mother; devoted to him; he held her in very high regard.
+- **Ramnath ji** — teacher at a local school in Kathog; not a complete believer but fascinated by Gurudev; visited him in Gurgaon; described as a wonderful gentleman.
+- **Raji Kapoor ji** — modest, gentle, meek devotee; frequently seen at Gurgaon; fortunate to have had some wonderful experiences with Gurudev. Present at the Mahashivratri 1974 five-headed-form vision — noted that Shambhu ji's extra years were not taken away. See [[stories/shambhuji-five-headed-form]].
+- **Raji Sharma ji** — long a favourite of Gurudev; very knowledgeable and well-versed in scripture; golden heart; Gurudev's eyes would light up whenever he visited. Source of envy for those tilling the Khandsa soil — he was travelling the world instead.
+- **[[entities/rajpal|Rajpal ji]]** — imposing, well-spoken; distinct sense of style (suspenders, etc.); *"disciple in the mould of Don Juan"*; doing seva at Punjabi Bagh for nearly four decades; a favourite of Gurudev.
+- **Ravi Trehan ji (Ravi ji)** — has known Gurudev for many lifetimes; the mahaguru gave him glimpses of some of their previous lives; was Malhotra ji's younger brother in his last incarnation; served people for over four decades; currently manages a sthan in Kirti Nagar, Delhi. Gurudev told him: *"You take away the pain of so many people. Sometimes a fraction of that pain has to be borne by you too."*
+- **Renu ji** — Gurudev's eldest daughter; raised almost all her younger siblings since her parents were occupied from morning to night; became a serious person under the weight of that responsibility; can now tell the difference between father and guru — a *stereophonic* relationship with the being we call Gurudev.
+- **Rudra ji** — Nikku ji's father and Gurudev's brother-in-law (he chose Gurudev as husband for his sister Mataji); uniquely unaware that his brother-in-law was a guru, let alone a mahaguru; one of the most adorable brothers-in-law in Hingori's estimation.
+- **RP Sharma ji** — Gurudev's colleague; became an integral part of the mahaguru's brigade; tough, big, and strong; could confront and resolve almost any spiritual issue people faced. Lifted the disabled girl at Renuka. See [[stories/renuka-disabled-girl]].
+
+**S**
+- **Santlal ji** — head of a sthan in Sonipat; fearless spiritualist; did spiritual duties with incredible zeal; entrusted by Gurudev with sthan administration and planning at senior level; spent over four decades serving the people of Sonipat and surrounding areas. Received astral navigation training from the mahaguru.
+- **Shobha Taneja ji** — a legend in her own right; brave enough to go to Gurudev and demand things, which he would always grant generously; the yogi spirit sought her out at Bathri for Abhay Taneja's birth. See [[stories/bathri-yogi-immaculate-birth]].
+- **Shambhu ji** — father of Pappu Pahadia; trustee of the Jwalamukhi temple; inducted into guruism at Kathog; frequently coerced Gurudev into granting supernatural experiences; reborn as Pappu Pahadia's son after his death and now works in the hospitality industry in Australia. Witnessed Gurudev's five-headed form. See [[stories/shambhuji-five-headed-form]].
+- **[[entities/sitaram-taki|Sitaram Taki ji]]** — imposing personality; worked for the Bank of America; *"personally banked on Gurudev"*; always willing to help and serve; primary eyewitness to Gurudev's astral departures.
+- **Subbhash Sabharwal ji (Subbhash ji)** — Gurudev's classmate from Hariana; spent several years assisting in the administration of the Gurgaon sthan; not spiritually inclined but very Gurudev-inclined — *"And it was this that set him apart."*
+- **Sunil ji (London)** — a visitor to the sthan; married the daughter of Wing Commander Verma, a disciple of Gurudev.
+- **Suraj Sharma ji** — Gurudev's office personnel; spiritually transformed by the mahaguru; a devoted office worker and sevadaar.
+- **Surender ji (Kanpur)** — first sthan established after Gurgaon was his; Hingori admired him for being so straightforward, humble, and successful in spiritual work. Also co-managed the Kanpur sthan with his sister Guddan ji.
+- **Surender Taneja ji** — impressed Hingori most of all Gurudev's disciples; never minced words; lacked diplomacy; always eager to assist everyone; Gurudev spent a lot of time with him; drove Gurudev from work to Gurgaon almost every other day; *"exemplified what it meant to be a disciple."* His wife is Shobha ji.
+- **Suresh Kohli ji** — seasoned veteran assigned seva at Kathog; served tens of thousands at the camp; lives in Sunet village near Kathog; holds an extraordinary collection of anecdotes from his time with Gurudev. Received a 7-night vision of Gurudev's form before being initiated as a healer overnight via jal. See [[stories/kathog-suresh-kohli-vision]].
+- **Suresh Prabhu ji** — arrived at Gurgaon as a simple Chartered Accountant; Gurudev foresaw him becoming a well-known politician recognised the world over — told to him decades before it occurred.
+- **Surinder Kaushal ji** — runs a sthan in Chicago; led to the sthan by a vision of Guru Gobind Singh. Gurudev told him: *"OM is the sound that created everything in the universe. OM is the guru. When you chant OM, you chant my name, and when you think of OM, you think of me."* — (*The Guru of Gurus*, p.181). Received astral touches to all planets.
+- **Sushila Choudhary ji** — worked in Gurudev's office; her husband was agnostic but became a believer after seeing healing miracles at a camp; eventually became a devotee; Gurudev established a sthan in Patel Nagar through him which still operates. See [[stories/sushila-four-children-prophecy]].
+
+**U**
+- **Uddhav ji** — police officer; came to Gurudev when very young; served sincerely at Kulbir ji's sthan in Mumbai; known for his spiritual curiosity — the mahaguru would tire of providing answers to his many questions; now resides in New Zealand. Gurudev intervened astrally to save his life from two black triangles. See [[stories/uddhav-ji-black-triangles]].
+
+**V**
+- **Virender ji** — judge in Haryana; became devoted after Gurudev cured his wife; unafraid of hard labour — came to Khandsa farm in Barrister white and left in muddy clothes; mentioned in the Brighu Samhita. Visited the Brighu Samhita reader alongside Narender ji after Gurudev's death. See [[stories/gurudev-brighu-samhita-after-death]].
+- **Vishwamitra ji** — gentle, shy, and unassuming disciple usually assigned kitchen seva at the Gurgaon sthan; runs a sthan at Mukerian in Punjab. (*Not to be confused with the ancient sage [[entities/vishvamitra]].*) Decreed four newborns of his family cancer-free, which came to pass. See [[stories/vishwamitraj-blood-cancer-babies]].
+- **VP Sharma ji (Captain Sharma)** — received the jyot in front of thirty-odd people at the Khar sthan in Mumbai; initiated into spirituality via a visible flame entering the window; difficult to defeat in a spiritual debate; occasionally said something harsh and bore the consequences. See [[concepts/power-symbols]].
 
 ## Contradictions / Tensions
 

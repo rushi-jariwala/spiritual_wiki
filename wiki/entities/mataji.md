@@ -59,7 +59,7 @@ Mataji was not only a supporter — she was a **spiritual force in her own right
 
 ## Legacy of Seva
 
-Mataji's unwavering dedication carried forward Gurudev's legacy of nisvarth seva after he passed into the beyond. Her commitment to his cause reflected her undying love for her husband and his selfless work.
+Mataji's unwavering dedication carried forward Gurudev's legacy of nisvarth seva after he passed into the beyond. Her commitment to his cause reflected her undying love for her husband and his selfless work. She was on her feet at work and seva for at least eighteen hours every day; her entire life was marked by self-sacrifice. Hingori's verdict: *"Outside of fiction, such a wife does not exist!"* (*The Guru of Gurus*, Who's Who, p.255)
 
 She passed away in **May 2014.** On the hour of her death, the stars were auspiciously aligned. It was a queen's muhurat given to very few — indicating her exalted spiritual status.
 

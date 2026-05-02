@@ -122,7 +122,7 @@ Hingori documents a progressive sequence of astral travel experiences under Guru
 - [[stories/hingori-gati-malhotra]]
 - [[stories/hingori-fan-ankle]]
 - [[stories/hingori-bina-station-temple]] — body convulses at Bina station temple; explains why Gurudev avoided Shiv temples
-- [[stories/hingori-renuka-temple-attack]] — punished by Parshuramji for stealing temple energy; saved by Devi Renuka
+- [[stories/hingori-renuka-temple-attack]] — punished by Parshuramji for attempting to absorb energy from his disciple's temple; saved by **Devi Renuka** (Hindu deity, mother of Parshuram, associated with Renuka Lake in Himachal Pradesh), who appeared in a vision and touched his head, dispelling the attack
 - [[stories/giri-blister-healing]] — Hingori arranges black magic clearing; witness to Giri's face-shaped blister
 - [[stories/hingori-meat-chopper-guilt]] — guilt dissolves through a divine voice; the founding personal experience of self-acceptance
 - [[stories/hingori-neena-two-guilts]] — lies to cousin Neena; two guilts cancel each other; Gurudev's silent coordination

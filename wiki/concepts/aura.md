@@ -113,7 +113,7 @@ See also [[stories/giri-blister-healing]] — negative energy magnetised from a 
 > I learned the golden rule that energy was better earned than stolen.
 > — Hingori, *Aatma Sutra*, Ch.X, p.120
 
-See [[stories/hingori-renuka-temple-attack]] for the full account of Hingori's punishment at Renuka and rescue by [[entities/devi-renuka]].
+See [[stories/hingori-renuka-temple-attack]] for the full account of Hingori's punishment at Renuka and rescue by **Devi Renuka** (the Hindu deity, mother of Parshuram).
 
 ---
 

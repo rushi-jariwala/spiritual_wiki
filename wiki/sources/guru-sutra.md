@@ -101,7 +101,7 @@ updated: 2026-05-02
 - **Siddh guru** as distinct qualified type — see [[concepts/guru-disciple]]
 - **Guna-based taxonomy of gurus** (tamasic / rajasic / sattvic) — see [[concepts/guru-disciple]], [[concepts/gunas]]
 - **Tantra as spiritual science** — neither positive nor negative — see [[concepts/tantra]]
-- **Guru as concept, not person** — Eklavya case — see [[entities/eklavya]]
+- **Guru as concept, not person** — Eklavya case (archer from *The Mahabharat* who trained before a clay statue of Dronacharya) — see [[concepts/guru-disciple]]
 - **Gurukul System** — three-route path: scriptures, mantra vidya, mentorship — see [[concepts/guru-disciple]]
 - **Mantra Vidya** — science of mantras; asana requirements, macrocosmic/microcosmic Golden Principle, dual-use, energy-dissipation dynamics — see [[concepts/tantra]]
 - **Yantra** — occult mystical diagrams; one of three gurukul disciplines — see [[concepts/tantra]]
@@ -138,4 +138,4 @@ updated: 2026-05-02
 > The same phrase appears twice in the *Guru Sutra*: Ch.1 describes what happens when a disciple accepts both guru and self on an "as-is-where-is basis" after the guru accepts them. Ch.4 gives the origin story — the phrase arose inside Hingori as his spirit's own verdict, not as received doctrine. The teaching and the inner realisation are the same event at different points in time.
 
 > [!warning] Swami Rama's boat analogy vs. Hingori's tradition of deep guru-veneration
-> Swami Rama insists "anyone who establishes himself as a guru to be worshipped is not a guru" and advocates discarding the guru after liberation, like discarding a boat. Hingori explicitly flags this as "an extreme view, harsher than warranted." In Hingori's tradition, Gurudev is venerated continuously — both during his lifetime and posthumously — as the very doorway to the consciousness supreme. The tension is not resolved; Hingori includes Swami Rama's view as a valid counterpoint while living a contrary practice. See [[entities/swami-rama]].
+> Swami Rama insists "anyone who establishes himself as a guru to be worshipped is not a guru" and advocates discarding the guru after liberation, like discarding a boat. Hingori explicitly flags this as "an extreme view, harsher than warranted." In Hingori's tradition, Gurudev is venerated continuously — both during his lifetime and posthumously — as the very doorway to the consciousness supreme. The tension is not resolved; Hingori includes Swami Rama's view as a valid counterpoint while living a contrary practice. See [[concepts/guru-disciple]] (Swami Rama's Boat Analogy subsection).

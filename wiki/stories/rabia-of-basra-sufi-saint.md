@@ -2,7 +2,7 @@
 title: Rabia of Basra — From Slave to Sufi Saint
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-acceptance]]", "[[entities/rabia-of-basra]]"]
+related: ["[[concepts/self-acceptance]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -20,4 +20,4 @@ Hingori, *Aatma Sutra*, Ch.XI, p.134
 ## Related Concepts / Entities
 
 - [[concepts/self-acceptance]] — used by Hingori as the exemplar of refusing self-blame despite extreme circumstances
-- [[entities/rabia-of-basra]] — the saint's biography stub
+- **Rabia of Basra** (c. 714–801 CE) — Sufi saint of Basra; keystone illustration in *Aatma Sutra* Ch.XI for self-acceptance without conditions; see [[concepts/self-acceptance]]

@@ -88,14 +88,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[guru-nanak]] — Example of realisation without a human sadguru
 - [[bhrigu]] — Ancient sage; author of the Bhrigu Nadi readings; evidence for destiny's readability
 - [[guru-vashisht]] — Ram's preceptor; source of Yog Vasishta teachings on Brahman, maya, and consciousness supreme
-- [[puranji]] — Gurudev's emissary; appeared in Hingori's dream state to call him for an astral tour
 - [[rc-malhotra]] — Senior-most disciple; taught Hingori gati (superfast astral travel) in a vision state
 - [[adi-shankaracharya]] — Founder of Advaita Vedanta; *Nirvana Shatakam* cited as classical expression of karm-mukt
-- [[devi-renuka]] — Hindu deity, mother of Parshuram; appeared in vision to Hingori and lifted Parshuramji's attack
-- [[rabia-of-basra]] — Sufi saint; sold as slave, prayed into *dhyaan*; freed after master saw ethereal lantern over her head
-- [[valmiki]] — Ancient sage and author of the Ramayan; was a bandit; Phase A-to-Z exemplar
-- [[vishvamitra]] — Arrogant king who through penance reached the title of brahmarishi; Phase A-to-Z exemplar
-- [[sant-tukaram]] — 17th-century Marathi saint-poet; verse on worship-through-any-image is the ground for Exercise 1 of self-worship
 - [[kapill]] — Recurring disciple at the Mumbai sthan; vision of Shiv as himself; gati experience at supersonic speed
 - [[chacha]] — Gurudev's younger brother; powerful spiritualist; defeated two tantriks; died 2 Aug 1988
 - [[buddhe-baba]] — Gurudev's mysterious spiritual mentor; omnipresent; identity never disclosed; possibly Shiv or Sitaram ji of Benaras
@@ -106,9 +100,6 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[dr-shankarnarayan]] — Senior colleague at IARI; first to call Gurudev "Guruji"; healed daughter Vaishali by throwing away medicines
 - [[giri]] — Factory owner, Mumbai; broken-hand karmic return; Mohammedpur greening (1988)
 - [[rajpal]] — Disciple; Heathrow airport exchange on healing authority; hoarse voice corrected and cured
-- [[eklavya]] — Archer from *The Mahabharat*; worshipped Dronacharya's statue; proof the guru is a concept, not just a person
-- [[sitaramji-dasua]] — Gurudev's early spiritual advisor; illustrates that even a mahaguru needed a teacher
-- [[swami-rama]] — Spiritual teacher; quoted for the boat analogy; represents a counterpoint to deep guru-veneration
 
 ---
 

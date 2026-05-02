@@ -2,7 +2,7 @@
 title: Self-Acceptance
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
-related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[entities/rabia-of-basra]]", "[[concepts/guru-disciple]]"]
+related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -44,7 +44,12 @@ Self-blame is the internal amplification of external obstacles. Girls who remain
 > *Karmas* are already lined up for fructification, so you have no choice but to accept them.
 > — Hingori, *Aatma Sutra*, Ch.XI, p.134
 
-See [[stories/rabia-of-basra-sufi-saint]] — sold as a slave, forced into prostitution, she refused to blame herself. She prayed herself into *dhyaan*, and her master freed her when he saw the ethereal lantern over her head. She became a great Sufi saint. Hingori's point: self-blame would have foreclosed all of that.
+**Rabia of Basra** (c. 714–801 CE), one of the most revered saints in the Sufi tradition, is Hingori's keystone illustration: sold into slavery, forced into prostitution during a famine, she refused to blame herself. She sustained prayer until she entered *dhyaan*; her master freed her after witnessing an ethereal lantern of light above her head. She went on to become a great Sufi saint.
+
+> "Despite the odds, she had confidence in herself and faith in the power she worshipped. Can we not emulate her self-confidence, or attempt to better it?"
+> — Hingori, *Aatma Sutra*, Ch.XI, p.134
+
+See [[stories/rabia-of-basra-sufi-saint]] for the full narrative. Hingori's point: self-blame would have foreclosed all of that.
 
 ## Guilt — The Double-Edged Sword
 
@@ -128,9 +133,9 @@ Self-acceptance generates self-like; self-like generates self-love; self-love th
 - [[concepts/doer-ship]] — guilt as the form doer-ship takes over bad deeds; mirror of pride over good deeds
 - [[concepts/samskars]] — guilt programs a self-punishment *samskar* at the unconscious level; shuddhi as the reversal
 - [[concepts/empathy]] — Ch.IX: empathy (accepting others as they are) is the prerequisite for self-acceptance
-- [[entities/rabia-of-basra]] — sufi saint who refused self-blame despite extreme circumstances
-- [[entities/valmiki]] — bandit to maharishi; Phase A-to-Z exemplar
-- [[entities/vishvamitra]] — arrogant king to brahmarishi; Phase A-to-Z exemplar
+- **Rabia of Basra** — Sufi saint (c. 714–801 CE) who refused self-blame despite extreme circumstances; see [[stories/rabia-of-basra-sufi-saint]]
+- **Valmiki** — ancient sage and author of the Ramayan; was a bandit in a former phase; Phase A-to-Z exemplar (*Aatma Sutra*, Ch.XII)
+- **Vishvamitra** — arrogant king who rose through penance to the title of *brahmarishi*; Phase A-to-Z exemplar (*Aatma Sutra*, Ch.XII)
 - [[stories/rajeev-alcoholic-to-saint]] — alcoholic who became a revered healer; Phase A-to-Z from Hingori's own circle
 - [[stories/hingori-meat-chopper-guilt]] — the founding personal experience of guilt dissolving through destiny acceptance
 - [[stories/rabia-of-basra-sufi-saint]]

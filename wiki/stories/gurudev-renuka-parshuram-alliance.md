@@ -2,7 +2,7 @@
 title: Gurudev and Parshuram Ji Form a Spiritual Alliance at Renuka
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/devi-renuka]]", "[[concepts/nisvarth-seva]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/nisvarth-seva]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -29,5 +29,5 @@ updated: 2026-04-26
 ## Related Concepts / Entities
 
 - [[entities/mahaguru]] — who arrived ten years later than planned; who formed alliances across sectarian and spiritual boundaries
-- [[entities/devi-renuka]] — the deity of the domain; Parshuram ji's mother; whose territory the seva entered
+- **Devi Renuka** — Hindu deity, mother of Parshuram ji; the presiding deity of the Renuka domain whose territory the seva entered
 - [[concepts/nisvarth-seva]] — the alliances are all in service of seva; no spiritual domain refused collaboration

@@ -24,7 +24,7 @@ Kapill often wondered what *gati* was, until he understood it directly in an out
 > "He felt like he was being propelled at supersonic speed, 'unimaginable, like a rocket'. He rapidly went through tunnels until he arrived at a room and noticed an amber-coloured light falling through a crack in the wall."
 > — Hingori on Kapill, *Aatma Sutra*, Ch.XIII, p.163
 
-## Related Concepts
+## Cross-references
 
 - [[concepts/self-worship]] — his vision is one of Hingori's primary examples of spiritual experience as a faith-builder for self-worship
 - [[concepts/astral-travel]] — the gati experience is a first-person demonstration of *gati* as described in Ch.VI

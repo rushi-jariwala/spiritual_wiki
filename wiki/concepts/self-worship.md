@@ -2,7 +2,7 @@
 title: Self-Worship
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-love]]", "[[concepts/self-acceptance]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/mukti]]", "[[entities/hingori]]", "[[entities/guru-vashisht]]", "[[entities/sant-tukaram]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/self-love]]", "[[concepts/self-acceptance]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/mukti]]", "[[entities/hingori]]", "[[entities/guru-vashisht]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -49,6 +49,8 @@ From Genesis 1:27: *"God created man in his own image."* From Adi Shankaracharya
 The mind and intellect — the only tools of normal perception — cannot themselves apprehend what lies beyond them. Hingori's response: have faith. Spiritual experiences, visions, and dreams serve as faith-builders that progressively open the seeker to self-worship. See [[concepts/self-worship#Dreams and Visions as Faith-Builders]].
 
 ### Sant Tukaram's Formula
+
+**Sant Tukaram** (c. 1598–1650), the Marathi saint-poet and devotee of Vitthal, one of the most revered poet-saints of the Bhakti movement, gives Hingori his formula:
 
 > "I made an earthen image of Shiva, but the Earth is not Shiva; My worship reaches Shiva, the Earth remains the Earth it was..."
 > — Sant Tukaram, quoted in *Aatma Sutra*, Ch.XIV, p.173
@@ -153,7 +155,7 @@ Self-worship and seva build *cosmic currency* — the aura/shakti that the spiri
 - [[concepts/jivaatma]] — the object of self-worship; the fragment of parmaatma within each being
 - [[concepts/mukti]] — self-worship accelerates approach to mukti by breaking identification with physical identity
 - [[entities/guru-vashisht]] — source of the philosophical ground: "what you perceive outside is within you"
-- [[entities/sant-tukaram]] — the conduit-pipe analogy; worship passes through any image to the real
+- **Sant Tukaram** (c. 1598–1650) — Marathi Bhakti poet; his conduit-pipe verse is the theological ground for Exercise 1; see [[stories/sant-tukaram-worship-poem]]
 - [[stories/rajee-shiv-darshan]]
 - [[stories/kapill-shiv-in-himself]]
 - [[stories/hingori-badrinath-brother]]

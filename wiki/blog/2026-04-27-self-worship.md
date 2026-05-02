@@ -4,7 +4,7 @@ date: 2026-04-27
 type: blog-post
 theme: self-worship
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/jivaatma]]", "[[entities/sant-tukaram]]"]
+related: ["[[concepts/self-worship]]", "[[concepts/jivaatma]]"]
 created: 2026-04-27
 updated: 2026-04-27
 ---

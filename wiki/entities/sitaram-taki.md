@@ -26,6 +26,15 @@ Sitaram Taki ji is an imposing personality and one of Gurudev's devoted disciple
 
 At the Renuka camp (1980), Sitaram ji assisted in healing a young girl who could not stand. On Gurudev's advice, he stood on the girl's toes while another disciple lifted her by her hands. The girl stood and walked for the first time. Her parents wept with gratitude. See [[stories/renuka-disabled-girl]].
 
+## Quotes
+
+> "What have you people done to me? I'm stumbling all over the place because I've got desi ghee all over my body!"
+> — Gurudev on reviving from astral departure, *The Guru of Gurus*
+
+## Sources
+
+- *The Guru of Gurus*, The Mahaguru chapter
+
 ## Cross-references
 
 - [[entities/mahaguru]] — the guru whose astral departures Sitaram ji witnessed

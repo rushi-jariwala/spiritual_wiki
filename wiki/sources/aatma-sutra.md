@@ -2,7 +2,7 @@
 title: Aatma Sutra — Unveiling Your Soul
 type: source
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[entities/puranji]]", "[[entities/rc-malhotra]]", "[[entities/bhrigu]]", "[[entities/guru-vashisht]]", "[[entities/sant-tukaram]]", "[[entities/valmiki]]", "[[entities/vishvamitra]]", "[[entities/kapill]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/mukti]]", "[[concepts/isthul-sharir]]", "[[concepts/sukshma-sharir]]", "[[concepts/aura]]", "[[concepts/maya]]", "[[concepts/self-acceptance]]", "[[concepts/self-love]]", "[[concepts/self-worship]]"]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[entities/bhrigu]]", "[[entities/guru-vashisht]]", "[[entities/kapill]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/mukti]]", "[[concepts/isthul-sharir]]", "[[concepts/sukshma-sharir]]", "[[concepts/aura]]", "[[concepts/maya]]", "[[concepts/self-acceptance]]", "[[concepts/self-love]]", "[[concepts/self-worship]]"]
 created: 2026-04-16
 updated: 2026-04-18
 ---
@@ -79,7 +79,7 @@ Structured in three parts:
 - **From tree to orchard**: Gurudev's full life portrait — Ministry of Agriculture by day; 50–100 daily visitors; 30,000 on *Bada Guruvar*; 100+ *sthans*; *paath* at night; 3–4 million directly served; 100+ disciples trained in spiritual healing; third generation active. The mission of self-replacement.
 - **Self-healing by atheist (John)**: blood cancer; refuses god and temples; Hingori's condition — light a candle, pray to yourself 5 min twice daily; alive 20 years later. [[stories/john-atheist-self-healing]]
 - **Cosmic currency**: aura/shakti as post-death wealth; spirit body needs it for astral living and *gati*; charity in name of ancestors adds to their cosmic currency. [[concepts/aura]]
-- **Sant Tukaram's poem**: "I made an earthen image of Shiva, but the Earth is not Shiva… the saint is but His servant, an instrument, a conduit pipe." — Tukaram's formula for why worship passes through any image (including a photograph of oneself) to the real. [[stories/sant-tukaram-worship-poem]], [[entities/sant-tukaram]]
+- **Sant Tukaram's poem**: "I made an earthen image of Shiva, but the Earth is not Shiva… the saint is but His servant, an instrument, a conduit pipe." — Tukaram's formula for why worship passes through any image (including a photograph of oneself) to the real. [[stories/sant-tukaram-worship-poem]]
 - **Closing poem**: Hingori's "I am the God to whom we all pray / Though I may not know of it today" — the book's final word; spoken from the gap between knowing and experiencing; ending on "the we." [[stories/hingori-closing-poem]]
 
 ## Notable Quotes (Ch. XIV)
@@ -110,7 +110,7 @@ Structured in three parts:
 ## New Concepts / Entities (Ch. XIV)
 
 - [[concepts/self-worship]] — substantially extended (three exercises, non-doership reconciliation, Gurudev exemplar, John story, cosmic currency, two gates)
-- [[entities/sant-tukaram]] — entity stub created
+- **Sant Tukaram** — merged inline into [[concepts/self-worship]] and [[stories/sant-tukaram-worship-poem]]
 - [[entities/kapill]] — entity page created (recurring disciple; gati experience and Shiv vision)
 
 ## Key Themes (Ch. XIII)
@@ -185,8 +185,8 @@ Structured in three parts:
 ## New Concepts / Entities (Ch. XII)
 
 - [[concepts/self-love]] — created; Ch.XII is its primary source
-- [[entities/valmiki]] — entity stub created
-- [[entities/vishvamitra]] — entity stub created
+- **Valmiki** — merged inline into [[concepts/self-love]] (Phase A-to-Z section)
+- **Vishvamitra** — merged inline into [[concepts/self-love]] (Phase A-to-Z section)
 
 ## Contradictions / Tensions (Ch. XII–XIV)
 
@@ -236,7 +236,7 @@ Structured in three parts:
 ## New Concepts / Entities (Ch. XI)
 
 - [[concepts/self-acceptance]] — concept page created; Ch.XI is its primary source
-- [[entities/rabia-of-basra]] — entity stub created
+- **Rabia of Basra** — merged inline into [[concepts/self-acceptance]] (Self-Blame section) and [[stories/rabia-of-basra-sufi-saint]]
 
 ## Contradictions / Tensions (Ch. XI)
 
@@ -255,7 +255,7 @@ Structured in three parts:
 - **Animal aura**: bear water (weak legs), crow curd (delayed speech), black dog (household negativity); plant-body visual resemblance as pointer to aural affinity (walnut/brain, papaya/stomach, almond/eyes). [[concepts/aura]]
 - **The Bluetooth Principle**: thinking of someone creates a remote connection; criticising absorbs their qualities; praising does the same; meditation on animals instils their qualities. Golden Rule: "What you meditate upon, that you become." [[concepts/aura]], [[concepts/pratipakshbhavana]]
 - **Aura as the final balance sheet**: closing thesis — aura is the only asset carried forward across deaths; armour against illness and spiritual attack; "your ethereal wealth and the stock-in-trade of your final balance sheet." [[concepts/aura]]
-- Personal testimonies: [[stories/hingori-renuka-temple-attack]] (attacked by Parshuramji's force, saved by [[entities/devi-renuka]]); [[stories/giri-blister-healing]] (blister manifests negative energy drawn from house)
+- Personal testimonies: [[stories/hingori-renuka-temple-attack]] (attacked by Parshuramji's force, saved by **Devi Renuka** — Hindu deity, mother of Parshuram); [[stories/giri-blister-healing]] (blister manifests negative energy drawn from house)
 
 ## Notable Quotes (Ch. X)
 
@@ -280,7 +280,7 @@ Structured in three parts:
 ## New Concepts / Entities (Ch. X)
 
 - [[concepts/aura]] — substantially extended: measurement, 6 enhancement methods, Thursday restrictions, outward transmission, animal aura, Bluetooth Principle
-- [[entities/devi-renuka]] — entity stub created
+- **Devi Renuka** — merged inline into [[entities/hingori]] (Notable Stories) and [[stories/hingori-renuka-temple-attack]]
 - *(No new concept pages; all Ch.X material is an extension of [[concepts/aura]])*
 
 ## Key Themes (Ch. IX)
@@ -414,7 +414,7 @@ Structured in three parts:
 - **Spirit world physics**: solid matter penetrable (walls as thinnest paper); dim post-dusk light at night; spirits appear solid from within spirit form; rotating energy fields can injure the spirit body.
 - **Nirman kaya in action** — clearest live demonstrations in the book: Ashish/guru at Goa (guru physically in another city); Virenderji/judge (another version invites friends independently); Gurudev seen at two places simultaneously. [[concepts/mukti]]
 - **Posthumous appearances**: Gurudev appears in spirit form to Hingori's schoolmate in Gurgaon, ~20 years after death, directing him to the *sthan*. [[stories/schoolmate-gurudev-gurgaon]]
-- **Puranji**: Gurudev's emissary; a disciple who appears in dream state as intermediary in astral communication. [[entities/puranji]]
+- **Puranji**: Gurudev's emissary; a mighty saint who served at the Gurgaon sthan and appeared in dream state as intermediary in astral communication. See [[entities/mahaguru]] (Astral Travel section) and [[stories/hingori-puranji-missed-astral-tour]].
 - Personal testimonies: [[stories/hingori-puranji-missed-astral-tour]], [[stories/hingori-lonavala-temple-vision]], [[stories/hingori-gati-malhotra]], [[stories/hingori-fan-ankle]], [[stories/virenderji-uninvited-guests]], [[stories/schoolmate-gurudev-gurgaon]]
 
 ## Key Themes (Ch. V)
@@ -550,7 +550,7 @@ Structured in three parts:
 ## New Concepts / Entities (Ch. VI)
 
 - [[concepts/astral-travel]] — created
-- [[entities/puranji]] — entity stub created
+- **Puranji** — merged inline into [[entities/mahaguru]] (Astral Travel section) and [[stories/hingori-puranji-missed-astral-tour]]
 - [[entities/rc-malhotra]] — entity stub created
 
 ## Stories Extracted (Ch. V)

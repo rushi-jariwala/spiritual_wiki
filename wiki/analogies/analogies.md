@@ -117,12 +117,12 @@ Noah's Ark saved life by physical containment. Gurudev's Ark saves by training n
 ---
 
 ### The Boat — Swami Rama
-*Illuminates: [[concepts/guru-disciple]], [[entities/swami-rama]]*
+*Illuminates: [[concepts/guru-disciple]] · Swami Rama's viewpoint*
 
 > "Guru is like a boat for crossing the river. It is important to have a good boat and it is very dangerous to have a boat that is leaking. The boat brings you across the river. When the river is crossed, the boat is no longer necessary. You don't hang onto the boat after completing the journey, and you certainly don't worship the boat."
 > — Swami Rama, quoted in Hingori, *Guru Sutra*, Ch.2, p.11
 
-The guru as ferry: functional, essential, life-saving — yet its purpose is completed once the crossing is made. Swami Rama's analogy points to the real danger in certain traditions: disciples who confuse the vehicle with the destination and cling to the guru rather than crossing through the guru's teachings to the other shore (moksha / self-realisation). Hingori notes this view as "harsher than warranted" given the depth of devotion in his own tradition — the tension is real and live. See [[entities/swami-rama]].
+The guru as ferry: functional, essential, life-saving — yet its purpose is completed once the crossing is made. Swami Rama's analogy points to the real danger in certain traditions: disciples who confuse the vehicle with the destination and cling to the guru rather than crossing through the guru's teachings to the other shore (moksha / self-realisation). Hingori notes this view as "harsher than warranted" given the depth of devotion in his own tradition — the tension is real and live. See [[concepts/guru-disciple]].
 
 ---
 

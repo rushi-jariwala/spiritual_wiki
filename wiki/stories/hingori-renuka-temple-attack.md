@@ -2,7 +2,7 @@
 title: Hingori at Renuka — Attacked by the Son, Saved by the Mother
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/aura]]", "[[entities/hingori]]", "[[entities/devi-renuka]]"]
+related: ["[[concepts/aura]]", "[[entities/hingori]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -28,4 +28,4 @@ updated: 2026-04-22
 
 - [[concepts/aura]] — the central lesson: accidental aura attainment from a place of worship without permission invites a reaction; "energy was better earned than stolen"
 - [[entities/hingori]] — the narrator; in a period of "spiritual immaturity and adventurism"
-- [[entities/devi-renuka]] — appeared in vision on Hingori's inner screen; touched his head; the attack ceased
+- **Devi Renuka** — Hindu deity, mother of Parshuram, associated with Renuka Lake in Himachal Pradesh; appeared in vision on Hingori's inner screen; touched his head; the attack ceased

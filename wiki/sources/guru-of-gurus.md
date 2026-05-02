@@ -2,7 +2,7 @@
 title: The Guru of Gurus — His Life
 type: source
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/mataji]]", "[[entities/puranji]]"]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/mataji]]"]
 created: 2026-04-25
 updated: 2026-04-25
 ---
@@ -621,7 +621,7 @@ People with existing entity pages are noted with a link. All others are recorded
 
 **V**
 - **Virender ji** — judge in Haryana; became devoted after Gurudev cured his wife; unafraid of hard labour — came to Khandsa farm in Barrister white and left in muddy clothes; mentioned in the Brighu Samhita. Visited the Brighu Samhita reader alongside Narender ji after Gurudev's death. See [[stories/gurudev-brighu-samhita-after-death]].
-- **Vishwamitra ji** — gentle, shy, and unassuming disciple usually assigned kitchen seva at the Gurgaon sthan; runs a sthan at Mukerian in Punjab. (*Not to be confused with the ancient sage [[entities/vishvamitra]].*) Decreed four newborns of his family cancer-free, which came to pass. See [[stories/vishwamitraj-blood-cancer-babies]].
+- **Vishwamitra ji** — gentle, shy, and unassuming disciple usually assigned kitchen seva at the Gurgaon sthan; runs a sthan at Mukerian in Punjab. (*Not to be confused with **Vishvamitra**, the ancient king-turned-brahmarishi.*) Decreed four newborns of his family cancer-free, which came to pass. See [[stories/vishwamitraj-blood-cancer-babies]].
 - **VP Sharma ji (Captain Sharma)** — received the jyot in front of thirty-odd people at the Khar sthan in Mumbai; initiated into spirituality via a visible flame entering the window; difficult to defeat in a spiritual debate; occasionally said something harsh and bore the consequences. See [[concepts/power-symbols]].
 
 ## Contradictions / Tensions

@@ -21,10 +21,7 @@ He grew into a tall and handsome man with a naughty glint in his eyes and an end
 
 Even though Chacha was a very powerful spiritualist, he is best described as a **casualist.** His casual, unhurried approach to spiritualism helped and healed countless people — without ceremony, without charge, and without visible effort.
 
-He was the keeper of many secret curative recipes, including one said to turn grey hair black. That formula, Hingori notes with dry regret, "transcended to higher realms with him."
-
-> Even though Chacha was Gurudev's brother, he never used their relationship to his advantage. His humility and nonchalance only enhanced his affability. Nothing fazed him other than his elder brother's ire.
-> — Hingori, *The Guru of Gurus*, p.42
+He was the keeper of many secret curative recipes, including one said to turn grey hair black. That formula, Hingori notes with dry regret, "transcended to higher realms with him." Despite the proximity to Gurudev, he never used their relationship to his advantage — his humility and nonchalance only enhanced his affability.
 
 ## Childhood Bond
 
@@ -43,6 +40,15 @@ Chacha was hospitalised at PGI in Chandigarh during his final days. Gurudev stay
 > "Do not die before Guru Purnima."
 
 Two days later, on **2nd August 1988**, Chacha succumbed to his illness — ensuring his elder brother's seva was not disrupted.
+
+## Quotes
+
+> "Even though Chacha was Gurudev's brother, he never used their relationship to his advantage. His humility and nonchalance only enhanced his affability. Nothing fazed him other than his elder brother's ire."
+> — Hingori, *The Guru of Gurus*, p.42
+
+## Sources
+
+- *The Guru of Gurus*, The Family Man chapter, pp.41–43
 
 ## Cross-references
 

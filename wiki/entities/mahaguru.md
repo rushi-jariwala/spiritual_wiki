@@ -3,7 +3,7 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/puranji]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]"]
 created: 2026-04-12
 updated: 2026-04-25
 ---
@@ -41,7 +41,7 @@ Around age five he joined **DAV Modern School** in Hariana, studying Hindi, Urdu
 > During a fruit picking escapade at a dargah, Gurudev and Subbhash were caught red-handed by a fakir (mystic) who lived there. He asked the boys to bow their heads at the shrine to atone for the act. They did as instructed. Following this incident, Gurudev returned to the dargah regularly to spend time with the fakir. This time, the desire was for the fruit of spiritual knowledge.
 > — Hingori, *The Guru of Gurus*, p.11
 
-He also skipped school regularly to spend time at the **Sheetla Devi temple** near his home and with sadhus and mystics who visited. His first formal spiritual mentor was **Sitaram ji of Dasua**, under whose guidance he acquired several *siddhis* (spiritual attainments). These were mediocre compared to the powers he later developed as a mahaguru; he renounced all of them before his ascent as a mahaguru. He also lit a *chirag* (oil lamp) at Sadak Shah Wali's dargah every Thursday — once wading through knee-deep floodwater to do so. See [[stories/gurudev-chirag-flood]].
+He also skipped school regularly to spend time at the **Sheetla Devi temple** near his home and with sadhus and mystics who visited. His first formal spiritual mentor was **Sitaramji of Dasua**, who himself had a guru — **Sitaramji of Benaras**. Under Sitaramji of Dasua's guidance, Gurudev acquired several *siddhis* (spiritual attainments), which were mediocre compared to the powers he later developed as a mahaguru; he renounced all of them before his ascent. Eventually Gurudev came to have a second, more mysterious mentor whom he addressed as Buddhe Baba. He also lit a *chirag* (oil lamp) at Sadak Shah Wali's dargah every Thursday — once wading through knee-deep floodwater to do so. See [[stories/gurudev-chirag-flood]].
 
 Even as a teenager his pocket money went to food for animals, birds, and fish, with any remainder spent on soft drinks for friends. He rarely spent on himself. As **Mohan Singh Chira** (a Hariana native, later a devotee) recalled: *"Even as a teenager, his heart was bigger than his chest!"*
 
@@ -357,7 +357,7 @@ Gurudev was an accomplished astral traveller during his physical lifetime:
 > He had regular 'out-of-body' experiences at will.
 > — Hingori, *Karma Sutra*, Ch.3, p.47
 
-Hingori describes him as travelling astrally "at least thrice a week, for several hours at a stretch" — while doing *paath* (focused mantra practice) in which he would leave his body. He used these travels to guide disciples: he arranged for [[entities/puranji|Puranji]] to call Hingori in dream state for a planned astral tour (see [[stories/hingori-puranji-missed-astral-tour]]), and took Hingori to the Lonavala temple in a dream-state journey later verified physically (see [[stories/hingori-lonavala-temple-vision]]). He also sent senior disciple [[entities/rc-malhotra|R.C. Malhotra]] in a vision to teach Hingori *gati* — superfast astral travel.
+Hingori describes him as travelling astrally "at least thrice a week, for several hours at a stretch" — while doing *paath* (focused mantra practice) in which he would leave his body. He used these travels to guide disciples: he arranged for **Puranji** — a mighty saint who had served at the Gurgaon sthan for over a decade, and whom Gurudev treated like a son — to call Hingori in dream state for a planned astral tour (see [[stories/hingori-puranji-missed-astral-tour]]), and took Hingori to the Lonavala temple in a dream-state journey later verified physically (see [[stories/hingori-lonavala-temple-vision]]). He also sent senior disciple [[entities/rc-malhotra|R.C. Malhotra]] in a vision to teach Hingori *gati* — superfast astral travel.
 
 Gurudev's nirman kaya was also witnessed: he was seen by people at two different locations simultaneously. (*Aatma Sutra*, Ch.VI, p.71)
 

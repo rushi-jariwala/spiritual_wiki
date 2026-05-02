@@ -275,7 +275,7 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 
 > "Guru is not the goal. Anyone who establishes himself as a guru to be worshipped is not a guru. Guru is like a boat for crossing the river… When the river is crossed, the boat is no longer necessary. You don't hang onto the boat after completing the journey, and you certainly don't worship the boat."
 > — Swami Rama, quoted in Hingori, *Guru Sutra*, Ch.2, p.11
-[[entities/swami-rama]] · [[concepts/guru-disciple]]
+**Swami Rama** · [[concepts/guru-disciple]]
 
 ---
 

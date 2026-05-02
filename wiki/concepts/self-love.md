@@ -84,8 +84,15 @@ The chapter's most important corrective for low self-love: you cannot assess you
 > — Hingori, *Aatma Sutra*, Ch.XII, p.154
 
 Hingori's examples:
-- **Valmiki** — bandit and murderer at one stage of life; later wrote the Ramayan and is revered as a *maharishi*. [[entities/valmiki]]
-- **Vishvamitra** — arrogant king who sought revenge on Guru Vashisht; failed many times; eventually reached the title of *brahmarishi* (most advanced in spiritual practice). [[entities/vishvamitra]]
+
+- **Valmiki** — bandit and murderer at one stage of life; later wrote the Ramayan and is revered as a *maharishi*.
+  > "The great sage Valmiki, who wrote the Indian epic Ramayan, was a bandit and murderer at one stage of his life. And yet, he is referred to as a *maharishi*."
+  > — Hingori, *Aatma Sutra*, Ch.XII, p.153
+
+- **Vishvamitra** — arrogant king who sought revenge on Guru Vashisht; failed many times; eventually reached the title of *brahmarishi*.
+  > "The *Brahmarishi* Vishvamitra, once an arrogant king, felt slighted by Guru Vashisht. In order to seek revenge, he did penance to achieve the same attainments as Guru Vashisht. He failed several times but finally made it to the title of *brahmarishi* (the most advanced in spiritual practices). So, which one was he — the arrogant king or the accomplished guru?"
+  > — Hingori, *Aatma Sutra*, Ch.XII, p.153
+
 - **Rajeev** — alcoholic and drug addict after his family's wealth collapsed; Hingori told his father-in-law "your son-in-law is a saint"; years later Rajeev became a respected spiritual healer. [[stories/rajeev-alcoholic-to-saint]]
 
 The latent saint is a recurrent motif: the unawakened giant, the philanthropist in the making. Hingori did not know what he was until someone taught him how to sense his own reflection without looking at it directly.
@@ -108,6 +115,6 @@ This is offered as the endpoint that self-love, once fully realised, leads to.
 - [[concepts/vairagya]] — unemotional love and detachment are two expressions of the same inner shift
 - [[concepts/non-doership]] — releasing ownership of deeds creates equanimity, which is the right lens for self-love
 - [[concepts/samskars]] — self-love is built by superimposing positive impressions over negative *samskars*
-- [[entities/valmiki]] — exemplar of the Phase A-to-Z principle
-- [[entities/vishvamitra]] — exemplar of the Phase A-to-Z principle
+- **Valmiki** — ancient sage and author of the Ramayan; was a bandit and murderer in a former phase; the most dramatic Phase A-to-Z exemplar in the book (*Aatma Sutra*, Ch.XII, p.153)
+- **Vishvamitra** — arrogant king who rose through penance to the title of *brahmarishi*; his rivalry with Guru Vashisht became the engine of one of the greatest spiritual ascents in Indian mythology (*Aatma Sutra*, Ch.XII, p.153)
 - [[stories/rajeev-alcoholic-to-saint]] — personal account from Hingori's circle

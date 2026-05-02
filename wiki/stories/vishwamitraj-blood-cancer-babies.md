@@ -20,7 +20,7 @@ updated: 2026-04-26
 
 ## Notes
 
-The story is told by Vishwamitra ji, a disciple from the sthan in Mukerian (not to be confused with [[entities/vishvamitra]], the ancient king-turned-brahmarishi). The case illustrates Gurudev's capacity to override a seemingly relentless karmic script — five consecutive child deaths — and decree a new outcome. The text presents it as an instance of Gurudev's ability to "dilute the curses of mighty saints and temples."
+The story is told by Vishwamitra ji, a disciple from the sthan in Mukerian (not to be confused with **Vishvamitra**, the ancient king-turned-brahmarishi of the Ramayan tradition). The case illustrates Gurudev's capacity to override a seemingly relentless karmic script — five consecutive child deaths — and decree a new outcome. The text presents it as an instance of Gurudev's ability to "dilute the curses of mighty saints and temples."
 
 The fifth child's death before the decree is notable: Gurudev did not intervene to prevent it, suggesting his intervention had its own timing governed by factors beyond the visible situation.
 

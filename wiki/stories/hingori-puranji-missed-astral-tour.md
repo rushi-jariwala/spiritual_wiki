@@ -2,7 +2,7 @@
 title: Hingori Misses the Astral Tour — Puranji's Call
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/puranji]]"]
+related: ["[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-04-18
 updated: 2026-04-27
 ---
@@ -26,5 +26,5 @@ The SUPERNATURE chapter (*The Guru of Gurus*, p.246) provides a more specific ve
 
 - [[concepts/astral-travel]] — the missed opportunity that opens the chapter on astral travel
 - [[entities/mahaguru]] — the initiator; travelling astrally while doing *paath*; offered a Brahmaand-level journey
-- [[entities/puranji]] — Gurudev's emissary; appeared in astral form to call Hingori
+- **Puranji** — Gurudev's emissary; a mighty saint who served at the Gurgaon sthan and was treated by Gurudev like a son; appeared in dream state to call Hingori
 - [[entities/hingori]] — physically woke up instead of walking out of his body

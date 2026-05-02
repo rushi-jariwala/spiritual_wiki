@@ -58,6 +58,6 @@ Ram's summarised understanding of this teaching is preserved verbatim at [[stori
 - [[concepts/aatma]] — Brahman/consciousness supreme; the sole reality in the Advait framework
 - [[concepts/self-acceptance]] — Vashisht's teaching to Ram as the ultimate expression of being beyond guilt
 - [[concepts/self-worship]] — "what you perceive outside is within you" — the philosophical ground for self-worship
-- [[entities/vishvamitra]] — Vishvamitra sought to equal Guru Vashisht and eventually did; the rivalry that produced a brahmarishi
+- **Vishvamitra** — once an arrogant king who sought revenge on Guru Vashisht; through repeated penance eventually reached the title of *brahmarishi*; the rivalry that produced a spiritual giant (*Aatma Sutra*, Ch.XII, p.153)
 - [[stories/ram-speech-ch14-consciousness-alone]] — Ram's Ch.XIV summary from Supreme Yoga
 - [[stories/ram-speech-to-guru-vashisht]] — Ram's Ch.XI summary from Supreme Yoga

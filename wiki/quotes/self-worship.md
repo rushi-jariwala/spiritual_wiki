@@ -2,7 +2,7 @@
 title: Quotes on Self-Love and Self-Worship
 type: quote-collection
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-love]]", "[[concepts/self-worship]]", "[[concepts/self-acceptance]]", "[[concepts/aatma]]", "[[entities/hingori]]", "[[entities/sant-tukaram]]"]
+related: ["[[concepts/self-love]]", "[[concepts/self-worship]]", "[[concepts/self-acceptance]]", "[[concepts/aatma]]", "[[entities/hingori]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -79,7 +79,7 @@ updated: 2026-04-22
 > "I made an earthen image of Shiva, but the Earth is not Shiva; My worship reaches Shiva, the Earth remains the Earth it was... the saint is but His servant, an instrument, a conduit pipe."
 > — Sant Tukaram, quoted in *Aatma Sutra*, Ch.XIV, pp.173–174
 
-See [[stories/sant-tukaram-worship-poem]] for the full verse. [[entities/sant-tukaram]]
+See [[stories/sant-tukaram-worship-poem]] for the full verse.
 
 ---
 

@@ -2,7 +2,7 @@
 title: Astral Travel
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/puranji]]", "[[entities/rc-malhotra]]"]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]"]
 created: 2026-04-18
 updated: 2026-04-26
 ---
@@ -181,7 +181,7 @@ Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultane
 - [[entities/mahaguru]] — primary exemplar; travelled astrally thrice a week; appeared posthumously
 - [[entities/hingori]] — first-person witness and practitioner across all stages
 - [[entities/rc-malhotra]] — teacher of gati to Hingori in vision state
-- [[entities/puranji]] — Gurudev's emissary; appeared in Hingori's dream state
+- **Puranji** — Gurudev's emissary (a mighty saint at the Gurgaon sthan, treated by Gurudev like a son); appeared in Hingori's dream state to call him for an astral tour
 - [[entities/mataji]] — the only one who could bring Gurudev back from astral travel
 - [[concepts/loks]] — the realms visited through astral travel; higher and lower levels of existence accessible to the spirit body
 - [[stories/uddhav-ji-black-triangles]] — Gurudev acts astrally at a distance to protect a disciple from a dangerous spirit apparition

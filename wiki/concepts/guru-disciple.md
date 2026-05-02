@@ -110,9 +110,9 @@ See more in [[quotes/guru]].
 - [[stories/hingori-arthritis-cure]] · [[stories/gurus-umbrella-wife-delivery]] · [[stories/scooter-accident-vision]] · [[stories/bada-guruvar-queue]] · [[stories/guru-nanak-river-bain]]
 - [[stories/guru-sutra-intro-poem]] · [[stories/guru-sutra-ch1-poem]] — verbatim closing verses from *Guru Sutra* Introduction and Ch.1
 - [[concepts/empathy]] — the guru's empathy as the transformative force: holding the disciple's potential when they cannot see it themselves ([[stories/gurudev-horse-gives-birth]])
-- [[entities/eklavya]] — the statue-of-Dronacharya case: the guru as concept rather than person
-- [[entities/sitaramji-dasua]] — Gurudev's early spiritual advisor; illustrates that even a mahaguru needed a teacher
-- [[entities/swami-rama]] — the boat analogy; the guru as means vs. destination debate
+- **Eklavya** — archer from *The Mahabharat*; acquired mastery by worshipping a clay statue of Dronacharya; the guru-as-concept case (*Guru Sutra*, Ch.2, p.11)
+- **Sitaramji of Dasua** — Gurudev's early spiritual advisor (himself a disciple of Sitaramji of Benaras); illustrates that even a destined mahaguru required a teacher before his power awakened (*Guru Sutra*, Ch.2, p.12)
+- **Swami Rama** — quoted for the boat analogy (*Guru Sutra*, Ch.2, p.11); represents a distinct view that the guru is a vehicle, not a destination
 - [[concepts/tantra]] — spiritual science clarified in Ch.2; guna-based taxonomy of gurus introduces context for tantric vs. sattvic methods
 - [[concepts/self-acceptance]] — the guru's act of introducing the disciple to themselves is the ground of self-acceptance; Ch.4's "as-is-where-is" acceptance of the guru mirrors the self-acceptance arc of *Aatma Sutra* Ch.XI
 - [[stories/guru-sutra-ch4-devraj-jal]] — Devraj's Mahashivratri story; home temple communication; jal disappears; teaching on internal transmutation of water
@@ -148,7 +148,7 @@ The responsibility is stated explicitly: greater than that of playing the role o
 
 ### Guru as Concept, Not Person
 
-A crucial reframe: in principle, a guru is not a person but **a concept that embodies infinite wisdom and universal knowledge**. The disciple emulates not the person but the *gunas* (qualities). This is evidenced by [[entities/eklavya]], who acquired mastery by worshipping a statue of his guru Dronacharya — without ever receiving direct instruction. Hingori's own ongoing inspiration by Gurudev's memory, and Krishanmohanji of Durgapur who "lives his life as if he is being continuously watched and guided by Gurudev," are contemporary examples of the same principle.
+A crucial reframe: in principle, a guru is not a person but **a concept that embodies infinite wisdom and universal knowledge**. The disciple emulates not the person but the *gunas* (qualities). This is evidenced by **Eklavya**, the archer from *The Mahabharat*, who was refused instruction by Dronacharya (reserved for the Kuru princes) but built a clay statue of him and trained before it as his guru — acquiring mastery by worshipping a concept, without ever receiving direct instruction. Hingori's own ongoing inspiration by Gurudev's memory, and Krishanmohanji of Durgapur who "lives his life as if he is being continuously watched and guided by Gurudev," are contemporary examples of the same principle.
 
 ### The Need for a Guru
 
@@ -161,6 +161,10 @@ Hingori documents the spiritual lineage of major figures to show that virtually 
 - **Ram** — needed Guru Vashisht to lead a life of non-duality and become an iconic king
 - **Krishna** — needed Guru Sandipani Muni for "fine-tuning"
 - **The Buddha** — had many gurus contributing to the infrastructure of his final emancipation
+- **Gurudev (the Mahaguru)** — even a destined spiritual giant had teachers before his power awakened: **Sitaramji of Dasua** was his early spiritual advisor (Sitaramji himself had a guru, Sitaramji of Benaras); Gurudev consulted him frequently until the mahaguru's own power emerged. See [[entities/mahaguru]].
+
+> "In his early years, before the power of the Mahaguru awakened in him, Gurudev had a spiritual advisor by the name of Sitaramji of Dasua, whom he often consulted."
+> — Hingori, *Guru Sutra*, Ch.2, p.12
 
 Hingori identifies a "spiritually volcanic period" between the 8th and 3rd century BC — the **Axial Age** — when Confucius, Lao-Tse, Buddha, Zarathustra, Mahavir, and others profoundly shaped future philosophies.
 
@@ -207,6 +211,17 @@ The chapter closes with the second Golden Principle:
 > — Hingori, *Guru Sutra*, Ch.2, p.20
 
 And Aristotle's closing quote: *"Knowing yourself is the beginning of all wisdom."*
+
+### A Distinct Viewpoint: Swami Rama's Boat Analogy
+
+**Swami Rama**, a spiritual teacher quoted in *Guru Sutra* Ch.2, represents a counterpoint to deep guru-veneration:
+
+> "Guru is not the goal. Anyone who establishes himself as a guru to be worshipped is not a guru. Guru is like a boat for crossing the river. It is important to have a good boat and it is very dangerous to have a boat that is leaking. The boat brings you across the river. When the river is crossed, the boat is no longer necessary. You don't hang onto the boat after completing the journey, and you certainly don't worship the boat."
+> — Swami Rama, quoted in Hingori, *Guru Sutra*, Ch.2, p.11
+
+Hingori includes this as "a distinct viewpoint" but flags it as "stretched to an extreme view, harsher than warranted." In the Hingori tradition the guru is venerated deeply — the boat analogy, while pointing to a real truth (the guru is a means, not the end), overstates the case by implying that post-liberation the guru should be discarded. See also [[wiki/analogies]] for the boat analogy entry.
+
+> [!warning] Swami Rama's boat analogy creates a mild tension with the tradition of deep, ongoing devotion to the guru. Hingori acknowledges this directly. See [[sources/guru-sutra]] Contradictions section.
 
 This connects directly to [[concepts/self-acceptance]] and ultimately to [[concepts/self-worship]].
 

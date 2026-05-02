@@ -2,7 +2,7 @@
 title: Sant Tukaram — Worship Reaches Through Any Image
 type: story
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/maya]]", "[[entities/sant-tukaram]]", "[[entities/hingori]]"]
+related: ["[[concepts/self-worship]]", "[[concepts/maya]]", "[[entities/hingori]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -38,4 +38,4 @@ The closing line — "the saint is but His servant, an instrument, a conduit pip
 
 - [[concepts/self-worship]] — the verse is the devotional foundation for Exercise 1
 - [[concepts/maya]] — earthen images, stone, pewter: all maya; the divine is beyond all material forms
-- [[entities/sant-tukaram]] — 17th-century Marathi saint; his verse is the only non-Vedantic source in the book's closing argument
+- **Sant Tukaram** (c. 1598–1650) — Marathi saint-poet of the Bhakti movement; his verse is the only non-Vedantic source in the book's closing argument

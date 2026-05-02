@@ -1,10 +1,10 @@
 ---
 title: Quotes on the Guru
 type: quote-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-05-02
 ---
 
 # Quotes on the Guru
@@ -19,9 +19,17 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 > — Hingori, *Karma Sutra*, Ch.1, p.19
 [[concepts/guru-disciple]]
 
+> "In a spiritual context, a guru is the dispeller of avidya (ignorance) and unveiler of maya (perceived reality)."
+> — Hingori, *Guru Sutra*, Ch.1, p.5
+[[concepts/guru-disciple]] · [[concepts/maya]]
+
 > "Getting a sadguru is like winning a lottery, as a competent guru takes upon himself/herself the responsibility of the enlightenment of his disciple, by passing on all his/her knowledge and abilities."
 > — Hingori, *Karma Sutra*, Ch.1, p.19
 [[concepts/guru-disciple]] · [[concepts/moksha]]
+
+> "A Mahaguru is not judged by the number of shishyas devoted to him but by the number of gurus created by him."
+> — Hingori, *Guru Sutra*, Introduction
+[[entities/mahaguru]] · [[concepts/guru-disciple]]
 
 ---
 
@@ -216,3 +224,153 @@ See [[stories/bada-guruvar-queue]].
 [[entities/guru-nanak]] · [[concepts/maya]] · [[concepts/moksha]]
 
 See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
+
+---
+
+## On the Admirer–Disciple Spectrum (*Guru Sutra*)
+
+> "Since energy flows to and from where attention goes, what you consistently admire, you attract towards yourself. This is how the human magnet attracts attributes and qualities from other sources."
+> — Hingori, *Guru Sutra*, Ch.1, p.6
+[[concepts/guru-disciple]]
+
+> "A devotee evolves into a disciple not when he considers himself one but only when his guru accepts him as such. Until then, he must await his turn."
+> — Hingori, *Guru Sutra*, Ch.1, p.6–7
+[[concepts/guru-disciple]]
+
+> "The Indian scriptures suggest, 'Guru bina gati nahin', implying there can be no spiritual evolution without a guru."
+> — Hingori, *Guru Sutra*, Ch.1, p.7
+[[concepts/guru-disciple]]
+
+> "Our biological senses limit our assessment of the absolute reality to about 5%!"
+> — Hingori, *Guru Sutra*, Ch.1, p.5
+[[concepts/maya]] · [[concepts/guru-disciple]]
+
+---
+
+## The Guru Decoded (*Guru Sutra* Ch.2)
+
+### Guru Arjan Dass — Opening Verse
+
+> He who created this body, this house of clay,
+> Has locked it
+> And to the guru has entrusted the key.
+> Without the guru the treasure within
+> Is never gained,
+> Even though you may try to gain it
+> In endless ways.
+> — Guru Arjan Dass, epigraph to *Guru Sutra*, Ch.2, p.9
+[[concepts/guru-disciple]] · [[concepts/moksha]]
+
+---
+
+### On Who Is Not a Guru
+
+> "The concept of a guru is far more exalted and profound, because he is a role model in almost every aspect of a disciple's life. He takes on the disciple's karmic debt and leads him out of it to whatever extent possible, not just in one life, but possibly in future lives as well."
+> — Hingori, *Guru Sutra*, Ch.2, p.10
+[[concepts/guru-disciple]] · [[concepts/karma]]
+
+---
+
+### On the Guru as Vehicle (Swami Rama)
+
+> "Guru is not the goal. Anyone who establishes himself as a guru to be worshipped is not a guru. Guru is like a boat for crossing the river… When the river is crossed, the boat is no longer necessary. You don't hang onto the boat after completing the journey, and you certainly don't worship the boat."
+> — Swami Rama, quoted in Hingori, *Guru Sutra*, Ch.2, p.11
+[[entities/swami-rama]] · [[concepts/guru-disciple]]
+
+---
+
+### On the Need for a Guru
+
+> "History clearly reveals that almost no spiritual evolution has ever been possible without the teachings of a guru."
+> — Hingori, *Guru Sutra*, Ch.2, p.14
+[[concepts/guru-disciple]]
+
+> "It is said that the guru finds his disciple and not the other way around. However, this may not apply to devotees and admirers. Furthermore, destiny is another key factor at play. Unless destined, neither a guru would be a guru nor a disciple, a disciple!"
+> — Hingori, *Guru Sutra*, Ch.2, p.14
+[[concepts/guru-disciple]] · [[concepts/destiny]]
+
+---
+
+### On Life's Meaning via the Guru
+
+> "Thinking about my life without Gurudev made me realise that my life would have been an empty shell. A gold plated shell perhaps, but empty it would still be. He gave meaning to my life and more significantly, he gave meaning to my impending death."
+> — Hingori, *Guru Sutra*, Ch.2, p.12
+[[entities/hingori]] · [[entities/mahaguru]]
+
+---
+
+### Golden Principles (*Guru Sutra* Ch.2)
+
+> Golden Principle: "It is not 'getting what you want' but 'wanting what you get'."
+> — Hingori, *Guru Sutra*, Ch.2, p.16
+[[concepts/gunas]] · [[concepts/vairagya]] · [[concepts/guru-disciple]]
+
+> Golden Principle: "In the final analysis, the guru introduces the disciple to the disciple's inner being, and within that being lies the ultimate guru."
+> — Hingori, *Guru Sutra*, Ch.2, p.20
+[[concepts/guru-disciple]] · [[concepts/self-acceptance]] · [[concepts/self-worship]]
+
+---
+
+### On Knowing Yourself
+
+> "Knowing yourself is the beginning of all wisdom."
+> — Aristotle, closing epigraph to *Guru Sutra*, Ch.2, p.20
+[[concepts/guru-disciple]] · [[concepts/self-acceptance]]
+
+---
+
+### Golden Principle (*Guru Sutra* Ch.3)
+
+> Golden Principle: "The multiplicity of mantra recitation enables one to connect to the relevant power at the macrocosmic level and awaken the representation of that power in the microcosmic self. Thereby, connecting the outer and inner sources of the same power, within one's self."
+> — Hingori, *Guru Sutra*, Ch.3, p.22
+[[concepts/tantra]] · [[concepts/aura]]
+
+---
+
+### On the Gurukul Method
+
+> "Our methods were casual but our results were not."
+> — Hingori, *Guru Sutra*, Ch.3, p.25
+[[concepts/guru-disciple]]
+
+---
+
+## Admirer to Disciple (*Guru Sutra* Ch.4)
+
+### The Arc
+
+> "Even though the journey may start with devotion, it ends with acceptance."
+> — Hingori, *Guru Sutra*, Ch.4, p.27
+[[concepts/guru-disciple]] · [[concepts/self-acceptance]]
+
+---
+
+### On Unconditional Acceptance (Stage 4)
+
+> "I would accept him as my guru irrespective of how great he was. Even if he were not completely honest with me, I would surrender to him and accept him on an as-is-where-is basis."
+> — Hingori, *Guru Sutra*, Ch.4, p.32
+[[concepts/guru-disciple]] · [[stories/guru-sutra-ch4-inner-voice]]
+
+---
+
+### On Sattvic Reverence
+
+> "Unemotional reverence for your guru is sattvic and one step prior to the ultimate relationship, which is, finding no difference between oneself and the guru."
+> — Hingori, *Guru Sutra*, Ch.4, p.33
+[[concepts/guru-disciple]] · [[concepts/vairagya]]
+
+---
+
+### On Internal Transmutation of Jal
+
+> "Of course jal is important. The energy it possesses can help in countless situations, so there is no harm in consuming the collective energy. However, our ultimate goal should be to evolve to a level where every drop of water we consume becomes jal in our body."
+> — Hingori's guru (to Devraj), *Guru Sutra*, Ch.4, p.31
+[[stories/guru-sutra-ch4-devraj-jal]] · [[concepts/guru-tattva]]
+
+---
+
+### Rumi — On the Company of Saints
+
+> "One moment spent / In the company of saints / Is far better / Than praying for a hundred years."
+> — Rumi, epigraph closing *Guru Sutra*, Ch.4, p.34
+[[concepts/guru-disciple]]

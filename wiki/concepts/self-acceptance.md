@@ -1,8 +1,8 @@
 ---
 title: Self-Acceptance
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[entities/rabia-of-basra]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
+related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[entities/rabia-of-basra]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-22
 updated: 2026-04-22
 ---
@@ -138,4 +138,5 @@ Self-acceptance generates self-like; self-like generates self-love; self-love th
 - [[stories/ram-banishes-sita]]
 - [[stories/ram-speech-to-guru-vashisht]]
 - [[stories/hingori-neena-two-guilts]]
+- [[concepts/guru-disciple]] — *Guru Sutra* Ch.2: the guru introduces the disciple to themselves at the body/mind/spirit level; this introduction on an "as-is-where-is basis" is the guru's specific contribution to self-acceptance. Ch.4 deepens this: Hingori's inner voice asked whether he would accept the guru unconditionally — the same "as-is-where-is" orientation, now directed outward at the guru before it can be directed inward at the self. See [[stories/guru-sutra-ch4-inner-voice]].
 - [[synthesis/destiny-and-doership]] — the larger theodicy framework

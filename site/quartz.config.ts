@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "rushi-jariwala.github.io/spiritual_wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "log", "overview"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

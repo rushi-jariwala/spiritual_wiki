@@ -36,16 +36,17 @@ Keep stories verbatim from the text. Never paraphrase. Mark them as block quotes
 1. Read the source chapter(s) from `raw/`.
 2. **Inventory** every distinct element in the chapter before editing anything:
    - Concepts (new or extensions of existing). Create a new concept page only if its genuinely new. 
-   - Entities (people, places, texts mentioned)
+   - Entities (people, places, texts mentioned) — note depth of coverage for each
    - Stories / anecdotes / personal testimonies — **every one**, even single-paragraph ones
    - Embedded texts (poems, letters, worksheets, channelled messages, dialogues)
    - Analogies and metaphors
    - Notable quotes
    - Tensions or contradictions with previously ingested material
-3. Discuss the plan with the user. Present the inventory — do not skip items silently.
+3. Self-review the inventory before proceeding — check for gap & missing details. Do not pause to discuss with the user; resolve ambiguities autonomously and proceed to Phase 2.
 
 ### Phase 2 — Create / Update
 4. Create/update `concepts/`, `entities/`, `stories/`, `practices/` pages.
+   - **Entity page threshold**: create a dedicated `entities/` page only if the entity has substantial coverage (multiple teachings, stories, or quotes). For lightly-mentioned entities (a name, a brief role, a passing reference), add an inline mention in the most relevant concept or story page and link the name to a potential future page — do not create a stub page or an `index.md` entry.
    - **Substantial stories** (multi-paragraph narratives) → own `stories/` page, verbatim as block quotes.
    - **Short anecdotes** (single paragraph) → quoted inline in the relevant `concepts/` page. Never drop them.
    - **Embedded texts** (poems, letters, worksheets, channelled messages) → dedicated page under `stories/`, preserved verbatim.
@@ -54,7 +55,7 @@ Keep stories verbatim from the text. Never paraphrase. Mark them as block quotes
 7. Create or update `sources/<book>.md`. **Update the Contradictions / Tensions section** if the chapter has any tension with earlier chapters or other sources — flag as `> [!warning]`.
 8. **Backlink pass**: for every new page created, edit at least one related *existing* page to link back to it. Forward-linking inside the new page is not sufficient — old pages must be edited.
 9. **Synthesis pass**: scan across existing concepts for structural patterns — shared mechanisms, tensions, inversions, progressions. Significant patterns → open a `synthesis/` page. Minor ones → `> [!tip]` flag in cross-refs.
-10. Update `wiki/index.md` — every new concept, entity, story, synthesis, and quote-collection gets an entry.
+10. Update `wiki/index.md` — every new concept, story, synthesis, and quote-collection gets an entry; entities only if they have a dedicated page.
 
 ### Phase 3 — Verify & Log
 11. **Run the Verification Checklist below.** Do not skip — most ingestion gaps come from here.
@@ -71,7 +72,7 @@ Re-read the chapter with these questions. If any item fails, fix before marking 
 - [ ] New analogies added to `wiki/analogies.md` (even brief metaphors like "pendulum of duality").
 - [ ] `sources/<book>.md` Contradictions/Tensions section reviewed — any new tensions flagged as `> [!warning]`.
 - [ ] Synthesis scan done — cross-source or cross-chapter patterns → `synthesis/` page or `> [!tip]`.
-- [ ] `index.md` has entries for every new concept, entity, story, synthesis, quote-collection.
+- [ ] `index.md` has entries for every new concept, story, synthesis, and quote-collection — entities only if they have a dedicated page (not for inline-only mentions).
 - [ ] Frontmatter `sources:` and `related:` fields updated on any page whose scope has expanded.
 
 ### Instructions (apply throughout)

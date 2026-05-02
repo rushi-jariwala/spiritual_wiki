@@ -36,7 +36,9 @@
       "Bash(/c/Users/Lenovo/AppData/Local/Programs/Python/Python313/python -c ' *)",
       "Read(//c/Users/Lenovo/.claude/**)",
       "Skill(schedule)",
-      "Skill(schedule:*)"
+      "Skill(schedule:*)",
+      "mcp__Claude_in_Chrome__browser_batch",
+      "mcp__Claude_in_Chrome__navigate"
     ]
   }
 }

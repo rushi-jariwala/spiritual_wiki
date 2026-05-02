@@ -27,9 +27,17 @@ The verse is presented by Hingori as evidence that the *karm-mukt* state he desc
 > "I am indeed, that eternal knowing and bliss, Shiva, love and pure consciousness."
 > — Adi Shankaracharya, *Nirvana Shatakam*, quoted in *Aatma Sutra*, Ch.IX, p.104
 
+## The Guru-Seeking (*Guru Sutra* Ch.2)
+
+*Guru Sutra* Ch.2 adds a dimension: despite being "one of the greatest spiritual whiz kids in history and a master of philosophy" — born enlightened — Shankaracharya was "aware he needed a guru to evolve." He knew who his guru would be, searched for him, and "wooed him for diksha." This is Hingori's strongest illustration of the thesis that even naturally exalted beings cannot bypass the guru-disciple relationship.
+
+> "Adi Shankaracharya, despite being one of the greatest spiritual whiz kids in history and a master of philosophy, was aware he needed a guru to evolve. Since he was born enlightened, he knew who his guru would be, but had to search for him and woo him for diksha."
+> — Hingori, *Guru Sutra*, Ch.2, p.13
+
 ## Sources
 
 - *Aatma Sutra*, Ch.IX, p.104 — *Nirvana Shatakam* quoted in the context of karm-mukt
+- *Guru Sutra*, Ch.2, p.13 — his guru-seeking as evidence that spiritual evolution requires a guru
 
 ## Related Concepts / Entities
 
@@ -37,3 +45,4 @@ The verse is presented by Hingori as evidence that the *karm-mukt* state he desc
 - [[concepts/aatma]] — Shankaracharya's *Advaita* is the philosophical grounding for the aatma/jivaatma distinction throughout the Hingori corpus
 - [[concepts/maya]] — *Advaita Vedanta* is also the framework Hingori draws on in Ch.VII for the maya teaching
 - [[entities/guru-vashisht]] — the other major Advaita source cited by Hingori (*Yog Vasishta*)
+- [[concepts/guru-disciple]] — even the born-enlightened needed diksha

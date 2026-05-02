@@ -17,18 +17,26 @@
     top: calc(50% - 10px);
     fill: var(--darkgray);
     stroke: var(--darkgray);
-    transition: opacity 0.1s ease;
+    transition: fill 0.15s ease, stroke 0.15s ease, opacity 0.1s ease;
   }
 }
 
 :root[reader-mode="on"] {
+  /* Icon turns accent colour so user knows it's active */
+  & .readermode svg {
+    fill: var(--secondary);
+    stroke: var(--secondary);
+  }
+
   & .sidebar.left,
   & .sidebar.right {
     opacity: 0;
+    pointer-events: none;          /* clicks fall through while hidden */
     transition: opacity 0.2s ease;
 
     &:hover {
       opacity: 1;
+      pointer-events: auto;        /* restore interactivity on hover */
     }
   }
 }

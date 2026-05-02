@@ -101,6 +101,12 @@ footer .footer-note {
 
 /* ── Two-column layout (no right sidebar) ──────────────────── */
 
+/* The right sidebar is always empty in this layout — remove it from the
+   flow entirely so it cannot auto-place into an implicit grid column/row. */
+.sidebar.right {
+  display: none;
+}
+
 @media all and (min-width: 1200px) {
   .page #quartz-body {
     grid-template-columns: 320px minmax(0, 1fr);
@@ -109,6 +115,14 @@ footer .footer-note {
       "grid-sidebar-left grid-center"
       "grid-sidebar-left grid-footer";
   }
+}
+
+/* Center article text within the content column so reading lines don't
+   stretch edge-to-edge on wide screens. */
+.center > article {
+  max-width: 72ch;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ── Index / hero page ─────────────────────────────────────── */

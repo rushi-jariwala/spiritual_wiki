@@ -75,6 +75,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[spiritual-healing]] — Sources of negativity, dispassionate approach, spirit possession mechanics, life extension, modes of healing, non-doership as the frame
 - [[supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, spiritual mastery
 - [[power-symbols]] — Shiv-parivaar symbols on Gurudev's body (OM, Trishul, Shivling-gileri, Ganpati, Nandi, Jyot); their meanings and transfer to disciples
+- [[tantra]] — Spiritual science; inherently neither positive nor negative; tamasic vs. sattvic uses; village practitioners; road-crossing energy
 
 ---
 
@@ -105,6 +106,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[dr-shankarnarayan]] — Senior colleague at IARI; first to call Gurudev "Guruji"; healed daughter Vaishali by throwing away medicines
 - [[giri]] — Factory owner, Mumbai; broken-hand karmic return; Mohammedpur greening (1988)
 - [[rajpal]] — Disciple; Heathrow airport exchange on healing authority; hoarse voice corrected and cured
+- [[eklavya]] — Archer from *The Mahabharat*; worshipped Dronacharya's statue; proof the guru is a concept, not just a person
+- [[sitaramji-dasua]] — Gurudev's early spiritual advisor; illustrates that even a mahaguru needed a teacher
+- [[swami-rama]] — Spiritual teacher; quoted for the boat analogy; represents a counterpoint to deep guru-veneration
 
 ---
 
@@ -113,6 +117,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–4*
 
 ---
 
@@ -226,6 +231,12 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[hingori-augarh-mataji-town]] — Drunk man chants Hingori's mental mantra; guards Mataji's family home all night
 - [[hingori-augarh-tea]] — Telepathic thought-wave instructions; Gurudev praises the tea
 - [[guru-of-gurus-family-mystery-poems]] — Six verbatim verse epigraphs by Hingori
+- [[guru-sutra-intro-poem]] — "He lights the divine flame…" — Closing verse of the *Guru Sutra* Introduction; the guru ignites, devotion sustains; wave becomes ocean
+- [[guru-sutra-ch1-poem]] — "We are blind with seeing eyes…" — Closing verse of *Guru Sutra* Ch.1; avidya and maya in four lines; the guru lifts veils rather than installing knowledge
+- [[guru-sutra-ch2-verse]] — "He who created this body, this house of clay…" — Guru Arjan Dass epigraph to *Guru Sutra* Ch.2; the guru holds the key to the inner treasury
+- [[guru-sutra-ch3-verse]] — "Unfettered devotion is how spiritual journeys begin…" — Closing verse of *Guru Sutra* Ch.3; journey from first devotion to realisation of inner divinity
+- [[guru-sutra-ch4-devraj-jal]] — Devraj's Mahashivratri story; the jal question, home temple reply, the disappeared bottle; teaching on evolving to internalise jal
+- [[guru-sutra-ch4-inner-voice]] — Hingori's own spirit asks if he would accept the guru unconditionally; "as-is-where-is" pivot from devotion to metaphysical acceptance
 - [[gurudev-siddhi-discharge]] — 1970; siddhi "begs" not to be released; transition from accomplished siddha to mahaguru
 - [[gurudev-kurwai-first-healing]] — 1973; Dhanna's fever; Buddhe Baba's command: serve without prejudice of caste, creed, or gender
 - [[malhotra-initiation-ganges]] — 1971; Ganges current stills during initiation; first disciple formally received

@@ -49,3 +49,5 @@ The guru tattva is the mechanism underlying Gurudev's "multilevel spiritual pyra
 - [[concepts/guru-disciple]] — the relationship in which the guru tattva is awakened
 - [[entities/mahaguru]] — whose primary mission, on Hingori's account, was awakening the guru tattva in his disciples
 - [[practices/seva]] — the practice through which the awakened guru tattva is expressed
+
+> [!tip] *Guru Sutra* Ch.2 Golden Principle converges here: "In the final analysis, the guru introduces the disciple to the disciple's inner being, and within that being lies the ultimate guru." The guru tattva teaching (*Guru of Gurus*) and this Golden Principle (*Guru Sutra*) are two expressions of the same claim: the final guru is not external but the awakened inner being itself. The external guru's function is to make the internal guru visible.

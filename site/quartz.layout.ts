@@ -8,8 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Blog: "blog",
-      Overview: "overview",
       Sources: "sources",
       Stories: "stories",
       Synthesis: "synthesis",
@@ -38,10 +36,11 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => !["log", "overview", "tags"].includes(node.slugSegment),
+    }),
   ],
   right: [],
 }

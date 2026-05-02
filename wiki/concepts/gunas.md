@@ -1,10 +1,10 @@
 ---
 title: Gunas
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]", "[[concepts/tantra]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-14
-updated: 2026-04-26
+updated: 2026-05-02
 ---
 
 # Gunas
@@ -150,6 +150,24 @@ The three gunas thus have a temporal arc: they shape each life, and the final ra
 
 ---
 
+## *Guru Sutra* Ch.2 — Guna-Based Taxonomy of Gurus
+
+*Guru Sutra* Ch.2 applies the guna framework specifically to the **category of guru** — what a guru teaches and how they operate corresponds directly to their dominant guna. This is the most consequential application of the taxonomy from the disciple's perspective: wrong guru = wrong guna transmission.
+
+**Tamasic gurus:** Offer bali (sacrifices), teach negative tantra vidya, cast spells, block fortune. Services can be monetised; disciples imbibe the same qualities.
+
+**Rajasic gurus:** Teach art of warfare and self-protection, scriptures, politics and kingship, philanthropy, mantras of rajasic deities, yoga, rituals, havans, animal sacrifices. They love the "grandeur of sitting at podiums" and "the euphoria of being worshipped." Often build palatial ashrams and accept lavish donations ("being weighed in gold in some outrageous cases"). Their positive karmic balance eventually runs out — bad luck or future karmic debt.
+
+**Sattvic gurus:** Teach disciples to unlearn almost everything; emphasise vairagya (dispassion), understanding of maya, control of the senses, going beyond mind and intellect. Objective: mukti or moksh. Prefer being "back-benchers, away from the limelight."
+
+**The Siddh Guru's balance:** A siddh guru draws on *all three* gunas — "balancing them for the benefit of his disciples." Self-protection from negative vibrations (spirits, planetary effects, black magic) requires tamas and rajas; evolution is sattvic. Even Krishna, Guru Gobind Singh, and Prophet Muhammad called on rajasic qualities to serve sattvic ends. The percentage share of sattva increases with evolution until "very little and only that which is useful is left of rajas and tamas."
+
+**Guna assessment in discipleship:** When a guru looks for a disciple, he examines the guna mix — assessing how much he can alter it and whether he can lead the disciple from predominantly tamas/rajas to predominantly sattva.
+
+See [[concepts/tantra]] — clarified in the same chapter as a spiritual science, neither negative nor positive; its polarity is determined by the practitioner's guna.
+
+---
+
 ## Cross-references
 
 - [[concepts/kleshas]] — raga and dwesa are fuel for rajas and tamas; kleshas and gunas are interdependent
@@ -164,3 +182,5 @@ The three gunas thus have a temporal arc: they shape each life, and the final ra
 - [[stories/guna-self-assessment]] — the 18-attribute self-assessment worksheet from *Aatma Sutra* Ch.VIII
 - [[concepts/stages-of-spiritual-transformation]] — gunas are one of three tools in Gurudev's six-stage framework; sattva must be transcended before divya gyan
 - [[concepts/karmayoga]] — acceptance as duty-without-grasping is the practical bridge through sattva
+- [[concepts/tantra]] — *Guru Sutra* Ch.2 clarifies tantra as a spiritual science; guna of the practitioner determines positive vs. negative use
+- [[concepts/guru-disciple]] — *Guru Sutra* Ch.2 taxonomises gurus by guna; the siddh guru balances all three

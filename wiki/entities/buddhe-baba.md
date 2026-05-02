@@ -46,7 +46,7 @@ Buddhe Baba appeared not only to Gurudev but to several members of his family:
 Two theories circulate:
 
 1. **A realised manifestation of Shiv** — consistent with Gurudev's own hints and with the high calibre of the guidance provided.
-2. **Sitaram ji of Benaras** — the guru of Gurudev's initial spiritual mentor, Sitaram ji of Dasua. Sitaram ji of Benaras was an accomplished saint who — like Jesus and Guru Nanak Dev — *went seh sharir after death:* he dematerialised his physical body by reconfiguring its atomic structure, a feat accomplished by only a few spiritualists in history. Given this elevated stature, he qualifies to be called Shiv, which compounds rather than resolves the confusion.
+2. **Sitaram ji of Benaras** — the guru of Gurudev's initial spiritual mentor, [[entities/sitaramji-dasua|Sitaramji of Dasua]]. Sitaram ji of Benaras was an accomplished saint who — like Jesus and Guru Nanak Dev — *went seh sharir after death:* he dematerialised his physical body by reconfiguring its atomic structure, a feat accomplished by only a few spiritualists in history. Given this elevated stature, he qualifies to be called Shiv, which compounds rather than resolves the confusion.
 
 > Gurudev's hints at Buddhe Baba being Shiv only compound the confusion. Since the mahaguru never disclosed Buddhe Baba's identity, we can only guess but never be sure.
 > — Hingori, *The Guru of Gurus*, p.50

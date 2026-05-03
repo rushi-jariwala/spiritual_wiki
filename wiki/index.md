@@ -108,7 +108,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–5*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–6*
 
 ---
 
@@ -229,6 +229,12 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[guru-sutra-ch4-devraj-jal]] — Devraj's Mahashivratri story; the jal question, home temple reply, the disappeared bottle; teaching on evolving to internalise jal
 - [[guru-sutra-ch4-inner-voice]] — Hingori's own spirit asks if he would accept the guru unconditionally; "as-is-where-is" pivot from devotion to metaphysical acceptance
 - [[guru-sutra-ch5-verse]] — Guru Nanak Dev's closing epigraph to Ch.5: "Let no man in this world live in delusion. Without a Guru, none can cross over to the other shore."
+- [[surenderji-murder-to-disciple]] — Alcoholic Surenderji with a secret murder plan; Gurudev knocks on his door to warn him; transforms into one of Gurudev's most beloved disciples; later converts Hingori from alcohol and non-veg
+- [[dr-vachhani-initiative]] — Dr. Vachhani waits outside Hingori's office every day for years; thirty-decade arc from refusal to healing patients by will power alone
+- [[vinti-nakul-astral]] — Vinti watches Nakul's spirit body exit his physical form and pass through the window; astral travel as rare self-assessment of spiritual progress
+- [[guru-sutra-ch6-poem1]] — "By blowing the trumpet to satiate pride…" — Hingori's verse on the soul's mighty fall through spiritual vanity
+- [[guru-sutra-ch6-poem2]] — "The scales will tip one way or another…" — Hingori's verse on the treacherous web of harsh self-judgement
+- [[buddha-last-words-guru-sutra]] — The Buddha's last words to his disciples: proximity to the guru is not physical but lived; "the true Buddha is not a human body: it is Enlightenment"
 - [[gurudev-siddhi-discharge]] — 1970; siddhi "begs" not to be released; transition from accomplished siddha to mahaguru
 - [[gurudev-kurwai-first-healing]] — 1973; Dhanna's fever; Buddhe Baba's command: serve without prejudice of caste, creed, or gender
 - [[malhotra-initiation-ganges]] — 1971; Ganges current stills during initiation; first disciple formally received

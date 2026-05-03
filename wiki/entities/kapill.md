@@ -29,3 +29,4 @@ Kapill often wondered what *gati* was, until he understood it directly in an out
 - [[concepts/self-worship]] — his vision is one of Hingori's primary examples of spiritual experience as a faith-builder for self-worship
 - [[concepts/astral-travel]] — the gati experience is a first-person demonstration of *gati* as described in Ch.VI
 - [[entities/mahaguru]] — Gurudev deciphers the Shiv vision; Kapill practises at the Mumbai sthan
+- [[concepts/guru-disciple]] — *Guru Sutra* Ch.6: Kapill of Lonavala gained Hingori's respect by consistently promoting others before himself, "unwittingly superseding many of his peers who came before him" — cited as the antidote to spiritual envy

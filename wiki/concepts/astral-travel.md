@@ -187,3 +187,4 @@ Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultane
 - [[stories/uddhav-ji-black-triangles]] — Gurudev acts astrally at a distance to protect a disciple from a dangerous spirit apparition
 - [[stories/hingori-puranji-missed-astral-tour]] — Brahmaand offer; Hingori physically wakes instead of going astrally
 - [[concepts/constant-awareness]] — constant awareness is the standing state within which astral travel occurs; documented in the same incidents (flight to Hyderabad, Bathri yogi, inland letter)
+- [[stories/vinti-nakul-astral]] — *Guru Sutra* Ch.6: Vinti witnesses Nakul's spirit leave his body and pass through the window in the early hours; out-of-body experience as one of the few ways to consciously assess spiritual progress

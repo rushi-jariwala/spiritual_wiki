@@ -186,6 +186,36 @@ A life is not one thing — it is a trajectory across time. Any single moment is
 
 ---
 
+### Snakes and Ladders of Guruism
+*Illuminates: [[concepts/guru-disciple]]*
+
+> Disobedience and obedience are the snakes and ladders in the game of Guruism.
+> — Hingori, *Guru Sutra*, Ch.6, p.49
+
+In the classic board game, a ladder shortcuts progress and a snake returns you to a lower position. Obedience to the guru's often counterintuitive instructions is the ladder; disobedience (even well-intentioned, as in Tonyji's refusal to start a Kashmir sthan) is the snake. The game is a single lifetime, but the board extends across several. Note: the *Judge G's Courtroom* entry above also invokes "snakes and ladders of Guruism" as a phrase — this entry gives it its own explicit analogy treatment. See [[concepts/guru-disciple]] (Obedience section), [[stories/surenderji-murder-to-disciple]].
+
+---
+
+### The Mango Tree
+*Illuminates: [[concepts/guru-disciple]], [[concepts/self-acceptance]]*
+
+> A mango tree looks drab without its fruit. Fruit follows flowering, which happens when the tree is fully established and not during its growing years.
+> — Hingori, *Guru Sutra*, Ch.6, p.57
+
+Growth is not continuous visible progress — it is invisible consolidation followed by sudden fruiting. Judging a mango tree during its growing years as "fruitless" is a category error; it is not yet at the stage where fruit is possible. A disciple who has no visions, fewer experiences, or less visible advancement than their peers is not lagging — they may be in the establishment phase before flowering. See [[concepts/guru-disciple]] (Judging Oneself section), [[concepts/self-acceptance]].
+
+---
+
+### The Car Rally
+*Illuminates: [[concepts/guru-disciple]], [[practices/seva]]*
+
+> In a car rally, he who finishes first may win the trophy, but he who finishes later may have perhaps meandered through numerous hills and valleys before reaching the finish line, thereby having a far more enriching experience than the winner.
+> — Hingori, *Guru Sutra*, Ch.6, p.54
+
+Applied to spiritual greed: racing to accumulate merit, seva hours, or a larger following is winning the rally but missing the landscape. The enriching texture of a slower, meandering path — facing obstacles, serving genuinely, encountering resistance — is where the real formation happens. The trophy is not the measure; the journey is. See [[concepts/guru-disciple]] (Spiritual Greed), [[practices/seva]].
+
+---
+
 ## Mind & Kleshas
 
 ### The CCTV Camera

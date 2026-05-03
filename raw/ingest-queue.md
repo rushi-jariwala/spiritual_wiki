@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Guru Sutra** (`raw/guru-sutra-chapters/`)
 
 ## Next
-- [ ] ch-06-journey-towards-disciplehood.md  (705 lines)
+- [ ] ch-07-guru-disciple-relationship.md     (217 lines)
 
 ## Remaining — Guru Sutra
-- [ ] ch-07-guru-disciple-relationship.md     (217 lines)
 - [ ] ch-08-facets-of-faith.md               (260 lines)
 - [ ] ch-09-surrender.md                     (628 lines)
 - [ ] ch-10-diksha.md                        (185 lines)
@@ -62,6 +61,7 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-03-gurukul-system.md
 - [x] ch-04-admirer-to-disciple.md
 - [x] ch-05-disciple-lesser-or-greater.md
+- [x] ch-06-journey-towards-disciplehood.md
 
 ## Completed — Other Books
 - [x] Karma Sutra (fully ingested)

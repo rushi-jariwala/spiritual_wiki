@@ -425,3 +425,61 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > Without a Guru, none can cross over to the other shore."
 > — Guru Nanak Dev, epigraph closing *Guru Sutra*, Ch.5, p.42
 [[entities/guru-nanak]] · [[concepts/guru-disciple]] · [[stories/guru-sutra-ch5-verse]]
+
+---
+
+## Journey Towards Disciplehood (*Guru Sutra* Ch.6)
+
+### On Selecting Disciples
+
+> Gurudev taught me how to choose disciples and the first rule is to choose those who do not want to be chosen. I find religious, or for that matter even spiritually pre-conditioned people have a lot already embossed on their minds. It takes a long time to erase their preconceived notions of spiritualism.
+> — Hingori, *Guru Sutra*, Ch.6, p.44
+[[concepts/guru-disciple]]
+
+---
+
+### On Obedience
+
+> Both obedience and loyalty to a guru are qualities a good disciple must have. You may have your own opinion, but it is only by placing your bets on your guru's opinion that you gain a winning edge. You form opinions based on your experience of this physical life and the conditioning you carry with you, whereas your guru bases his opinions on his knowledge of your past, present and future lives.
+> — Hingori, *Guru Sutra*, Ch.6, pp.50–51
+[[concepts/guru-disciple]]
+
+---
+
+### Golden Principle — Service Before Self
+
+> Golden Principle: Service to others before self, is the path to spiritual progress.
+> — Hingori, *Guru Sutra*, Ch.6, p.55
+[[concepts/guru-disciple]] · [[practices/seva]]
+
+---
+
+### On Selfishness vs. Sacrifice
+
+> If I were to put it simply, selfishness is greed while sacrifice is service. Various religions speak about instilling generosity rather than greed. Serve till it hurts! The desire to do as much for as many is not greed. It is seva.
+> — Hingori, *Guru Sutra*, Ch.6, p.53
+[[concepts/guru-disciple]] · [[practices/seva]]
+
+---
+
+### Lao Tzu — On Attachment
+
+> "If you realize that all things change, there is nothing you will try to hold on to."
+> — Lao Tzu, *Tao Te Ching*, cited in Hingori, *Guru Sutra*, Ch.6, p.55
+[[concepts/guru-disciple]] · [[concepts/vairagya]] · [[concepts/role-play]]
+
+---
+
+### On Self-Judgement
+
+> Judging one's progress is virtually impossible.
+> — Hingori, *Guru Sutra*, Ch.6, p.60
+[[concepts/guru-disciple]] · [[concepts/self-acceptance]]
+
+---
+
+### Guru Nanak Dev — The Seed
+
+> "Whatever kind of seed is sown in a field, prepared in due season, a plant of that same kind, marked with the peculiar qualities of the seed, springs up in it."
+> — Guru Nanak Dev, closing epigraph, *Guru Sutra*, Ch.6, p.62
+[[entities/guru-nanak]] · [[concepts/guru-disciple]] · [[concepts/samskars]]

@@ -2,7 +2,7 @@
 title: Dr. Shankarnarayan
 type: entity
 tags: [disciple, colleague]
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: ["[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[stories/shankarnarayan-vaishali-healing]]"]
 created: 2026-04-26
 updated: 2026-04-26
@@ -18,6 +18,16 @@ Dr. Shankarnarayan was a senior colleague of Gurudev at the All India Soil and L
 
 ### Vaishali's Healing — First Disciple
 Shankarnarayan ji's young daughter **Vaishali** suffered from intermittent fits and a persistent fever. When he mentioned her condition to Gurudev, the mahaguru smiled but said nothing. Over time, Shankarnarayan ji's faith deepened to the point where he made a decisive act: he **threw away Vaishali's medicines**, confident she no longer needed them. Following this act of faith, Vaishali's condition gradually improved until she recovered completely. He was the first to address Gurudev as *"Guruji"* — and soon after was initiated as a formal disciple. See [[stories/shankarnarayan-vaishali-healing]].
+
+### Bowing to Malhotraji — The Seniority Test
+*Guru Sutra*, Ch.5
+
+Gurudev asked his first disciple **Malhotraji** (RC Malhotra; see [[entities/rc-malhotra]]) to give Dr. Shankarnarayan his first mantra. Despite being older than Malhotraji and his senior at work, Shankarnarayan ji bowed to and touched Malhotraji's feet — honouring the spiritual relationship without regard to the conventional hierarchy. Hingori witnessed this and took it as a living demonstration of the Golden Principle Shankarnarayan ji had pressed on him many times over:
+
+> "In spiritualism, one should compete only with oneself and not with others."
+> — Dr. Shankarnarayan to Hingori, *Guru Sutra*, Ch.5, p.40
+
+The act: a senior government officer prostrating to a younger, professionally inferior disciple who happened to have been accepted by the guru earlier. Hingori notes: "He practices what he preaches."
 
 ### The Photograph
 Later in life, Shankarnarayan ji approached Gurudev repeatedly with an important work-related matter that kept falling through. Eventually, Gurudev asked him to fetch a camera and photograph him. He then instructed Shankarnarayan ji to carry the photo in his shirt pocket while attending to the important matter. Hingori notes this was the **first time Gurudev allowed himself to be photographed** after becoming a mahaguru. The incident prompted Gurudev to explain that carrying a guru's photo heightens the *guru roop* connectivity — the same principle Hingori had observed when Gurudev kept his own photograph in his safari suit pocket during spiritually complicated matters.

@@ -156,6 +156,36 @@ Disciples coined the term "**Judge G's courtroom**" for Gurudev's exacting stand
 
 ---
 
+### Seed and Potential Tree
+*Illuminates: [[concepts/guru-disciple]], [[entities/hingori]]*
+
+> A siddh guru can judge a seed and foresee the potential tree.
+> — Hingori, *Guru Sutra*, Ch.5, p.38
+
+The guru does not see the disciple at their current cross-section — he sees the whole organism they are becoming. The seed carries the entire tree encoded within it; the guru reads that code where others see only a seed. Examples: Gurudev telling Mrs. Jolly that Hingori would attract many people; Hingori seeing the future saint in the alcoholic Rajeev; Jesus foreseeing both Peter's denial and Peter's eventual role as a foundation-stone. See [[concepts/guru-disciple]], [[stories/rajeev-alcoholic-to-saint]].
+
+---
+
+### Carrying on Shoulders
+*Illuminates: [[concepts/guru-disciple]], [[entities/mahaguru]]*
+
+> "I can only see from the level of my eyes but I will carry you on my shoulders so you can see from much higher."
+> — Gurudev to Hingori, *Guru Sutra*, Ch.5, p.38
+
+The guru does not bring the disciple up to his own eye level — he goes further, lifting the disciple *above* himself. The mahaguru's aim is that the disciple should exceed the teacher. The shoulders are both structural support and the acknowledgement that the teacher's own vision is a floor, not a ceiling. See [[concepts/guru-disciple]] (Disciples Can Evolve Beyond Their Guru). Cf. [[quotes/guru]] — *The Guru of Gurus* version: "I carry them on my shoulders so that they can see much further than I can."
+
+---
+
+### Point on a Line vs. The Line Itself
+*Illuminates: [[concepts/self-acceptance]], [[concepts/destiny]], [[concepts/guru-disciple]]*
+
+> I made a judgment about myself at a different cross section of time and observed myself as a point on the line rather than the line itself.
+> — Hingori, *Guru Sutra*, Ch.5, p.37
+
+A life is not one thing — it is a trajectory across time. Any single moment is only a point. To judge oneself by a cross-section is to mistake a snapshot for the portrait. The same error applied to others produces false hierarchies (arriving at the guru later does not mean spiritually lesser). Applied to oneself, it produces false self-evaluations: the young Hingori who pitied spiritualists was a point on a line that would lead him to become one. See [[concepts/self-acceptance]], [[stories/rajeev-alcoholic-to-saint]].
+
+---
+
 ## Mind & Kleshas
 
 ### The CCTV Camera

@@ -109,7 +109,9 @@ The chapter's practical formula for self-acceptance:
 1. **Recognise the societal mirror for what it is**: others have no right to define your worth. Their evaluations are projections through their own limitations.
 2. **Reframe self-blame through destiny**: planetary configurations are known to produce late marriages, divorces, and apparent failures. You are not the cause.
 3. **Dissolve guilt through non-doership**: refuse to accept ownership of the act. The act was destined; the guilt is the gratuitous addition.
-4. **Accept potential across all phases**: self-acceptance is not only of the present cross-section. "If you have embarked on the voyage of self-discovery, then give yourself a fair chance." Ch.XII deepens this into the **Phase A-to-Z** teaching — Valmiki (bandit to *maharishi*), Vishvamitra (arrogant king to *brahmarishi*), Rajeev (alcoholic to healer) — the latent saint is a standard feature. See [[concepts/self-love]].
+4. **Accept potential across all phases**: self-acceptance is not only of the present cross-section.
+
+> [!tip] *Guru Sutra* Ch.5 sharpens this with the "line" image: a life is not a point but a trajectory. To judge yourself by the current cross-section is to observe a point on the line rather than the line itself. The instruction is to have faith in "the rest of the line" — the unfolded future self that the siddh guru already sees. See [[concepts/guru-disciple]] (Guru Sutra Ch.5). "If you have embarked on the voyage of self-discovery, then give yourself a fair chance." Ch.XII deepens this into the **Phase A-to-Z** teaching — Valmiki (bandit to *maharishi*), Vishvamitra (arrogant king to *brahmarishi*), Rajeev (alcoholic to healer) — the latent saint is a standard feature. See [[concepts/self-love]].
 5. **Watch yourself do good**: new positive impressions are superimposed on negative *samskars* through repeated self-observation of worthy deeds. Repeated actions build self-respect, which builds self-love.
 
 ## The Three-Stage Arc

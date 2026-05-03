@@ -37,7 +37,7 @@ updated: 2026-05-02
 | **Chapter 2** | The Guru Decoded | 9–20 | ✅ ingested 2026-05-02 |
 | **Chapter 3** | Gurukul System | 21–26 | ✅ ingested 2026-05-02 |
 | **Chapter 4** | Admirer to Disciple | 27–34 | ✅ ingested 2026-05-02 |
-| Chapter 5 | Disciple: Lesser or Greater | 35–42 | ⬜ pending |
+| **Chapter 5** | Disciple: Lesser or Greater | 35–42 | ✅ ingested 2026-05-03 |
 | Chapter 6 | Journey Towards Disciplehood | 43–62 | ⬜ pending |
 | Chapter 7 | Guru Disciple Relationship | 63–68 | ⬜ pending |
 | Chapter 8 | Facets of Faith | 69–76 | ⬜ pending |
@@ -119,6 +119,17 @@ updated: 2026-05-02
 
 - [[stories/guru-sutra-ch4-devraj-jal]] — Devraj's Mahashivratri story: the jal question, Gurudev answering through the home temple photograph, wife unwittingly draining the jal, the teaching on internal transmutation (Ch.4, pp.30–31)
 - [[stories/guru-sutra-ch4-inner-voice]] — Hingori's inner-voice experience: the spirit's question, "as-is-where-is" acceptance, shift from physical to metaphysical relationship (Ch.4, pp.31–33)
+- [[stories/guru-sutra-ch5-verse]] — Guru Nanak Dev's closing epigraph: "Let no man in this world live in delusion. Without a Guru, none can cross over to the other shore." (Ch.5, p.42)
+- [[stories/thuksey-rinpoche-reincarnation]] — updated with Guru Sutra Ch.5 version: school founded by Rinpoche in past life, Gyalwang Dhukpa as current-life mentor, court transfer of school land (Ch.5, pp.39–40)
+- [[stories/hingori-arthritis-cure]] — updated with Guru Sutra Ch.5 version: aloo-paratha cure of the queue stranger, 95% deliberate partial cure, Hingori's "one-time transaction" attitude, five-year gap before return
+- [[stories/rajeev-alcoholic-to-saint]] — updated with Guru Sutra Ch.5 cross-reference: Hingori saw the future saint in the alcoholic at first encounter
+
+## New Concepts from Ch.5
+
+- **Disciples evolving beyond their guru** — a mark of the teacher's greatness, not failure; Alara Kalama, Gorakshanath, Shankaracharya, Ramakrishna as examples — see [[concepts/guru-disciple]]
+- **Spiritual hierarchy vs. chronological hierarchy** — arrival date at the guru ≠ spiritual seniority; the "hierarchy malady" critique — see [[concepts/guru-disciple]]
+- **The line** — seeing oneself as a trajectory across time, not a cross-section; the siddh guru reads the full line — see [[concepts/guru-disciple]], [[concepts/self-acceptance]]
+- **Seed and potential tree** — the siddh guru's capacity to read latent potential — see [[analogies/analogies]], [[concepts/guru-disciple]]
 
 ## Contradictions / Tensions
 
@@ -130,6 +141,9 @@ updated: 2026-05-02
 
 > [!tip] Diminished mantra efficacy — historical vs. current age
 > Ch.3 states that in the current age, mantras work only at the aura level and can no longer move objects or materialise things as they once could. This is not in contradiction with *The Guru of Gurus* (which describes only aura/consciousness-level effects); the historical decline is Hingori's addition. He names no definitive cause — changes in Earth's axis or gravitational pull are offered as possible candidates.
+
+> [!warning] Spiritual hierarchy vs. chronological hierarchy — Ch.5
+> Hingori argues directly against organisations that assign authority by arrival date rather than attainment. He calls this the "hierarchy malady" and describes the cost: spiritual orders led by less-worthy persons because they arrived earlier. This has clear practical implications for how succession is managed in spiritual institutions.
 
 > [!tip] Devotion as necessary but insufficient — Ch.4
 > Ch.4 presents Stage 3 (Devotee) as emotionally intense and genuinely valuable, yet explicitly not the final stage. The emotional oscillation of Stage 2 and the theatrical devotion of Stage 3 are framed as developmental phases — not errors to be corrected, but conditions to be outgrown. Stage 4 is not reached by avoiding devotion but by passing through it.

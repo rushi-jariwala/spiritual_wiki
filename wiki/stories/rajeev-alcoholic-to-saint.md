@@ -23,6 +23,15 @@ updated: 2026-04-22
 >
 > Years later, Paliji came to see me again. This time without the disenchanted expression. He wanted to thank me as his son-in-law had turned his life around — given up alcohol, acquired a sense of maturity and got involved in a lot of social work and spiritual healing. My words were ringing in his ears. Paliji was amused and said, "You were so right, but at that time how could I have believed it? Thank you so much for initiating so many changes in Rajeev". The irony of the story is that Rajeev had always been a potential saint, with a few decades of absenteeism when he was under the influence of intoxicants and till he reached a particular age. I had done nothing to bring about the metamorphosis. It was his destiny and I, the trigger.
 
+## *Guru Sutra* Ch.5 Cross-Reference
+
+Ch.5 references Rajeev in one line as evidence of the siddh guru seeing the seed:
+
+> "When Rajeev was brought to me as an alcoholic, I saw in him the saint he would be in the future."
+> — Hingori, *Guru Sutra*, Ch.5, p.38
+
+This is the same event — Rajeev's entry to the sthan — viewed from the guru's side of the vision. The *Aatma Sutra* Ch.XII account (below) tells it from the outside; this *Guru Sutra* line confirms the interior: Hingori already knew the outcome on first encounter.
+
 ## Related Concepts
 
 Hingori uses Rajeev's story to illustrate the central teaching of Ch.XII: you cannot judge a life by its present cross-section. The child who wet his bed, the student at Doon School, the MBA in the US, the drunk at his office desk, the healer at the *sthan* — which one is Rajeev? The answer is all and none: the phases are gates; the light is the jivaatma.

@@ -393,6 +393,82 @@ Ch.4 closes with Rumi:
 
 ---
 
+---
+
+## *Guru Sutra* Ch.5 — Disciple: Lesser or Greater (pp.35–42)
+
+### The Novice Entry Point
+
+Most disciples arrive not as seekers of liberation but as seekers of relief — cures for physical illness, financial trouble, mental ailment. Hingori is frank about this in his own case:
+
+> When I first visited Gurudev in 1977, it was only because I had rheumatoid arthritis and was told he could cure me.
+> — Hingori, *Guru Sutra*, Ch.5, p.35
+
+Waiting in line, Hingori witnessed the man ahead of him — who had been unable to keep down solid food for six months — eat aloo parathas served by Gurudev, and be cured on the spot. When Gurudev's turn came with Hingori, he deliberately cured only 95% of the pain. His reaction: "I felt this was a one-time transaction." He had no intention of returning. Destiny disagreed.
+
+### Seeing the Line, Not the Cross-Section
+
+Five years later, arthritis returned and Hingori had to go back. From that second meeting grew the discipleship. Reflecting on the gap between who he was in 1977 and what he became, Hingori offers the chapter's central philosophical image:
+
+> The distance I believe I have travelled over the last few decades; from dummkopf to divine, is not a real distance. It is merely the fulfilment of a process that was to happen. I made a judgment about myself at a different cross section of time and observed myself as a point on the line rather than the line itself.
+> — Hingori, *Guru Sutra*, Ch.5, p.37
+
+The instruction: see yourself not as a point on the line but as the line — extending across past, present, and future. The disciple who judges themselves by today's cross-section will invariably evaluate too lowly. Hingori's recommendation: "have more faith in the rest of the line."
+
+> [!tip] This "point on the line vs. the line itself" framing mirrors *Aatma Sutra* Ch.XII's teaching on not judging yourself by the present cross-section (see [[stories/rajeev-alcoholic-to-saint]] and [[concepts/self-acceptance]]). Both books arrive at the same principle from different angles: destiny/evolution is a trajectory, not a position.
+
+Gurudev — who could see Hingori's future — told Mrs. Jolly, one of his devotees: *"This boy will be able to attract many people towards our subject."* Hingori notes: "Thankfully, the boy did not hear that until 30 years later, for he may have never believed it then."
+
+He also told Hingori directly: "I can only see from the level of my eyes but I will carry you on my shoulders so you can see from much higher." And when Hingori confessed his ignorance of spiritualism: "You are a guru. You are my son. Gurus create gurus."
+
+### The Siddh Guru Sees the Seed
+
+A siddh guru can read potential where no evidence of it yet exists:
+
+> A siddh guru can judge a seed and foresee the potential tree.
+> — Hingori, *Guru Sutra*, Ch.5, p.38
+
+Examples from Hingori's own practice: when Rajeev was brought to him as an alcoholic, he saw the saint Rajeev would become (see [[stories/rajeev-alcoholic-to-saint]]). When Vipan's father complained that his son was not commercially inclined, Hingori told him the boy would serve many people and earn his father's goodwill. Both came to pass.
+
+The *Gospel of John* (18:13–27) is cited: Jesus told Peter, "Before the rooster crows today, you will disown me three times" — knowing both the immediate failure and the eventual foundation-stone. Seeing the future whole, not just the present cross-section.
+
+### Disciples Can Evolve Beyond Their Guru
+
+Ch.5 introduces a teaching absent from earlier chapters: the disciple evolving beyond the teacher is not only possible but is a mark of the teacher's greatness. Hingori's examples:
+
+- **Alara Kalama** was the Buddha's teacher from his father's kingdom. Much later, after the Buddha attained enlightenment, Alara Kalama became his student.
+- **Guru Gorakshanath**, **Adi Shankaracharya** (see [[entities/adi-shankaracharya]]), and **Ramakrishna Paramahansa** each evolved to perceivably higher levels than their teachers.
+
+> The evolution of a disciple to a higher status is definitely a compliment to the guru who went beyond himself. It shows the generosity of the teacher and the fact that he did not think competitively, only gracefully!
+> — Hingori, *Guru Sutra*, Ch.5, p.38
+
+### Spiritual Hierarchy vs. Chronological Hierarchy
+
+A disciple's standing within a spiritual order is often determined by when they arrived — who met the guru first. Hingori contests this:
+
+> Generally, the hierarchy that exists in many spiritual orders is based purely on chronological grounds and not on spiritual ones. However, just because a person met his guru on a particular date does not mean he is spiritually more advanced than someone who might meet his guru later.
+> — Hingori, *Guru Sutra*, Ch.5, p.40
+
+A younger person with the right spiritual antecedent — one who may have already reached a particular stage in a previous life, or who was born at the right mahurat — could easily exceed someone with more years on the path in this life.
+
+> [!warning] The hierarchy malady: many religious orders suffer from defaulting to chronological seniority. "The right man does not always get the right job and often, the most spiritual person of that order does not get the lead because he came later or is comparatively younger. Thus, the spiritual order is forced to suffer the leadership of a less worthy person." — *Guru Sutra*, Ch.5, p.41. See [[sources/guru-sutra]] Contradictions section.
+
+**The Thuksey Rinpoche case** is the sharpest illustration: Thuksey Rinpoche founded a school in Leh in his previous life. His disciple Gyalwang Dhukpa later mentored him — the reincarnated Rinpoche — in this life. The former master is now a student of his own former student. Courts have even legally transferred the school's land to Thuksey Rinpoche in this life, acknowledging the reincarnation. See [[stories/thuksey-rinpoche-reincarnation]].
+
+> Golden Principle: "In spiritualism, one should compete only with oneself and not with others."
+> — Dr. Shankar Narayan to Hingori, *Guru Sutra*, Ch.5, p.40
+
+This principle was given to Hingori so often by Dr. Shankarnarayan that it became part of his psyche. Shankarnarayan ji — who was Gurudev's senior at work — would bow at Gurudev's feet regardless of colleagues' reactions. When Gurudev asked his first disciple Malhotraji to give Shankarnarayan the first mantra, Shankarnarayan bowed to and touched the feet of a man who was younger and less senior than him in every conventional domain. See [[entities/dr-shankarnarayan]].
+
+> A disciple's success is measured not by his seniority but by the amalgam of his qualities.
+> — Hingori, *Guru Sutra*, Ch.5, p.41
+
+Jesus in Matthew 20:16: "So the last will be first, and the first will be last."
+
+The chapter closes with Guru Nanak Dev's verse: see [[stories/guru-sutra-ch5-verse]].
+
+---
+
 ## Open Questions
 
 > [!tip] What qualifies a siddh guru?

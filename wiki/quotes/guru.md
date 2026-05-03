@@ -374,3 +374,54 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > "One moment spent / In the company of saints / Is far better / Than praying for a hundred years."
 > — Rumi, epigraph closing *Guru Sutra*, Ch.4, p.34
 [[concepts/guru-disciple]]
+
+---
+
+## Disciple: Lesser or Greater (*Guru Sutra* Ch.5)
+
+### The Siddh Guru's Vision
+
+> A siddh guru can judge a seed and foresee the potential tree.
+> — Hingori, *Guru Sutra*, Ch.5, p.38
+[[concepts/guru-disciple]] · [[stories/rajeev-alcoholic-to-saint]]
+
+---
+
+### On Carrying the Disciple Forward
+
+> "I can only see from the level of my eyes but I will carry you on my shoulders so you can see from much higher."
+> — Gurudev to Hingori, *Guru Sutra*, Ch.5, p.38
+[[entities/mahaguru]] · [[concepts/guru-disciple]]
+
+> "You are a guru. You are my son. Gurus create gurus."
+> — Gurudev to Hingori, *Guru Sutra*, Ch.5, p.38
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[entities/hingori]]
+
+---
+
+### Golden Principle — Spiritual Competition
+
+> Golden Principle: "In spiritualism, one should compete only with oneself and not with others."
+> — Dr. Shankarnarayan to Hingori, *Guru Sutra*, Ch.5, p.40
+[[entities/dr-shankarnarayan]] · [[concepts/guru-disciple]]
+
+---
+
+### On Spiritual vs. Chronological Hierarchy
+
+> A disciple's success is measured not by his seniority but by the amalgam of his qualities.
+> — Hingori, *Guru Sutra*, Ch.5, p.41
+[[concepts/guru-disciple]]
+
+> The age of a spirit is never measured by the age of the flesh!
+> — Hingori, *Guru Sutra*, Ch.5, p.40
+[[concepts/guru-disciple]] · [[concepts/mahurat]]
+
+---
+
+### Guru Nanak Dev — Closing Epigraph
+
+> "Let no man in this world live in delusion.
+> Without a Guru, none can cross over to the other shore."
+> — Guru Nanak Dev, epigraph closing *Guru Sutra*, Ch.5, p.42
+[[entities/guru-nanak]] · [[concepts/guru-disciple]] · [[stories/guru-sutra-ch5-verse]]

@@ -54,11 +54,20 @@ Hingori cites Guru Nanak's adage in *Aatma Sutra* Ch.XI when discussing destiny 
 
 Hingori uses it to point out that no age, stage, or circumstance is exempt from discontent — making the search for self-acceptance through external conditions a circular, never-ending game.
 
+## *Guru Sutra* Ch.5 — Closing Epigraph
+
+Guru Nanak's verse closes Ch.5 of *Guru Sutra* immediately after Hingori's argument that spiritual hierarchy should be based on attainment, not chronology. See [[stories/guru-sutra-ch5-verse]].
+
+> "Let no man in this world live in delusion.
+> Without a Guru, none can cross over to the other shore."
+> — Guru Nanak Dev, *Guru Sutra*, Ch.5, p.42
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — case study of realisation outside the classical sadguru model
 - [[concepts/self-acceptance]] — his adage cited as evidence for the universality of discontent
 - [[stories/guru-nanak-river-bain]] — the episode at the river
+- [[stories/guru-sutra-ch5-verse]] — closing epigraph of Guru Sutra Ch.5
 - [[entities/mahaguru]] — who attributed the devi-connection to Nanak
 
 ## Open Questions

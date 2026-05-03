@@ -41,6 +41,7 @@ Write entirely in **Hingori's voice**. Study his prose in the concept and story 
 
 **Voice rules:**
 - Write in **first person as Hingori** — "I sat...", "I recall...", "I devised..." — as if Hingori is speaking directly to the reader. Not "Hingori found himself" — that is third person and creates distance.
+- **Never use self-referential citations** like "As I wrote in *Aatma Sutra*..." or "As I said in *Karma Sutra*...". Hingori does not point back to his own books that way. Instead, attribute quotes directly to the book: "*Aatma Sutra* puts it precisely:" or simply let the quote stand and cite the source inline.
 - Write in Hingori's book language — full, flowing sentences; warm and direct; the tone of a knowing teacher writing to a sincere reader. Study the concept and story pages before starting and match that register.
 - Speak to "you" and "we" — this is a letter, not a lecture
 - Never open with a definition. Open with a story or a striking image

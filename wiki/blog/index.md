@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 Daily reflections drawn from the Hingori Sutras — written as a direct message from the tradition to the reader. Each post takes one concept and brings it alive through stories, analogies, and quotes from the wiki.
 
-*Posts are AI-generated using the Hingori Sutras wiki as source material.*
+*All blogs are generated from the Hingori Sutras wiki.*
 
 ---
 

@@ -32,4 +32,4 @@ Understanding this is one thing; practicing it moment to moment is another. I my
 Spend five minutes a day reciting "I am not the doer." Make it a prayer. *People have reached there, so why not you?*
 
 ---
-*This post is AI-generated using the Hingori Sutras wiki as source material.*
+*Generated from the Hingori Sutras wiki.*

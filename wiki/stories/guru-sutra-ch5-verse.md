@@ -1,5 +1,5 @@
 ---
-title: "Let no man in this world live in delusion" — Guru Nanak Dev
+title: '"Let no man in this world live in delusion" — Guru Nanak Dev'
 type: story
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/guru-nanak]]"]

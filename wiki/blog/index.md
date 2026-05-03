@@ -18,6 +18,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-04-27-self-worship|2026-04-27 — The God in Your Mirror]] — Self-Worship: why recognizing the divinity within is the final stage of spiritual self-discovery, and how even an atheist can practice it
 - [[blog/2026-04-28-samskars|2026-04-28 — The Oldest To-Do List in the World]] — Samskars: the mechanism by which karma is stored, carried across lives, and either exhausted or re-encoded — and how a guru can interrupt the loop
 - [[blog/2026-04-28-koshas-manomaya|2026-04-28 — The Villain in the Middle]] — Manomaya Kosha: the mind body that names, claims, and mistakes its own constructions for the self — and how to see through it
+- [[blog/2026-05-03-maya|2026-05-03 — The World That Is Not]] — Maya: the field of delusion within which duality operates, how science and Vedanta converge on its diagnosis, and what Ram's life looks like from beyond it
 
 ---
 
@@ -38,3 +39,6 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `himachal-vitark-exhaustion` — samskars (2026-04-28)
 - `hingori-sees-thought` — koshas/manomaya (2026-04-28)
 - `gurudev-horse-gives-birth` — koshas/manomaya (2026-04-28)
+- `ram-kills-bali-behind-tree` — maya (2026-05-03)
+- `ram-banishes-sita` — maya (2026-05-03)
+- `ram-speech-to-guru-vashisht` — maya (2026-05-03)

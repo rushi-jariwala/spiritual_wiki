@@ -1,4 +1,4 @@
-raw/
+raw/ingested_sources/
 site/node_modules/
 site/public/
 site/.quartz-cache/

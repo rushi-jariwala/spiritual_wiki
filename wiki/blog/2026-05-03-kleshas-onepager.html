@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Five Flatmates You Cannot Evict — The Hingori Sutras</title>
+<style>
+
+  /* ── BASE ── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif;
+    background: #12111a;
+    color: #d4cabb;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 56px 48px;
+    line-height: 1.55;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* ── MASTHEAD ── */
+  .masthead {
+    text-align: center;
+    margin-bottom: 44px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #252030;
+  }
+
+  .masthead-eyebrow {
+    font-size: 10px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #6a5e44;
+    margin-bottom: 18px;
+  }
+
+  .masthead-eyebrow::before,
+  .masthead-eyebrow::after {
+    content: '  ——  ';
+    color: #3a3428;
+  }
+
+  .masthead h1 {
+    font-size: 2.5em;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    color: #ede5d5;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+
+  .masthead .deck {
+    font-style: italic;
+    color: #7a6e58;
+    font-size: 1.05em;
+    margin-bottom: 22px;
+  }
+
+  .masthead .intro {
+    font-size: 0.92em;
+    color: #8a8070;
+    max-width: 560px;
+    margin: 0 auto;
+    font-style: italic;
+    line-height: 1.65;
+  }
+
+  /* ── CARDS GRID: 2 + 2 + centered 5th ── */
+  .cards-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin-bottom: 18px;
+  }
+
+  .fifth-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 22px;
+  }
+
+  .fifth-row .card {
+    width: calc(50% - 9px);
+  }
+
+  /* ── CARD ── */
+  .card {
+    border: 1px solid #221e2c;
+    border-top: 3px solid transparent;
+    padding: 22px 22px 16px;
+    background: rgba(255, 255, 255, 0.024);
+    position: relative;
+  }
+
+  .card-index {
+    position: absolute;
+    top: 13px;
+    right: 16px;
+    font-size: 0.68em;
+    letter-spacing: 1.5px;
+    color: #3e3630;
+  }
+
+  /* Per-flatmate accent colours */
+  .avi   { border-top-color: #6496c8; }
+  .asmi  { border-top-color: #c47a4e; }
+  .rag   { border-top-color: #6aaa6a; }
+  .dev   { border-top-color: #9060be; }
+  .abhi  { border-top-color: #c49a44; }
+
+  .card-name {
+    font-size: 1.28em;
+    font-weight: bold;
+    color: #ede5d5;
+    margin-bottom: 3px;
+    letter-spacing: 0.02em;
+  }
+
+  .card-klesha {
+    font-size: 0.76em;
+    font-style: italic;
+    color: #706050;
+    letter-spacing: 0.4px;
+    margin-bottom: 12px;
+  }
+
+  .card-tagline {
+    font-style: italic;
+    font-size: 0.87em;
+    color: #a89880;
+    padding: 7px 11px;
+    border-left: 2px solid #2a2430;
+    margin-bottom: 12px;
+    line-height: 1.45;
+  }
+
+  .card-body {
+    font-size: 0.85em;
+    color: #b8b0a0;
+    line-height: 1.64;
+  }
+
+  .card-body em { font-style: italic; color: #c8bfae; }
+
+  .card-note {
+    margin-top: 13px;
+    padding-top: 10px;
+    border-top: 1px dashed #252030;
+    font-size: 0.74em;
+    color: #5e5448;
+    font-style: italic;
+    line-height: 1.4;
+  }
+
+  /* ── DIVIDER ORNAMENT ── */
+  .ornament {
+    text-align: center;
+    color: #3a3028;
+    font-size: 13px;
+    letter-spacing: 10px;
+    margin: 4px 0 22px;
+  }
+
+  /* ── CCTV / SOLUTION BOX ── */
+  .solution {
+    border: 1px solid #2e2838;
+    padding: 28px 32px;
+    background: rgba(255, 255, 255, 0.018);
+    position: relative;
+  }
+
+  .solution::before {
+    content: 'THE SOLUTION';
+    position: absolute;
+    top: -9px;
+    left: 26px;
+    background: #12111a;
+    padding: 0 10px;
+    font-size: 0.68em;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #6a5e44;
+  }
+
+  .solution-title {
+    font-size: 1.1em;
+    color: #ede5d5;
+    margin-bottom: 14px;
+    letter-spacing: 0.01em;
+  }
+
+  .solution-body {
+    font-size: 0.875em;
+    color: #b8b0a0;
+    line-height: 1.68;
+  }
+
+  .solution-body blockquote {
+    margin: 16px 0;
+    padding: 12px 16px;
+    border-left: 2px solid #2e2838;
+    font-style: italic;
+    color: #928880;
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+
+  .solution-body blockquote cite {
+    display: block;
+    margin-top: 7px;
+    font-size: 0.84em;
+    font-style: normal;
+    color: #5e5448;
+  }
+
+  .solution-body .highlight {
+    font-style: italic;
+    color: #c8bfae;
+  }
+
+  /* ── COLOPHON ── */
+  .colophon {
+    margin-top: 32px;
+    text-align: center;
+    font-size: 0.72em;
+    color: #3e3830;
+    letter-spacing: 0.5px;
+    line-height: 1.8;
+  }
+
+  /* ── PRINT MODE ── */
+  @media print {
+    body {
+      background: #faf8f4;
+      color: #1a1810;
+      padding: 24px 28px;
+    }
+    .card { background: #f4f0ea; border-color: #ccc4b0; }
+    .solution { background: #f0ecde; border-color: #ccc4b0; }
+    .solution::before { background: #faf8f4; color: #7a6a50; }
+    .masthead { border-bottom-color: #ccc4b0; }
+    .masthead h1 { color: #1a1810; }
+    .masthead .deck { color: #5a5040; }
+    .masthead .intro { color: #5a5040; }
+    .card-name { color: #1a1810; }
+    .card-klesha { color: #7a6a58; }
+    .card-tagline { color: #5a5040; border-left-color: #ccc4b0; }
+    .card-body { color: #2a2820; }
+    .card-note { color: #7a6a58; border-top-color: #ccc4b0; }
+    .solution-title { color: #1a1810; }
+    .solution-body { color: #2a2820; }
+    .solution-body blockquote { color: #4a4030; border-left-color: #ccc4b0; }
+    .solution-body blockquote cite { color: #7a6a58; }
+    .ornament { color: #ccc4b0; }
+    .colophon { color: #9a8870; }
+  }
+
+</style>
+</head>
+<body>
+
+  <!-- ── MASTHEAD ── -->
+  <div class="masthead">
+    <div class="masthead-eyebrow">The Hingori Sutras</div>
+    <h1>Five Flatmates You Cannot Evict</h1>
+    <div class="deck">No matter how many lifetimes you try.</div>
+    <div class="intro">
+      They don't pay rent. They don't do the dishes. They have been in my head —
+      not just in this lifetime, but apparently in every single one that came before it.
+      I have died and been reborn, and somehow, every single time, they found the new address.
+    </div>
+  </div>
+
+  <!-- ── CARDS 1–4 ── -->
+  <div class="cards-grid">
+
+    <!-- AVI -->
+    <div class="card avi">
+      <span class="card-index">01 / 05</span>
+      <div class="card-name">Avi</div>
+      <div class="card-klesha">Avidya &nbsp;·&nbsp; Misperception</div>
+      <div class="card-tagline">"I know exactly who I am. I'm Senior Manager, Finance, Andheri West."</div>
+      <div class="card-body">
+        Introduces himself at every party by his job title, his car, and his three strongly-held opinions.
+        On a difficult day, he introduces himself as his mood.
+        Ask him to describe himself without any external reference — no job, no status,
+        no achievements — and he goes very quiet. He genuinely does not know.
+        He has never been asked. He has never asked himself.
+        The fundamental confusion of the packaging for the contents;
+        the non-<em>aatma</em> mistaken for the <em>aatma</em>.
+      </div>
+      <div class="card-note">Primary flatmate. The others build their bedrooms on his foundation.</div>
+    </div>
+
+    <!-- ASMI -->
+    <div class="card asmi">
+      <span class="card-index">02 / 05</span>
+      <div class="card-name">Asmi</div>
+      <div class="card-klesha">Asmita &nbsp;·&nbsp; Egoism</div>
+      <div class="card-tagline">"I had a feeling the meeting would go well."</div>
+      <div class="card-body">
+        Heard an idea at dinner, repeated it with minor rephrasing three days later,
+        and by the end of that week had fully convinced herself she invented it.
+        "I told you so" is not just how she responds to bad news — it is her love language.
+        She gets quietly wounded when you discover a film before she recommended it.
+        Keeps a careful mental record of everything she said that turned out to be right.
+        A glass of river water that has convinced itself it is not river water.
+      </div>
+      <div class="card-note">The rest of the river has no name on it. She finds this very suspicious.</div>
+    </div>
+
+    <!-- RAG -->
+    <div class="card rag">
+      <span class="card-index">03 / 05</span>
+      <div class="card-name">Rag</div>
+      <div class="card-klesha">Raga &nbsp;·&nbsp; Attachment &amp; Indulgence</div>
+      <div class="card-tagline">"I'm not possessive. I just need things to stay exactly as they are."</div>
+      <div class="card-body">
+        Still listens to the album from a relationship that ended years ago.
+        Has a jacket that hasn't fit in three years — not since a summer that was particularly good —
+        and cannot throw it away. Holds a certain old grudge with something close to warmth,
+        because at least it is <em>his</em> grudge, and it is familiar.
+        Says yes to everything. The food delivery at 1am. The extra helping.
+        The karma incurred is expensive to pay.
+      </div>
+      <div class="card-note">He will address it next life. He is quite sure of it.</div>
+    </div>
+
+    <!-- DEV -->
+    <div class="card dev">
+      <span class="card-index">04 / 05</span>
+      <div class="card-name">Dev</div>
+      <div class="card-klesha">Dvesha &nbsp;·&nbsp; Aversion</div>
+      <div class="card-tagline">"I have my reasons. They don't need revisiting."</div>
+      <div class="card-body">
+        Strong aversions to: mornings, that one colleague, the neighbour's dog,
+        a specific type of weather, and the font choice in a presentation from 2021.
+        None of these dislikes have been reviewed since the original incident.
+        Has walked out of rooms that contained the answer. Has dismissed teachers because of their shoes.
+        He and Rag together ensure the mind is permanently tilted —
+        one tilts toward, the other tilts away.
+      </div>
+      <div class="card-note">Together with Rag, they have never once met in the middle.</div>
+    </div>
+
+  </div>
+
+  <!-- ── CARD 5: CENTRED ── -->
+  <div class="fifth-row">
+    <div class="card abhi">
+      <span class="card-index">05 / 05</span>
+      <div class="card-name">Abhi</div>
+      <div class="card-klesha">Abhinivesha &nbsp;·&nbsp; Fear &amp; Clinging to Life</div>
+      <div class="card-tagline">"I have forty-seven insurance policies and I am still not comfortable."</div>
+      <div class="card-body">
+        Has Googled his symptoms eleven times today. Current diagnoses: four terminal conditions
+        and one vitamin deficiency he has decided is the worst one. Will not board a plane.
+        Has died many times — as a fish, a king, a corrupt administrator, possibly a frog —
+        and has learned absolutely nothing reassuring from any of it.
+        The fear has survived every single death, which is, philosophically, quite an achievement
+        for something that was supposed to be irrational.
+      </div>
+      <div class="card-note">Tenure: multiple lifetimes. Departure date: unknown.</div>
+    </div>
+  </div>
+
+  <div class="ornament">✦ &nbsp; ✦ &nbsp; ✦</div>
+
+  <!-- ── SOLUTION BOX ── -->
+  <div class="solution">
+    <div class="solution-title">The CCTV Method — The Only Thing That Works</div>
+    <div class="solution-body">
+      You cannot evict them. This has been attempted across civilisations and multiple philosophical traditions. It has not worked. What works is an imaginary CCTV camera.
+      <blockquote>
+        "I myself found out noticing my interactions with the kleshas from outside was the best approach. It was like putting up a CCTV camera outside me to note what kleshas were afflicting me, when and how. Whenever this imaginary camera was on, I became aware of being a victim of one or a combination of kleshas. I would laugh at myself and the strength of the klesha would fade."
+        <cite>— Hingori, <em>Karma Sutra</em>, Ch.7, p.114</cite>
+      </blockquote>
+      Watch them. Do not engage them. When you catch Rag ordering the third delivery at 1am,
+      simply note: <span class="highlight">"Ah. That's Rag."</span>
+      When Asmi quietly takes credit for how the evening went, let her claim it.
+      The klesha wanted your 'I'. You did not provide it. The strength of it fades.
+      <br><br>
+      You still live with them. But you have stopped feeding them. That is where the work begins.
+      The lease runs indefinitely. The camera, at least, is yours.
+    </div>
+  </div>
+
+  <!-- ── COLOPHON ── -->
+  <div class="colophon">
+    Hingori &nbsp;·&nbsp; <em>Karma Sutra</em>, Ch.7 &nbsp;·&nbsp; <em>Aatma Sutra</em>, Ch.III<br>
+    The Hingori Sutras Wiki
+  </div>
+
+</body>
+</html>

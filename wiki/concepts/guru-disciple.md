@@ -469,6 +469,149 @@ The chapter closes with Guru Nanak Dev's verse: see [[stories/guru-sutra-ch5-ver
 
 ---
 
+---
+
+## *Guru Sutra* Ch.6 — Journey Towards Disciplehood (pp.43–62)
+
+### Choosing Those Who Do Not Want to Be Chosen
+
+The chapter opens with Hingori's own origin story — atheist, non-vegetarian, drinker, mocker of spiritual teachers — and immediately flags a central paradox:
+
+> Gurudev taught me how to choose disciples and the first rule is to choose those who do not want to be chosen. I find religious, or for that matter even spiritually pre-conditioned people have a lot already embossed on their minds. It takes a long time to erase their preconceived notions of spiritualism.
+> — Hingori, *Guru Sutra*, Ch.6, p.44
+
+The logic: a religiously pre-conditioned person brings a full hard drive of dogmas, whereas the uninterested person — Hingori, [[stories/surenderji-murder-plan|Surenderji]], Darius (rugby and club nights), Vipan (barely looks spiritual) — is a blank cassette. The siddh guru reads the spirit's potential, not the person's resume.
+
+> A siddh guru will always know the strength of a potential disciple's spirit. He will also try to sense the connection between the person's destiny and his spiritual growth.
+> — Hingori, *Guru Sutra*, Ch.6, p.45
+
+### Seven Qualities of a Good Disciple
+
+**1. Sense of Awareness**
+
+Awareness is both inward and outward. Inwardly, the disciple learns to observe thoughts, reactions, and feelings — the prerequisite to self-assessment and then self-improvement. Outwardly, a spiritualist must be aware of negative energies and potential attacks:
+
+> Moreover, the magnetic pull of a spiritualist's lower chakras keeps his consciousness hovering at a lower level, leading to the indulgence in baser instincts, thereby being susceptible to temptations of the senses. Awareness of this aspect not only safeguards a spiritualist against such pitfalls but also helps to push him to higher levels.
+> — Hingori, *Guru Sutra*, Ch.6, p.45
+
+**2. Flexibility and Non-dogmatism**
+
+The guru may want the disciple to react differently from how they think they should. That requires flexibility. Dogmatism — the product of stringent religious rules about how to pray, what to wear, which direction to face — is another name for a calcified preconception. A siddh guru makes a disciple *unlearn* all of this, taking them "to an understanding beyond duality."
+
+**3. Sense of Sacrifice**
+
+Sacrifice runs through every dimension: comfort for the guru and others, time, money, opportunity, physical effort. Accepting the dislikable is a sacrifice in itself. "A sense of sacrifice is a must for someone who aspires to spiritually evolve."
+
+**4. Sheer Guts**
+
+Safety and spiritualism do not always go together. Spiritual service includes protecting people from spirits, black magic, and energies linked to religious institutions. The healer absorbs negative energy. Hingori was physically pushed backward by an invisible force in a Venice church; a disciple lacking courage may quit the path.
+
+**5. Initiative**
+
+Philosophy is easy; acting on it is not. The example is [[stories/dr-vachhani-persistence|Dr. Vachhani]], who waited outside Hingori's office every day for months until Hingori relented. Thirty years later, Vachhani sends patients from allopathy to the sthan and sometimes wills them to improve:
+
+> Most gurus are not looking for yes-men. They would prefer disciples who have the capacity to grasp, understand, and act on their intuitions rather than being governed by dogmatic rules and regulations.
+> — Hingori, *Guru Sutra*, Ch.6, p.48
+
+**6. Obedience**
+
+> Disobedience and obedience are the snakes and ladders in the game of Guruism.
+> — Hingori, *Guru Sutra*, Ch.6, p.49
+
+Gurudev's instructions were often asymmetric — different rules for different disciples — which produced confusion, debate, and occasional refusal. Tonyji's refusal to open a Kashmir sthan meant "his sthan is where his boots are" — a missed lifetime opportunity. Hingori's own refusal to start a sthan led to a three-year forced sabbatical (see [[stories/hingori-sthan-sabbatical]]). Obedience is grounded in an epistemic claim:
+
+> You form opinions based on your experience of this physical life and the conditioning you carry with you, whereas your guru bases his opinions on his knowledge of your past, present and future lives. He also knows how to get you through the troughs and crests, not only of your destiny but also your attitudes and beliefs.
+> — Hingori, *Guru Sutra*, Ch.6, p.50
+
+**7. Loyalty**
+
+Loyalty to the guru and his mission is the most significant qualification in Hingori's personal experience — but it must be paired with maturity and discretion: "A loyal but foolish disciple has often been a liability to the institution."
+
+### Six Obstacles to Disciplehood
+
+**1. Desire for Self-importance**
+
+Almost everyone wants to be known or considered important. Seeking attention and significance keeps a disciple's consciousness fixed on the social self rather than the aatma. The chapter's poem (see [[stories/guru-sutra-ch6-poem1]]) puts it plainly: befriending the chicanery of self-importance and praise sets the soul up for a mighty fall.
+
+**2. Spiritual Vanity**
+
+Spiritual vanity — impressing others with spiritualism, being dramatic in discourses, wearing the "right garb," pursuing a media-friendly spiritual persona — makes a practitioner egoistic and defeats the purpose of attainment. Hingori connects this directly to Maharishi Patanjali's concept of **asmita** (the klesha of I-ness):
+
+> Spiritual vanity keeps you fixated on your physical self and does not let you identify with your inner being. Your spiritual journey is supposed to reach the destination of 'I am That' (the consciousness supreme). But, the 'I-ness' gets a person stuck at 'I am X socially, or Y commercially, or Z status wise!'
+> — Hingori, *Guru Sutra*, Ch.6, pp.46–47
+
+Between *"I am"* and *"I am That"*, the difference is one word in print and a trillion in invisible ink. See also [[concepts/kleshas]] — asmita as the second klesha.
+
+**3. Spiritual Greed**
+
+Material ambition bleeds into spiritual life: competing on meditation hours, mantra volume, number of followers, speed of attainment. This is the same greed, in a different currency:
+
+> Greed has no role to play in the process of spiritual living and evolution.
+> — Hingori, *Guru Sutra*, Ch.6, p.53
+
+The distinction drawn: selfishness is greed, sacrifice is service. An old person wanting to accumulate more virtue before death is not greed — it is seva. The car rally analogy applies: the one who arrives later may have had a far richer journey than the one who finishes first (see [[wiki/analogies]]).
+
+**4. Envy**
+
+Competitiveness among disciples — wanting to be praised, noticed, preferred — erodes self-worth and slows the climb to self-realisation:
+
+> Spiritual envy at a conscious level makes the unconscious mind of a disciple look down upon itself.
+> — Hingori, *Guru Sutra*, Ch.6, p.54
+
+Kapill of Lonavala (see [[entities/kapill]]) gained Hingori's respect precisely by promoting others before himself — and in doing so unwittingly superseded peers who came before him.
+
+**5. Anger**
+
+Anger burns the aura, depletes spiritual energy, adds negative karma, and creates a sense of failure at an unconscious level. Ancient shraaps (curses) were delivered in moments of anger — harming both recipient and giver. Durvasa, Vishvamitra, and Parshuram are cited as spiritual greats known for anger; Jesus, Guru Vashisht, The Buddha, and Gurudev are held up as the counterpoint.
+
+**6. Emotional Attachments**
+
+Showing emotional attachment is not harmful; *feeling* it is. The power to heal, when used for family and friends out of attachment rather than discretion, becomes something "the power itself would consider unworthy." Disciples who fast-track their relatives' access to the guru, or who sacrifice a patient's seva to fulfil a social obligation, fall in the guru's eyes.
+
+One anecdote: a younger disciple of Gurudev left his unconscious daughter (who had fallen off the stairs) to attend to a cancer patient. Gurudev later cured the daughter instantly. The precedence of service over personal attachment is the teaching.
+
+> Golden Principle: Service to others before self, is the path to spiritual progress.
+> — Hingori, *Guru Sutra*, Ch.6, p.55
+
+Hingori quotes Lao Tzu's *Tao Te Ching* in this context:
+
+> "If you realize that all things change, there is nothing you will try to hold on to."
+> — Lao Tzu, *Tao Te Ching*, quoted in *Guru Sutra*, Ch.6, p.56
+
+The only way to achieve emotional neutrality is: "convincingly play the role of being emotional without actually being so" — a direct call back to [[concepts/role-play]]. See also the note on Hingori's inability to fully play this role with his own son, whose spirit he recognised before birth (see [[stories/hingori-unborn-son-spirit-vision]]).
+
+### Judging Oneself
+
+Ch.6 closes with a substantial treatment of spiritual self-assessment. The instruction:
+
+> One must not judge oneself on chronology or status. Growth is a process, and therefore, dynamic.
+> — Hingori, *Guru Sutra*, Ch.6, p.57
+
+The mango tree analogy: fruit follows flowering, which follows establishment. A disciple who has not had visions, or who has fewer experiences than associates, or who struggles with basic practices despite knowing advanced mantras, is not necessarily behind. Hingori confesses his own inability to fully control his sense of taste despite decades of attainment — "I have learnt to accept my self on an as-is-where-is basis."
+
+No criterion is a perfect measure of advancement:
+
+> - Your experiences?
+> - The ability to perform supernatural acts?
+> - Knowledge of scriptures?
+> - Practice of meditation?
+> - Recognition by others?
+> - Would spiritual designations be a criterion?
+>
+> None of the above criteria is a perfect measure of spiritual advancement.
+> — Hingori, *Guru Sutra*, Ch.6, p.59–60
+
+The preferred measure is **aatmic equality** — whether one has felt it:
+
+> Unlike Karl Marx, the father of communism, who believed in equality at a physical, economic and social level, I am a spiritual communist who believes in aatmic equality. If you have been able to feel that, then you have gone quite far in my esteem.
+> — Hingori, *Guru Sutra*, Ch.6, p.59
+
+And in Gurudev's assessment: having amply served other life forms is the winning hand in the game of life. The instruction to judge oneself not against others, not against past or present self, but *with the self on the eve of one's departure* — because the line is virtually infinite and ends only at moksha. The Buddha's example is given: his evolution was a series of points on a line, from prince to student to emancipated, across lifetimes. His last words to disciples (see [[quotes/guru]]) direct them to assess themselves by adherence to his teachings rather than by any external criterion.
+
+See [[stories/guru-sutra-ch6-poem2]] for the closing verse of this section.
+
+---
+
 ## Open Questions
 
 > [!tip] What qualifies a siddh guru?

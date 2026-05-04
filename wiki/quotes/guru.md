@@ -425,3 +425,73 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > Without a Guru, none can cross over to the other shore."
 > — Guru Nanak Dev, epigraph closing *Guru Sutra*, Ch.5, p.42
 [[entities/guru-nanak]] · [[concepts/guru-disciple]] · [[stories/guru-sutra-ch5-verse]]
+
+---
+
+## Journey Towards Disciplehood (*Guru Sutra* Ch.6)
+
+### On Choosing Disciples
+
+> Gurudev taught me how to choose disciples and the first rule is to choose those who do not want to be chosen. I find religious, or for that matter even spiritually pre-conditioned people have a lot already embossed on their minds. It takes a long time to erase their preconceived notions of spiritualism.
+> — Hingori, *Guru Sutra*, Ch.6, p.44
+[[concepts/guru-disciple]]
+
+---
+
+### On Obedience and Its Rationale
+
+> You form opinions based on your experience of this physical life and the conditioning you carry with you, whereas your guru bases his opinions on his knowledge of your past, present and future lives. He also knows how to get you through the troughs and crests, not only of your destiny but also your attitudes and beliefs.
+> — Hingori, *Guru Sutra*, Ch.6, p.50
+[[concepts/guru-disciple]] · [[concepts/destiny]]
+
+---
+
+### Golden Principle — Service Before Self
+
+> Golden Principle: Service to others before self, is the path to spiritual progress.
+> — Hingori, *Guru Sutra*, Ch.6, p.55
+[[practices/seva]] · [[concepts/guru-disciple]]
+
+---
+
+### On Emotional Neutrality
+
+> The only way to attain emotional neutrality is to convincingly play the role of being emotional without actually being so.
+> — Hingori, *Guru Sutra*, Ch.6, p.57
+[[concepts/role-play]] · [[concepts/guru-disciple]]
+
+---
+
+### On Self-Assessment
+
+> Even failure has an expiry date!
+> — Hingori, *Guru Sutra*, Ch.6, p.58
+[[concepts/self-acceptance]] · [[concepts/guru-disciple]]
+
+> Unlike Karl Marx, the father of communism, who believed in equality at a physical, economic and social level, I am a spiritual communist who believes in aatmic equality. If you have been able to feel that, then you have gone quite far in my esteem.
+> — Hingori, *Guru Sutra*, Ch.6, p.59
+[[concepts/guru-disciple]] · [[concepts/ulta-guru]]
+
+---
+
+### Lao Tzu — On Attachment and Change
+
+> "If you realize that all things change, there is nothing you will try to hold on to."
+> — Lao Tzu, *Tao Te Ching*, quoted in *Guru Sutra*, Ch.6, p.56
+[[concepts/role-play]] · [[concepts/vairagya]] · [[concepts/guru-disciple]]
+
+---
+
+### The Buddha's Last Words
+
+> "The teachings I have given you, I gained by following the path myself. You should follow the teachings and conform to their spirit on every occasion. If you neglect them, it means you have never really met me. It means that you are far from me even though you are actually with me, but if you accept and practice my teachings then you are very close to me, even though you are far away. It is the nature of all formed things to dissolve. Strive with diligence. The true Buddha is not a human body: it is Enlightenment."
+> — The Buddha, quoted in *Guru Sutra*, Ch.6, p.61
+[[concepts/guru-disciple]] · [[concepts/moksha]]
+
+---
+
+### Guru Nanak Dev — On Cause and Effect
+
+> "Whatever kind of seed is sown in a field, prepared in due season, a plant of that same kind, marked with the peculiar qualities of the seed, springs up in it."
+> — Guru Nanak Dev, closing epigraph to *Guru Sutra*, Ch.6, p.62
+[[entities/guru-nanak]] · [[concepts/karma]] · [[concepts/guru-disciple]]

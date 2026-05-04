@@ -883,3 +883,43 @@ Stage 2 of the admirer-to-disciple arc: the follower is emotionally at the mercy
 
 Stage 1 (Admirer): the admirer's self-image inflates as they bask in the guru's reputation. The market-cap metaphor is precise — the guru's prestige is like a stock price that rises with each good report; the admirer's value, in their own estimation, rises with it. The analogy reveals the admirer's attachment as partly self-serving: they are invested in the guru's greatness because it reflects on them. Stage 4 discards this entirely.
 
+---
+
+### Snakes and Ladders — Obedience and Disobedience in Guruism
+*Illuminates: [[concepts/guru-disciple]]*
+
+> "Disobedience and obedience are the snakes and ladders in the game of Guruism."
+> — Hingori, *Guru Sutra*, Ch.6, p.49
+
+The classic board game maps directly onto the disciple's path: obedience advances progress in sudden jumps (the ladders); disobedience sends the disciple sliding back (the snakes). The game is not linear. Tonyji's refusal to start a Kashmir sthan landed him on a snake he never recovered from. Hingori's refusal cost him three years. Both confirm the metaphor.
+
+---
+
+### The Car Rally — The Value of a Meandering Journey
+*Illuminates: [[concepts/guru-disciple]]*
+
+> In a car rally, he who finishes first may win the trophy, but he who finishes later may have perhaps meandered through numerous hills and valleys before reaching the finish line, thereby having a far more enriching experience than the winner.
+> — Hingori, *Guru Sutra*, Ch.6, p.54
+
+Used in the context of spiritual greed — the disciple who races to the top misses the terrain. The rally winner gets a trophy; the slow driver gets the landscape. The analogy reframes "falling behind" as potentially richer, not lesser. The criteria of assessment shifts from speed to experience.
+
+---
+
+### The Mango Tree — Spiritual Growth Has Seasons
+*Illuminates: [[concepts/guru-disciple]], [[concepts/self-acceptance]]*
+
+> A mango tree looks drab without its fruit. Fruit follows flowering, which happens when the tree is fully established and not during its growing years.
+> — Hingori, *Guru Sutra*, Ch.6, p.57
+
+A disciple who has not yet produced visible results — no visions, no supernatural feats, no recognition — is not necessarily failing; they may simply be in the growing years. The tree does not fruit prematurely, and its pre-fruiting appearance says nothing about the eventual harvest. Harsh self-judgement at the wrong season is the error the analogy corrects.
+
+---
+
+### Bowling a Googly — The Guru's Masterminded Circumstances
+*Illuminates: [[concepts/guru-disciple]], [[entities/mahaguru]]*
+
+> Being a spiritual bowler, he bowled another googly! And masterminded the circumstances that led to my forced sabbatical for three long years.
+> — Hingori, *Guru Sutra*, Ch.6, p.50
+
+Gurudev's response to Hingori's refusal to start a sthan was not argument but engineering — he arranged the conditions that made the lesson unavoidable. The googly in cricket is a delivery that spins unexpectedly, fooling the batsman who thought he had read it. The guru's teaching likewise arrives as circumstance rather than instruction, catching the disciple's resistance sideways.
+

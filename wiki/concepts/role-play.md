@@ -93,6 +93,24 @@ The test is the inversion of ordinary social discrimination: attention to the we
 
 > [!tip] The implication: any encounter with any person could be a test. The guru's role-play does not pause in the guru's absence — it continues through every ordinary human interaction the disciple has.
 
+## *Guru Sutra* Ch.6 — Emotional Neutrality as the Destination
+
+Ch.6 sharpens the practical goal of role-play to a precise formulation. In the context of emotional attachments as an obstacle to disciplehood, Hingori states:
+
+> The only way to attain emotional neutrality is to convincingly play the role of being emotional without actually being so.
+> — Hingori, *Guru Sutra*, Ch.6, p.57
+
+"Convincingly" is the operative word. The role must be inhabited fully enough that others — family, friends, the person being served — perceive genuine emotional warmth. But the inner state is neutral. This is not coldness or dissimulation; it is the difference between *performing* the emotional response required by a relationship and *being claimed* by it.
+
+Hingori illustrates the difficulty with a personal admission: he saw his son's spirit a year before the boy was born — an old soul in 19th-century clothes — and consequently finds it hard to "mollycoddle him and see him as who he is in physical form." He can see the role-play clearly required of him; he finds it difficult to play it convincingly. The confession is honest: even the teacher of the principle struggles with it when it is his own child. See [[stories/hingori-unborn-son-spirit-vision]].
+
+Lao Tzu's *Tao Te Ching* provides the philosophical ground:
+
+> "If you realize that all things change, there is nothing you will try to hold on to."
+> — Lao Tzu, *Tao Te Ching*, quoted in *Guru Sutra*, Ch.6, p.56
+
+The relationships we foster are "only as real as our perception." Death of a close one triggers grief because the perception of permanent reality is exposed as provisional. Role-play is the practice of never building that attachment in the first place — while still performing the role to its fullest.
+
 ## Cross-references
 
 - [[concepts/vairagya]] — the foundational attitude that makes role-play possible
@@ -103,3 +121,4 @@ The test is the inversion of ordinary social discrimination: attention to the we
 - [[entities/mahaguru]] — exemplar of multifaceted, fluid, always-detached role-play
 - [[stories/gurudev-billu-acting]] — staged fury; "Barkhurdar, kaisi lagi hamari acting?"
 - [[stories/gurudev-gully-cricket-lungi]] — role-play in a cricket game; "Not Out!"
+- [[concepts/guru-disciple]] — emotional attachment as one of the six obstacles to disciplehood; role-play is the prescribed solution (Ch.6)

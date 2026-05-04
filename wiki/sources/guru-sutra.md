@@ -38,7 +38,7 @@ updated: 2026-05-02
 | **Chapter 3** | Gurukul System | 21–26 | ✅ ingested 2026-05-02 |
 | **Chapter 4** | Admirer to Disciple | 27–34 | ✅ ingested 2026-05-02 |
 | **Chapter 5** | Disciple: Lesser or Greater | 35–42 | ✅ ingested 2026-05-03 |
-| Chapter 6 | Journey Towards Disciplehood | 43–62 | ⬜ pending |
+| **Chapter 6** | Journey Towards Disciplehood | 43–62 | ✅ ingested 2026-05-03 |
 | Chapter 7 | Guru Disciple Relationship | 63–68 | ⬜ pending |
 | Chapter 8 | Facets of Faith | 69–76 | ⬜ pending |
 | Chapter 9 | Surrender | 77–94 | ⬜ pending |
@@ -131,6 +131,26 @@ updated: 2026-05-02
 - **The line** — seeing oneself as a trajectory across time, not a cross-section; the siddh guru reads the full line — see [[concepts/guru-disciple]], [[concepts/self-acceptance]]
 - **Seed and potential tree** — the siddh guru's capacity to read latent potential — see [[analogies/analogies]], [[concepts/guru-disciple]]
 
+## Stories Extracted from Ch.6
+
+- [[stories/surenderji-murder-plan]] — Gurudev warns Surenderji about a planned murder; the alcoholic with no spiritual interest becomes one of Gurudev's most loved disciples (Ch.6, pp.43–44)
+- [[stories/dr-vachhani-persistence]] — Dr. Vachhani waits outside Hingori's office every day for months; three-decade journey from spiritual conversation to healing by will (Ch.6, pp.47–48)
+- [[stories/hingori-sthan-sabbatical]] — Hingori declines to start a sthan; Gurudev engineers a three-year forced sabbatical; parallel with Tonyji's missed Kashmir opportunity (Ch.6, pp.49–50)
+- [[stories/nakul-astral-travel-vinti]] — Vinti witnesses Nakul's spirit leave his body and exit through the window; spontaneous astral travel via years of seva (Ch.6, pp.58–59)
+- [[stories/guru-sutra-ch6-poem1]] — "By blowing the trumpet to satiate pride…" — verse on self-importance and spiritual vanity (Ch.6, p.50)
+- [[stories/guru-sutra-ch6-poem2]] — "The scales will tip one way or another…" — verse on harsh self-judgement (Ch.6, p.58)
+
+*Short anecdotes filed inline in [[concepts/guru-disciple]] Ch.6 section: Hingori attacked at Venice church; young disciple leaves unconscious daughter for cancer patient; Mishraji authorized to start sthan in Gopigunj.*
+
+## New Concepts from Ch.6
+
+- **Seven disciple qualities** — Awareness, Flexibility/Non-dogmatism, Sacrifice, Sheer Guts, Initiative, Obedience, Loyalty — see [[concepts/guru-disciple]]
+- **Six obstacles to disciplehood** — Self-importance, Spiritual Vanity (asmita), Spiritual Greed, Envy, Anger, Emotional Attachments — see [[concepts/guru-disciple]]
+- **Choose those who do not want to be chosen** — first rule of selecting disciples; religiously pre-conditioned people are harder to teach than uninterested "blank cassettes" — see [[concepts/guru-disciple]]
+- **Aatmic equality** — "I am a spiritual communist who believes in aatmic equality"; the clearest formulation of the principle stated elsewhere in the tradition — see [[concepts/guru-disciple]], [[concepts/ulta-guru]]
+- **Judging oneself on the eve of departure** — no criterion (experiences, supernatural acts, scriptures, meditation, recognition) is a perfect measure; judge only with the self at the end of the life — see [[concepts/guru-disciple]]
+- **Emotional neutrality via role-play** — "The only way to attain emotional neutrality is to convincingly play the role of being emotional without actually being so" — see [[concepts/role-play]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -153,3 +173,6 @@ updated: 2026-05-02
 
 > [!warning] Swami Rama's boat analogy vs. Hingori's tradition of deep guru-veneration
 > Swami Rama insists "anyone who establishes himself as a guru to be worshipped is not a guru" and advocates discarding the guru after liberation, like discarding a boat. Hingori explicitly flags this as "an extreme view, harsher than warranted." In Hingori's tradition, Gurudev is venerated continuously — both during his lifetime and posthumously — as the very doorway to the consciousness supreme. The tension is not resolved; Hingori includes Swami Rama's view as a valid counterpoint while living a contrary practice. See [[concepts/guru-disciple]] (Swami Rama's Boat Analogy subsection).
+
+> [!tip] "Choose those who do not want to be chosen" vs. seeking a guru — Ch.6
+> Ch.6 states the first rule of choosing disciples is to select those who do not want to be chosen. Earlier chapters (Ch.2) note that the guru finds the disciple, not the other way around, and recommend Thursday fasts for those seeking a guru. Both principles converge: the guru's choosing is active, but it is drawn toward spiritual readiness, not outward desire. The disciple who seeks too eagerly may be displaying the same pre-conditioned religiosity that makes teaching harder.

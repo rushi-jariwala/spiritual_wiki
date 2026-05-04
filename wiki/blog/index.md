@@ -20,6 +20,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-04-28-koshas-manomaya|2026-04-28 — The Villain in the Middle]] — Manomaya Kosha: the mind body that names, claims, and mistakes its own constructions for the self — and how to see through it
 - [[blog/2026-05-03-maya|2026-05-03 — The World That Is Not]] — Maya: the field of delusion within which duality operates, how science and Vedanta converge on its diagnosis, and what Ram's life looks like from beyond it
 - [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions explained as the perpetual flatmates who've been living rent-free in your head since before you were born
+- [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships as performances with full engagement but without emotional ownership, and what that looks like in a guru who could step out of a fury mid-sentence
 
 ---
 
@@ -43,3 +44,5 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `ram-kills-bali-behind-tree` — maya (2026-05-03)
 - `ram-banishes-sita` — maya (2026-05-03)
 - `ram-speech-to-guru-vashisht` — maya (2026-05-03)
+- `gurudev-gully-cricket-lungi` — role-play (2026-05-03)
+- `gurudev-billu-acting` — role-play (2026-05-03)

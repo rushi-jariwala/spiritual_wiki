@@ -76,6 +76,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, spiritual mastery
 - [[power-symbols]] — Shiv-parivaar symbols on Gurudev's body (OM, Trishul, Shivling-gileri, Ganpati, Nandi, Jyot); their meanings and transfer to disciples
 - [[tantra]] — Spiritual science; inherently neither positive nor negative; tamasic vs. sattvic uses; village practitioners; road-crossing energy
+- [[faith]] — The binding force of the guru-disciple bond; obligates the guru; must be exclusive; tested and graduated; bridge from physical path to spiritual future
 
 ---
 
@@ -235,6 +236,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[nakul-astral-travel-vinti]] — Vinti witnesses Nakul's spirit leave his body in the early hours; spontaneous astral travel via years of seva
 - [[guru-sutra-ch6-poem1]] — "By blowing the trumpet to satiate pride…" — verse on self-importance and spiritual vanity (*Guru Sutra* Ch.6, p.50)
 - [[guru-sutra-ch6-poem2]] — "The scales will tip one way or another…" — verse on harsh self-judgement (*Guru Sutra* Ch.6, p.58)
+- [[guru-sutra-ch7-europe-trip-test]] — 45-minute test on "never say no to your guru"; dream reinforcement; Hingori misses the Europe/US trip (*Guru Sutra* Ch.7, pp.65–66)
+- [[guru-sutra-ch8-property-test]] — Property negotiation faith test; all disciples fail; narrator succeeds by going off the beaten track (*Guru Sutra* Ch.8, pp.72–73)
+- [[guru-sutra-ch8-poem]] — "Exit the land of delusion where falsehood lives like a king…" — verbatim verse on faith as bridge (*Guru Sutra* Ch.8, p.70)
 - [[gurudev-siddhi-discharge]] — 1970; siddhi "begs" not to be released; transition from accomplished siddha to mahaguru
 - [[gurudev-kurwai-first-healing]] — 1973; Dhanna's fever; Buddhe Baba's command: serve without prejudice of caste, creed, or gender
 - [[malhotra-initiation-ganges]] — 1971; Ganges current stills during initiation; first disciple formally received

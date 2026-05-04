@@ -2,9 +2,9 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]"]
+related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]"]
 created: 2026-04-12
-updated: 2026-05-02
+updated: 2026-05-04
 ---
 
 # Quotes on the Guru
@@ -495,3 +495,71 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > "Whatever kind of seed is sown in a field, prepared in due season, a plant of that same kind, marked with the peculiar qualities of the seed, springs up in it."
 > — Guru Nanak Dev, closing epigraph to *Guru Sutra*, Ch.6, p.62
 [[entities/guru-nanak]] · [[concepts/karma]] · [[concepts/guru-disciple]]
+
+---
+
+## Guru-Disciple Relationship & Conduct (*Guru Sutra* Ch.7)
+
+### On the Disciple's Conduct — Never Say No
+
+> Golden Principle: Never say no to a guru for you know not what he knows about you that you know not about yourself.
+> — Hingori, *Guru Sutra*, Ch.7, p.65
+[[concepts/guru-disciple]] · [[stories/guru-sutra-ch7-europe-trip-test]]
+
+---
+
+### On Never Compromising Your Guru
+
+> "Son, never sell out your guru."
+> — Gurudev, *Guru Sutra*, Ch.7, p.67
+[[concepts/guru-disciple]] · [[entities/mahaguru]]
+
+---
+
+### On the Union Beyond a Single Lifetime
+
+> At a physical level, the guru and disciple are both prone to imperfections and defects but at a spiritual level, it is necessary for them to create a union that goes beyond a single lifetime. Neither the guru nor the disciple must judge each other by the quirks of their physical personas.
+> — Hingori, *Guru Sutra*, Ch.7, p.68
+[[concepts/guru-disciple]]
+
+---
+
+## Facets of Faith (*Guru Sutra* Ch.8)
+
+### On Faith Binding the Guru
+
+> Golden Principle: Unshakeable faith in your guru steers him to an obligatory stance, binding him to your evolution. Therein lies a winning formula!
+> — Hingori, *Guru Sutra*, Ch.8, p.73
+[[concepts/faith]] · [[concepts/guru-disciple]]
+
+---
+
+### On Blind Faith
+
+> Golden Principle: Sometimes, blind faith in a siddh guru can help one see better over time.
+> — Hingori, *Guru Sutra*, Ch.8, p.69
+[[concepts/faith]] · [[concepts/guru-disciple]]
+
+---
+
+### On Faith as a Bridge
+
+> Golden Principle: Faith is the bridge that helps you cross over from your physical path to your spiritual future.
+> — Hingori, *Guru Sutra*, Ch.8, p.75
+[[concepts/faith]] · [[concepts/maya]]
+
+---
+
+### On Faith — Hebrews
+
+> "...faith is the substance of things hoped for, the evidence of things not seen."
+> — Hebrews 11:1, King James Version, quoted in *Guru Sutra*, Ch.8, p.75
+[[concepts/faith]]
+
+---
+
+### On Surrender and Power — Guru Ram Dass
+
+> "The most exquisite paradox… as soon as you give it all up, you can have it all. As long as you want power, you can't have it. The minute you don't want power, you'll have more than you ever dreamed possible."
+> — Guru Ram Dass, quoted in *Guru Sutra*, Ch.8, p.76
+[[concepts/faith]] · [[concepts/guru-disciple]]

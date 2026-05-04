@@ -300,6 +300,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-04-28-koshas-manomaya|2026-04-28 — The Villain in the Middle]] — Manomaya Kosha: the mind body that names, claims, and mistakes its constructions for the self
 - [[blog/2026-04-27-seva|2026-04-27 — The Fruit Is in the Giving]] — Seva: selfless service and its compounding power
 - [[blog/2026-05-03-maya|2026-05-03 — The World That Is Not]] — Maya: the field of delusion within which duality operates; Ram's life as the applied teaching
+- [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions as the perpetual rent-free flatmates inside your head
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 
 ---

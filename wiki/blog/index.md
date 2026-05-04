@@ -19,6 +19,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-04-28-samskars|2026-04-28 — The Oldest To-Do List in the World]] — Samskars: the mechanism by which karma is stored, carried across lives, and either exhausted or re-encoded — and how a guru can interrupt the loop
 - [[blog/2026-04-28-koshas-manomaya|2026-04-28 — The Villain in the Middle]] — Manomaya Kosha: the mind body that names, claims, and mistakes its own constructions for the self — and how to see through it
 - [[blog/2026-05-03-maya|2026-05-03 — The World That Is Not]] — Maya: the field of delusion within which duality operates, how science and Vedanta converge on its diagnosis, and what Ram's life looks like from beyond it
+- [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions explained as the perpetual flatmates who've been living rent-free in your head since before you were born
 
 ---
 

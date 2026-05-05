@@ -91,6 +91,7 @@ If a disciple's faith in his guru is shaken, the guru continues to serve the dis
 ## Cross-references
 
 - [[concepts/guru-disciple]] — The parent concept; faith is the binding force of the guru-disciple relationship
+- [[concepts/surrender]] — Faith and surrender are the inner and outer faces of the same commitment: faith is the ground, surrender is the practice (*Guru Sutra* Ch.9 builds directly on Ch.8)
 - [[concepts/stages-of-spiritual-transformation]] — Vishwas (faith) is one of the six stages: Shraddha → Vishwas → Seva → Gyan → Bhakti → Divya Gyan
 - [[concepts/jivaatma]] — Faith opens the disciple's jivaatma to connection with the guru's jivaatma at multiple levels of consciousness
 - [[concepts/maya]] — "The land of delusion where falsehood lives like a king" — faith is the bridge out of maya; see [[stories/guru-sutra-ch8-poem]]

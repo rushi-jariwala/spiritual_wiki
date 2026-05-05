@@ -563,3 +563,73 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > "The most exquisite paradox… as soon as you give it all up, you can have it all. As long as you want power, you can't have it. The minute you don't want power, you'll have more than you ever dreamed possible."
 > — Guru Ram Dass, quoted in *Guru Sutra*, Ch.8, p.76
 [[concepts/faith]] · [[concepts/guru-disciple]]
+
+---
+
+## Surrender (*Guru Sutra* Ch.9)
+
+### Gurudev on Spiritual Availability
+
+> "Son, all I want you to do is be around, so I may use you for doing what I am doing, when I need to."
+> — Gurudev, *Guru Sutra*, Ch.9, p.85
+[[concepts/surrender]] · [[stories/hingori-seva-spirit-availability]] · [[entities/mahaguru]]
+
+---
+
+### Gurudev on the Limits of the Disciple's Mind
+
+> "There are things that your mind will never be able to understand or analyse. Always remember to do whatever you are asked without questioning it."
+> — Gurudev, *Guru Sutra*, Ch.9, p.88
+[[concepts/surrender]] · [[concepts/guru-disciple]] · [[entities/mahaguru]]
+
+---
+
+### Golden Principles — Ch.9
+
+> Golden Principle: The guru is always right.
+> — Hingori, *Guru Sutra*, Ch.9, p.89
+[[concepts/surrender]] · [[concepts/guru-disciple]]
+
+> Golden Principle: Money spent on oneself is a debt, while that spent on charity is seva.
+> — Hingori, *Guru Sutra*, Ch.9, p.83
+[[concepts/surrender]] · [[practices/seva]] · [[concepts/positive-karma]]
+
+---
+
+### On the Word of the Guru as Mantra
+
+> "A beautiful line in the Guru Gita states 'Mantra mulam guru vakyam' (the root of mantra is the word of the guru), which means, whatever the guru speaks is a priceless mantra."
+> — Hingori, *Guru Sutra*, Ch.9, p.89
+[[concepts/surrender]] · [[concepts/tantra]] · [[concepts/ek-vakyas]]
+
+---
+
+### On Surrender and the Gain It Produces
+
+> "Surrender to a guru is not a loss but a gain, a gain of self-discipline, self-counselling and an understanding of reality in the true sense."
+> — Hingori, *Guru Sutra*, Ch.9, p.92
+[[concepts/surrender]] · [[concepts/guru-disciple]]
+
+---
+
+### On the Guru as Launch Pad
+
+> "It is necessary for us to understand that a guru is the remover of ignorance and the one who bestows internal knowledge. Therefore, one should depend on such a person for spiritual support and advancement, rather than as a crutch."
+> — Hingori, *Guru Sutra*, Ch.9, pp.93–94
+[[concepts/surrender]] · [[concepts/guru-disciple]]
+
+---
+
+### William Booth on Surrender
+
+> "The greatness of a man's power is the measure of his surrender."
+> — William Booth, quoted in *Guru Sutra*, Ch.9, p.93
+[[concepts/surrender]]
+
+---
+
+### Swami Vivekananda on the Guru as Conveyance
+
+> "The Guru is the conveyance in which the spiritual influence is brought to you. Anyone can teach, but the spirit must be passed on by the Guru to the Shishya (disciple), and that will fructify."
+> — Swami Vivekananda, quoted in *Guru Sutra*, Ch.9, p.94
+[[concepts/surrender]] · [[concepts/guru-disciple]] · [[concepts/guru-tattva]]

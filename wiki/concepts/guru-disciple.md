@@ -624,6 +624,64 @@ See [[stories/guru-sutra-ch6-poem2]] for the closing verse of this section.
 
 ---
 
+## *Guru Sutra* Ch.9 — Surrender
+
+For the full treatment of surrender, see [[concepts/surrender]]. The key structural additions to the guru-disciple model are summarised here.
+
+### Surrender as the Operating Mechanism of Discipleship
+
+Ch.9 makes explicit what was implicit in Ch.8's teaching on faith: surrender is the *operational form* of the faith and conduct already described. Where Ch.7 described the rules of conduct and Ch.8 gave faith as their inner ground, Ch.9 specifies what surrender actually requires — a threefold offering of tann (body), dhann (wealth), and mann (mind/spirit).
+
+> "Surrender to the guru is a prerequisite for a fruitful guru-disciple relationship. Since the disciple's relationship with his guru is at the level of consciousness (physical, mental, spiritual), he must learn to surrender all three to the guru."
+> — Hingori, *Guru Sutra*, Ch.9, p.77
+
+### Surrender of the Spiritual Self — Energetic Availability
+
+The most distinctive addition in Ch.9 is the concept of the guru using the *spirits* of disciples as energetic instruments in his healing work. Gurudev would meditate on disciples when treating patients, channelling the energy he had bestowed on their spirit bodies to help others. Physical activity was incidental; the requirement was that the disciple be "around" — physically present and mentally empty. See [[stories/hingori-seva-spirit-availability]].
+
+> "Son, all I want you to do is be around, so I may use you for doing what I am doing, when I need to."
+> — Gurudev, *Guru Sutra*, Ch.9, p.85
+
+This extends the concept of seva into a plane not previously described in the corpus. The disciple's spirit body, enriched with the guru's bestowed shakti, becomes a resource the guru draws upon for healing — with or without the disciple's conscious participation.
+
+### Surrender of Mann — Mind Training as Unlearning
+
+Mind-surrender involves first demolishing the disciple's existing mental framework. Gurudev spent four years dismantling Hingori's prior conditioning before rebuilding it. The sequence:
+
+1. Destroy confidence in existing thinking and attitudes
+2. Practice equanimity — no laughter, no joy, no reaction to good news — until the mind approaches non-duality
+3. Impose physical restrictions (fasting, no alcohol/meat, no externally paid food) to battle temptation
+4. Let the guru "use his eraser" on prior conditioning, then write new chapters
+
+See [[stories/hingori-mind-training-non-duality]].
+
+> Golden Principle: The guru is always right.
+> — Hingori, *Guru Sutra*, Ch.9, p.89
+
+### Synchronicity as the Fruit of Mind-Surrender
+
+When the disciple's mind has been sufficiently surrendered, intuitive communication becomes possible. Anjali (event coordinator) had already written the exact sentences Hingori was about to dictate. Kapill and Ridhim (see [[entities/kapill]]) regularly arrive at the same treatments Hingori is simultaneously thinking. The synchronised minds operate on a shared frequency. This is not clairvoyance but the natural outcome of having aligned with a more evolved consciousness.
+
+### Surrender Produces Dignity, Not Subservience
+
+> [!tip] The paradox of surrender: after the ego is fully made permeable to the guru, the disciple is no longer dominated by anyone. After the mind-training phase, Gurudev placed his hand on Hingori's head and forbade him from bowing before any man or spiritual power — even the deities. He could be respectful and show humility but "never subservience." See [[stories/hingori-chira-self-esteem]].
+
+Surrender to the guru is thus not a permanent state of meekness. It is a process of ego-demolition and reconstruction that produces a disciple who is, paradoxically, more upright than before.
+
+### The Guru as Launch Pad, Not Crutch
+
+Ch.9 explicitly names the misuse of the guru-disciple relationship: treating the guru as a "crutch" rather than a "launch pad." People who asked Gurudev which car to buy, or pleaded for him to attend social functions, were "wasting" a spiritual instrument on material errands. The guru's domain is the removal of ignorance and the bestowal of internal knowledge — not the resolution of domestic decisions.
+
+> "A guru is the remover of ignorance and the one who bestows internal knowledge. Therefore, one should depend on such a person for spiritual support and advancement, rather than as a crutch."
+> — Hingori, *Guru Sutra*, Ch.9, pp.93–94
+
+> [!tip] Ch.9 and Ch.7–8 as a triptych
+> Ch.7 gave the conduct rules (the outer form of discipleship). Ch.8 gave faith (the inner ground). Ch.9 gives surrender (the complete offering). Each chapter deepens the operational understanding of what being a disciple actually means in practice. The three chapters together constitute a complete manual of the disciple's side of the relationship.
+
+---
+
+---
+
 ## *Guru Sutra* Ch.7 — The Guru-Disciple Relationship: Protocol and Conduct
 
 ### Multiple Roles

@@ -77,6 +77,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[power-symbols]] — Shiv-parivaar symbols on Gurudev's body (OM, Trishul, Shivling-gileri, Ganpati, Nandi, Jyot); their meanings and transfer to disciples
 - [[tantra]] — Spiritual science; inherently neither positive nor negative; tamasic vs. sattvic uses; village practitioners; road-crossing energy
 - [[faith]] — The binding force of the guru-disciple bond; obligates the guru; must be exclusive; tested and graduated; bridge from physical path to spiritual future
+- [[surrender]] — The three-fold surrender of tann (body), dhann (wealth), and mann (mind/spirit) to the guru; prerequisite for a fruitful guru-disciple relationship; produces synchronicity and dignity, not subservience
 
 ---
 
@@ -109,7 +110,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–6*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–9*
 
 ---
 
@@ -239,6 +240,14 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[guru-sutra-ch7-europe-trip-test]] — 45-minute test on "never say no to your guru"; dream reinforcement; Hingori misses the Europe/US trip (*Guru Sutra* Ch.7, pp.65–66)
 - [[guru-sutra-ch8-property-test]] — Property negotiation faith test; all disciples fail; narrator succeeds by going off the beaten track (*Guru Sutra* Ch.8, pp.72–73)
 - [[guru-sutra-ch8-poem]] — "Exit the land of delusion where falsehood lives like a king…" — verbatim verse on faith as bridge (*Guru Sutra* Ch.8, p.70)
+- [[hingori-family-business-seva]] — Disenchanted with family business; Gurudev instructs minimal attendance; within days Hingori works 14 hours a day; surrender of tann (*Guru Sutra* Ch.9)
+- [[hingori-dhann-airfare]] — Gurudev insists on air travel Mumbai→Gurgaon monthly; compliance rewarded with divine symbols — "an earning for eternity" (*Guru Sutra* Ch.9)
+- [[hingori-wallet-lost-found]] — Hingori declines Hyderabad wedding trip; wallet disappears; found at home in Mumbai; "Lost in Gurgaon and found in Mumbai!" (*Guru Sutra* Ch.9)
+- [[hingori-seva-spirit-availability]] — Seva duty repeatedly taken by others; Gurudev: "all I want you to do is be around"; the guru uses disciples' spirits during healing (*Guru Sutra* Ch.9)
+- [[hingori-mind-training-non-duality]] — Four years of erasing prior conditioning; no laughter/joy/reaction; equanimity approaching non-duality (*Guru Sutra* Ch.9)
+- [[guru-sutra-ch9-poem-wealth]] — "Owning things doesn't make you rich…" — verse on wealth and seva (*Guru Sutra* Ch.9, p.80)
+- [[guru-sutra-ch9-kabir-poem]] — Kabir's verse: disciple offers body and soul; true Master accepts nothing for himself (*Guru Sutra* Ch.9, pp.83–84)
+- [[guru-sutra-ch9-poem-wall]] — "Centuries of writings line the inner wall…" — verse on mind-cleansing and samskar purging (*Guru Sutra* Ch.9, p.86)
 - [[gurudev-siddhi-discharge]] — 1970; siddhi "begs" not to be released; transition from accomplished siddha to mahaguru
 - [[gurudev-kurwai-first-healing]] — 1973; Dhanna's fever; Buddhe Baba's command: serve without prejudice of caste, creed, or gender
 - [[malhotra-initiation-ganges]] — 1971; Ganges current stills during initiation; first disciple formally received

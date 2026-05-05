@@ -312,6 +312,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-03-maya|2026-05-03 — The World That Is Not]] — Maya: the field of delusion within which duality operates; Ram's life as the applied teaching
 - [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions as the perpetual rent-free flatmates inside your head
 - [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships with full engagement but without emotional ownership; Gurudev's staged fury as compassion
+- [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 
 ---

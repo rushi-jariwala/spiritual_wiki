@@ -19,4 +19,5 @@ updated: 2026-04-26
 
 **Related Concepts:**
 - [[concepts/stages-of-spiritual-transformation]] — the cost of delayed *vishwas*; the intellect as a block to faith the spirit has already formed
+- [[concepts/faith]] — the five-year gap illustrates how faith can form in the spirit before the conscious mind registers it; *Guru Sutra* Ch.8 develops this into a complete teaching on faith as binding force
 - [[entities/mahaguru]] — Gurudev's role-playing as mother in the moment of tears

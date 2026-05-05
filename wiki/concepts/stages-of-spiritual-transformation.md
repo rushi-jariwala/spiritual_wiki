@@ -2,7 +2,7 @@
 title: Stages of Spiritual Transformation
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/jivaatma]]", "[[concepts/gunas]]", "[[concepts/karmayoga]]", "[[concepts/mantra-transfer]]", "[[concepts/constant-awareness]]", "[[concepts/senses-management]]", "[[practices/seva]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/jivaatma]]", "[[concepts/gunas]]", "[[concepts/karmayoga]]", "[[concepts/mantra-transfer]]", "[[concepts/constant-awareness]]", "[[concepts/senses-management]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[concepts/faith]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---

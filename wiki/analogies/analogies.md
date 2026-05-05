@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: []
 created: 2026-04-15
-updated: 2026-04-26
+updated: 2026-05-04
 ---
 
 # Analogies
@@ -922,4 +922,44 @@ A disciple who has not yet produced visible results — no visions, no supernatu
 > — Hingori, *Guru Sutra*, Ch.6, p.50
 
 Gurudev's response to Hingori's refusal to start a sthan was not argument but engineering — he arranged the conditions that made the lesson unavoidable. The googly in cricket is a delivery that spins unexpectedly, fooling the batsman who thought he had read it. The guru's teaching likewise arrives as circumstance rather than instruction, catching the disciple's resistance sideways.
+
+---
+
+### Feet as South Pole, Head as North Pole — Energy Direction
+*Illuminates: [[concepts/guru-disciple]]*
+
+> The feet of the human body are metaphorically the south pole, and, correspondingly, the head its north pole. Thus, by looking from the feet to the head, you avoid clashing with the energies of your guru, or, for that matter, of any powerful person or idol (in a place of worship).
+> — Hingori, *Guru Sutra*, Ch.7, p.79
+
+The protocol of looking at the guru's feet first and raising the eyes gradually is not ritual deference but energetic alignment. Moving attention from south pole to north pole flows with the body's energy field rather than against it. A direct frontal clash — especially with a powerful entity — risks an unwitting collision of two energy systems. The analogy maps a spiritual practice onto a physics everyone understands: poles of opposite charge align rather than repel.
+
+---
+
+### Sitting Left of the Guru — The Shakti Position
+*Illuminates: [[concepts/guru-disciple]]*
+
+> Sitting on the left of your guru gives you the role of shakti, thereby making you his instrument.
+> — Hingori, *Guru Sutra*, Ch.7, p.79
+
+In the Shiv-Shakti cosmological framework, shakti is the active, instrumental feminine principle — the executor through which the masculine principle's will is made manifest. Sitting to the guru's left positions the disciple as instrument rather than as an independent agent. The right side carries a different energetic valence — one of equality or challenge. This spatial arrangement encodes the entire purpose of the disciple's role in a single physical act.
+
+---
+
+### Faith as a Wonder Drug
+*Illuminates: [[concepts/faith]], [[concepts/guru-disciple]]*
+
+> For me, faith worked like a wonder drug.
+> — Hingori, *Guru Sutra*, Ch.8, p.82
+
+Hingori had no religious background, no prior knowledge of spiritual terms, and no conscious sense of inner knowledge. Yet Gurudev consistently told him he had a great deal of *gyan*. Acting on a guru-bhai's instruction to believe Gurudev blindly — without understanding — concepts gradually percolated and became clear. The wonder-drug analogy captures what makes this remarkable: a wonder drug works even when the patient does not understand its mechanism. Faith, similarly, opens channels that logic alone cannot open.
+
+---
+
+### Faith as a Bridge
+*Illuminates: [[concepts/faith]], [[concepts/maya]]*
+
+> Golden Principle: Faith is the bridge that helps you cross over from your physical path to your spiritual future.
+> — Hingori, *Guru Sutra*, Ch.8, p.75
+
+The physical path and the spiritual future are on opposite banks. Logic, effort, and knowledge cannot bridge the gap — they operate within one bank. Faith is the structure that spans the gap, allowing the disciple to move from what can be verified to what can only be trusted. The bridge does not eliminate the river; it makes the crossing possible. Without it, the disciple remains stranded in the land of delusion. See [[stories/guru-sutra-ch8-poem]].
 

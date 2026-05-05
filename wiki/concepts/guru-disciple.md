@@ -3,9 +3,9 @@ title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]"]
+related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]"]
 created: 2026-04-12
-updated: 2026-05-02
+updated: 2026-05-04
 ---
 
 # The Guru-Disciple Relationship
@@ -619,3 +619,100 @@ See [[stories/guru-sutra-ch6-poem2]] for the closing verse of this section.
 
 > [!question] Contracts of the relationship
 > If the guru can release sanchit benefits into a disciple's current life, does the disciple incur any obligation in return — karmically, energetically, or otherwise? Or is the guru's giving free? Worth tracking through later sources.
+
+---
+
+---
+
+## *Guru Sutra* Ch.7 — The Guru-Disciple Relationship: Protocol and Conduct
+
+### Multiple Roles
+
+The guru-disciple relationship is an amalgam of multiple roles, each calling for a certain degree of protocol. Gurudev had perfected the art of role-playing — father, mother, friend, and spiritual teacher — switching fluidly depending on the situation.
+
+As **guru**: formal, serious, overwhelming in intensity — "It was almost frightening to be in his presence. His words were like quotes from the Vedas."
+
+As **father**: entertainment personified — he would pull disciples' legs, cheer both teams in a cricket match (never choosing sides), and draw laughter easily. As **mother**: patient with family complaints, listening before gently redirecting.
+
+As **friend**: Subbhash Sabbarwal, Gurudev's classmate from school, could walk into his room as he pleased — something disciples envied. Yet Hingori notes: "Subbhashji could not benefit from the fact that his friend was one of the greatest gurus of all time. His friendship came at the cost of his tutorship. Not a great bargain, this!" Hingori would not have traded the role of disciple for any other.
+
+See [[concepts/role-play]] for the full treatment of fluid role-playing as a spiritual practice.
+
+### The Disciple's Conduct — Four Rules
+
+Hingori describes four rules of conduct that merit adherence in a guru-disciple relationship:
+
+**1. Never look directly into your guru's eyes.**
+Begin by looking at his feet and then raise your eyes gradually to take in his entirety. The feet of the human body are metaphorically the south pole; the head, the north pole. By looking from feet to head, you avoid clashing with the energies of your guru — or of any powerful person or idol in a place of worship. This is not superstition but energetic protocol: an unwitting clash of two energies is possible and worth avoiding.
+
+**2. Never disobey or refuse your guru.**
+This applies regardless of whether the words are a command, request, or mere recommendation. Gurudev would test this by trapping disciples into saying 'no'. The 45-minute Europe trip conversation (see [[stories/guru-sutra-ch7-europe-trip-test]]) illustrates what such a test looks like: no answer felt right, yet "never say no" was the lesson. Gurudev later appeared in Hingori's dream to reinforce it.
+
+> Golden Principle: Never say no to a guru for you know not what he knows about you that you know not about yourself.
+> — Hingori, *Guru Sutra*, Ch.7, p.65
+
+**3. Always be conscious of your thoughts.**
+A guru of Gurudev's calibre reads thoughts. Unworthy thoughts are met with sarcasm or embarrassment as a corrective. Hingori's camera incident: wanting exclusive photographs, he thought it might be expensive to finish the whole roll of film. Before he knew it, Gurudev had taken the camera, finished the roll in three minutes, and handed it to someone else to develop — fixing Hingori with a strange look. "I knew I was done for."
+
+**4. Always sit to the left of your guru.**
+This is spiritual protocol. Sitting on the left of your guru gives you the role of *shakti*, making you his instrument. Sitting on the right is irreverent. Though not always possible, the rule should remain in conscious awareness.
+
+### Beyond the Four Rules — Never Compromise Your Guru
+
+A fifth principle runs throughout: never compromise your guru.
+
+Compromise takes several forms:
+- **Leveraging the guru's name for personal benefit.** At a police checkpoint, one of Gurudev's younger disciples told authorities that Gurudev was in the vehicle, securing their release. Gurudev was deeply disappointed: *"Son, never sell out your guru."*
+- **Staying silent about flaws in the institution.** Noting a shortcoming and not escalating it to the guru — to stay in everyone's good books — is complicity. The reputation of both the guru and the institution suffers.
+- **Retaining profits earned through the guru's credibility.** Earning money by leveraging the guru's popularity and not disclosing it is "tantamount to selling out the guru."
+
+### The Guru's Responsibility
+
+While the disciple must observe conduct, the guru is equally expected to behave as a role model. Hingori is gently critical of ceremonial excess — abbots in finery with umbrellas and Tibetan music, gurus seated on thrones like "wannabe kings." He notes this as a quality of rajasic worship, appropriate for beginners, but observes that most advanced gurus prefer humility, simplicity, and minimalism.
+
+### Cross-Tradition Protocols
+
+Buddhist monks walk out of their guru's chambers in reverse — showing the back is disrespectful. They also hold a cloth between their teeth to prevent saliva from falling on the guru.
+
+In Sufism and Islam, the *mureed* (disciple) must pledge *bayah* (allegiance) to the *murshid* (spiritual teacher). By taking bayah, the mureed guards against arrogance and pride — the two attributes that most impede spiritual progress.
+
+### Union Beyond a Single Lifetime
+
+> At a physical level, the guru and disciple are both prone to imperfections and defects but at a spiritual level, it is necessary for them to create a union that goes beyond a single lifetime. Neither the guru nor the disciple must judge each other by the quirks of their physical personas.
+> — Hingori, *Guru Sutra*, Ch.7, p.68
+
+---
+
+---
+
+## *Guru Sutra* Ch.8 — Facets of Faith
+
+For the full treatment, see [[concepts/faith]]. The core mechanics are summarised here.
+
+### Faith as the Binding Force
+
+A disciple's faith binds the guru to him. The guru, sensing that a disciple has crossed many boundaries to develop faith, feels an obligation to offer all he can as a mentor. Faith — being intangible — connects the disciple not only to the guru's physical being but to his inner core. It reaches to the level of the guru's jivaatma (individualised consciousness supreme).
+
+Faith enables the disciple's spirit to depend on the guru's spirit at multiple levels for advice, guidance, and direction. Because the guru's spirit is more advanced and can oscillate at all levels of consciousness, the instruction it provides comes in a higher-grade language than the conscious mind can ordinarily access.
+
+### Testing Faith
+
+Faith is tested at various stages and on various counts. The guru sometimes misguides the disciple or withholds expected commitment — specifically to determine whether the faith is genuine or conditional. The property negotiation story ([[stories/guru-sutra-ch8-property-test]]) shows faith tested through a task no other disciple could complete: Hingori succeeded by going against the letter of the instruction while remaining true to the spirit of service.
+
+### Exclusive Faith
+
+Faith directed at one guru produces 100% commitment from both sides. Faith divided between two gurus means each tends to step back, leaving the disciple with diminished commitment from either.
+
+> [!tip] Hingori acknowledges exceptions: Gurudev sent Ravi Trehan to the Yogananda Mission for Dhyana Yoga training; many people arrive at the sthans after visions of Shirdi Sai Baba or Muktananda. These are guru-sanctioned exceptions, not disciple-initiated plurality.
+
+### When Faith Falters
+
+If a disciple's faith in their guru is shaken, the relationship shifts from guru-disciple to spiritually-accomplished-person-and-seeker. The guru continues to serve but without obligation — the disciple's trajectory is then left more to their own destiny.
+
+> Golden Principle: Faith is the bridge that helps you cross over from your physical path to your spiritual future.
+> — Hingori, *Guru Sutra*, Ch.8, p.75
+
+See also [[stories/guru-sutra-ch8-poem]] — the verse "Exit the land of delusion…" gives this the bridge metaphor its poetic form, and [[stories/hingori-faith-development]] for the full arc of Hingori's personal faith development across 1977–1982.
+
+> [!tip] Ch.7 and Ch.8 as a single teaching in two registers
+> Ch.7 (conduct rules) and Ch.8 (faith) form a single integrated teaching: the four conduct rules are faith made visible in behaviour. Looking from feet to head, never saying no, watching thoughts, sitting left — none of these can be sustained as mere ritual; they require the underlying trust that Ch.8 calls faith. Conversely, faith without the discipline of conduct is sentiment. The two chapters together define what discipleship looks like from the outside (Ch.7) and what powers it from within (Ch.8).

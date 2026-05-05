@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]"]
 created: 2026-04-28
-updated: 2026-05-02
+updated: 2026-05-04
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -39,8 +39,8 @@ updated: 2026-05-02
 | **Chapter 4** | Admirer to Disciple | 27–34 | ✅ ingested 2026-05-02 |
 | **Chapter 5** | Disciple: Lesser or Greater | 35–42 | ✅ ingested 2026-05-03 |
 | **Chapter 6** | Journey Towards Disciplehood | 43–62 | ✅ ingested 2026-05-03 |
-| Chapter 7 | Guru Disciple Relationship | 63–68 | ⬜ pending |
-| Chapter 8 | Facets of Faith | 69–76 | ⬜ pending |
+| Chapter 7 | Guru Disciple Relationship | 63–68 | ✅ ingested 2026-05-04 |
+| Chapter 8 | Facets of Faith | 69–76 | ✅ ingested 2026-05-04 |
 | Chapter 9 | Surrender | 77–94 | ⬜ pending |
 | Chapter 10 | Diksha | 95–100 | ⬜ pending |
 | Chapter 11 | Customised Guidance | 101–114 | ⬜ pending |
@@ -151,6 +151,36 @@ updated: 2026-05-02
 - **Judging oneself on the eve of departure** — no criterion (experiences, supernatural acts, scriptures, meditation, recognition) is a perfect measure; judge only with the self at the end of the life — see [[concepts/guru-disciple]]
 - **Emotional neutrality via role-play** — "The only way to attain emotional neutrality is to convincingly play the role of being emotional without actually being so" — see [[concepts/role-play]]
 
+## Stories Extracted from Ch.7
+
+- [[stories/guru-sutra-ch7-europe-trip-test]] — 45-minute conversation; Gurudev tests the rule "never say no to your guru"; dream reinforcement; Hingori misses the trip; the rule is stated (Ch.7, pp.65–66)
+
+*Short anecdotes filed inline in [[concepts/guru-disciple]] Ch.7 section: Gurudev cheering both cricket teams; wife's complaint and Gurudev as mother; Subbhash Sabbarwal friendship vs. tutorship; camera/photograph incident (thoughts being read); police checkpoint (never sell out your guru).*
+
+## New Concepts from Ch.7
+
+- **Multiple roles in guru-disciple relationship** — Father, mother, friend, spiritual teacher; Gurudev mastered fluid role-switching; Subbhash's friendship came at cost of tutorship — see [[concepts/guru-disciple]], [[concepts/role-play]]
+- **Disciple's conduct: four rules** — (1) eyes from feet to head; (2) never say no; (3) be conscious of thoughts; (4) sit left of guru as shakti — see [[concepts/guru-disciple]]
+- **Never compromise your guru** — three forms: leveraging name, silence about institutional flaws, undisclosed profits — see [[concepts/guru-disciple]]
+- **Feet as south pole / head as north pole** — directional energy protocol for approaching powerful persons — see [[analogies/analogies]]
+- **Sitting left = shakti** — the disciple as instrument; spatial encoding of the disciple's role — see [[analogies/analogies]]
+- **Union beyond a single lifetime** — guru and disciple must create a spiritual union transcending physical imperfections across multiple lives — see [[concepts/guru-disciple]]
+- **Cross-tradition protocols** — Buddhist monks walk backwards, hold cloth; Sufism's mureed-murshid bayah (allegiance) guards against pride — see [[concepts/guru-disciple]]
+
+## Stories Extracted from Ch.8
+
+- [[stories/guru-sutra-ch8-property-test]] — Gurudev's 250 sq.yd. property negotiation; all disciples fail; narrator succeeds by going against advice; faith tested through impossible task (Ch.8, pp.72–73)
+- [[stories/guru-sutra-ch8-poem]] — "Exit the land of delusion where falsehood lives like a king…" — verbatim verse on faith as a bridge out of maya (Ch.8, p.70)
+
+*Short anecdotes filed inline in [[concepts/faith]] and [[concepts/guru-disciple]]: Gurudev telling Hingori he had gyan (inner knowledge); Toronto devotees with multiple photographs of spiritual teachers.*
+
+## New Concepts from Ch.8
+
+- **Faith** — the binding force that obliges the guru; operates at physical + spiritual levels; connects disciple's jivaatma to guru's jivaatma; requires exclusivity; must be tested — see [[concepts/faith]]
+- **Exclusive faith** — faith divided between two gurus results in neither taking full responsibility — see [[concepts/faith]]
+- **Faith shifts the relationship** — when faith is shaken, the relationship changes from guru-disciple to spiritualist-seeker — see [[concepts/faith]]
+- **Faith as wonder drug** — belief without understanding opens channels that reason alone cannot — see [[concepts/faith]], [[analogies/analogies]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -176,3 +206,9 @@ updated: 2026-05-02
 
 > [!tip] "Choose those who do not want to be chosen" vs. seeking a guru — Ch.6
 > Ch.6 states the first rule of choosing disciples is to select those who do not want to be chosen. Earlier chapters (Ch.2) note that the guru finds the disciple, not the other way around, and recommend Thursday fasts for those seeking a guru. Both principles converge: the guru's choosing is active, but it is drawn toward spiritual readiness, not outward desire. The disciple who seeks too eagerly may be displaying the same pre-conditioned religiosity that makes teaching harder.
+
+> [!warning] Exclusive faith vs. guru-sanctioned multi-guru training — Ch.8
+> Ch.8 states that faith must be exclusive to one guru for full commitment from both sides; dividing faith between two gurus means each steps back. Yet the same chapter acknowledges that Gurudev sent Ravi Trehan to the Yogananda Mission for Dhyana Yoga training, and that many people are guided to the sthans by visions of Shirdi Sai Baba and Muktananda. Hingori's resolution: these are guru-directed exceptions, not disciple-initiated plurality. The Buddha is also acknowledged as an exception. The principle holds for self-directed spiritual shopping; it does not apply when the guru himself sends the disciple.
+
+> [!tip] "Never say no to your guru" vs. initiative in Ch.6 — Ch.7
+> Ch.7's rule "never say no to your guru" sits in tension with Ch.6's emphasis on Initiative as a quality of a good disciple — Dr. Vachhani's persistence, disciples trusted to act on intuitions rather than await instructions. The resolution is contextual: "never say no" applies when the guru makes a direct request or command. Initiative applies in the absence of direct instruction, where acting on spiritual instinct demonstrates discipleship rather than disobedience.

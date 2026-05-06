@@ -22,6 +22,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions explained as the perpetual flatmates who've been living rent-free in your head since before you were born
 - [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships as performances with full engagement but without emotional ownership, and what that looks like in a guru who could step out of a fury mid-sentence
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust creates an obligation in the guru, why it cannot be engineered through effort alone, and what five wasted years taught about the difference between knowing and receiving
+- [[blog/2026-05-06-surrender|2026-05-06 — An Earning for Eternity]] — Surrender: the three-fold giving of body, wealth, and mind to the guru's guidance, and the paradox that the disciple who surrenders most completely stands most upright
 
 ---
 
@@ -51,3 +52,8 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `guru-sutra-ch7-europe-trip-test` — faith (2026-05-05)
 - `hingori-faith-development` — faith (2026-05-05)
 - `shankarnarayan-vaishali-healing` — faith (2026-05-05)
+- `hingori-wallet-lost-found` — surrender (2026-05-06)
+- `hingori-dhann-airfare` — surrender (2026-05-06)
+- `hingori-family-business-seva` — surrender (2026-05-06)
+- `hingori-seva-spirit-availability` — surrender (2026-05-06)
+- `hingori-chira-self-esteem` — surrender (2026-05-06)

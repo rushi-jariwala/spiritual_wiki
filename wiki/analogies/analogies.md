@@ -963,3 +963,45 @@ Hingori had no religious background, no prior knowledge of spiritual terms, and 
 
 The physical path and the spiritual future are on opposite banks. Logic, effort, and knowledge cannot bridge the gap — they operate within one bank. Faith is the structure that spans the gap, allowing the disciple to move from what can be verified to what can only be trusted. The bridge does not eliminate the river; it makes the crossing possible. Without it, the disciple remains stranded in the land of delusion. See [[stories/guru-sutra-ch8-poem]].
 
+---
+
+## Surrender & Mind Training
+
+### Launch Pad, Not Crutch
+*Illuminates: [[concepts/surrender]], [[concepts/guru-disciple]]*
+
+> A guru is the remover of ignorance and the one who bestows internal knowledge. Therefore, one should depend on such a person for spiritual support and advancement, rather than as a crutch.
+> — Hingori, *Guru Sutra*, Ch.9, pp.93–94
+
+The crutch supports the weight of the limping — indefinitely. The launch pad accelerates the rocket to a point of self-sustaining flight, then is left behind. Both involve leaning on the guru's power, but the crutch dependency is permanent while the launch pad dependency is purposeful and temporary. Many disciples treat the guru as a crutch — asking which car to buy, requesting his presence at weddings — and thereby waste the instrument that could have made them independent. See [[concepts/surrender]].
+
+---
+
+### The Eraser and the Blank Pages
+*Illuminates: [[concepts/surrender]], [[concepts/maya]], [[concepts/samskars]]*
+
+> He had begun to use his eraser and the process of unlearning had started… After the eraser has done its work, it is important for him to make the time to rewrite on the blank pages of the disciple's mind.
+> — Hingori, *Guru Sutra*, Ch.9, pp.89–90
+
+The guru's first task is not instruction but erasure — removing the prior conditioning that fills the mind with wrong impressions. Until the slate is cleaned, new knowledge cannot be written. The eraser works on samskars, on preconceived notions, on the "multiple layers of prior conditioning." Only when the pages are blank can the guru write new chapters. The analogy captures the counterintuitive sequence: unlearning before learning. See [[concepts/surrender]], [[stories/hingori-mind-training-non-duality]].
+
+---
+
+### Steering the Wheel of the Mind
+*Illuminates: [[concepts/surrender]], [[concepts/guru-disciple]]*
+
+> I figured, I needed to let him steer the wheel of my mind and bring it on track.
+> — Hingori, *Guru Sutra*, Ch.9, p.89
+
+The disciple's mind is a vehicle in motion, but the disciple is not the most qualified driver — the guru is. Surrendering the mind means handing over the wheel to a more experienced navigator who can see the road ahead (including bumps and bends invisible to the disciple). The vehicle is still the disciple's own mind; what changes is who is steering. This is surrender not as paralysis but as the intelligent delegation of navigation authority.
+
+---
+
+### Tuned Minds — Intuitive Communication
+*Illuminates: [[concepts/surrender]], [[concepts/guru-disciple]], [[concepts/constant-awareness]]*
+
+> When I called Anjali who was coordinating an event for this book, I suggested she include a few specific sentences in the script. As I spoke, she laughed and explained that those were the exact words she had already penned. Kapill and Ridhim, whom I have trained for several years, often call to inform me about their advice to patients, which, though out-of-the-ordinary are the exact thoughts I receive even before they mention them to me.
+> — Hingori, *Guru Sutra*, Ch.9, pp.89–90
+
+When guru and disciple minds are fully synchronised through the surrender of mann, they begin to operate as a single instrument — receiving and transmitting the same signal simultaneously. Like two tuning forks of identical pitch, the activation of one causes the other to vibrate at the same frequency without contact. This is the fruit of surrendering the mind: not loss of independent thought, but access to a shared frequency that transcends the physical distance between teacher and student. See [[concepts/surrender]], [[entities/kapill]].
+

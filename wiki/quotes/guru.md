@@ -4,7 +4,7 @@ type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]"]
 created: 2026-04-12
-updated: 2026-05-04
+updated: 2026-05-06
 ---
 
 # Quotes on the Guru
@@ -633,3 +633,29 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > "The Guru is the conveyance in which the spiritual influence is brought to you. Anyone can teach, but the spirit must be passed on by the Guru to the Shishya (disciple), and that will fructify."
 > — Swami Vivekananda, quoted in *Guru Sutra*, Ch.9, p.94
 [[concepts/surrender]] · [[concepts/guru-disciple]] · [[concepts/guru-tattva]]
+
+---
+
+## Diksha (*Guru Sutra* Ch.10)
+
+### Great Disciples, Greater Gurus
+
+> Hence, great disciples do greater gurus make!
+> — Hingori, *Guru Sutra*, Ch.10, p.97
+[[concepts/diksha]] · [[concepts/guru-disciple]] · [[entities/mahaguru]]
+
+---
+
+### On Spiritual Initiation
+
+> "We take spiritual initiation when we become conscious of the divine within us, and thereby contact the divine without us."
+> — Dion Fortune, quoted in *Guru Sutra*, Ch.10, p.99
+[[concepts/diksha]] · [[concepts/guru-disciple]]
+
+---
+
+### On Mentoring
+
+> "The delicate balance of mentoring someone is not creating them in your own image, but giving them the opportunity to create themselves."
+> — Steven Spielberg, quoted in *Guru Sutra*, Ch.10, p.100
+[[concepts/diksha]] · [[concepts/guru-disciple]]

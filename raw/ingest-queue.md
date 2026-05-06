@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Guru Sutra** (`raw/guru-sutra-chapters/`)
 
 ## Next
-- [ ] ch-10-diksha.md                        (185 lines)
+- [ ] ch-11-customised-guidance.md           (494 lines)
 
 ## Remaining — Guru Sutra
-- [ ] ch-11-customised-guidance.md           (494 lines)
 - [ ] ch-12-guru-kripa-dakshina-awelna.md    (432 lines)
 - [ ] ch-13-transmission-of-power.md         (707 lines)
 - [ ] ch-14-guru-vandana.md                  (400 lines)
@@ -62,6 +61,7 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-07-guru-disciple-relationship.md
 - [x] ch-08-facets-of-faith.md
 - [x] ch-09-surrender.md
+- [x] ch-10-diksha.md
 
 ## Completed — Other Books
 - [x] Karma Sutra (fully ingested)

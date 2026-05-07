@@ -223,6 +223,13 @@ Raga (attraction) and dwesa (aversion) are the two ends of the same seesaw. Swin
 
 Here the seesaw illuminates the goal of [[concepts/isthul-sharir|Isthul Sharir]] purification: not the pursuit of more joy, but the stable, emotion-free fulcrum Hingori calls "happylessness" — bliss that is neither joy nor sorrow.
 
+*Guru Sutra* Ch.11 uses the same image for the guru's goal in **emotional training**:
+
+> "The guru needs to teach the disciple emotional equilibrium — the ability to balance at the centre of the seesaw rather than sit at either end."
+> — Hingori, *Guru Sutra*, Ch.11, p.109
+
+Here the seesaw is the disciple's emotional life as a whole: kleshas pull them to one end or the other; the guru's job is to train the disciple to hold the centre. "Emotional stability is a state of neutrality that is almost impossible to achieve, since our attachments and other kleshas keep us from attaining it." See [[concepts/customised-guidance]].
+
 ---
 
 ### The Balloon and the Atmosphere
@@ -376,12 +383,19 @@ The analogy gives a spatial and hierarchical handle on an otherwise abstract cos
 ---
 
 ### Snakes & Ladders
-*Illuminates: [[concepts/loks]], [[concepts/samskars]]*
+*Illuminates: [[concepts/loks]], [[concepts/samskars]], [[concepts/kleshas]], [[concepts/customised-guidance]]*
 
 The game of Snakes & Ladders as a model of inter-lok movement across lifetimes. Climbing a ladder (ascending loks) requires effort, service, guna refinement, and spiritual practice. Sliding down a snake (descending loks) is gravitational — the default direction for those who give into baser qualities. Earth is the board; samskars and destiny are the dice.
 
 > "Multiple births and slow and steady progress are required to enable them to climb the ladder rather than slip on the snakes, in the eternal game of 'Snakes & Ladders'."
 > — Hingori, *Aatma Sutra*, Ch.VIII, p.84
+
+*Guru Sutra* Ch.11 applies the same image to the inward game of **self-evolution** within a single lifetime:
+
+> "The five horses of doom that can pull a person down in the snakes and ladders game of self-evolution are: kama (sensuality), krodh (anger or reactivity), lobh (greed), moh (attachment) and ahamkaar (ego or the sense of 'I-ness')."
+> — Hingori, *Guru Sutra*, Ch.11, p.107
+
+Here the snakes are not inter-lok falls but within-life setbacks: the five behavioural forces that drag the seeker backward in their personal evolution. The ladders are the guru's training segments — physical discipline, mental tuning, emotional training, spiritual practice. Same game board; different scale. See [[concepts/customised-guidance]].
 
 ---
 
@@ -476,6 +490,36 @@ The compass metaphor is precise: a compass does not walk the path for you, does 
 > — Gurudev, *The Guru of Gurus*, p.116
 
 Hingori's gloss: Gurudev chose a life of difficulty not as mortification but as energy conservation. Every comfort diverts the shakti that could otherwise power spiritual service. The analogy treats spiritual energy as a budget: luxury is a line item; whatever you spend on it is unavailable for seva. Gurudev's spiritual savings — his conserved energy — were what allowed him to transform hundreds of disciples and heal hundreds of thousands of strangers.
+
+---
+
+### The Dark Tunnel
+*Illuminates: [[concepts/customised-guidance]], [[concepts/faith]], [[concepts/stages-of-spiritual-transformation]]*
+
+> "You have to walk into a dark tunnel and carry on treading relentlessly, even if you cannot see a light. This will continue, until somewhere in the far distance, you see a faint light. As you get closer, the light will seem to get brighter. The journey is long, dark and deep. It is a marathon you need to run and the pleasure can come only after the endeavour."
+> — Gurudev (to Hingori's wife), *Guru Sutra*, Ch.11, p.102
+
+Given as guidance to someone unable to develop faith for the spiritual path. The tunnel is the extended phase of apparent spiritual darkness — no tangible results, no visible progress. The analogy asks the seeker to accept this as intrinsic to the path rather than evidence that the path is wrong. The faint light that eventually appears is proportional to the distance already walked. There is no shortcut through the tunnel.
+
+---
+
+### The Train Reaching Its Destination
+*Illuminates: [[concepts/customised-guidance]], [[concepts/destiny]], [[concepts/stages-of-spiritual-transformation]]*
+
+> "If one moves too quickly, their train is bound to get stranded at some station and they will have to wait until it is time to move again. One will only reach their destination when they are meant to and therefore, speed and enthusiasm are of no help. What helps is consistency of intention and the decision to walk continuously in that direction."
+> — Gurudev, *Guru Sutra*, Ch.11, p.103
+
+Spiritual progress is not a sprint — it runs on a timetable determined by destiny and accumulated karma, not by the seeker's will. Excess speed causes early stalling; lack of speed causes aimlessness. What the train metaphor uniquely contributes is the element of timing: the train *will* reach its destination, but when it does is already fixed. Forcing pace produces the paradox of arriving late by trying to arrive early. See [[concepts/destiny]], [[concepts/customised-guidance]].
+
+---
+
+### Customised Tuition vs. Standard Curriculum
+*Illuminates: [[concepts/customised-guidance]], [[concepts/guru-disciple]]*
+
+> "Unlike standard format education that feeds the same curriculum to all students, thereby producing a generation of mediocrity, a guru's teachings are more like a personalised and customised tuition."
+> — Hingori, *Guru Sutra*, Ch.11, p.126
+
+Standard education produces mediocrity not because the curriculum is wrong, but because it does not account for individual destinies, backgrounds, capabilities, or karmic schedules. The guru's equivalent of a personalised tutor: the same final goal (enlightenment) but a unique path designed for each student's starting point. Gurudev's Mamaji (paan shop owner) and Vedji (affluent businessman) were given different roles in the same sthan — neither role could have belonged to the other. See [[concepts/customised-guidance]], [[stories/mamaji-vedji-sthan]].
 
 ---
 

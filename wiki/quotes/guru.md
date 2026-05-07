@@ -2,9 +2,9 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]"]
+related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]"]
 created: 2026-04-12
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # Quotes on the Guru
@@ -659,3 +659,49 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > "The delicate balance of mentoring someone is not creating them in your own image, but giving them the opportunity to create themselves."
 > — Steven Spielberg, quoted in *Guru Sutra*, Ch.10, p.100
 [[concepts/diksha]] · [[concepts/guru-disciple]]
+
+---
+
+## Customised Guidance (*Guru Sutra* Ch.11)
+
+### On the Dark Tunnel of Faith
+
+> "You have to walk into a dark tunnel and carry on treading relentlessly, even if you cannot see a light. This will continue, until somewhere in the far distance, you see a faint light. As you get closer, the light will seem to get brighter. The journey is long, dark and deep. It is a marathon you need to run and the pleasure can come only after the endeavour."
+> — Gurudev (to Hingori's wife), *Guru Sutra*, Ch.11, p.102
+[[concepts/customised-guidance]] · [[concepts/faith]] · [[entities/mahaguru]]
+
+---
+
+### On Consistency Over Speed
+
+> "If one moves too quickly, their train is bound to get stranded at some station and they will have to wait until it is time to move again. One will only reach their destination when they are meant to and therefore, speed and enthusiasm are of no help. What helps is consistency of intention and the decision to walk continuously in that direction."
+> — Gurudev, *Guru Sutra*, Ch.11, p.103
+[[concepts/customised-guidance]] · [[concepts/destiny]] · [[entities/mahaguru]]
+
+---
+
+### Golden Principle — Senses
+
+> "If you continue to sustain a crusade against your senses, it does not matter if the results are not a 100%. What matters is the intent and effort of this discipline."
+> — Hingori, *Guru Sutra*, Ch.11, p.106
+[[concepts/customised-guidance]] · [[concepts/senses-management]]
+
+---
+
+### Golden Principle — Attachment and Connection
+
+> "One must feel attached to none but connected to all."
+> — Hingori, *Guru Sutra*, Ch.11, p.108
+[[concepts/customised-guidance]] · [[concepts/kleshas]] · [[concepts/vairagya]]
+
+---
+
+### Golden Principle — The Four Transitions
+
+> "The guru must lead the disciple,
+> from passion to dispassion
+> from attachment to detachment
+> from discontentment to contentment
+> from ignorance to knowledge"
+> — Hingori, *Guru Sutra*, Ch.11, p.113
+[[concepts/customised-guidance]] · [[concepts/guru-disciple]] · [[concepts/stages-of-spiritual-transformation]]

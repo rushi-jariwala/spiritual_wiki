@@ -3,9 +3,9 @@ title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]"]
+related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]"]
 created: 2026-04-12
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # The Guru-Disciple Relationship
@@ -804,3 +804,26 @@ See also [[stories/guru-sutra-ch8-poem]] — the verse "Exit the land of delusio
 
 > [!tip] Ch.7 and Ch.8 as a single teaching in two registers
 > Ch.7 (conduct rules) and Ch.8 (faith) form a single integrated teaching: the four conduct rules are faith made visible in behaviour. Looking from feet to head, never saying no, watching thoughts, sitting left — none of these can be sustained as mere ritual; they require the underlying trust that Ch.8 calls faith. Conversely, faith without the discipline of conduct is sentiment. The two chapters together define what discipleship looks like from the outside (Ch.7) and what powers it from within (Ch.8).
+
+---
+
+---
+
+## *Guru Sutra* Ch.11 — Customised Guidance
+
+For the full treatment, see [[concepts/customised-guidance]]. The key addition to the guru-disciple model is summarised here.
+
+Ch.11 establishes that the guru's individualised approach is not optional flourish — it is the defining characteristic that separates the guru-disciple relationship from all other forms of spiritual instruction. Standard religious formats feed the same curriculum to all; the guru adjusts the playing field for each disciple individually, reading their destiny, planetary movements, psychological makeup, and social background.
+
+The chapter's four-segment training framework (Physical Discipline, Mental Tuning, Emotional Training, Spiritual Training) is not a fixed syllabus — it is the set of dimensions the guru addresses in ways unique to each disciple. Mamaji (paan shop owner) and Vedji (affluent businessman) received entirely different assignments but both contributed to the same sthan. See [[stories/mamaji-vedji-sthan]].
+
+The chapter also gives the sharpest formulation of the guru's ultimate purpose:
+
+> Golden Principle: "The guru must lead the disciple,
+> from passion to dispassion
+> from attachment to detachment
+> from discontentment to contentment
+> from ignorance to knowledge"
+> — Hingori, *Guru Sutra*, Ch.11, p.113
+
+> [!tip] Ch.11 extends the Ch.9–10 sequence. Ch.9 showed the disciple's complete offering (surrender). Ch.10 showed the guru's acceptance (diksha). Ch.11 shows what the guru does *with* that relationship once it is sealed: customised, lifelong, individualised training — including the use of "backhand methods" like Gurudev suppressing Hingori's third eye (see [[stories/hingori-third-eye-opened-closed]]) or Totapari scratching Ramakrishna's forehead (see [[stories/ramakrishna-totapari-kali]]). The full sequence — surrender, diksha, customised guidance — constitutes the complete operational arc of the guru-disciple bond.

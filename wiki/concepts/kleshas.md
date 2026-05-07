@@ -1,10 +1,10 @@
 ---
 title: Kleshas (The Five Stresses)
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/maya]]", "[[concepts/guru-disciple]]", "[[concepts/moksha]]", "[[concepts/gunas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, guru_sutra_book.md]
+related: ["[[concepts/maya]]", "[[concepts/guru-disciple]]", "[[concepts/moksha]]", "[[concepts/gunas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[concepts/customised-guidance]]"]
 created: 2026-04-12
-updated: 2026-04-15
+updated: 2026-05-07
 ---
 
 # Kleshas
@@ -108,6 +108,34 @@ Together they generate the force that keeps the jivaatma cycling through birth a
 
 This means the specific kleshas that dominate a person's life are not random — they are pre-configured in the causal body as part of the karmic schedule for that incarnation. See [[concepts/kaarna-sharir]].
 
+## The Five Horses of Doom (*Guru Sutra* Extension)
+
+In *Guru Sutra* Ch.11, Hingori introduces a parallel set of five forces under the image of the "snakes and ladders game of self-evolution." Where Patanjali's five kleshas describe the structure of mental affliction, this popular-yogic formulation names the active behavioural pulls that drag a seeker downward:
+
+| Horse | Sanskrit | Meaning |
+|---|---|---|
+| 1 | Kama | Sensuality / sensory indulgence |
+| 2 | Krodh | Anger / reactivity |
+| 3 | Lobh | Greed |
+| 4 | Moh | Attachment |
+| 5 | Ahamkaar | Ego / the sense of 'I-ness' |
+
+> "The five horses of doom that can pull a person down in the snakes and ladders game of self-evolution are: kama (sensuality), krodh (anger or reactivity), lobh (greed), moh (attachment) and ahamkaar (ego or the sense of 'I-ness')."
+> — Hingori, *Guru Sutra*, Ch.11, p.107
+
+These overlap with Patanjali's five kleshas but are not identical. Ahamkaar maps to *asmita*; moh maps to *raga*; krodh and lobh are expressions of how raga and dwesa manifest in action; kama spans both raga and abhinivesha. The frames are complementary: Patanjali's set describes root stresses in the psyche; the five horses describe the active behavioural faces of those stresses.
+
+> [!tip] When 'I-ness' comes into play, it makes a person feel as small as the identities created for themselves — far smaller than the expansiveness of identifying with the *aatma* (divinity). See [[concepts/customised-guidance]] for the full mental tuning framework.
+
+## Attachment Beyond This Life
+
+*Guru Sutra* Ch.11 extends the reach of *moh* (attachment) into the afterlife:
+
+> "Attachment is a weakness that keeps you bound not only during this life, but also in the afterlife. It does not allow your spirit to progress, as it is still trying to stay connected to its family and worldly desires."
+> — Hingori, *Guru Sutra*, Ch.11, p.108
+
+This applies to partially evolved spirits: their attachment to family and worldly identity prevents the spirit body from moving forward in the spirit world. Evolved spirits, by contrast, "easily move on, leaving behind their old roles and possessions as remnants of their identity histories." See [[concepts/sukshma-sharir]], [[concepts/loks]].
+
 ## Cross-references
 
 - [[concepts/maya]] — avidya (the first klesha) is one's individual circle of maya
@@ -120,3 +148,4 @@ This means the specific kleshas that dominate a person's life are not random —
 - [[concepts/asisa]] — the composite force (asmita + abhinivesha + avidya) driving perpetual existence
 - [[concepts/kaarna-sharir]] — klesha trends are pre-configured in the karmashaya as one of its three data sets
 - [[concepts/vitarks-vichars]] — vitarks as anti-yams are the thought-level expression of klesha dominance
+- [[concepts/customised-guidance]] — mental tuning segment of the guru's training; the five horses of doom as what the disciple must overcome

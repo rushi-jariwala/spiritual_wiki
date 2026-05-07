@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/surrender]]", "[[concepts/faith]]"]
 created: 2026-04-28
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -43,7 +43,7 @@ updated: 2026-05-06
 | Chapter 8 | Facets of Faith | 69–76 | ✅ ingested 2026-05-04 |
 | **Chapter 9** | Surrender | 77–94 | ✅ ingested 2026-05-05 |
 | Chapter 10 | Diksha | 95–100 | ✅ ingested 2026-05-06 |
-| Chapter 11 | Customised Guidance | 101–114 | ⬜ pending |
+| Chapter 11 | Customised Guidance | 101–114 | ✅ ingested 2026-05-07 |
 | Chapter 12 | Guru Kripa, Dakshina and Awelna | 115–126 | ⬜ pending |
 | Chapter 13 | Transmission of Power | 127–146 | ⬜ pending |
 | Chapter 14 | Guru Vandana | 147–158 | ⬜ pending |
@@ -223,6 +223,23 @@ updated: 2026-05-06
 - **Guru as launch pad, not crutch** — the misuse of surrender is treating the guru as an oracle for material decisions; the proper use is for spiritual support and advancement — see [[concepts/surrender]]
 - **Mind training as unlearning** — four-year process of erasing prior conditioning before rewriting; passion → dispassion; non-duality as the destination — see [[stories/hingori-mind-training-non-duality]], [[concepts/surrender]]
 
+## Stories from Ch.11
+
+- [[stories/mamaji-vedji-sthan]] — Gurudev assigns Mamaji (paan shop owner) and Vedji (affluent businessman) complementary roles; the sthan runs successfully for over two decades — customised collaboration in spiritual administration (Ch.11, pp.103–105)
+- [[stories/ramakrishna-totapari-kali]] — Totapari removes Ramakrishna's devotion to Kali via physical intervention during a trance; Ramakrishna attains Paramahansa status — the guru's "backhand methods" of tutoring (Ch.11, pp.111–112)
+- [[stories/guru-sutra-ch11-poem]] — "He weeds out ignorance. / He waters the wilting soul..." — verbatim closing verse (Ch.11, p.114)
+- [[stories/hingori-third-eye-opened-closed]] — Updated with first-person Ch.11 account: Gurudev lowers Hingori's kundalini; "I felt depressed"; the reasoning given in the moment (Ch.11, pp.111–112)
+
+*Short anecdotes filed inline in [[concepts/customised-guidance]]: wife's dark tunnel guidance; author's decade of stagnancy; Gurudev stepping over a snake in Amritsar; Ankit's guilt-free approach to self-worship.*
+
+## New Concepts from Ch.11
+
+- **Customised guidance** — the defining characteristic of the guru-disciple relationship vs. all other spiritual formats; the four training segments (Physical Discipline, Mental Tuning, Emotional Training, Spiritual Training) — see [[concepts/customised-guidance]]
+- **Five horses of doom** — kama, krodh, lobh, moh, ahamkaar as the behavioural forces that pull a disciple down in the "snakes and ladders game of self-evolution"; parallel to Patanjali's kleshas but not identical — see [[concepts/kleshas]]
+- **Attachment beyond this life** — moh keeps the spirit bound in the afterlife, not just in the current life; applies to partially evolved spirits — see [[concepts/kleshas]]
+- **Ajna Chakra / third eye** — the opening of the third eye (intuitive hearing, foresight) as a stage of spiritual training, but one the guru may deliberately suppress if it risks stalling progress — see [[stories/hingori-third-eye-opened-closed]], [[concepts/customised-guidance]]
+- **Self-worship as guilt avoidance** — Ankit's formulation: avoiding anything that produces guilt keeps the inner mirror clean enough to see the jivaatma — see [[concepts/self-worship]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -257,6 +274,9 @@ updated: 2026-05-06
 
 > [!tip] Surrender vs. "never bow before any man" — Ch.9
 > Ch.9 requires total surrender of tann, dhann, and mann to the guru. Yet the same chapter describes Gurudev explicitly liberating Hingori from subservience to anyone — including the deities. The resolution Hingori offers: surrender *to* the guru produces an inner dignity that cannot be broken *by* anyone else. The disciple surrenders to wisdom, not to persons. Humility without subservience is the operating mode post-surrender.
+
+> [!tip] Spiritual stagnancy as normal, not failure — Ch.11
+> Ch.11 describes Hingori's decade-long sabbatical from active spiritual practice as something that was foreseen and was part of the path. The train analogy makes this explicit: trying to go faster than destiny allows creates a stranding, not an acceleration. This sits alongside Ch.6's emphasis on Initiative and Ch.9's theme of active surrender — both of which suggest the disciple should remain engaged. The resolution is contextual: the stagnancy Hingori describes was *active stagnancy* (seva continued; only personal practice stalled). True abandonment would be different.
 
 > [!tip] Householder path faster than monastic path — Ch.10
 > Ch.10 makes an explicit comparative claim: due to the "angle of difficulty," householder disciples advance spiritually faster than those in the monastic/ascetic order. This sits alongside Ch.3's description of the gurukul/monastic curriculum as the classical form of training. Hingori's resolution is implicit: the gurukul system is the *classical* format; Gurudev's householder model is its modern reinvention, and the difficulty of householder life substitutes for (and arguably exceeds) the discipline of the institution. See [[concepts/grihasth-ashram]], [[concepts/diksha]].

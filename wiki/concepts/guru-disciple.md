@@ -3,9 +3,9 @@ title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]"]
+related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]"]
 created: 2026-04-12
-updated: 2026-05-04
+updated: 2026-05-06
 ---
 
 # The Guru-Disciple Relationship
@@ -609,6 +609,36 @@ The preferred measure is **aatmic equality** — whether one has felt it:
 And in Gurudev's assessment: having amply served other life forms is the winning hand in the game of life. The instruction to judge oneself not against others, not against past or present self, but *with the self on the eve of one's departure* — because the line is virtually infinite and ends only at moksha. The Buddha's example is given: his evolution was a series of points on a line, from prince to student to emancipated, across lifetimes. His last words to disciples (see [[quotes/guru]]) direct them to assess themselves by adherence to his teachings rather than by any external criterion.
 
 See [[stories/guru-sutra-ch6-poem2]] for the closing verse of this section.
+
+---
+
+---
+
+## *Guru Sutra* Ch.10 — Diksha
+
+For the full treatment, see [[concepts/diksha]]. The structural additions to the guru-disciple model are summarised here.
+
+### Diksha as the Formalisation of the Bond
+
+Diksha is the moment the guru's commitment to the disciple becomes explicit and binding. Where earlier chapters describe the disciple's journey toward acceptance (Chs.4–5) and the conduct, faith, and surrender required (Chs.7–9), Ch.10 names the guru's corresponding act: the decision to accept long-term responsibility for the disciple's enlightenment, potentially across multiple lifetimes.
+
+> Diksha is the commitment of acceptance given by a guru to his disciple. The guru works towards the disciple's enlightenment and spiritual attainment holding himself responsible for his disciple's growth.
+> — Hingori, *Guru Sutra*, Ch.10, p.95
+
+### Mutual Benefit — the Orchard Principle
+
+The chapter's key structural insight: diksha benefits both parties. For the disciple, it activates the guru's full commitment. For the guru, it is the means of **multiplying his capacity for service** — turning one tree into an orchard, reaching far more people than he could alone.
+
+> Hence, great disciples do greater gurus make!
+> — Hingori, *Guru Sutra*, Ch.10, p.97
+
+This connects directly to the earlier teaching that a mahaguru is measured not by the number of shishyas but by the number of gurus created (see [[quotes/guru]] — Introduction quote).
+
+### Fate as the Operative Force in Diksha
+
+Ch.10 reinforces the destiny framework: committing to a non-siddh guru is "more a subject of fate than free choice," and the disciple's own attitude at the time of first meeting is irrelevant to whether diksha will eventually occur. Hingori's own case — atheist, dismissive, meeting Gurudev for purely material reasons — is the primary illustration.
+
+> [!tip] Ch.10 and Ch.9 form a natural pair. Ch.9 gives the disciple's complete offering (tann, dhann, mann). Ch.10 names the guru's corresponding acceptance — diksha — that makes the bond formal and binding across lifetimes.
 
 ---
 

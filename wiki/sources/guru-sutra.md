@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/surrender]]", "[[concepts/faith]]"]
 created: 2026-04-28
-updated: 2026-05-04
+updated: 2026-05-06
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -42,7 +42,7 @@ updated: 2026-05-04
 | Chapter 7 | Guru Disciple Relationship | 63–68 | ✅ ingested 2026-05-04 |
 | Chapter 8 | Facets of Faith | 69–76 | ✅ ingested 2026-05-04 |
 | **Chapter 9** | Surrender | 77–94 | ✅ ingested 2026-05-05 |
-| Chapter 10 | Diksha | 95–100 | ⬜ pending |
+| Chapter 10 | Diksha | 95–100 | ✅ ingested 2026-05-06 |
 | Chapter 11 | Customised Guidance | 101–114 | ⬜ pending |
 | Chapter 12 | Guru Kripa, Dakshina and Awelna | 115–126 | ⬜ pending |
 | Chapter 13 | Transmission of Power | 127–146 | ⬜ pending |
@@ -204,6 +204,18 @@ updated: 2026-05-04
 
 *Short/inline anecdotes in [[concepts/surrender]]: Lal Saheb (Canada seva, 20+ years); sthan ladies backbone; Roshni's digital seva; Gurudev's 250 sq.yd. property; Anjali/Kapill/Ridhim synchronicity examples.*
 
+## New Concepts from Ch.10
+
+- **Diksha** — the guru's formal commitment of acceptance to the disciple, with responsibility for enlightenment potentially across multiple lifetimes; may be ceremonial (monastic, with naam/mantra) or informal (householder) — see [[concepts/diksha]]
+- **Mutual benefit of diksha** — the guru benefits from accepting disciples: multiplication of his mission ("tree into orchard"); great disciples make greater gurus — see [[concepts/diksha]], [[wiki/analogies/analogies]]
+- **Householder diksha produces faster attainment** — the "angle of difficulty" of ordinary life, combined with seva, accelerates spiritual progress more than the ascetic/monastic path — see [[concepts/diksha]], [[concepts/grihasth-ashram]]
+- **"Diksha not Diksha"** — commercially motivated gurus offering hollow commitments; the bond does not form; the relationship is spiritually worthless — see [[concepts/diksha]]
+- **Mahagayatri Mantra vs. Gayatri Mantra timelines** — Gurudev's disciples became siddh in Mahagayatri in 3–4 years; others take 2–3 decades for the abridged Gayatri — see [[concepts/diksha]], [[concepts/mantra-transfer]]
+
+## Stories from Ch.10
+
+*No multi-paragraph stories. Short personal testimony (Hingori's first meeting with Gurudev, attitude toward diksha before receiving it) filed inline in [[concepts/diksha]].*
+
 ## New Concepts from Ch.9
 
 - **Surrender (sharanagati)** — threefold (tann/dhann/mann) + spiritual self; prerequisite for a fruitful guru-disciple relationship; surrender ≠ defeat; produces synchronicity and dignity — see [[concepts/surrender]]
@@ -245,6 +257,9 @@ updated: 2026-05-04
 
 > [!tip] Surrender vs. "never bow before any man" — Ch.9
 > Ch.9 requires total surrender of tann, dhann, and mann to the guru. Yet the same chapter describes Gurudev explicitly liberating Hingori from subservience to anyone — including the deities. The resolution Hingori offers: surrender *to* the guru produces an inner dignity that cannot be broken *by* anyone else. The disciple surrenders to wisdom, not to persons. Humility without subservience is the operating mode post-surrender.
+
+> [!tip] Householder path faster than monastic path — Ch.10
+> Ch.10 makes an explicit comparative claim: due to the "angle of difficulty," householder disciples advance spiritually faster than those in the monastic/ascetic order. This sits alongside Ch.3's description of the gurukul/monastic curriculum as the classical form of training. Hingori's resolution is implicit: the gurukul system is the *classical* format; Gurudev's householder model is its modern reinvention, and the difficulty of householder life substitutes for (and arguably exceeds) the discipline of the institution. See [[concepts/grihasth-ashram]], [[concepts/diksha]].
 
 > [!warning] Guru as launch pad vs. total surrender — Ch.9
 > Total surrender of tann, dhann, and mann could, in theory, produce permanent dependency on the guru for every decision. Ch.9 explicitly warns against exactly this: the "guru as crutch" failure mode. Hingori's resolution: the guru's proper domain is spiritual support, not material decision-making. Surrender of the mind is the path to synchronicity — not to helplessness.

@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: []
 created: 2026-04-15
-updated: 2026-05-04
+updated: 2026-05-06
 ---
 
 # Analogies
@@ -73,6 +73,16 @@ A sadguru is not a given. The fortune of finding one who takes full responsibili
 > — Hingori, *Karma Sutra*, Ch.1, p.21
 
 The guru does not usually cancel the disciple's destiny — the rain still comes. What changes is the disciple's capacity to pass through it. Two live examples: [[stories/gurus-umbrella-wife-delivery]], [[stories/scooter-accident-vision]].
+
+---
+
+### Tree into Orchard
+*Illuminates: [[concepts/diksha]], [[concepts/guru-disciple]], [[entities/mahaguru]]*
+
+> The greatest satisfaction for a siddh guru is the ability to multiply a tree (himself) into an orchard (a community of disciples).
+> — Hingori, *Guru Sutra*, Ch.10, p.97
+
+Diksha is not only a gift to the disciple — it is the guru's means of multiplying his own capacity for service. One siddh guru working alone can reach only so many. But a community of siddh disciples extends his reach across places, cultures, and generations that the guru alone could never have accessed. The analogy reframes diksha: it is the guru planting seeds of himself in fertile ground, so the orchard can eventually produce fruit independently. See [[concepts/diksha]] and compare [[#Gurudev's Ark]] — the ark analogy emphasises training navigators; the orchard analogy emphasises the exponential multiplication of the guru's mission.
 
 ---
 

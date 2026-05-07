@@ -78,6 +78,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[tantra]] — Spiritual science; inherently neither positive nor negative; tamasic vs. sattvic uses; village practitioners; road-crossing energy
 - [[faith]] — The binding force of the guru-disciple bond; obligates the guru; must be exclusive; tested and graduated; bridge from physical path to spiritual future
 - [[surrender]] — The three-fold surrender of tann (body), dhann (wealth), and mann (mind/spirit) to the guru; prerequisite for a fruitful guru-disciple relationship; produces synchronicity and dignity, not subservience
+- [[diksha]] — The guru's formal commitment of acceptance to the disciple; mutual benefit; householder path accelerates attainment; "diksha not diksha" when commercially motivated
 
 ---
 

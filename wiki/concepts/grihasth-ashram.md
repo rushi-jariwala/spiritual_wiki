@@ -1,10 +1,10 @@
 ---
 title: Grihasth Ashram (The Householder Path)
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/karmayoga]]", "[[practices/seva]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/karmayoga]]", "[[practices/seva]]", "[[concepts/diksha]]"]
 created: 2026-04-25
-updated: 2026-04-26
+updated: 2026-05-06
 ---
 
 # Grihasth Ashram (The Householder Path)
@@ -46,6 +46,19 @@ The Entrepreneur Extraordinaire chapter adds a further dimension: Gurudev lived 
 Hingori recorded this as an ek vakya delivered at Mungaoli after a teaching where Gurudev made Hingori's social pretence real — shivering in a sweater — to demonstrate that surrender includes the sacrifice of false ego, social graces, and make-believe. See [[stories/mungaoli-sweater-incident]].
 
 > [!tip] The teaching refines the earlier Santoksar teaching: it is not merely that *final attainments require* the householder's field — it is that the householder's field can itself *be* renunciation, if inhabited with vairagya.
+
+## *Guru Sutra* Ch.10 — Householder Diksha and the Angle of Difficulty
+
+Ch.10 adds a sharp comparative claim: householders who receive diksha achieve spiritual attainment *faster* than those in the monastic or ascetic order.
+
+> Due to the myriad difficulties of being a householder (viz. earning a livelihood, performing social duties and involvement in commercial ventures), practicing spiritualism enabled quicker spiritual attainment.
+> — Hingori, *Guru Sutra*, Ch.10, p.96
+
+The key phrase is "angle of difficulty" — the same practice performed amid the constant friction of ordinary life generates more spiritual momentum than the same practice in a protected, regulated environment. When **seva** is added to the householder system, the acceleration is further amplified.
+
+The empirical evidence Hingori offers: most of Gurudev's householder disciples became **siddh in the Mahagayatri Mantra** in three to four years, while practitioners outside Gurudev's circle typically take two to three decades even to attain the abridged **Gayatri Mantra**. See [[concepts/diksha]], [[practices/seva]].
+
+Gurudev's own preference for giving diksha to householders (following the precedent of Guru Nanak Dev — also a householder) is not incidental. It reflects the teaching that the householder's field is where the most concentrated spiritual transmutation occurs. See [[concepts/diksha]] for the full treatment of diksha in Gurudev's tradition.
 
 ## Cross-references
 

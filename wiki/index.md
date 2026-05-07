@@ -323,6 +323,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions as the perpetual rent-free flatmates inside your head
 - [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships with full engagement but without emotional ownership; Gurudev's staged fury as compassion
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
+- [[blog/2026-05-07-surrender|2026-05-07 — The Gain That Looks Like Loss]] — Surrender: the three-fold release of tann, dhann, and mann; how full surrender produces dignity, not subservience
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 
 ---

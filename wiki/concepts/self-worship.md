@@ -1,10 +1,10 @@
 ---
 title: Self-Worship
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-love]]", "[[concepts/self-acceptance]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/mukti]]", "[[entities/hingori]]", "[[entities/guru-vashisht]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
+related: ["[[concepts/self-love]]", "[[concepts/self-acceptance]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/mukti]]", "[[concepts/customised-guidance]]", "[[entities/hingori]]", "[[entities/guru-vashisht]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-05-07
 ---
 
 # Self-Worship
@@ -117,6 +117,15 @@ Sit cross-legged in front of a mirror; stare at the forehead. Over weeks, you wi
 
 ### Exercise 3 — Inner Visualization
 Imagine yourself sitting within yourself in a cross-legged pose, located between the heart and forehead chakra. Look at your present form, then slowly look back at yourself in youth, then childhood, until you see yourself as a child sitting in the same pose within you. May take weeks or months. "Keep trying and keep failing, until you fail at failing."
+
+## Ankit's Practical Test
+
+In *Guru Sutra* Ch.11, Hingori describes teaching the art of self-worship to a disciple named Ankit. Ankit's formulation of the practice in action was striking:
+
+> "For worshipping himself, he avoids doing anything that could make him feel guilty. Otherwise, he is unable to see the divinity within himself."
+> — Hingori on Ankit, *Guru Sutra*, Ch.11, p.109
+
+This frames self-worship not as a formal ritual but as a discipline of guilt avoidance — keeping the inner mirror clean enough that the jivaatma's reflection is visible. The link to non-doership is direct: guilt is the footprint of claimed doer-ship; removing it is the same movement from both directions. See [[concepts/non-doership]], [[concepts/self-acceptance]].
 
 ## Gurudev as Exemplar
 

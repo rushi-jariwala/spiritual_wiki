@@ -79,6 +79,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[faith]] — The binding force of the guru-disciple bond; obligates the guru; must be exclusive; tested and graduated; bridge from physical path to spiritual future
 - [[surrender]] — The three-fold surrender of tann (body), dhann (wealth), and mann (mind/spirit) to the guru; prerequisite for a fruitful guru-disciple relationship; produces synchronicity and dignity, not subservience
 - [[diksha]] — The guru's formal commitment of acceptance to the disciple; mutual benefit; householder path accelerates attainment; "diksha not diksha" when commercially motivated
+- [[customised-guidance]] — The guru's tailored training for each disciple; four segments (Physical Discipline, Mental Tuning, Emotional Training, Spiritual Training); contrast with standard curriculum mediocrity
 
 ---
 
@@ -111,7 +112,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–9*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–11*
 
 ---
 
@@ -299,6 +300,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[giri-sister-fungal-ghee]] — Fungal growth healed by applying ghee on rotis at the sthan for 11 days
 - [[hingori-wrong-remedy-intention]] — Piles remedy given to hernia patient; patient improves; proves intention over method
 - [[sore-throat-gol-gappas]] — Chronic sore throat prescribed spicy gol-gappas; voice restored; becomes a staunch believer
+- [[mamaji-vedji-sthan]] — Gurudev assigns Mamaji (paan shop owner) and Vedji (affluent businessman) complementary sthan roles; two decades of successful collaboration
+- [[ramakrishna-totapari-kali]] — Totapari removes Ramakrishna's devotion to Kali via physical intervention during a trance; Ramakrishna attains Paramahansa status
+- [[guru-sutra-ch11-poem]] — "He weeds out ignorance. He waters the wilting soul..." — closing verse of *Guru Sutra* Ch.11
 
 ---
 

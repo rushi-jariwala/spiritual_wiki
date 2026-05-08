@@ -112,3 +112,5 @@ The dissolution of the jivaatma's identity into the absolution of the param-aatm
 - [[entities/mahaguru]] — Gurudev's own life as the embodiment of all six stages
 - [[stories/hingori-faith-development]] — the cost of delayed vishwas
 - [[stories/hingori-bhakti-journey]] — the bhakti stage in detail
+- [[stories/ramakrishna-totapari-kali]] — Totapari's intervention illustrates the guru forcing a transit from Bhakti (devotion) to Divya Gyan (self-awareness) when the disciple cannot make that transition alone
+- [[concepts/customised-guidance]] — the guru's tailored training is what navigates the disciple through these six stages; Ch.11 provides the operational framework

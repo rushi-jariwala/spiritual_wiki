@@ -10,6 +10,12 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 ---
 ```
+
+**YAML title quoting rules** (Quartz/YAML will fail to build if broken):
+- If the title contains double-quote characters `"`, wrap the entire value in single quotes: `title: '"Quoted Title" — rest'`
+- If the title contains a colon `:` or starts with a special YAML character (`{`, `[`, `>`, `|`, `*`, `&`, `!`), wrap in single or double quotes.
+- Never start a title value with an unmatched `"` or `'`.
+
 Use `[[wiki/relative/path]]` for all internal links (Obsidian-compatible).
 
 ## Page Structures

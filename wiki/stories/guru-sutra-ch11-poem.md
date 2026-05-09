@@ -1,5 +1,5 @@
 ---
-title: "He Weeds Out Ignorance" — Closing Verse of Guru Sutra Ch.11
+title: '"He Weeds Out Ignorance" — Closing Verse of Guru Sutra Ch.11'
 type: story
 sources: [guru_sutra_book.md]
 related: ["[[concepts/customised-guidance]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]"]

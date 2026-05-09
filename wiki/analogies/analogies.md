@@ -1059,3 +1059,25 @@ The disciple's mind is a vehicle in motion, but the disciple is not the most qua
 
 When guru and disciple minds are fully synchronised through the surrender of mann, they begin to operate as a single instrument — receiving and transmitting the same signal simultaneously. Like two tuning forks of identical pitch, the activation of one causes the other to vibrate at the same frequency without contact. This is the fruit of surrendering the mind: not loss of independent thought, but access to a shared frequency that transcends the physical distance between teacher and student. See [[concepts/surrender]], [[entities/kapill]].
 
+---
+
+## Guru Kripa & Awelna
+
+### The Glass Rejoined but the Cracks Visible
+*Illuminates: [[concepts/guru-awelna]], [[concepts/guru-disciple]]*
+
+> The glass was rejoined but the cracks were clearly visible.
+> — Hingori, *Guru Sutra*, Ch.12, p.124
+
+On the most extreme case of guru awelna — Bade Jainsahib challenging Gurudev to spiritual combat — Gurudev forgave and took him back, but the original wholeness did not return. A shattered glass can be rejoined but the fracture lines remain permanently visible. Used here to express that some damage to a spiritual relationship, though forgiven, is not fully erased: the bond continues, but it is marked by what happened. See [[stories/bade-jainsahib-guru-awelna]], [[concepts/guru-awelna]].
+
+---
+
+### The Bitter Pill
+*Illuminates: [[concepts/guru-kripa]], [[concepts/guru-disciple]]*
+
+> Guru kripa may not always be sweet and sugarcoated but can be astringent, like a bitter pill that cures.
+> — Hingori, *Guru Sutra*, Ch.12, p.115
+
+Grace does not always arrive as comfort. A reprimanding sentence, a sustained correction, a forced consequence — all of these can be forms of guru kripa operating through an astringent medium. The bitter pill is still medicine; the cure is the point, not the taste. See [[concepts/guru-kripa]].
+

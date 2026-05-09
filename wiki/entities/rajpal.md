@@ -1,10 +1,10 @@
 ---
 title: Rajpal ji
 type: entity
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/spiritual-healing]]", "[[concepts/non-doership]]", "[[stories/rajpal-heathrow-bhagwan-authority]]", "[[stories/rajpal-hoarse-voice-snow]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+related: ["[[entities/mahaguru]]", "[[concepts/spiritual-healing]]", "[[concepts/guru-awelna]]", "[[concepts/non-doership]]", "[[stories/rajpal-heathrow-bhagwan-authority]]", "[[stories/rajpal-hoarse-voice-snow]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-09
 ---
 
 # Rajpal ji
@@ -23,7 +23,7 @@ In the departure lounge at London's Heathrow airport, Rajpal ji asked Gurudev wh
 See [[stories/rajpal-heathrow-bhagwan-authority]]. Gurudev explains to Rajpal ji that Bhagwan has given him the stature of a guru and the authority that comes with it — authority exercised in service of healing the sick, not for personal gain.
 
 ### The Hoarse Voice — Ego in Seva
-Rajpal ji showed off his singing skills during seva. As a correction, Gurudev made his voice so hoarse that he could barely utter an understandable word. A few months later, seeking forgiveness, Gurudev told him to eat a ball of snow from the ground he was standing on. The cure was almost instantaneous. See [[stories/rajpal-hoarse-voice-snow]].
+In the early years of discipleship, Rajpal ji sat at the sthan singing songs, probably with the intention of impressing visitors. Gurudev looked at him and said, "Alright son, let me see how you sing again." Within no time, Rajpal ji's throat got sore and remained that way for over a year. During a visit to Shimla with Gurudev, he pleaded for a cure. Gurudev asked him to pick snow off the ground and eat it. Rajpal ji did as told and instantly his throat was normal again. *Guru Sutra* (Ch.12) explicitly frames this as [[concepts/guru-awelna]]. See [[stories/rajpal-hoarse-voice-snow]].
 
 ## Quotes
 

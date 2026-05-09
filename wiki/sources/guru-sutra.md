@@ -44,7 +44,7 @@ updated: 2026-05-07
 | **Chapter 9** | Surrender | 77–94 | ✅ ingested 2026-05-05 |
 | Chapter 10 | Diksha | 95–100 | ✅ ingested 2026-05-06 |
 | Chapter 11 | Customised Guidance | 101–114 | ✅ ingested 2026-05-07 |
-| Chapter 12 | Guru Kripa, Dakshina and Awelna | 115–126 | ⬜ pending |
+| **Chapter 12** | Guru Kripa, Dakshina and Awelna | 115–126 | ✅ ingested 2026-05-09 |
 | Chapter 13 | Transmission of Power | 127–146 | ⬜ pending |
 | Chapter 14 | Guru Vandana | 147–158 | ⬜ pending |
 | Chapter 15 | Maturity of a Guru | 159–178 | ⬜ pending |
@@ -240,6 +240,24 @@ updated: 2026-05-07
 - **Ajna Chakra / third eye** — the opening of the third eye (intuitive hearing, foresight) as a stage of spiritual training, but one the guru may deliberately suppress if it risks stalling progress — see [[stories/hingori-third-eye-opened-closed]], [[concepts/customised-guidance]]
 - **Self-worship as guilt avoidance** — Ankit's formulation: avoiding anything that produces guilt keeps the inner mirror clean enough to see the jivaatma — see [[concepts/self-worship]]
 
+## Stories from Ch.12
+
+- [[stories/hingori-guru-kripa-request]] — Hingori's second visit; Puranji advises asking for guru kripa; the battle of wits with Gurudev; "You will get a lot more than you can imagine" (Ch.12, pp.115–116)
+- [[stories/hingori-nagesh-lie-gurudev]] — Hingori gives money to Gurudev's cook despite a prohibition; lies repeatedly when questioned; twisted foot for three days; confession; healing; "You must never lie to your guru. Never!" (Ch.12, pp.121–122)
+- [[stories/satte-paralysis-disobedience]] — Satte's paralysis cured; delays return on solar eclipse day; paralysis returns; another healer refuses to intervene; Gurudev's affection without full restoration (Ch.12, pp.122–123)
+- [[stories/bade-jainsahib-guru-awelna]] — Bade Jainsahib's rapid attainment; "I am Shiv" episode; challenging Gurudev to spiritual combat; mental imbalance; forgiveness and partial restoration; "the glass was rejoined but the cracks were clearly visible" (Ch.12, pp.122–125)
+- [[stories/guru-sutra-ch12-poem]] — "He fills the disciple with wisdom / and sets his soul aglow…" — verbatim closing verse (Ch.12, p.126)
+- [[stories/rajpal-hoarse-voice-snow]] — Updated with Guru Sutra Ch.12 version: singing to impress visitors as awelna; throat sore for over a year; cured with snow at Shimla (Ch.12, pp.122–124)
+
+*Short anecdotes filed inline in [[concepts/guru-dakshina]]: Riaz — college friend who appeared in a dream and later developed muscular sclerosis (missed opportunity); former prime minister who appeared in a vision and was later assassinated (missed opportunity). Filed inline in [[concepts/guru-kripa]]: Karmakarji's cocktail parties — using the power of intent to prevent Thursday events at his company.*
+
+## New Concepts from Ch.12
+
+- **Guru Kripa** — grace of the guru; operates at the level of the three bodies' minds (physical, mental, spiritual); not social favour; may be astringent; continuity from previous lives until mukti — see [[concepts/guru-kripa]]
+- **Guru Awelna** — wronging the guru; mechanism of punishment is the disciple's own inner consciousness squaring off the samskar of guilt; distinct from legitimate disagreement — see [[concepts/guru-awelna]]
+- **Guru Dakshina — expanded** — four practical forms of repayment; tangible vs. intangible; parampara spreading; examples from Jesus's disciples, Buddhist monasteries, Sikh gurudwaras — see [[concepts/guru-dakshina]]
+- **Spiritual power and ego — the thin dividing line** — speed of spiritual growth as a potential handicap; identification with the aatma vs. identification with an inflated astral self — see [[concepts/guru-awelna]], [[stories/bade-jainsahib-guru-awelna]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -283,3 +301,12 @@ updated: 2026-05-07
 
 > [!warning] Guru as launch pad vs. total surrender — Ch.9
 > Total surrender of tann, dhann, and mann could, in theory, produce permanent dependency on the guru for every decision. Ch.9 explicitly warns against exactly this: the "guru as crutch" failure mode. Hingori's resolution: the guru's proper domain is spiritual support, not material decision-making. Surrender of the mind is the path to synchronicity — not to helplessness.
+
+> [!warning] "You will get a lot more than you can imagine" — first or second meeting? — Ch.12 vs. The Guru of Gurus
+> *The Guru of Gurus* (p.148) attributes this quote to Gurudev at Hingori's first meeting in 1977. *Guru Sutra* Ch.12 places the same words at the second meeting — when arthritis relapsed — in the context of Hingori asking for guru kripa. These may be the same quote narrated from different vantage points, or Gurudev may have said something similar on both occasions. The two accounts cannot be harmonised without additional evidence.
+
+> [!tip] Guru awelna punished by inner consciousness, not guru — Ch.12
+> Ch.12 states explicitly that the guru, by nature, is forgiving — and that punishment for guru awelna comes from the disciple's *own* inner consciousness squaring off the samskar of guilt. This is fully consistent with the karma framework (the jivaatma punishes its conscious part). However, several stories in the same chapter appear to show Gurudev *actively* inflicting or withdrawing healing (Rajpalji's throat, Satte's paralysis returning). The reconciliation Hingori implies but does not state: the guru's action is an *expression* of the disciple's karmic condition, not an external punishment. The guru does what the disciple's karma requires.
+
+> [!tip] Awelna vs. disagreement — Ch.12
+> Ch.12 draws a clear line between guru awelna (deception, disobedience, arrogance, wrongful behaviour) and legitimate disagreement (openly declaring a different viewpoint and taking the guru's permission to hold it). This sits alongside Ch.9's "the guru is always right" principle and Ch.7's "never say no to your guru." The resolution: the obedience rules apply to direct instructions; intellectual or spiritual disagreement can be expressed if done transparently, not covertly. Covert disobedience is awelna; declared disagreement is not.

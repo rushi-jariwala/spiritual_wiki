@@ -1,5 +1,5 @@
 ---
-title: "Owning things doesn't make you rich…" — Verse on Wealth and Seva
+title: '"Owning things doesn''t make you rich…" — Verse on Wealth and Seva'
 type: story
 sources: [guru_sutra_book.md]
 related: ["[[concepts/surrender]]", "[[concepts/seva]]", "[[practices/seva]]", "[[concepts/positive-karma]]"]

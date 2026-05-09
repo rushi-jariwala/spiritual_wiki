@@ -23,6 +23,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships as performances with full engagement but without emotional ownership, and what that looks like in a guru who could step out of a fury mid-sentence
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust creates an obligation in the guru, why it cannot be engineered through effort alone, and what five wasted years taught about the difference between knowing and receiving
 - [[blog/2026-05-08-astral-travel|2026-05-08 — The Body That Needs No Door]] — Astral Travel: the spirit body's physics, Sitaram's eyewitness of Gurudev's sheet-wrapped departure, and how seva quietly builds the fuel to fly
+- [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the three-fold offering of body, wealth, and mind; the paradox that total surrender produces not subservience but a self that cannot be dominated
 
 ---
 
@@ -55,3 +56,8 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `hingori-fan-ankle` — astral-travel (2026-05-08)
 - `sitaram-taki-haridwar-astral` — astral-travel (2026-05-08)
 - `nakul-astral-travel-vinti` — astral-travel (2026-05-08)
+- `hingori-family-business-seva` — surrender (2026-05-09)
+- `hingori-dhann-airfare` — surrender (2026-05-09)
+- `hingori-wallet-lost-found` — surrender (2026-05-09)
+- `hingori-mind-training-non-duality` — surrender (2026-05-09)
+- `hingori-chira-self-esteem` — surrender (2026-05-09)

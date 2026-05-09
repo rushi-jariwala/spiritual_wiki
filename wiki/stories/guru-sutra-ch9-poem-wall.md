@@ -1,5 +1,5 @@
 ---
-title: "Centuries of writings line the inner wall…" — Verse on Mind Cleansing
+title: '"Centuries of writings line the inner wall…" — Verse on Mind Cleansing'
 type: story
 sources: [guru_sutra_book.md]
 related: ["[[concepts/surrender]]", "[[concepts/samskars]]", "[[concepts/maya]]", "[[concepts/citt-vritti-nirodh]]"]

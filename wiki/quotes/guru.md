@@ -2,9 +2,9 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]"]
 created: 2026-04-12
-updated: 2026-05-07
+updated: 2026-05-09
 ---
 
 # Quotes on the Guru
@@ -705,3 +705,48 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > from ignorance to knowledge"
 > — Hingori, *Guru Sutra*, Ch.11, p.113
 [[concepts/customised-guidance]] · [[concepts/guru-disciple]] · [[concepts/stages-of-spiritual-transformation]]
+
+---
+
+## Guru Kripa, Dakshina and Awelna (*Guru Sutra* Ch.12)
+
+### On Guru Kripa
+
+> "Sometimes, a reprimanding sentence from the guru can mean more than a profusion of kind words. Thus, guru kripa may not always be sweet and sugarcoated but can be astringent, like a bitter pill that cures."
+> — Hingori, *Guru Sutra*, Ch.12, p.115
+[[concepts/guru-kripa]] · [[concepts/guru-disciple]]
+
+---
+
+### On Telling the Guru the Truth
+
+> "You must never lie to your guru. Never!"
+> — Gurudev to Hingori, *Guru Sutra*, Ch.12, p.122
+[[concepts/guru-awelna]] · [[entities/mahaguru]] · [[stories/hingori-nagesh-lie-gurudev]]
+
+---
+
+### On Obedience
+
+> "Obedience to a guru is the strength of discipleship."
+> — Hingori, *Guru Sutra*, Ch.12, p.125
+[[concepts/guru-awelna]] · [[concepts/guru-disciple]] · [[concepts/surrender]]
+
+---
+
+### On Spiritual Power and Humility
+
+> "Identifying with the consciousness supreme is the highest level of attainment as opposed to the identification with the physical or astral self. To understand these levels of consciousness and connectivity, one should learn to accept spiritual power with humility and grace, not allowing it to inflate one's ego."
+> — Hingori, *Guru Sutra*, Ch.12, p.125
+[[concepts/guru-awelna]] · [[concepts/aatma]] · [[stories/bade-jainsahib-guru-awelna]]
+
+---
+
+### Closing Verse
+
+> He fills the disciple with wisdom
+>      and sets his soul aglow
+>  so that one day the disciple can
+> re-ignite the flame in many more.
+> — Hingori, *Guru Sutra*, Ch.12, p.126
+[[concepts/guru-kripa]] · [[concepts/guru-dakshina]] · [[stories/guru-sutra-ch12-poem]]

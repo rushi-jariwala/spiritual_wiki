@@ -827,3 +827,17 @@ The chapter also gives the sharpest formulation of the guru's ultimate purpose:
 > — Hingori, *Guru Sutra*, Ch.11, p.113
 
 > [!tip] Ch.11 extends the Ch.9–10 sequence. Ch.9 showed the disciple's complete offering (surrender). Ch.10 showed the guru's acceptance (diksha). Ch.11 shows what the guru does *with* that relationship once it is sealed: customised, lifelong, individualised training — including the use of "backhand methods" like Gurudev suppressing Hingori's third eye (see [[stories/hingori-third-eye-opened-closed]]) or Totapari scratching Ramakrishna's forehead (see [[stories/ramakrishna-totapari-kali]]). The full sequence — surrender, diksha, customised guidance — constitutes the complete operational arc of the guru-disciple bond.
+
+---
+
+## *Guru Sutra* Ch.12 — Guru Kripa, Dakshina, and Awelna
+
+Ch.12 introduces the three terms that describe the relational texture between guru and disciple once the bond is established:
+
+- **[[concepts/guru-kripa]]** — the guru's grace; operates at the level of the three bodies' minds; may be astringent; extends across lifetimes toward mukti. Hingori's story of asking for guru kripa during his second visit — the "battle of wits" with Gurudev — is the exemplar. See [[stories/hingori-guru-kripa-request]].
+- **[[concepts/guru-dakshina]]** — the disciple's offering in return; updated in Ch.12 with four practical forms: feeding/educating people as arpan; completing the guru's unfinished work; spreading his teachings; leading people to the guru or samadhi.
+- **[[concepts/guru-awelna]]** — wronging the guru; mechanism of consequence is the disciple's own inner consciousness squaring off samskars of guilt. Distinct from legitimate disagreement (which can be declared openly). "Obedience to a guru is the strength of discipleship."
+
+Key stories from Ch.12: [[stories/hingori-nagesh-lie-gurudev]], [[stories/satte-paralysis-disobedience]], [[stories/bade-jainsahib-guru-awelna]], [[stories/rajpal-hoarse-voice-snow]] (updated with Guru Sutra version).
+
+> [!tip] The distinction between awelna and disagreement is one of Ch.12's sharpest contributions. Holding a different view is not awelna; concealing it is. An advanced guru will accept that "every chemistry has its own equation." The failure mode is covert disobedience or deception — not honest intellectual difference.

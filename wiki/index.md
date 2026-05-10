@@ -80,6 +80,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[surrender]] — The three-fold surrender of tann (body), dhann (wealth), and mann (mind/spirit) to the guru; prerequisite for a fruitful guru-disciple relationship; produces synchronicity and dignity, not subservience
 - [[diksha]] — The guru's formal commitment of acceptance to the disciple; mutual benefit; householder path accelerates attainment; "diksha not diksha" when commercially motivated
 - [[customised-guidance]] — The guru's tailored training for each disciple; four segments (Physical Discipline, Mental Tuning, Emotional Training, Spiritual Training); contrast with standard curriculum mediocrity
+- [[guru-kripa]] — Grace of the guru; operates at level of all three bodies' minds; not social favour; may be astringent; continuity across lifetimes toward mukti
+- [[guru-awelna]] — Wronging the guru; mechanism is the disciple's own inner consciousness squaring off samskars of guilt; distinct from legitimate disagreement; obedience as the strength of discipleship
 
 ---
 
@@ -112,7 +114,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–11*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–12*
 
 ---
 
@@ -303,6 +305,11 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[mamaji-vedji-sthan]] — Gurudev assigns Mamaji (paan shop owner) and Vedji (affluent businessman) complementary sthan roles; two decades of successful collaboration
 - [[ramakrishna-totapari-kali]] — Totapari removes Ramakrishna's devotion to Kali via physical intervention during a trance; Ramakrishna attains Paramahansa status
 - [[guru-sutra-ch11-poem]] — "He weeds out ignorance. He waters the wilting soul..." — closing verse of *Guru Sutra* Ch.11
+- [[hingori-guru-kripa-request]] — The "battle of wits" with Gurudev; Puranji's advice; asking for guru kripa instead of arthritis cure; "You will get a lot more than you can imagine" (*Guru Sutra* Ch.12)
+- [[hingori-nagesh-lie-gurudev]] — Hingori lies to protect Gurudev's cook Nagesh; twisted foot for three days; confession; "You must never lie to your guru. Never!" (*Guru Sutra* Ch.12)
+- [[satte-paralysis-disobedience]] — Paralysis cured; delays return on solar eclipse day; paralysis returns and is never fully restored; another healer refuses to interfere (*Guru Sutra* Ch.12)
+- [[bade-jainsahib-guru-awelna]] — Rapid attainment; "I am Shiv"; challenges Gurudev to spiritual combat; mental imbalance; "the glass was rejoined but the cracks were clearly visible" (*Guru Sutra* Ch.12)
+- [[guru-sutra-ch12-poem]] — "He fills the disciple with wisdom / and sets his soul aglow…" — closing verse of *Guru Sutra* Ch.12
 
 ---
 

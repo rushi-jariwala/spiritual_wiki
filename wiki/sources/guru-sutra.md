@@ -45,7 +45,7 @@ updated: 2026-05-07
 | Chapter 10 | Diksha | 95–100 | ✅ ingested 2026-05-06 |
 | Chapter 11 | Customised Guidance | 101–114 | ✅ ingested 2026-05-07 |
 | **Chapter 12** | Guru Kripa, Dakshina and Awelna | 115–126 | ✅ ingested 2026-05-09 |
-| Chapter 13 | Transmission of Power | 127–146 | ⬜ pending |
+| **Chapter 13** | Transmission of Power | 127–146 | ✅ ingested 2026-05-10 |
 | Chapter 14 | Guru Vandana | 147–158 | ⬜ pending |
 | Chapter 15 | Maturity of a Guru | 159–178 | ⬜ pending |
 | Chapter 16 | Guru by Destiny | 179–182 | ⬜ pending |
@@ -258,6 +258,39 @@ updated: 2026-05-07
 - **Guru Dakshina — expanded** — four practical forms of repayment; tangible vs. intangible; parampara spreading; examples from Jesus's disciples, Buddhist monasteries, Sikh gurudwaras — see [[concepts/guru-dakshina]]
 - **Spiritual power and ego — the thin dividing line** — speed of spiritual growth as a potential handicap; identification with the aatma vs. identification with an inflated astral self — see [[concepts/guru-awelna]], [[stories/bade-jainsahib-guru-awelna]]
 
+## Stories from Ch.13
+
+- [[stories/santoshji-kathok-jal]] — Santoshji assigned healing seva at Kathok campsite with no prior training; many heal through jal distribution; power given in an instant (Ch.13, pp.129–130)
+- [[stories/hingori-gaddi-sleep]] — Hingori sleeps on Gurudev's gaddi for extended period; immobilisation, floating, vision of Mataji breastfeeding infant-Hingori (Ch.13, pp.137–139)
+- [[stories/aghori-disciple-dead-body]] — A disciple's prior training under an aghori: mantras on a levitating dead body; the aghori refuses full initiation knowing a greater guru awaits (Ch.13, pp.133–134)
+- [[stories/augarh-bagga-radio-shop]] — Augarh pesters Mr Bagga at his radio shop; Gurudev replays every word sarcastically when Bagga arrives in Gurgaon (Ch.13, pp.134–135)
+- [[stories/augarh-darius-forearm]] — Augarh appears at Darius's car window, draws a symbol on his forearm, addresses him as "Mr Lawyer" without identification; vanishes laughing (Ch.13, p.135)
+- [[stories/hingori-strawberry-seller]] — Celestial being appears as strawberry seller, having seen Hingori in a dream; later reappears to tell him he received "pre-cooked bread" (Ch.13, pp.127–128)
+- [[stories/hingori-mantra-contest]] — Mantra attacker at the gaddi is defeated by Mahagayatri Mantra + steady eye contact; falls weeping at Hingori's feet (Ch.13, pp.140–142)
+- [[stories/sthan-hostile-temple]] — Hostile temple energy near a new sthan; resolved by sending senior disciples with sweetmeats and a communiqué of goodwill (Ch.13, pp.141–142)
+- [[stories/hingori-deity-attack-sleep]] — Bizarre nocturnal attack by neighbourhood temple deity; Hingori chooses non-retaliation; trains sevadaars in self-preservation (Ch.13, pp.141–142)
+- [[stories/udhav-sadhus-mantra-contest]] — Sadhus demand provisions; their leader initiates mantra duel with Udhav; Mahagayatri fells the sadhu (Ch.13, pp.142–143)
+- [[stories/hingori-rain-mantra]] — Mahagayatri Mantra used to stop/start rain, puncture Mazhar Khan's tyre, and Hingori's own tyre; three incidents of misuse confessed (Ch.13, pp.143–145)
+- [[stories/malhotra-power-misuse]] — Malhotraji delays trains; wills bull to attack fruit cart; Gurudev pays vendor, threatens withdrawal (Ch.13, pp.144–145)
+- [[stories/hingori-magician-keel]] — Hingori encircles a tantric magician's cloth doll with a keel preventing the spirit's performance; breaks it on leaving (Ch.13, pp.145–146)
+- [[stories/guru-sutra-ch13-poem1]] — "It's not a gilded throne that seats the vain…" — verse on the gaddi as a seat of selfless seva (Ch.13, p.136)
+- [[stories/guru-sutra-ch13-poem2]] — "Envy bludgeons reason…" — verse on spiritual envy as the driver of attacks (Ch.13, p.140)
+- [[stories/inland-letter-yantra]] — Updated with Guru Sutra Ch.13 version: Gurudev explains spiritual envy after the death yantra; Hingori's arthritis identified as result of black magic (Ch.13, pp.139–140)
+- [[stories/chacha-tantriks]] — Updated with Guru Sutra Ch.13 version: the antagonist is a contractor with a siddhi of making appliances malfunction; two accounts diverge on what happened to him (Ch.13, pp.132–133)
+
+*Short anecdotes filed inline in [[concepts/transmission-of-power]]: worn clothes at Mahashivratri; eating from Gurudev's used plate; belt exchange; Gurudev treating patients by visualising disciples; Puranji seeing deities at the gaddi.*
+
+## New Concepts from Ch.13
+
+- **Transmission of Power** — the overarching framework: knowledge, spiritual energy (shakti), siddhi attainment, and gaddi as the four modes — see [[concepts/transmission-of-power]]
+- **Gaddi** — the Guru's Seat of Power; accumulated energy; continues after death; mechanism of lineage transfer — see [[concepts/gaddi]]
+- **Spiritual Attacks** — envy-driven black magic, yantra, mantra projection, dream attacks, territorial temple energy; Mahagayatri as the defensive tool — see [[concepts/spiritual-attacks]]
+- **Mantra Siddhi Taxonomy** — tamasic, rajasic, sattvic — extended in [[concepts/tantra]]
+- **Power Theft** — stealing energy from locations and people; does not yield lasting benefit — see [[concepts/transmission-of-power]] (Theft of Power section)
+- **Pre-cooked bread** analogy — the disciple of a siddh guru receives pre-distilled power — see [[analogies/analogies]]
+- **Server-laptops** analogy — Gurudev as server, disciples as connected devices; power shareable across the network — see [[analogies/analogies]]
+- **Power as intoxication** — significance-seeking through power as the primary cause of misuse — see [[analogies/analogies]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -310,3 +343,12 @@ updated: 2026-05-07
 
 > [!tip] Awelna vs. disagreement — Ch.12
 > Ch.12 draws a clear line between guru awelna (deception, disobedience, arrogance, wrongful behaviour) and legitimate disagreement (openly declaring a different viewpoint and taking the guru's permission to hold it). This sits alongside Ch.9's "the guru is always right" principle and Ch.7's "never say no to your guru." The resolution: the obedience rules apply to direct instructions; intellectual or spiritual disagreement can be expressed if done transparently, not covertly. Covert disobedience is awelna; declared disagreement is not.
+
+> [!warning] Chacha and the contractor — two conflicting accounts — Ch.13 vs. The Guru of Gurus
+> *The Guru of Gurus* (pp.42–43) places the water pump incident at the Khandsa farm and describes the antagonist as a "tantrik." *Guru Sutra* Ch.13 (pp.132–133) calls the same person a "contractor hired for polishing floors" with a specific siddhi of making appliances malfunction. The core event is identical; however, GoG says the antagonist "fell into the well" watching from its wall, while GS says he "fell at Chacha's feet, wriggling in pain" and Chacha splashed jal into his eyes to ease the pain. These are materially different outcomes. Both accounts may be partial; no third source resolves the discrepancy. See [[stories/chacha-tantriks]].
+
+> [!tip] Hingori's arthritis as black magic — new disclosure in Ch.13
+> *Guru Sutra* Ch.13 (p.140) makes a disclosure not present in earlier books: "The use of such deadly black magic was something I was not new to, considering I had been a victim of it several decades earlier, leading to my contracting rheumatoid arthritis." This reframes the foundational story of [[stories/hingori-arthritis-cure]] — the illness is no longer a karmic condition or accident, but the deliberate result of a temple priest's black magic. Earlier accounts present the arthritis as the medical condition that brought Hingori to Gurudev, without specifying its origin. The two framings are not contradictory but the Guru Sutra disclosure adds a layer of causation.
+
+> [!tip] Misuse of power as universal early-disciple pattern — Ch.13
+> Ch.13 reveals that misuse of power was common among multiple disciples in the early years: Hingori with rain control and tyre punctures, Malhotraji with train delays and the bull. The chapter frames this as predictable ("In the initial days, many of us have amateurly used the power") — not a character flaw of specific individuals. This sits alongside the general teaching of karma (misuse creates negative karma) and surrender (complete surrender prevents misuse). The resolution: checks and balances embedded by Gurudev's teaching over time serve as the corrective, not the immediate absence of power.

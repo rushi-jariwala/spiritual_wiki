@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: []
 created: 2026-04-15
-updated: 2026-05-06
+updated: 2026-05-10
 ---
 
 # Analogies
@@ -1080,4 +1080,36 @@ On the most extreme case of guru awelna — Bade Jainsahib challenging Gurudev t
 > — Hingori, *Guru Sutra*, Ch.12, p.115
 
 Grace does not always arrive as comfort. A reprimanding sentence, a sustained correction, a forced consequence — all of these can be forms of guru kripa operating through an astringent medium. The bitter pill is still medicine; the cure is the point, not the taste. See [[concepts/guru-kripa]].
+
+---
+
+## Transmission of Power
+
+### Pre-Cooked Bread
+*Illuminates: [[concepts/transmission-of-power]], [[concepts/guru-disciple]]*
+
+> I was fortunate to get pre-cooked bread and did not have to bake my own.
+> — A celestial stranger to Hingori, *Guru Sutra*, Ch.13, p.128; see [[stories/hingori-strawberry-seller]]
+
+The disciple of a siddh guru receives a distillation of knowledge and power that the guru spent lifetimes acquiring. The disciple need not undergo the same centuries-long process — the bread arrives pre-cooked, needing only to be consumed. This is the privilege and the responsibility of genuine discipleship. See [[concepts/transmission-of-power]].
+
+---
+
+### The Server and the Laptops
+*Illuminates: [[concepts/transmission-of-power]], [[entities/mahaguru]], [[concepts/guru-disciple]]*
+
+> He the 'server', had all of us — the 'laptops' — connected, and hence power became shareable. Naturally, he has access to all the power of every connected device.
+> — Hingori, *Guru Sutra*, Ch.13, p.151
+
+Gurudev as the central server; disciples as connected devices. Power flows to every connected node and the server draws on any device's resources when needed. This is why he could heal through a distant disciple by visualising them performing the seva — and why his disciples' combined energy was available to him. The network metaphor also explains his eventual omnipresence: once the server connects enough nodes, the network itself becomes a form of the server. See [[concepts/transmission-of-power]], [[concepts/gaddi]].
+
+---
+
+### Power as Intoxication
+*Illuminates: [[concepts/transmission-of-power]], [[concepts/negative-karma]]*
+
+> Wielding power over others makes one feel uniquely special and superior. It is because of power, that one vies for significance, virtually a state of intoxication, which often leads to misuse.
+> — Hingori, *Guru Sutra*, Ch.13, p.143
+
+Spiritual power produces the same intoxicating effect as temporal power — a swelling of significance that bypasses reason. The analogy is exact: intoxication distorts judgment, produces behaviour one would not otherwise endorse, and requires discipline and external constraint to contain. Gurudev's checks and balances operate like the designated sober driver in a group — not suppressing the experience, but preventing its consequences from causing irreversible harm. See [[concepts/transmission-of-power]].
 

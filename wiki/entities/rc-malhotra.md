@@ -41,11 +41,21 @@ He was also known for his advocacy — sometimes pleading cases of gurubhais in 
 
 2. **Witnessing seh sharir** (Ch.II): Malhotra ji is cited as the source for the account of Sitaramji's dematerialisation (*seh sharir*) — leaving no physical corpse — one of the most evolved acts recorded in the Gurudev lineage.
 
+## The Naughty Streak — Spiritual Misuse
+
+Like Hingori and others in the early years, Malhotraji experimented with the power Gurudev had bestowed. He was reprimanded twice:
+
+1. **Train delays** — He regularly missed his train home from work and discovered he could will the train to be delayed. He did so on several occasions. Gurudev found out and was upset; he reprimanded Malhotraji directly.
+2. **Bull and fruit cart** — A rude fruit vendor angered him. Malhotraji willed a nearby bull to attack the vendor's cart and overturn it. Gurudev paid the vendor for the damaged goods and threatened to withdraw Malhotraji's power if misuse continued.
+
+See [[stories/malhotra-power-misuse]].
+
 ## Notable Stories
 
 - [[stories/malhotra-initiation-ganges]] — the Ganges stands still; the first disciple is initiated
 - [[stories/malhotra-buffalo-mantra-prank]] — the prank with the buffalo; Gurudev's mild reprimand
 - [[stories/hingori-gati-malhotra]] — taught Hingori *gati* in a vision state; sent by Gurudev
+- [[stories/malhotra-power-misuse]] — train delays and bull-and-fruit-cart misuse; Gurudev's reprimand and warning
 
 ## Cross-references
 

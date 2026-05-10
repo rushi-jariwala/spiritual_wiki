@@ -82,6 +82,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[customised-guidance]] — The guru's tailored training for each disciple; four segments (Physical Discipline, Mental Tuning, Emotional Training, Spiritual Training); contrast with standard curriculum mediocrity
 - [[guru-kripa]] — Grace of the guru; operates at level of all three bodies' minds; not social favour; may be astringent; continuity across lifetimes toward mukti
 - [[guru-awelna]] — Wronging the guru; mechanism is the disciple's own inner consciousness squaring off samskars of guilt; distinct from legitimate disagreement; obedience as the strength of discipleship
+- [[transmission-of-power]] — Types of power transmitted from guru to disciple: knowledge, shakti, mantra siddhis, gaddi; misuse and theft of power
+- [[gaddi]] — The Guru's Seat of Power; energy accumulates over a lifetime of seva; continues after the guru's death; mechanism of lineage succession
+- [[spiritual-attacks]] — Envy-driven black magic, yantra, mantra projection, dream attacks, hostile temple energies; Mahagayatri Mantra as defence
 
 ---
 
@@ -114,7 +117,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–12*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–13*
 
 ---
 
@@ -126,6 +129,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Quotes
 
+- [[quotes/power]] — Nature of power, transmission, misuse, theft; Lord Acton; two Ch.13 poems
 - [[quotes/supernature]] — Brighu Samhita description; the five-headed form exchanges; trishul teaching; Das Saheb's screen; the NO-dictionary; supernature-destiny inversion
 - [[quotes/karma]] — Definition, destiny, strategy, guilt, Ashoka, bhog/rog/yog
 - [[quotes/guru]] — Definition, umbrella, sadhana, waiting, Japji
@@ -310,6 +314,21 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[satte-paralysis-disobedience]] — Paralysis cured; delays return on solar eclipse day; paralysis returns and is never fully restored; another healer refuses to interfere (*Guru Sutra* Ch.12)
 - [[bade-jainsahib-guru-awelna]] — Rapid attainment; "I am Shiv"; challenges Gurudev to spiritual combat; mental imbalance; "the glass was rejoined but the cracks were clearly visible" (*Guru Sutra* Ch.12)
 - [[guru-sutra-ch12-poem]] — "He fills the disciple with wisdom / and sets his soul aglow…" — closing verse of *Guru Sutra* Ch.12
+- [[guru-sutra-ch13-poem1]] — "It's not a gilded throne that seats the vain…" — verse on the gaddi as a seat of selfless seva (*Guru Sutra* Ch.13, p.136)
+- [[guru-sutra-ch13-poem2]] — "Envy bludgeons reason with the sight of another on the rise…" — verse on spiritual envy as the driver of attacks (*Guru Sutra* Ch.13, p.140)
+- [[santoshji-kathok-jal]] — Santoshji assigned healing seva with no preparation at Kathok; Gurudev transmits power in an instant; many heal through jal
+- [[aghori-disciple-dead-body]] — A disciple's prior aghori training: mantras on a levitating dead body; the aghori refuses initiation knowing a greater guru awaits
+- [[augarh-bagga-radio-shop]] — Augarh pesters Mr Bagga at his radio shop; Gurudev replays every word sarcastically when Bagga arrives at the sthan
+- [[augarh-darius-forearm]] — Augarh appears at Darius's car window, draws a symbol on his forearm, addresses him as "Mr Lawyer"; vanishes laughing
+- [[hingori-strawberry-seller]] — Celestial being appears as strawberry seller; blesses Hingori with wealth; reappears to tell him he received "pre-cooked bread"
+- [[hingori-gaddi-sleep]] — Hingori sleeps on Gurudev's gaddi: immobilised with eyes shut, floating, vision of Mataji breastfeeding infant-self
+- [[hingori-mantra-contest]] — Mantra attacker at the gaddi defeated by Mahagayatri Mantra and steady eye contact; falls weeping at Hingori's feet
+- [[sthan-hostile-temple]] — Hostile temple energy near a new sthan; sweetmeats and communiqué of goodwill clear the atmosphere
+- [[hingori-deity-attack-sleep]] — Nocturnal attack by bizarre temple deity; Hingori chooses non-retaliation; trains sevadaars in self-preservation
+- [[udhav-sadhus-mantra-contest]] — Sadhus extort provisions; their leader initiates mantra duel with Udhav; Mahagayatri fells the sadhu
+- [[hingori-rain-mantra]] — Mahagayatri used to stop and start rain; Mazhar Khan's tyre punctured by will; own tyre punctured as experiment; three confessions of power misuse
+- [[malhotra-power-misuse]] — Malhotraji delays trains by will; wills bull to overturn fruit cart; Gurudev pays the vendor and issues ultimatum
+- [[hingori-magician-keel]] — Hingori encircles a tantric magician's cloth doll with a keel; spirit cannot enter; magician flustered; keel broken on leaving
 
 ---
 

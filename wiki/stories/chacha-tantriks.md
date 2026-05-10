@@ -37,7 +37,19 @@ Chacha's "casualist" approach is not indifference — it is the natural expressi
 > The casualist casually forgave him.
 > — Hingori, *The Guru of Gurus*, p.43
 
+## *Guru Sutra* Version of the Second Incident (Ch.13, pp.132–133)
+
+*Guru Sutra* retells the water pump incident with different detail. Here the antagonist is described not as a "tantrik" but as a **contractor hired to polish floors at Gurudev's farm**, who had attained a specific siddhi — the power to make appliances malfunction. He cast a spell on the water pump, and when farm hands could not fix it, challenged Chacha:
+
+> As Chacha inspected the engine, the contractor challenged him to restart it. Unfazed, Chacha energised some jal with mantras and sprinkled it on the engine. Two things happened instantly and simultaneously: the engine roared to life and the contractor fell at Chacha's feet, wriggling in pain, begging for mercy. Chacha splashed the jal into the eyes of the contractor easing his pain. He bowed in gratitude and promised to never use his tantric mantra again.
+> — Hingori, *Guru Sutra*, Ch.13, pp.132–133
+
+> [!warning] The two accounts differ on what happened to the antagonist: *Guru of Gurus* says he "fell into the well" (watching from the wall); *Guru Sutra* says he "fell at Chacha's feet, wriggling in pain." The jal-in-the-eyes detail — which eased the pain — appears only in *Guru Sutra*. The core structure is identical: the antagonist's spell rebounds onto himself. The discrepancy may reflect different witnesses or different retellings; neither source resolves it.
+
+The Guru Sutra account also reveals that Chacha deduced the contractor had "attained the siddhi of making appliances malfunction" — a minor but specific tamasic siddhi rarely mentioned in the corpus. See [[concepts/tantra]] for the taxonomy.
+
 ## Related Concepts
 
 - [[entities/chacha]] — Satish ji; the casualist; Gurudev's younger brother
 - [[entities/mahaguru]] — Gurudev, who bestowed these powers on Chacha
+- [[concepts/tantra]] — the contractor's siddhi of making appliances malfunction; tamasic mantra siddhi category

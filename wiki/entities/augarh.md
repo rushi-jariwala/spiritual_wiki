@@ -50,6 +50,8 @@ He met Gurudev in human form on visits to Haridwar. Encounters at other location
 - **Mataji's hometown** — appeared to Hingori as a drunk and dishevelled man with a bicycle, chanting the exact mantra Hingori was reciting mentally; circled the house all night guarding where Mataji was staying. See [[stories/hingori-augarh-mataji-town]].
 - **Asthal, Dehradun** — appeared in response to Hingori's mental invitation; drank no refreshments; stated he was "there to honour an invitation"; younger disciples followed him out and found he had vanished. See [[stories/augarh-laxman-jhoola]] and [[stories/hingori-augarh-tea]].
 - **Telepathic tea guidance** — guided Hingori step by step via thought-waves to brew perfect tea for a late-night guest, while Hingori was alone in Gurgaon and Augarh was physically absent. See [[stories/hingori-augarh-tea]].
+- **Mr Bagga's radio shop (Hamidpur)** — appeared in Hamidpur and pestered Mr and Mrs Bagga at their radio shop with no intention of buying, driving them to furious Punjabi cuss words. When Mr Bagga next arrived in Gurgaon, Gurudev greeted him with a sarcastic replay of every word. See [[stories/augarh-bagga-radio-shop]].
+- **Darius's forearm** — appeared at Darius's car window while he drove, drew a symbol on his forearm, and addressed him tauntingly as "So, Mr Lawyer...!" despite Darius not being in court attire. Vanished laughing. See [[stories/augarh-darius-forearm]].
 
 ## Cross-references
 
@@ -57,4 +59,4 @@ He met Gurudev in human form on visits to Haridwar. Encounters at other location
 - [[entities/hingori]] — had multiple encounters; refers to Augarh as "my older brother, Augarh"
 - [[concepts/aghor]] — the sect Augarh heads; the philosophy of non-duality through sensory transcendence
 - [[concepts/astral-travel]] — Augarh's multi-location manifestation is a form of extreme astral presence
-- [[stories/augarh-har-ki-pauri]], [[stories/augarh-laxman-jhoola]], [[stories/hingori-augarh-mataji-town]], [[stories/hingori-augarh-tea]]
+- [[stories/augarh-har-ki-pauri]], [[stories/augarh-laxman-jhoola]], [[stories/hingori-augarh-mataji-town]], [[stories/hingori-augarh-tea]], [[stories/augarh-bagga-radio-shop]], [[stories/augarh-darius-forearm]]

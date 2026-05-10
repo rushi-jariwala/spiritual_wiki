@@ -95,6 +95,27 @@ A significant note from Ch.3: human capacity to mobilise subtle energy has decli
 
 ---
 
+## Mantra Siddhi Taxonomy (*Guru Sutra* Ch.13)
+
+When a mantra has been recited in the prescribed manner with the requisite number of repetitions, the power of that mantra becomes the practitioner's to use at will — this fulfilment is called a **mantra siddhi** (distinct from the siddhis of materialisation or invisibility). At culmination, a *havan* (fire communication with celestial powers) or *yagna* is performed.
+
+Hingori divides mantra siddhis into three types for lay understanding:
+
+### Tamasic Mantra Siddhi
+Practiced by negative tantric vidya practitioners: black magicians, those who produce miracles through spirit forces. Often performed in graveyards to leverage concentrated death energy. Aghoris reciting mantras while sitting on dead bodies fall in this category (see [[stories/aghori-disciple-dead-body]]). The siddhi of making appliances malfunction — used by a contractor at Gurudev's farm — is an example.
+
+### Rajasic Mantra Siddhi
+Aimed at benefiting the aspirant or others for personal material gains — wealth expansion, self-protection. The Diwali Laxmi mantra (*barkat* — making money last longer) is a common example.
+
+### Sattvic Mantra Siddhi
+Attaining the highest levels of power through mantras and intense meditation — the category under which OM, trishul, jyot, shivling-gileri, Ganpati, and Nandi symbols fall. Gurudev, Guru Nanak Dev, Kabir, and Shirdi Sai Baba all attained the OM symbol on their hands. (See [[concepts/power-symbols]].)
+
+> [!tip] The primary distinction: tamasic siddhis exploit accumulated negative energies (graveyards, spirits); rajasic siddhis seek material advantage; sattvic siddhis channel cosmic-level energies for healing and expansion of consciousness. The instrument — sound vibration amplified through repetition — is the same. The intent and the field accessed differ completely.
+
+See [[concepts/transmission-of-power]] for how Gurudev transmitted these powers to disciples.
+
+---
+
 ## Related
 
 - [[concepts/gunas]] — tamasic gurus teach offensive tantra; sattvic gurus use subtle methods for protection and healing
@@ -102,3 +123,5 @@ A significant note from Ch.3: human capacity to mobilise subtle energy has decli
 - [[concepts/aura]] — the mechanism through which tantric energy acts on a person
 - [[concepts/guru-disciple]] — gurukul curriculum context; the three paths of the disciple; Gurudev's modern reinvention
 - [[concepts/mantra-transfer]] — Gurudev's specific mantra practice teachings, timing (guru-paher), and the transfer of siddhi
+- [[concepts/transmission-of-power]] — how mantra siddhis are transmitted from guru to disciple
+- [[concepts/spiritual-attacks]] — tamasic mantra siddhis as instruments of spiritual attack and defence

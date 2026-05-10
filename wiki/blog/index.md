@@ -59,5 +59,4 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `hingori-family-business-seva` — surrender (2026-05-09)
 - `hingori-dhann-airfare` — surrender (2026-05-09)
 - `hingori-wallet-lost-found` — surrender (2026-05-09)
-- `hingori-mind-training-non-duality` — surrender (2026-05-09)
-- `hingori-chira-self-esteem` — surrender (2026-05-09)
+- `guru-sutra-ch4-inner-voice` — surrender (2026-05-09)

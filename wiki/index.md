@@ -334,6 +334,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions as the perpetual rent-free flatmates inside your head
 - [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships with full engagement but without emotional ownership; Gurudev's staged fury as compassion
 - [[blog/2026-05-08-astral-travel|2026-05-08 — The Body That Needs No Door]] — Astral Travel: the spirit body's physics, Sitaram's eyewitness of Gurudev's sheet-wrapped departure, and how seva quietly builds the fuel to fly
+- [[blog/2026-05-10-vairagya|2026-05-10 — Belonging to All, Owning None]] — Vairagya: detachment not as withdrawal but as the still centre of the seesaw; how Gurudev belonged to everyone precisely because he was owned by no one
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the paradox that giving up the wheel of body, wealth, and mind to the guru produces not subservience but a self that cannot be dominated
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds

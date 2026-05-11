@@ -24,6 +24,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust creates an obligation in the guru, why it cannot be engineered through effort alone, and what five wasted years taught about the difference between knowing and receiving
 - [[blog/2026-05-08-astral-travel|2026-05-08 — The Body That Needs No Door]] — Astral Travel: the spirit body's physics, Sitaram's eyewitness of Gurudev's sheet-wrapped departure, and how seva quietly builds the fuel to fly
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the three-fold offering of body, wealth, and mind; the paradox that total surrender produces not subservience but a self that cannot be dominated
+- [[blog/2026-05-10-vairagya|2026-05-10 — Belonging to All, Owning None]] — Vairagya: detachment not as withdrawal from the world but as the still centre of the seesaw — how Gurudev belonged to everyone precisely because he was owned by no one
 
 ---
 
@@ -60,3 +61,5 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `hingori-dhann-airfare` — surrender (2026-05-09)
 - `hingori-wallet-lost-found` — surrender (2026-05-09)
 - `guru-sutra-ch4-inner-voice` — surrender (2026-05-09)
+- `mungaoli-sweater-incident` — vairagya (2026-05-10)
+- `hingori-mind-training-non-duality` — vairagya (2026-05-10)

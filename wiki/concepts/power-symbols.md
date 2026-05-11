@@ -68,7 +68,7 @@ The jyot connotes the light of manifested and unmanifested fires. Like the sun, 
 
 The jyot appears as a transparent but permanent skin blister on the left hand. Gurudev is believed to have attained this power from Jwalaji, a temple of dynamic fires with no known source.
 
-**Transfer of the jyot** — a visible flame entered the sthan at Khar through a window, travelled across to where VP Sharma ji (one of Gurudev's disciples) was seated, and lodged itself in his left hand in full public view. He received it without knowing — it was only when his guru later hinted at it that he became aware of the bestowal.
+**Transfer of the jyot** — a visible flame entered the sthan at Khar through a window, travelled across to where VP Sharma ji (one of Gurudev's disciples) was seated, and lodged itself in his left hand in full public view. He received it without knowing — it was only when his guru later hinted at it that he became aware of the bestowal. *Guru Sutra* Ch.13 (p.136) refers to the same disciple as "Sharmaji" and specifies the event was witnessed by at least 40 people, and that the flame "remained until the end of his life." (*The Guru of Gurus*, p.236; *Guru Sutra*, Ch.13, p.136)
 
 ## Transfer to Disciples
 
@@ -83,6 +83,7 @@ Many disciples received the jyot or other symbols unknowingly — remaining unaw
 - [[concepts/supernature]] — power symbols as the visible aspect of the mahaguru's supernature
 - [[concepts/aura]] — the aura is the field within which power symbols are embedded and expressed
 - [[concepts/mantra-transfer]] — the mechanism by which powers are transmitted to disciples
+- [[concepts/transmission-of-power]] — the broader framework of how power (including symbols) is transferred from guru to disciple; sattvic mantra siddhis context (*Guru Sutra* Ch.13)
 - [[concepts/spiritual-healing]] — the trishul's acquisition marked a shift in healing: from internalising disease to directing Shakti
 - [[entities/mahaguru]] — the primary exemplar; full Shiv-parivaar on both hands
 - [[concepts/loks]] — OM signifies influence over all three loka groups

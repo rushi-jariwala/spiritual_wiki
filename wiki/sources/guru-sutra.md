@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/surrender]]", "[[concepts/faith]]"]
 created: 2026-04-28
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -46,7 +46,7 @@ updated: 2026-05-07
 | Chapter 11 | Customised Guidance | 101–114 | ✅ ingested 2026-05-07 |
 | **Chapter 12** | Guru Kripa, Dakshina and Awelna | 115–126 | ✅ ingested 2026-05-09 |
 | **Chapter 13** | Transmission of Power | 127–146 | ✅ ingested 2026-05-10 |
-| Chapter 14 | Guru Vandana | 147–158 | ⬜ pending |
+| **Chapter 14** | Guru Vandana | 147–158 | ✅ ingested 2026-05-12 |
 | Chapter 15 | Maturity of a Guru | 159–178 | ⬜ pending |
 | Chapter 16 | Guru by Destiny | 179–182 | ⬜ pending |
 | Chapter 17 | Imagine Yourself as a Deity or Guru | 183–184 | ⬜ pending |
@@ -291,6 +291,23 @@ updated: 2026-05-07
 - **Server-laptops** analogy — Gurudev as server, disciples as connected devices; power shareable across the network — see [[analogies/analogies]]
 - **Power as intoxication** — significance-seeking through power as the primary cause of misuse — see [[analogies/analogies]]
 
+## Stories from Ch.14
+
+- [[stories/gurudev-blessing-variations]] — Hingori observes Gurudev blessing thousands for hours, each blessing distinct in hand position and emotional intensity; both-hands = the most powerful form (Ch.14, pp.147–148)
+- [[stories/guru-vandana-ego-poem]] — "A symbolic offering of the ego / so his grace can be the guide…" — verbatim verse on the logic of guru vandana (Ch.14, p.154)
+- [[stories/scooter-accident-vision]] — Updated with Ch.14 reference: identified explicitly as a case of Gurudev's most powerful (both-hands) blessing neutralising a foreseen harm; "Was my vision defective or his blessing effective?"
+
+*Short anecdotes filed inline in [[concepts/guru-vandana]]: Japanese journalists visiting the Gurgaon sthan; Gurudev's evasive answer and exit; Hingori's own experience as a representative blessing-giver (subconscious vs. conscious calibration).*
+
+## New Concepts from Ch.14
+
+- **Guru Vandana** — the practice of revering the guru; encompasses touching feet, meditation on guru, Guru Purnima, and after-death worship — see [[concepts/guru-vandana]]
+- **Body polarity (north/south pole)** — head = north pole, feet = south pole; face-to-face = north+north = repulsion; touching feet = north meets south = magnetic attraction + energy exchange; ashirwad transmitted through the guru's hands to the disciple's head — see [[concepts/guru-vandana]], [[analogies/analogies]]
+- **Meditation on the guru as telepathic channel** — energy flows to the object of meditation; the guru senses the disciple's communication; benevolence reciprocated; post-death meditation works as one-way communication that an accomplished guru can receive and respond to — see [[concepts/guru-vandana]]
+- **Modesty of a guru** — a siddh guru is not omniscient; honest about bridges to cross; levels off inflated disciple expectations — see [[concepts/guru-vandana]]
+- **Anonymity as spiritual blessing** — fame as a self-sustaining shortcoming; Golden Principle: he who has the chance to fame but does not take it will make it; anonymity as a mark of genuine attainment — see [[concepts/guru-vandana]], [[concepts/vairagya]]
+- **After-death worship** — continuing surrender; seva in the guru's name; places of worship as gratitude, not splendour; the homage is in the success of the seva endeavour — see [[concepts/guru-vandana]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -352,3 +369,9 @@ updated: 2026-05-07
 
 > [!tip] Misuse of power as universal early-disciple pattern — Ch.13
 > Ch.13 reveals that misuse of power was common among multiple disciples in the early years: Hingori with rain control and tyre punctures, Malhotraji with train delays and the bull. The chapter frames this as predictable ("In the initial days, many of us have amateurly used the power") — not a character flaw of specific individuals. This sits alongside the general teaching of karma (misuse creates negative karma) and surrender (complete surrender prevents misuse). The resolution: checks and balances embedded by Gurudev's teaching over time serve as the corrective, not the immediate absence of power.
+
+> [!warning] Aatmic equality vs. the custom of touching feet — Ch.14
+> Ch.14 introduces an internal tension: a siddh guru "does not promote the custom of touching his feet because he realises that the same essence of divinity exists within both — guru and disciple. Nothing more, nothing less!" Yet the same chapter devotes several pages to explaining the energetic benefits of doing exactly that, and Gurudev allowed — and practised — the custom throughout his lifetime. Hingori's resolution is pragmatic: the siddh guru does not *promote* the custom (it would be inconsistent with the doctrine of aatmic equality to make it a requirement), but he *allows* it because it is a genuine transmission mechanism. The practice is kept for what it does, not for what it implies about hierarchy. See [[concepts/guru-vandana]], [[concepts/ulta-guru]].
+
+> [!tip] Subconscious as the operative agent in blessings — Ch.14
+> Ch.14 describes Hingori as a blessing-giver who found that his subconscious, not his conscious intention, calibrated the intensity of blessings. In some cases he consciously wanted to help someone but his subconscious withheld the full power — and the patient recovered unexpectedly well. This is consistent with the non-doership framework (the jivaatma knows what the person's karma requires; the conscious mind does not). But it introduces a refinement: even the guru/representative is not always aware of what flows through him. The instrument metaphor from [[concepts/surrender]] (the guru uses disciples' spirits) applies here: the operative agent is never the surface consciousness.

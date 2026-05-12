@@ -979,13 +979,20 @@ Gurudev's response to Hingori's refusal to start a sthan was not argument but en
 
 ---
 
-### Feet as South Pole, Head as North Pole — Energy Direction
-*Illuminates: [[concepts/guru-disciple]]*
+### Feet as South Pole, Head as North Pole — Energy Direction and Touch
+*Illuminates: [[concepts/guru-disciple]], [[concepts/guru-vandana]], [[concepts/transmission-of-power]]*
 
 > The feet of the human body are metaphorically the south pole, and, correspondingly, the head its north pole. Thus, by looking from the feet to the head, you avoid clashing with the energies of your guru, or, for that matter, of any powerful person or idol (in a place of worship).
 > — Hingori, *Guru Sutra*, Ch.7, p.79
 
-The protocol of looking at the guru's feet first and raising the eyes gradually is not ritual deference but energetic alignment. Moving attention from south pole to north pole flows with the body's energy field rather than against it. A direct frontal clash — especially with a powerful entity — risks an unwitting collision of two energy systems. The analogy maps a spiritual practice onto a physics everyone understands: poles of opposite charge align rather than repel.
+The protocol of looking at the guru's feet first and raising the eyes gradually is not ritual deference but energetic alignment. Moving attention from south pole to north pole flows with the body's energy field rather than against it. A direct frontal clash — especially with a powerful entity — risks an unwitting collision of two energy systems.
+
+*Guru Sutra* Ch.14 extends this from gaze to physical contact:
+
+> The guru's head and feet (just like all human beings) are, respectively, the north and south poles of his body. Due to opposite polarity, both ends of a human body work like magnets. By meeting your guru face-to-face and eye-to-eye, the north pole of both bodies make contact and repel each other's energy. On the other hand, when a disciple touches a guru's feet, his north pole makes contact with the guru's south pole, and there is magnetic attraction, resulting in an exchange of energy. When the guru is in a benevolent mood and offers his ashirwad (blessings), his energy is transmitted through his hands to the disciple's head.
+> — Hingori, *Guru Sutra*, Ch.14, pp.147–148
+
+The same polarity principle governs both practices: the gaze (south to north) and the full bow (north of disciple to south of guru). What changes with physical touching is the depth of exchange — not just non-collision but active magnetic transmission. The guru's ashirwad flows back up from hands to disciple's head, completing a circuit. See [[concepts/guru-vandana]].
 
 ---
 

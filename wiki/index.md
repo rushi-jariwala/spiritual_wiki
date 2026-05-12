@@ -85,6 +85,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[transmission-of-power]] — Types of power transmitted from guru to disciple: knowledge, shakti, mantra siddhis, gaddi; misuse and theft of power
 - [[gaddi]] — The Guru's Seat of Power; energy accumulates over a lifetime of seva; continues after the guru's death; mechanism of lineage succession
 - [[spiritual-attacks]] — Envy-driven black magic, yantra, mantra projection, dream attacks, hostile temple energies; Mahagayatri Mantra as defence
+- [[guru-vandana]] — Practice of revering the guru: touching feet (north/south pole energy exchange), meditation as telepathic channel, modesty of the guru, fame vs. anonymity, Guru Purnima, after-death worship
 
 ---
 
@@ -117,7 +118,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–13*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–14*
 
 ---
 
@@ -329,6 +330,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[hingori-rain-mantra]] — Mahagayatri used to stop and start rain; Mazhar Khan's tyre punctured by will; own tyre punctured as experiment; three confessions of power misuse
 - [[malhotra-power-misuse]] — Malhotraji delays trains by will; wills bull to overturn fruit cart; Gurudev pays the vendor and issues ultimatum
 - [[hingori-magician-keel]] — Hingori encircles a tantric magician's cloth doll with a keel; spirit cannot enter; magician flustered; keel broken on leaving
+- [[gurudev-blessing-variations]] — Hingori observes Gurudev blessing thousands for hours; each blessing distinct in hand position and emotional intensity; both hands = most powerful
+- [[guru-vandana-ego-poem]] — "A symbolic offering of the ego / so his grace can be the guide…" — verbatim verse on the logic of guru vandana
 
 ---
 

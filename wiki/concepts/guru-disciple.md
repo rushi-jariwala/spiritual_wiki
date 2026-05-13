@@ -3,9 +3,9 @@ title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]"]
+related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-12
-updated: 2026-05-07
+updated: 2026-05-13
 ---
 
 # The Guru-Disciple Relationship
@@ -841,3 +841,54 @@ Ch.12 introduces the three terms that describe the relational texture between gu
 Key stories from Ch.12: [[stories/hingori-nagesh-lie-gurudev]], [[stories/satte-paralysis-disobedience]], [[stories/bade-jainsahib-guru-awelna]], [[stories/rajpal-hoarse-voice-snow]] (updated with Guru Sutra version).
 
 > [!tip] The distinction between awelna and disagreement is one of Ch.12's sharpest contributions. Holding a different view is not awelna; concealing it is. An advanced guru will accept that "every chemistry has its own equation." The failure mode is covert disobedience or deception — not honest intellectual difference.
+
+---
+
+## *Guru Sutra* Ch.15 — Succession, Counterbalances, and Becoming a Guru
+
+### Succession by Merit
+
+The Guru Sutra's sharpest principle on institutional continuity:
+
+> Golden Principle: "Hum ansh se chalte hain, vansh se nahin."
+> (Succession should be by merit and not birth.)
+> — Gurudev, *Guru Sutra*, Ch.15, p.583
+
+Spiritualism is a merit-based institution, not a family-run business. A successor must have the qualities of a guru and be spiritually equipped to take the institution to a higher level. Three historical cases illustrate this:
+
+- **Guru Nanak Dev** passed his spiritual legacy not to his sons but to Bhai Lehna, who became Guru Angad Dev.
+- **Guru Charan Singh Ji** of Radha Soami was succeeded by his nephew Gurinder Singh (a corporate executive) rather than his son Rana, who showed no interest.
+- **Ashwatthama**, the son of Guru Dronacharya, had to play a villain's role despite being a great archer — illustrating that the guru's lineage does not automatically confer spiritual qualification.
+
+After Gurudev's demise, his wife ran the institution until 2014; Malhotraji was the senior figure but not designated as guru. Gurudev had predicted his disciples would operate independently, yet in collaboration. See [[stories/malhotraji-luggage-resignation]].
+
+> [!tip] The *ansh/vansh* principle resolves a recurring tension in institutional succession. It does not rule out family members succeeding — it rules out succession *by right of family* alone. Merit is the only criterion.
+
+### Counterbalances on the Guru's Path
+
+A guru ascending toward full guruhood must be watchful of *counterbalances* — forces that can destroy the ascent:
+
+- Weakness for the opposite sex
+- Greed for wealth
+- Hunger for self-projection
+- Nepotism
+- Inability to gracefully accept power (influence over others)
+
+> A guru or anybody who reaches a high level of attainment must be watchful of the power of counterbalance, which can destroy a person's ascent to guruhood.
+> — Hingori, *Guru Sutra*, Ch.15, p.627
+
+### The Disciple-to-Guru Transition
+
+The transition from disciple to guru is not announced — it accumulates:
+
+1. Senior disciples mentor juniors: answering questions, counselling, helping walk the path.
+2. Those who do this well attract followers among the newer seekers, becoming *gurus-on-trial* (undesignated) through their function.
+3. The intern who learns becomes the intern who teaches — a guru-in-practice, though not yet guru-nominate.
+4. Over time, formal or informal recognition confirms what function has already established.
+
+What distinguishes the stumbling guru-aspirant from the stellar disciple is one quality: the intense desire to share and help others grow. Without it, a disciple can reach the maximum of being an excellent disciple. With it, they are on the path to guruhood.
+
+> I would prefer a stumbling guru than a sturdy disciple (in a manner of speaking).
+> — Hingori, *Guru Sutra*, Ch.15, p.623
+
+For the complete treatment, see [[concepts/maturity-of-a-guru]].

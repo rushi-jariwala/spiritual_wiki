@@ -2,9 +2,9 @@
 title: Role-Play (Spiritual)
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/vairagya]]", "[[concepts/empathy]]", "[[concepts/non-doership]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/vairagya]]", "[[concepts/empathy]]", "[[concepts/non-doership]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[entities/mahaguru]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-22
-updated: 2026-04-26
+updated: 2026-05-13
 ---
 
 # Role-Play (Spiritual)
@@ -111,6 +111,20 @@ Lao Tzu's *Tao Te Ching* provides the philosophical ground:
 
 The relationships we foster are "only as real as our perception." Death of a close one triggers grief because the perception of permanent reality is exposed as provisional. Role-play is the practice of never building that attachment in the first place — while still performing the role to its fullest.
 
+## *Guru Sutra* Ch.15 — The Guru's Multi-Role Switching
+
+Ch.15 extends role-play from the disciple's domain into the guru's. Here the challenge is more demanding: not switching between family and social roles, but switching between *different registers of the same relationship* — and doing so within a fraction of a second.
+
+> It is not easy to switch roles from guru to father or friend. Sometimes, a disciple needs to be mothered and that role must also be played by the guru, spiritually. Role-play, however painstaking or difficult, is part of the guru's curriculum.
+> — Hingori, *Guru Sutra*, Ch.15, p.509
+
+> Gurudev was a master of role-play with the ability to switch roles within a fraction of a second! We knew when he was playing father, we could have a sense of entitlement and make requests. Casualness was acceptable. But when playing guru, he was a formidable person to be in the company of, and you certainly needed to mind your Ps and Qs. Our own role-play had to match his and that was no easy task!
+> — Hingori, *Guru Sutra*, Ch.15, pp.514–517
+
+The disciple's challenge is not just to play their own roles correctly but to *read which role the guru is currently inhabiting* and adjust accordingly. Misreading the guru's mode — treating a guru-in-guru-mode as a friend, or a guru-in-father-mode with excessive formality — is itself a failure of attunement. Gurudev's role-switching was so rapid and clear that it functioned as a perpetual calibration device for disciples who were paying attention.
+
+See [[concepts/maturity-of-a-guru]] for the full context of the guru's role-play as one of the six qualities of guruhood. See [[stories/malhotraji-luggage-resignation]] for a posthumous example of Gurudev deploying a disciple as an involuntary instrument — role-play extended beyond the physical plane.
+
 ## Cross-references
 
 - [[concepts/vairagya]] — the foundational attitude that makes role-play possible
@@ -118,7 +132,9 @@ The relationships we foster are "only as real as our perception." Death of a clo
 - [[concepts/non-doership]] — role-play is a live enactment of non-doership within relationships
 - [[concepts/doer-ship]] — the trap role-play is designed to avoid: claiming the role as 'I'
 - [[concepts/samskars]] — emotional ownership of a role re-encodes it as a samskar; detached playing avoids this
+- [[concepts/maturity-of-a-guru]] — role-play as one of six qualities developed as a guru matures
 - [[entities/mahaguru]] — exemplar of multifaceted, fluid, always-detached role-play
 - [[stories/gurudev-billu-acting]] — staged fury; "Barkhurdar, kaisi lagi hamari acting?"
 - [[stories/gurudev-gully-cricket-lungi]] — role-play in a cricket game; "Not Out!"
+- [[stories/malhotraji-luggage-resignation]] — posthumous role-play; Hingori used as instrument
 - [[concepts/guru-disciple]] — emotional attachment as one of the six obstacles to disciplehood; role-play is the prescribed solution (Ch.6)

@@ -2,10 +2,10 @@
 title: R.C. Malhotra (Ramesh Chand Malhotra)
 type: entity
 tags: [disciple, senior-disciple, first-disciple]
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-13
 ---
 
 # R.C. Malhotra (Ramesh Chand Malhotra)
@@ -50,12 +50,19 @@ Like Hingori and others in the early years, Malhotraji experimented with the pow
 
 See [[stories/malhotra-power-misuse]].
 
+## *Guru Sutra* Ch.15 — After Gurudev's Demise
+
+After Gurudev's passing, Malhotraji was treated as the most senior figure in the institution, addressed by some as *Chote Guruji* or *Junior Guruji*. He initially decided to resign as chief trustee of the trust established to carry on Gurudev's seva. Hingori persuaded him to stay overnight, but the next day Malhotraji resigned anyway — with Gurudev's posthumous orchestration engineering the scene (Hingori's luggage moved to the meeting centre by an unseen hand) so that Hingori was compelled to intervene theatrically and reinstate him. See [[stories/malhotraji-luggage-resignation]].
+
+Gurudev had subtly predicted that after his demise his disciples would operate independently, yet in collaboration. No single designated successor was named beyond Malhotraji as the senior.
+
 ## Notable Stories
 
 - [[stories/malhotra-initiation-ganges]] — the Ganges stands still; the first disciple is initiated
 - [[stories/malhotra-buffalo-mantra-prank]] — the prank with the buffalo; Gurudev's mild reprimand
 - [[stories/hingori-gati-malhotra]] — taught Hingori *gati* in a vision state; sent by Gurudev
 - [[stories/malhotra-power-misuse]] — train delays and bull-and-fruit-cart misuse; Gurudev's reprimand and warning
+- [[stories/malhotraji-luggage-resignation]] — posthumous orchestration; luggage moved to the meeting; theatrical reinstatement as chief trustee
 
 ## Cross-references
 
@@ -64,3 +71,4 @@ See [[stories/malhotra-power-misuse]].
 - [[concepts/astral-travel]] — the domain of the gati teaching
 - [[concepts/mantra-transfer]] — Malhotra ji as a conduit of Gurudev's spiritual gifts to other disciples
 - [[concepts/sukshma-sharir]] — *seh sharir* account (Ch.II)
+- [[concepts/maturity-of-a-guru]] — succession by merit; Malhotraji as the post-Gurudev senior figure

@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/surrender]]", "[[concepts/faith]]"]
 created: 2026-04-28
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -47,7 +47,7 @@ updated: 2026-05-12
 | **Chapter 12** | Guru Kripa, Dakshina and Awelna | 115–126 | ✅ ingested 2026-05-09 |
 | **Chapter 13** | Transmission of Power | 127–146 | ✅ ingested 2026-05-10 |
 | **Chapter 14** | Guru Vandana | 147–158 | ✅ ingested 2026-05-12 |
-| Chapter 15 | Maturity of a Guru | 159–178 | ⬜ pending |
+| **Chapter 15** | Maturity of a Guru | 159–178 | ✅ ingested 2026-05-13 |
 | Chapter 16 | Guru by Destiny | 179–182 | ⬜ pending |
 | Chapter 17 | Imagine Yourself as a Deity or Guru | 183–184 | ⬜ pending |
 | Chapter 18 | Self is Guru | 185–186 | ⬜ pending |
@@ -308,6 +308,26 @@ updated: 2026-05-12
 - **Anonymity as spiritual blessing** — fame as a self-sustaining shortcoming; Golden Principle: he who has the chance to fame but does not take it will make it; anonymity as a mark of genuine attainment — see [[concepts/guru-vandana]], [[concepts/vairagya]]
 - **After-death worship** — continuing surrender; seva in the guru's name; places of worship as gratitude, not splendour; the homage is in the success of the seva endeavour — see [[concepts/guru-vandana]]
 
+## Stories from Ch.15
+
+- [[stories/shankaracharya-hunter-ganges]] — Adi Shankarcharya and a social outcast at the River Ganges; hunter's challenge on non-dual Brahman; "a person who sees the entire world as aatma only is worthy of worship"; *Nirvan Shaktam* extract appended (Ch.15, pp.167–169)
+- [[stories/gurudev-cowshed-tactfulness]] — Gurudev asks every disciple how large the cowshed roof should be; listens to all; orders a new figure; the sly grin: "listen to all, decide yourself" (Ch.15, pp.169–170)
+- [[stories/malhotraji-luggage-resignation]] — Malhotraji resigns as chief-trustee; Hingori convinces him to stay overnight; next morning luggage shifted to meeting centre by unseen hand; Malhotraji resigned again; Hingori compelled to theatrically intervene; Malhotraji reinstated (Ch.15, pp.433–467)
+- [[stories/guru-sutra-ch15-poem]] — "You can't pace the journey. / You can't hasten the climb…" — patience verse mid-chapter (Ch.15, p.164)
+
+*Short anecdotes filed inline in [[concepts/maturity-of-a-guru]]: author's early disciple-selection errors; sevadaar suspended for enjoying healer status; Singh and the drinking habit; Gurudev's wallet theft handled by revoking seva benefit; Gurudev's wife running the institution after his death.*
+
+## New Concepts from Ch.15
+
+- **Maturity of a Guru** — the guru's developmental arc: forgiveness, patience, humility, tactfulness, collaboration, role-play — see [[concepts/maturity-of-a-guru]]
+- **Mahurat as Synchronisation Constraint** — disciples accept imperfect mahurats to synchronise lifetimes with the guru; the guru must look past mahurat-driven exterior qualities — see [[concepts/mahurat]]
+- **Succession by Merit** — "Hum ansh se chalte hain, vansh se nahin"; spiritualism is merit-based, not family-run — see [[concepts/maturity-of-a-guru]], [[concepts/guru-disciple]]
+- **Counterbalances** — forces that can destroy the ascent to guruhood: lust, greed, self-projection, nepotism, inability to accept power gracefully — see [[concepts/maturity-of-a-guru]]
+- **Disciple-to-Guru Transition** — undesignated "guru-on-trial"; the intern who teaches; desire to share and help others as the defining distinction from stellar disciple — see [[concepts/maturity-of-a-guru]], [[concepts/guru-disciple]]
+- **Saint vs. Guru** — a saint manages only his own evolution; a guru manages many people across generations, requiring shrewdness that a saint does not — see [[concepts/maturity-of-a-guru]]
+- **Spiritual Collaboration** — pooling energy multiplies spiritual strength; Gurudev's cross-tradition alliances (Chishti, Sai Baba, Guru Nanak, etc.); Mexican sorcerers' group principle — see [[concepts/maturity-of-a-guru]]
+- **Guru's Role-Play** — switching between guru/father/friend modes within the spiritual relationship, sometimes within a fraction of a second; disciple must read and match the mode — see [[concepts/role-play]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -372,6 +392,12 @@ updated: 2026-05-12
 
 > [!warning] Aatmic equality vs. the custom of touching feet — Ch.14
 > Ch.14 introduces an internal tension: a siddh guru "does not promote the custom of touching his feet because he realises that the same essence of divinity exists within both — guru and disciple. Nothing more, nothing less!" Yet the same chapter devotes several pages to explaining the energetic benefits of doing exactly that, and Gurudev allowed — and practised — the custom throughout his lifetime. Hingori's resolution is pragmatic: the siddh guru does not *promote* the custom (it would be inconsistent with the doctrine of aatmic equality to make it a requirement), but he *allows* it because it is a genuine transmission mechanism. The practice is kept for what it does, not for what it implies about hierarchy. See [[concepts/guru-vandana]], [[concepts/ulta-guru]].
+
+> [!tip] Holding disciples to a higher standard than oneself — Ch.15
+> Hingori confesses he held disciples to a higher standard than he held himself at their stage: "I expected a lot more from them than I probably expected from myself." This internal admission from the practitioner who teaches forgiveness, patience, and empathy surfaces the inevitable gap between teaching and living. It also reinforces Ch.11's teaching on customised guidance: the guru's own evolution is not finished. The chapter's title — Maturity of a *Guru* — signals that maturity is ongoing, not achieved once and held.
+
+> [!warning] Deliberate withholding of help vs. customised guidance — Ch.15
+> Hingori deliberately withheld help from Singh (who wanted to quit drinking) for two years, feeling Singh needed to find strength within himself. This sits in tension with the customised-guidance teaching (Ch.11) which describes the guru as actively tailoring training for each disciple. Hingori's resolution is implicit: the customisation here *was* the withholding — the right training for Singh was the internal struggle, not the guru's intervention. But this distinction requires careful handling: the line between "designed restraint" and "abdication of guidance" is unclear from the text alone.
 
 > [!tip] Subconscious as the operative agent in blessings — Ch.14
 > Ch.14 describes Hingori as a blessing-giver who found that his subconscious, not his conscious intention, calibrated the intensity of blessings. In some cases he consciously wanted to help someone but his subconscious withheld the full power — and the patient recovered unexpectedly well. This is consistent with the non-doership framework (the jivaatma knows what the person's karma requires; the conscious mind does not). But it introduces a refinement: even the guru/representative is not always aware of what flows through him. The instrument metaphor from [[concepts/surrender]] (the guru uses disciples' spirits) applies here: the operative agent is never the surface consciousness.

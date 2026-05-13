@@ -2,9 +2,9 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-12
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Quotes on the Guru
@@ -803,3 +803,106 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > "The guru's seva must continue after his death. A disciple's homage lies in the success of this endeavour."
 > — Hingori, *Guru Sutra*, Ch.14, p.371
 [[concepts/guru-vandana]] · [[practices/seva]] · [[concepts/surrender]]
+
+---
+
+## Maturity of a Guru (*Guru Sutra* Ch.15)
+
+### On the Guru's Empathy for Disciples in Different Phases
+
+> A guru during his lifetime goes through the process of maturing with time and experience. Therefore, he must have empathy for his disciples during the various phases of their evolution as well.
+> — Hingori, *Guru Sutra*, Ch.15, p.159
+[[concepts/maturity-of-a-guru]] · [[concepts/empathy]]
+
+---
+
+### Shakespeare on Ambition and Lowliness
+
+> "Lowliness is young ambition's ladder,
+> Whereto the climber-upward turns his face;
+> But when he once attains the upmost round,
+> He then unto the ladder turns his back,
+> Looks in the clouds, scorning the base degrees
+> By which he did ascend."
+> — Shakespeare, *Julius Caesar*, quoted in *Guru Sutra*, Ch.15, pp.159–160
+[[concepts/maturity-of-a-guru]] · [[concepts/guru-disciple]]
+
+---
+
+### Kabir on Patience
+
+> "Dheere dheere re mana, dheere sab kuch hoye
+> Mali seenche so ghara, ritu aaye phal hoye"
+> (Everything takes time and happens at its own pace. Even while the gardener may water the plant every day, the fruit only appears in the flowering season.)
+> — Kabir, quoted in *Guru Sutra*, Ch.15, p.221
+[[concepts/maturity-of-a-guru]] · [[concepts/destiny]] · [[stories/guru-sutra-ch15-poem]]
+
+---
+
+### Golden Principle — On Physical Disposition
+
+> Golden Principle: If you are dissatisfied with your physical disposition or personality, do remember, what you received in exchange may be a greater gift of greater relevance.
+> — Hingori, *Guru Sutra*, Ch.15, p.89
+[[concepts/maturity-of-a-guru]] · [[concepts/mahurat]] · [[concepts/destiny]]
+
+---
+
+### On Spiritual Humility as Inner Realisation
+
+> When you go deeper into the meaning of humility, you realise that all beings and life forms have the same divinity at the core, just as you do. True spiritual humility lies in this realisation.
+> — Hingori, *Guru Sutra*, Ch.15, p.166
+[[concepts/maturity-of-a-guru]] · [[concepts/aatma]]
+
+---
+
+### Shankarcharya on Aatmic Equality
+
+> "A person who sees the entire world as aatma only, whose mind is unshakeably established in that conviction is worthy of worship, irrespective of who he is in worldly ways."
+> — Adi Shankarcharya, quoted in *Guru Sutra*, Ch.15, p.168
+[[entities/adi-shankaracharya]] · [[concepts/maturity-of-a-guru]] · [[concepts/aatma]] · [[stories/shankaracharya-hunter-ganges]]
+
+---
+
+### Adi Shankarcharya — Nirvan Shaktam (Ch.15 Extract)
+
+> I am not mind, nor intellect, nor ego, nor the reflections of inner self (citt).
+> I am not the five senses.
+> I am beyond that.
+> I am not the ether, nor the Earth, nor the fire, nor the wind (the five elements).
+> I am indeed,
+> That eternal knowing and bliss, the auspicious (shiv), love and pure consciousness.
+> — Adi Shankarcharya, *Nirvan Shaktam*, quoted in *Guru Sutra*, Ch.15, pp.168–169
+[[entities/adi-shankaracharya]] · [[concepts/aatma]] · [[concepts/non-doership]] · [[stories/shankaracharya-hunter-ganges]]
+
+---
+
+### On Bholenath and Chaturnath — Tactfulness
+
+> While people thought of Gurudev as Bholenath (the innocent one), I found him to be Chaturnath (the clever one).
+> — Hingori, *Guru Sutra*, Ch.15, p.170
+[[entities/mahaguru]] · [[concepts/maturity-of-a-guru]] · [[stories/gurudev-cowshed-tactfulness]]
+
+---
+
+### On Saint vs. Guru
+
+> A saint does not need to be shrewd because he only has his own evolution to consider. Whereas, a guru needs to be shrewd because he must manage the spiritual evolution of many people across generations.
+> — Hingori, *Guru Sutra*, Ch.15, p.170
+[[concepts/maturity-of-a-guru]] · [[concepts/guru-disciple]]
+
+---
+
+### Gurudev — Succession by Merit
+
+> "Hum ansh se chalte hain, vansh se nahin."
+> (Succession should be by merit and not birth.)
+> — Gurudev, *Guru Sutra*, Ch.15, p.583
+[[entities/mahaguru]] · [[concepts/maturity-of-a-guru]] · [[concepts/guru-disciple]]
+
+---
+
+### On Preferring the Stumbling Guru
+
+> I would prefer a stumbling guru than a sturdy disciple (in a manner of speaking).
+> — Hingori, *Guru Sutra*, Ch.15, p.623
+[[concepts/maturity-of-a-guru]] · [[concepts/guru-disciple]]

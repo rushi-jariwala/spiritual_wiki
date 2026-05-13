@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Guru Sutra** (`raw/guru-sutra-chapters/`)
 
 ## Next
-- [ ] ch-15-maturity-of-a-guru.md            (644 lines)
+- [ ] ch-16-guru-by-destiny.md               (192 lines)
 
 ## Remaining — Guru Sutra
-- [ ] ch-16-guru-by-destiny.md               (192 lines)
 - [ ] ch-17-imagine-yourself-as-deity-or-guru.md (75 lines)
 - [ ] ch-18-self-is-guru.md                  (74 lines)
 - [ ] ch-19-the-treasure-hunt.md             (1276 lines)
@@ -62,6 +61,7 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-12-guru-kripa-dakshina-awelna.md
 - [x] ch-13-transmission-of-power.md
 - [x] ch-14-guru-vandana.md
+- [x] ch-15-maturity-of-a-guru.md
 
 ## Completed — Other Books
 - [x] Karma Sutra (fully ingested)

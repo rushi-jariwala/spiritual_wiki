@@ -133,5 +133,6 @@ See also [[stories/guru-sutra-ch9-kabir-poem]], [[stories/guru-sutra-ch9-poem-we
 - [[concepts/non-doership]] — Surrendering the mind leads to non-doership; both involve releasing the claim of authorship
 - [[practices/seva]] — Surrender of tann is most concretely expressed as seva
 - [[concepts/stages-of-spiritual-transformation]] — Surrender is the defining act of the Disciple stage (Stage 4) and the gateway to Gyan → Bhakti → Divya Gyan
+- [[concepts/guru-vandana]] — the coconut offering on Guru Purnima as a gesture of surrender; after-death surrender as the continuation of the relationship
 - [[stories/hingori-arthritis-cure]] · [[stories/hingori-family-business-seva]] · [[stories/hingori-dhann-airfare]] · [[stories/hingori-wallet-lost-found]] · [[stories/hingori-seva-spirit-availability]] · [[stories/hingori-mind-training-non-duality]]
 - [[stories/hingori-chira-self-esteem]] — The endpoint: after full surrender, the guru restores the disciple's dignity

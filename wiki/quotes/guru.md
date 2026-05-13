@@ -2,9 +2,9 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]"]
 created: 2026-04-12
-updated: 2026-05-09
+updated: 2026-05-12
 ---
 
 # Quotes on the Guru
@@ -750,3 +750,56 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > re-ignite the flame in many more.
 > — Hingori, *Guru Sutra*, Ch.12, p.126
 [[concepts/guru-kripa]] · [[concepts/guru-dakshina]] · [[stories/guru-sutra-ch12-poem]]
+
+---
+
+## Guru Vandana (*Guru Sutra* Ch.14)
+
+### On Wisdom and Humility
+
+> "Knowledge is proud that it knows so much; wisdom is humble that it knows no more."
+> — William Cowper, quoted in *Guru Sutra*, Ch.14, p.151
+[[concepts/guru-vandana]] · [[concepts/guru-disciple]]
+
+---
+
+### Kabir — On the Blind Leading the Blind
+
+> "What can the disciple do
+> Whose Guru is blind–
+> With the blind leading the blind,
+> Both will fall into the well."
+> — Kabir, quoted in *Guru Sutra*, Ch.14, p.152
+[[concepts/guru-vandana]] · [[concepts/guru-disciple]]
+
+---
+
+### Golden Principle — Anonymity and Fame
+
+> Golden Principle: He who has the chance to fame but does not take it, will make it.
+> — Hingori, *Guru Sutra*, Ch.14, p.154
+[[concepts/guru-vandana]] · [[concepts/vairagya]] · [[entities/mahaguru]]
+
+---
+
+### On Anonymity as Blessing
+
+> "It has been said that anonymity is one of the greatest blessings that destiny can bestow upon an evolved person."
+> — Hingori, *Guru Sutra*, Ch.14, p.153
+[[concepts/guru-vandana]] · [[concepts/vairagya]] · [[entities/mahaguru]]
+
+---
+
+### Swami Vivekananda — The First Lamp
+
+> "The first lamp is the Guru, and the lamp that is lighted from it is the disciple. The second in turn becomes the Guru, and so on."
+> — Swami Vivekananda, quoted in *Guru Sutra*, Ch.14, p.157
+[[concepts/guru-vandana]] · [[concepts/guru-disciple]] · [[concepts/guru-dakshina]]
+
+---
+
+### On the Guru's Seva Continuing After Death
+
+> "The guru's seva must continue after his death. A disciple's homage lies in the success of this endeavour."
+> — Hingori, *Guru Sutra*, Ch.14, p.371
+[[concepts/guru-vandana]] · [[practices/seva]] · [[concepts/surrender]]

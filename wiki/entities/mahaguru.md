@@ -453,6 +453,8 @@ See [[quotes/guru]].
 - [[entities/augarh]] — his mysterious disciple; head of the Aghor sect; disciples' elder brother
 - [[entities/hingori]] — his disciple and the author of the Sutras
 - [[practices/seva]] · [[practices/tapasya]] — his "one-point programme"
+- [[concepts/guru-vandana]] — anonymity as the mark of genuine attainment; Gurudev's blessing practice; Guru Purnima customs; after-death continuity
+- [[stories/gurudev-blessing-variations]] — hours of continuous blessing seva; each blessing individually calibrated
 - [[stories/shambhuji-five-headed-form]] — Mahashivratri 1974; Shambhu ji witnesses five-headed form
 - [[stories/gurudev-invisible-srinagar-shop]] — Srinagar; purchased spare parts without being recognised by his own devotee
 - [[sources/guru-of-gurus]] · [[sources/witnessing-greatness]] — full biographical sources

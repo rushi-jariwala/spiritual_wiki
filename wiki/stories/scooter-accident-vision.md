@@ -2,10 +2,10 @@
 title: The Scooter Accident Vision
 type: story
 tags: [mahaguru, hingori, guru-umbrella, vision, miracle]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/prarabdh-karma]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, guru_sutra_book.md]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/prarabdh-karma]]", "[[concepts/guru-vandana]]", "[[stories/gurudev-blessing-variations]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-05-12
 ---
 
 # The Scooter Accident Vision
@@ -24,7 +24,7 @@ Told in "Defective Vision Or Defective Accident?" (*Karma Sutra*, Ch.1, p.23):
 
 ## Source
 
-*Karma Sutra*, Ch.1, "Defective Vision Or Defective Accident?", p.23.
+*Karma Sutra*, Ch.1, "Defective Vision Or Defective Accident?", p.23. Also referenced in *Guru Sutra*, Ch.14, pp.147–148, where Hingori identifies this as a case of Gurudev's most powerful blessing — both hands — calibrated to neutralise a foreseen harm. The rhetorical question "Was my vision defective or his blessing effective?" appears explicitly in the Ch.14 telling.
 ## Hingori's Title
 
 The title Hingori gives the section — *"Defective Vision Or Defective Accident?"* — is a small joke: either the vision was flawed (it showed bleeding that did not happen), or the accident was flawed (it should have bled but didn't). Hingori leaves the reader to choose.
@@ -32,6 +32,8 @@ The title Hingori gives the section — *"Defective Vision Or Defective Accident
 ## Related
 
 - [[stories/gurus-umbrella-wife-delivery]] — the companion story
+- [[stories/gurudev-blessing-variations]] — the Ch.14 retelling; context of blessing types
 - [[concepts/guru-disciple]] — the umbrella teaching
+- [[concepts/guru-vandana]] — touching feet, blessings, north/south pole energy transmission
 - [[concepts/prarabdh-karma]] — destined events, altered experience
 - [[entities/hingori]] · [[entities/mahaguru]]

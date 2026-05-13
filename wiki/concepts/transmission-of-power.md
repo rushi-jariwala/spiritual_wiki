@@ -132,4 +132,5 @@ This connects to [[stories/hingori-renuka-temple-attack]], where the lesson was 
 - [[concepts/guru-kripa]] — the grace that enables power to be given; not separate from kripa
 - [[concepts/aura]] — the field within which spiritual energy moves and is stored
 - [[entities/mahaguru]] — the primary exemplar; unprecedented methods of power transmission
+- [[concepts/guru-vandana]] — touching the guru's feet as a transmission channel; ashirwad flowing from guru's hands to disciple's head
 - [[stories/santoshji-kathok-jal]], [[stories/hingori-strawberry-seller]], [[stories/hingori-rain-mantra]], [[stories/malhotra-power-misuse]], [[stories/aghori-disciple-dead-body]]

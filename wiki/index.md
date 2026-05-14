@@ -86,6 +86,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[gaddi]] — The Guru's Seat of Power; energy accumulates over a lifetime of seva; continues after the guru's death; mechanism of lineage succession
 - [[spiritual-attacks]] — Envy-driven black magic, yantra, mantra projection, dream attacks, hostile temple energies; Mahagayatri Mantra as defence
 - [[guru-vandana]] — Practice of revering the guru: touching feet (north/south pole energy exchange), meditation as telepathic channel, modesty of the guru, fame vs. anonymity, Guru Purnima, after-death worship
+- [[maturity-of-a-guru]] — The guru's developmental arc: forgiveness, patience, humility, tactfulness, collaboration, role-play, succession by merit, disciple-to-guru transition, and counterbalances
 
 ---
 
@@ -118,7 +119,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–14*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–15*
 
 ---
 
@@ -332,6 +333,10 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[hingori-magician-keel]] — Hingori encircles a tantric magician's cloth doll with a keel; spirit cannot enter; magician flustered; keel broken on leaving
 - [[gurudev-blessing-variations]] — Hingori observes Gurudev blessing thousands for hours; each blessing distinct in hand position and emotional intensity; both hands = most powerful
 - [[guru-vandana-ego-poem]] — "A symbolic offering of the ego / so his grace can be the guide…" — verbatim verse on the logic of guru vandana
+- [[shankaracharya-hunter-ganges]] — Adi Shankarcharya confronted by a social outcast at the River Ganges; the hunter's challenge on non-dual Brahman; Shankarcharya concedes; *Nirvan Shaktam* extract
+- [[gurudev-cowshed-tactfulness]] — Gurudev asks every disciple how large the cowshed roof should be; listens to all; orders 22 feet; sly grin: "listen to all, decide yourself"
+- [[malhotraji-luggage-resignation]] — Malhotraji's resignation and Gurudev's posthumous orchestration: luggage moved to the meeting; Hingori compelled to intervene theatrically
+- [[guru-sutra-ch15-poem]] — "You can't pace the journey. / You can't hasten the climb…" — patience verse from *Guru Sutra* Ch.15
 
 ---
 

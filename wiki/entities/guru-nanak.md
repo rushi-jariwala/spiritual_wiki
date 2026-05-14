@@ -2,10 +2,10 @@
 title: Guru Nanak
 type: entity
 tags: [guru-nanak, sikhism, sadguru, devi-worship]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/guru-disciple]]", "[[stories/guru-nanak-river-bain]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, guru_sutra_book.md]
+related: ["[[concepts/guru-disciple]]", "[[concepts/destiny]]", "[[stories/guru-nanak-river-bain]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-05-14
 ---
 
 # Guru Nanak
@@ -62,10 +62,20 @@ Guru Nanak's verse closes Ch.5 of *Guru Sutra* immediately after Hingori's argum
 > Without a Guru, none can cross over to the other shore."
 > — Guru Nanak Dev, *Guru Sutra*, Ch.5, p.42
 
+## Destined Birth — Hardilal's Prophecy (*Guru Sutra*, Ch.16)
+
+Guru Nanak's destiny was publicly proclaimed at the moment of his birth:
+
+> At the moment of his birth, Guru Nanak Dev, unlike other infants laughed instead of crying. Hardilal, the astrologer who made the baby's astrological chart had exclaimed, "He will be a unique king, holding sway over vast dominions and will be adored by all sections of humanity. His name and fame will spread far beyond the confines of India, and his memory will be immortal." He then fell to the floor and worshipped the infant.
+> — Hingori, *Guru Sutra*, Ch.16, p.163
+
+Hingori cites this episode as evidence that divine destinies are announced at birth — alongside Jesus, Mahavir, The Buddha, Krishna, and Gurudev. The laughing infant is a widely attested element of Guru Nanak hagiography; Hingori's use of it here is to establish the broader principle of [[concepts/destiny|guru by destiny]].
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — case study of realisation outside the classical sadguru model
 - [[concepts/self-acceptance]] — his adage cited as evidence for the universality of discontent
+- [[concepts/destiny]] — cited in Ch.16 as a divine destiny announced at birth; Hardilal's prophecy
 - [[stories/guru-nanak-river-bain]] — the episode at the river
 - [[stories/guru-sutra-ch5-verse]] — closing epigraph of Guru Sutra Ch.5
 - [[entities/mahaguru]] — who attributed the devi-connection to Nanak

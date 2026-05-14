@@ -14,12 +14,10 @@ a large chapter (≥ 500 lines) is hit.
 **Guru Sutra** (`raw/guru-sutra-chapters/`)
 
 ## Next
-- [ ] ch-16-guru-by-destiny.md               (192 lines)
+- [ ] ch-19-the-treasure-hunt.md             (1276 lines)
 
 ## Remaining — Guru Sutra
-- [ ] ch-17-imagine-yourself-as-deity-or-guru.md (75 lines)
-- [ ] ch-18-self-is-guru.md                  (74 lines)
-- [ ] ch-19-the-treasure-hunt.md             (1276 lines)
+*(none)*
 
 ## Queued — Witnessing Greatness
 > Start only after Guru Sutra is fully completed.
@@ -62,6 +60,9 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-13-transmission-of-power.md
 - [x] ch-14-guru-vandana.md
 - [x] ch-15-maturity-of-a-guru.md
+- [x] ch-16-guru-by-destiny.md
+- [x] ch-17-imagine-yourself-as-deity-or-guru.md
+- [x] ch-18-self-is-guru.md
 
 ## Completed — Other Books
 - [x] Karma Sutra (fully ingested)

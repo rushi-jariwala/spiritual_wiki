@@ -51,7 +51,11 @@ updated: 2026-05-14
 | Chapter 16 | Guru by Destiny | 179–182 | ✅ ingested 2026-05-14 |
 | Chapter 17 | Imagine Yourself as a Deity or Guru | 183–184 | ✅ ingested 2026-05-14 |
 | Chapter 18 | Self is Guru | 185–186 | ✅ ingested 2026-05-14 |
-| Chapter 19 | The Treasure Hunt | 187–199 | ⬜ pending |
+| Chapter 19 | The Treasure Hunt + Queries Answered + Glossary | 187–211 | ✅ ingested 2026-05-15 |
+
+## Synthesis
+
+On completion of full ingest, the nineteen chapters reveal a single arc: from the treasure hunt (finding the guru externally) through the bond (faith, surrender, transmission) to the recognition (the guru is the disciple's own inner self at a realised level). See [[synthesis/guru-sutra-arc]] for the full pattern.
 
 ## Key Themes
 
@@ -351,6 +355,21 @@ updated: 2026-05-14
 - **Kabir's hierarchy of spiritual types** — philosophic > scriptural > ritualistic > pilgrim-wanderers — see [[concepts/guru-tattva]]
 - **Meeting the guru within** — Ch.18 Golden Principle: the endpoint of discipleship — see [[concepts/guru-tattva]], [[concepts/self-worship]]
 
+## New Concepts from Ch.19
+
+- **Boredom as a spiritual tool** — tamas deployed constructively as an emotion equaliser and aura conservation method; the spirit instils boredom to pull attention from pleasure-seeking — see [[concepts/boredom]], [[concepts/gunas]]
+- **Eleven hurdles on the disciple's journey** — the most systematic summary of forces that slow or block the path; see [[concepts/guru-disciple]] (Ch.19 section)
+- **Satsang — collective energy** — gatherings that sustain spiritual momentum and pool energies toward common intent; company selection as spiritual strategy — see [[concepts/guru-disciple]]
+- **Mahaguru distinction** — "He who rears disciples is a guru. He who rears gurus is a Mahaguru" — see [[entities/mahaguru]], [[concepts/maturity-of-a-guru]]
+- **Guru awelna and false gurus** — awelna does not apply to a pretender to the guru title; disconnecting is freedom, not awelna — see [[concepts/guru-awelna]]
+- **Entitlement vs. faith** — disciples expecting reward are "disciples-in-the-making"; faith is grace, not an input for reward — see [[concepts/faith]]
+- **Sthan faith loss** — losing faith at a sthan suspends spiritual growth even while experiences continue — see [[concepts/faith]]
+- **Celibacy vs. grihasth ashram** — siddh gurus celibate because energy is rooted to lower chakras through sex; householders use shiv-shakti union for kundalini rise — see [[concepts/grihasth-ashram]]
+- **Patanjali's eight-fold path** — the most detailed treatment in the corpus; all eight limbs explained — see [[concepts/patanjali-yoga-sutras]]
+- **Karma Quest™** — world's first spiritual IQ test; four levels (Initiate, Inclined, Involved, Intense); 3P formula — see [[practices/karma-quest]]
+- **Aatmic gyan** — intuitiveness as the ability to connect unconscious/subconscious/conscious minds; attainable through thoughtlessness and meditation; said to apply to no more than 0.001% of the planet — see [[concepts/aatma]] *(cross-reference only; brief mention)*
+- **Spiritual weakness and minimum aura** — a spiritually weak person has minimum aura for basic existence; seva and mantra vidya are the remedies — see [[concepts/aura]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -430,3 +449,9 @@ updated: 2026-05-14
 
 > [!tip] Subconscious as the operative agent in blessings — Ch.14
 > Ch.14 describes Hingori as a blessing-giver who found that his subconscious, not his conscious intention, calibrated the intensity of blessings. In some cases he consciously wanted to help someone but his subconscious withheld the full power — and the patient recovered unexpectedly well. This is consistent with the non-doership framework (the jivaatma knows what the person's karma requires; the conscious mind does not). But it introduces a refinement: even the guru/representative is not always aware of what flows through him. The instrument metaphor from [[concepts/surrender]] (the guru uses disciples' spirits) applies here: the operative agent is never the surface consciousness.
+
+> [!tip] Celibacy vs. grihasth ashram — Ch.19 nuance
+> Ch.19 clarifies the apparent contradiction between Gurudev's prescription of grihasth ashram and the observed celibacy of most siddh gurus. Both are valid — at different evolutionary stations. The siddh guru has evolved beyond the lower chakras and experiences sexual energy as a waste; the aspirant can use the shiv-shakti dynamic of marriage to channel kundalini upward. The teaching subverts a common assumption that celibacy = more spiritual: it holds that the householder's sexual union, inhabited with the right understanding, can be a legitimate kundalini accelerator. See [[concepts/grihasth-ashram]].
+
+> [!question] Aatmic gyan — the 0.001% claim — Ch.19
+> Ch.19 states that no more than 0.001% of people on this planet are intuitive (possess aatmic gyan). This is a highly specific figure and is not substantiated or sourced. It sits alongside earlier claims in Guru Sutra about the percentage of people who can attain various spiritual states. The figure may be intentionally hyperbolic to emphasize rarity, or it may reflect Hingori's direct observation — the text does not clarify. See [[concepts/aatma]].

@@ -245,6 +245,17 @@ Ch.XIV extends the aura-as-cosmic-currency teaching into its fullest statement:
 
 Charity done in the name of ancestors adds to *their* cosmic currency in the afterlife. The spirit body's post-death capacity for astral travel, protection from more powerful spirits, and eventual ascent through the *loks* all depend on the aura accumulated during physical life — and on any *seva* or charity performed in the spirit's name by living descendants. See [[concepts/loks]] for the lok-by-lok system; [[practices/seva]] for the mechanisms of seva credit.
 
+## *Guru Sutra* Ch.19 — Spiritual Weakness and Minimum Aura
+
+Ch.19 introduces the concept of a **spiritually weak person** — one whose aura sits at the minimum level required for basic existence.
+
+> A spiritually weak person is he who has a minimum aura required for basic existence. At a mental level, such a person is mired in worldly illusions and ignorant of spiritual reality. He exhausts his karmas by living a life of luxury, pampering and glorifying himself.
+> — Hingori, *Guru Sutra*, Ch.19, p.189
+
+The two prescribed remedies are **seva** and **mantra vidya** — both for replenishing the aura and for building a solid karmic balance sheet. Without adding to positive karmas, such a person will die karmically poorer than when born.
+
+Hingori also notes that most people do not ponder the afterlife — despite the period between death and the next birth often being far longer than the 60-80 years lived in physical form. Investing in karmic profit while alive, with an eye on afterlife comfort, is the practical argument for spiritual strengthening.
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — aura is the external expression of the spirit body's *shakti*

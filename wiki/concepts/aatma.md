@@ -43,6 +43,19 @@ The aatma *is* this consciousness supreme, viewed from the perspective of the in
 > It is only when the *karmashaya* has managed to delete or cleanse its stored data, can a person get freedom from life and death and attain *moksh*.
 > — Hingori, *Aatma Sutra*, Ch.I, p.19
 
+## Aatmic Gyan — Knowledge of the Aatma as Intuition
+
+*Guru Sutra* Ch.19 describes *aatmic gyan* — knowledge of the aatma — as something that manifests experientially as **intuitiveness**:
+
+> Aatmic gyan is often reflected as intuitiveness and can be attained in various ways. It is also the ability to connect the unconscious, subconscious and the conscious minds.
+> — Hingori, *Guru Sutra*, Ch.19, p.189
+
+It may be a carry-forward from a previous incarnation or may be triggered by favourable planetary periods in the current life. When the appropriate period arrives, a person automatically advances to a more evolved state in both thought and foresight — the spirit trying to communicate with its physical body as intuition.
+
+The obstacle: the flurry of thoughts, feelings, and emotions disturbs the equanimity needed for intuition to surface. Thoughtlessness and meditation are the formal practices for cultivating it. Hingori notes its rarity: *"not more than 0.001% of people on this planet are intuitive"* — a figure underscoring that aatmic gyan in its operational form is exceedingly uncommon.
+
+> [!question] The 0.001% figure is not sourced or substantiated. It may reflect Hingori's direct observation or may be intentionally hyperbolic to convey rarity. See [[sources/guru-sutra]] Contradictions/Tensions section.
+
 ## Cross-references
 
 - [[concepts/jivaatma]] — the individualised form of the aatma; the fragment seeking return

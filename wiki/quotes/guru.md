@@ -956,3 +956,45 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > Golden Principle: When a disciple has unfolded his own myth, realised the inner truth and accepted the purpose of his cosmic role-play, he has met his guru within.
 > — Hingori, *Guru Sutra*, Ch.18, p.186
 [[concepts/guru-tattva]] · [[concepts/self-worship]] · [[concepts/guru-disciple]]
+
+---
+
+## The Treasure Hunt (*Guru Sutra* Ch.19)
+
+### On Finding a Guru
+
+> If you have been successful in finding a guru who has been able to motivate you to climb the spiritual ladder, consider yourself a winner in the treasure hunt of life.
+> — Hingori, *Guru Sutra*, Ch.19, p.188
+[[concepts/guru-disciple]] · [[concepts/destiny]]
+
+---
+
+### On the Mahaguru Distinction
+
+> He who rears disciples is a guru. He who rears gurus is a Mahaguru.
+> — Hingori, *Guru Sutra*, Ch.19, p.196
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[concepts/maturity-of-a-guru]]
+
+---
+
+### On Entitlement and Discipleship
+
+> Till such time that people have a sense of entitlement, they are playing the role of children and not disciples.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+[[concepts/faith]] · [[concepts/guru-disciple]]
+
+> A disciple must look at faith, not as an input for reward but as grace that ensures he has attained deep faith in his guru. Till such time he continues to expect a reward, he remains a disciple-in-the-making.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+[[concepts/faith]] · [[concepts/guru-disciple]]
+
+---
+
+### On Boredom and the Spirit
+
+> Boredom is an attitude of neither joy nor sorrow. It dulls the spikes of all feelings and thus acts as an equaliser of emotions.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+[[concepts/boredom]] · [[concepts/gunas]]
+
+> Our spirit tries to instil boredom to dull our focus on the outside or external environment. By being too focused on the external environment, we deplete our aura by wasting it on pleasure seeking.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+[[concepts/boredom]] · [[concepts/aura]]

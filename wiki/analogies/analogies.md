@@ -1198,3 +1198,52 @@ The sturdy disciple has mastered the practices of discipleship — consistency, 
 
 A mirror shows you yourself — it does not create the reflection; it reveals what is already there. The guru does not add something foreign to the disciple; he shows the disciple the disciple's own face at a higher resolution of consciousness. The purpose of the relationship is therefore convergence, not dependency: the disciple grows until the reflection in the mirror and the one holding the mirror become indistinguishable. When Kabir says he bows to the guru first because the guru showed him the gobind (inner self), he is not saying the guru is greater than the inner self — he is saying the mirror preceded the recognition. See [[concepts/guru-tattva]], Ch.18 Golden Principle on meeting the guru within.
 
+---
+
+## The Treasure Hunt (*Guru Sutra* Ch.19)
+
+### The Treasure Hunt of Life
+*Illuminates: [[concepts/guru-disciple]], [[concepts/destiny]]*
+
+> If you have been successful in finding a guru who has been able to motivate you to climb the spiritual ladder, consider yourself a winner in the treasure hunt of life.
+> — Hingori, *Guru Sutra*, Ch.19, p.188
+
+Life's highest quest is reframed as a treasure hunt — not for gold, fame, or comfort, but for the siddh guru who can activate the disciple's full potential. Most people never find such a guru; those who do have won the deepest prize. The analogy makes the guru-finding quest as urgent and arduous as any adventure — with the corresponding stakes.
+
+---
+
+### Dhool Mein Luth — Hit or Miss
+*Illuminates: [[concepts/guru-disciple]], [[concepts/destiny]]*
+
+The Hindi phrase *"dhool mein luth"* (roughly: rolling in the dust; hit or miss) captures the quality of most people's guru-search: some land with a genuine siddh guru, many land with pretenders or mismatches. "Disappointment and disillusion on one side, aahas! on the other." See [[concepts/guru-disciple]] (Treasure Hunt section).
+
+---
+
+### Spiritual Journey as Car with Automatic Brakes
+*Illuminates: [[concepts/guru-disciple]], [[concepts/gunas]], [[concepts/destiny]]*
+
+> The car of a spiritual aspirant's journey has automatic brakes that keep slowing him down due to pitfalls like lethargy, temptations, de-stabilisation by the senses, planetary movements, etc.
+> — Hingori, *Guru Sutra*, Ch.19, p.191
+
+The journey is not a straight road — it is a drive through potholes, speed breakers, and steep inclines, made harder by the car's own internal governors. Most car companies advertise mileage under controlled conditions; life comes with no such guarantee. The automatic-brakes analogy captures what the eleven hurdles actually are: not external obstacles alone but internal governors built into the aspirant's own guna mix and destiny configuration.
+
+---
+
+### Mountain Climber vs. Instructor
+*Illuminates: [[concepts/guru-disciple]], [[entities/mahaguru]], [[concepts/maturity-of-a-guru]]*
+
+> For a priest, pundit or monk, the purpose is to evolve. For a guru the purpose is to make others evolve! Like the difference between a mountain climber and an instructor.
+> — Hingori, *Guru Sutra*, Ch.19, p.188
+
+The climber ascends for himself; the instructor trains others to ascend. Both deal with the same mountain, but their mission is inverted. A guru who has crossed his own summit and now turns back to guide others operates at a qualitatively different level from an accomplished seeker who has simply climbed high. See [[concepts/maturity-of-a-guru]].
+
+---
+
+### Corporate Association → Satsang
+*Illuminates: [[concepts/guru-disciple]]*
+
+> Like in the corporate world, if you keep the association of the corporate intellectuals, some of it will rub off on you. On the other hand, if you were to spend time with those who are not sincere about what they do, you too will acquire some of that insincerity of purpose.
+> — Hingori, *Guru Sutra*, Ch.19, p.192
+
+The satsang teaching reframed through a corporate parallel: professional association shapes professional character; spiritual association shapes spiritual character. The mechanism is the same — sustained proximity transmits quality. This is why choosing one's spiritual company is as consequential as choosing one's workplace.
+

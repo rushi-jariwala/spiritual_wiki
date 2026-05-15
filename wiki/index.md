@@ -87,6 +87,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[spiritual-attacks]] — Envy-driven black magic, yantra, mantra projection, dream attacks, hostile temple energies; Mahagayatri Mantra as defence
 - [[guru-vandana]] — Practice of revering the guru: touching feet (north/south pole energy exchange), meditation as telepathic channel, modesty of the guru, fame vs. anonymity, Guru Purnima, after-death worship
 - [[maturity-of-a-guru]] — The guru's developmental arc: forgiveness, patience, humility, tactfulness, collaboration, role-play, succession by merit, disciple-to-guru transition, and counterbalances
+- [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
+- [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 
 ---
 
@@ -119,7 +121,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–18*
+- [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
 
 ---
 
@@ -348,6 +350,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[sadhana]] — The umbrella term for sustained spiritual practice *(stub)*
 - [[karmic-worksheet]] — Daily positive/negative self-audit; scoring system; the CCTV principle
 - [[significant-days]] — Bada Guruvar, Monday fasts, Ganesh Chauth, Mahashivratri, Guru Purnima, Dussehra/Dhanteras/Diwali; eclipse and shraddh observances
+- [[karma-quest]] — The Karma Quest spiritual IQ test; four levels (Initiate, Inclined, Involved, Intense); 3P formula (philosophy, practice, philanthropy)
 
 ---
 
@@ -374,3 +377,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[inner-frameworks-convergence]] — Gunas, koshas, attitude-to-deeds, and non-doership as four lenses on one inward movement *(Karma Sutra)*
 - [[samskar-loop]] — Four-link mechanism of karmic perpetuation; the break at citta level *(Karma Sutra)*
 - [[destiny-and-doership]] — The Hingori theodicy; how the two concepts together dissolve guilt from both sides *(Karma Sutra + Aatma Sutra)*
+- [[guru-sutra-arc]] — The complete Guru Sutra arc: from finding the guru (treasure hunt) to recognising the guru within (self as guru); Phase 1: Hunt; Phase 2: Bond; Phase 3: Recognition *(Guru Sutra)*

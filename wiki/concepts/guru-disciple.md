@@ -892,3 +892,55 @@ What distinguishes the stumbling guru-aspirant from the stellar disciple is one 
 > — Hingori, *Guru Sutra*, Ch.15, p.623
 
 For the complete treatment, see [[concepts/maturity-of-a-guru]].
+
+---
+
+## *Guru Sutra* Ch.19 — Hurdles, Satsang, and the Treasure Hunt
+
+### Eleven Hurdles on the Disciple's Journey
+
+Ch.19 provides the most systematic summary of forces that slow or block a disciple's path:
+
+1. The moods of the guru, especially if he has a fiery temper
+2. Interference from the family of the guru and other established disciples
+3. Being held back by the institution due to hierarchy (chronological or otherwise)
+4. Inability to shrug off the pull of the senses on the mind
+5. Lethargy and lack of discipline
+6. Counterbalance by planetary movements
+7. Mixing social and spiritual life
+8. Spiritual vanity
+9. Extravagant lifestyle and constant pursuit for pleasure
+10. The necessity to work harder and longer to make both ends meet
+11. Poor health
+
+> The car of a spiritual aspirant's journey has automatic brakes that keep slowing him down due to pitfalls like lethargy, temptations, de-stabilisation by the senses, planetary movements, etc.
+> — Hingori, *Guru Sutra*, Ch.19, p.191
+
+These "automatic brakes" are not failures of will alone — many are structural (family entitlement, institutional hierarchy) or circumstantial (health, finances). The disciple is compared to a car tested under real road conditions, not the controlled-conditions guarantee of a manufacturer's mileage test.
+
+### Satsang — Collective Energy and Company Selection
+
+Satsangs — gatherings of like-minded people — serve a dual function: knowledge-sharing and energy pooling.
+
+> At Satsangs, like minded people come together to discuss spirituality, share experiences and search for solutions. This helps to frame their moods and sustain the spiritual momentum for a longer time. The group dynamics at satsangs ensure that the energies of all involved work collectively towards a common intent or interest.
+> — Hingori, *Guru Sutra*, Ch.19, p.192
+
+The practical corollary is explicit: the company one keeps shapes one's trajectory. Spending time with spiritually sincere people transmits that quality; spending time with the insincere transmits insincerity. Hingori draws the parallel with the corporate world — keeping the association of intellectuals means some of it rubs off.
+
+### The Mahaguru Distinction
+
+Ch.19 gives the sharpest formulation of the difference between guru and mahaguru:
+
+> He who rears disciples is a guru. He who rears gurus is a Mahaguru.
+> — Hingori, *Guru Sutra*, Ch.19, p.196
+
+This dovetails with the Introduction's formulation ("A Mahaguru is not judged by the number of shishyas devoted to him but by the number of gurus created by him") and underlines the multiplicative logic of Gurudev's mission. See [[entities/mahaguru]] and [[concepts/maturity-of-a-guru]].
+
+### Finding the Guru — The Treasure Hunt
+
+Ch.19 reframes the entire guru-seeking enterprise as the "treasure hunt of life." Most people never find a siddh guru with matching spiritual DNA — it is a "dhool mein luth" (hit or miss) experience. Those who do find one are winners of the most consequential lottery. Those who have not yet found one are advised to keep doing seva — "seva for seva's sake" — as the most effective preparation while the hunt continues.
+
+> If you have been successful in finding a guru who has been able to motivate you to climb the spiritual ladder, consider yourself a winner in the treasure hunt of life.
+> — Hingori, *Guru Sutra*, Ch.19, p.188
+
+See [[concepts/patanjali-yoga-sutras]] for the structural path a serious aspirant can walk independently; [[practices/karma-quest]] for the diagnostic tool Hingori recommends.

@@ -119,7 +119,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–15*
+- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–18*
 
 ---
 
@@ -337,6 +337,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[gurudev-cowshed-tactfulness]] — Gurudev asks every disciple how large the cowshed roof should be; listens to all; orders 22 feet; sly grin: "listen to all, decide yourself"
 - [[malhotraji-luggage-resignation]] — Malhotraji's resignation and Gurudev's posthumous orchestration: luggage moved to the meeting; Hingori compelled to intervene theatrically
 - [[guru-sutra-ch15-poem]] — "You can't pace the journey. / You can't hasten the climb…" — patience verse from *Guru Sutra* Ch.15
+- [[guru-sutra-ch16-poem]] — "The stars issued an astral edict…" — verse on destined encounter with the guru (*Guru Sutra* Ch.16)
 
 ---
 

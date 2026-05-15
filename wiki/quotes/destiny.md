@@ -1,10 +1,10 @@
 ---
 title: Quotes on Destiny
 type: quote-collection
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/destiny]]", "[[concepts/mahurat]]", "[[concepts/prarabdh-karma]]", "[[concepts/doer-ship]]", "[[entities/bhrigu]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+related: ["[[concepts/destiny]]", "[[concepts/mahurat]]", "[[concepts/prarabdh-karma]]", "[[concepts/doer-ship]]", "[[entities/bhrigu]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-18
-updated: 2026-04-25
+updated: 2026-05-14
 ---
 
 # Quotes on Destiny
@@ -40,3 +40,17 @@ updated: 2026-04-25
 > "An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."
 > — Brighu Samhita, cited in Hingori, *The Guru of Gurus*, p.8
 [[entities/bhrigu]] · [[entities/mahaguru]] · [[stories/gurudev-kl-nagpal-jigsaw]]
+
+## Guru by Destiny (*Guru Sutra*, Ch.16)
+
+> "Neither a guru nor a disciple can be mere coincidences. They are a part of continuity, born to a plan, with a coinciding destiny to support the strategy of this life."
+> — Hingori, *Guru Sutra*, Ch.16, p.180
+[[concepts/destiny]] · [[concepts/guru-disciple]] · [[concepts/mahurat]]
+
+> "Your soul knows the geography of your destiny. Your soul alone has the map of your future; therefore, you can trust this indirect, oblique side of yourself. If you do, it will take you where you need to go, but more important it will teach you a kindness of rhythm in your journey."
+> — John O'Donohue, quoted in *Guru Sutra*, Ch.16, p.175
+[[concepts/destiny]]
+
+> "You are a Guru when the distinction between yourself and others dissolves completely and even your tiniest efforts are directed towards the upliftment of physical and spirit life forms."
+> — Hingori, *Guru Sutra*, Ch.16, p.182
+[[concepts/destiny]] · [[concepts/guru-tattva]] · [[concepts/guru-disciple]]

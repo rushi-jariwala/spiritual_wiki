@@ -4,7 +4,7 @@ type: concept
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[concepts/transmission-of-power]]", "[[concepts/surrender]]", "[[concepts/faith]]", "[[concepts/vairagya]]", "[[entities/mahaguru]]", "[[practices/significant-days]]", "[[stories/gurudev-blessing-variations]]"]
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-14
 ---
 
 # Guru Vandana
@@ -127,6 +127,41 @@ Many disciples build places of worship dedicated to their guru. The followers of
 
 > "The first lamp is the Guru, and the lamp that is lighted from it is the disciple. The second in turn becomes the Guru, and so on."
 > — Swami Vivekananda, quoted in *Guru Sutra*, Ch.14, p.157
+
+---
+
+---
+
+## Imagine Yourself as Deity or Guru (*Guru Sutra*, Ch.17)
+
+Hingori offers a thought experiment as a tool for refining the practice of reverence: switch sides. Imagine being the deity or guru who is being worshipped. Ask what *you* would actually want from your devotees.
+
+The contrast he draws is pointed. On one side, what the deity would *not* want:
+
+- Visitors offering flowers, sweets, money, and jewels at ashrams
+- The same hymn sung in their praise for 500 years, millions repeating the same prayer
+- Loudspeakers blaring out-of-tune religious sermons at the place of worship
+- Voices of adulation from disciples
+
+On the other side, what the deity would genuinely prefer:
+
+- Disciples performing acts of kindness in order to please their guru or honour the inspiration they received
+- People dedicating themselves to evolving their gunas and attitudes
+- Disciples making a sincere effort to live the philosophy they were inspired to follow
+
+Hingori's own stated preference as a guru:
+
+> "I would welcome a disciple who is determined to succeed spiritually, and yet underplays his reverence, while being sincere and loyal. I would prefer someone who does not spend his time trying to impress me but follows instructions to further spiritual practices and seva."
+> — Hingori, *Guru Sutra*, Ch.17, p.184
+
+The rationale for the exercise:
+
+> Since people who pray with intense fervour seldom sit back and observe themselves, it is wise to sometimes switch sides and be the worshipped, only so that you can learn what to do and how to worship.
+> — Hingori, *Guru Sutra*, Ch.17, p.184
+
+> [!tip] This exercise is structurally related to [[concepts/self-worship]]: both involve identifying with the divine rather than grovelling before it. The "switch sides" technique is a practical application of the aatmic equality principle — if guru and disciple share the same essence, imagining the guru's perspective from the inside is not presumptuous but illuminating. See also [[concepts/maturity-of-a-guru]] for the guru's preference for disciples who evolve their gunas over those who perform theatrical devotion.
+
+> [!warning] Ch.16 notes that "a few theophysicists suggest a good disciple must never visualise himself as a guru." Ch.17 directly contradicts this by inviting the disciple to do exactly that — and adding: "This kind of limited thinking stumps me." Hingori explicitly rejects the prohibition as spiritually immature.
 
 ---
 

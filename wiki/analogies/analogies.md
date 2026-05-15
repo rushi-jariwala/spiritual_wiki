@@ -4,7 +4,7 @@ type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: []
 created: 2026-04-15
-updated: 2026-05-10
+updated: 2026-05-14
 ---
 
 # Analogies
@@ -1185,4 +1185,16 @@ The sturdy disciple has mastered the practices of discipleship — consistency, 
 > — Hingori, *Guru Sutra*, Ch.15, p.170
 
 *Bholenath* is one of Shiv's epithets — the innocent, simple, easily pleased one. *Chaturnath* is Hingori's coinage for its exact opposite: the four-dimensionally clever one. Gurudev's studied innocence — asking naïve questions, pretending not to know, listening with wide-eyed attention to disciples' expertise — was a performance of Bholenath as cover for Chaturnath's strategic observation. The cowshed episode makes this explicit: the 22-foot answer was his own all along. The disciple who saw only the innocent face never learned what was really being observed. See [[stories/gurudev-cowshed-tactfulness]], [[concepts/maturity-of-a-guru]].
+
+---
+
+## The Guru and the Self (*Guru Sutra* Ch.18)
+
+### The Guru as Mirror
+*Illuminates: [[concepts/guru-tattva]], [[concepts/self-worship]], [[concepts/guru-disciple]]*
+
+> "A guru is nothing but a mirror image of the self at a realised level of the consciousness."
+> — Hingori, *Guru Sutra*, Ch.18, p.185
+
+A mirror shows you yourself — it does not create the reflection; it reveals what is already there. The guru does not add something foreign to the disciple; he shows the disciple the disciple's own face at a higher resolution of consciousness. The purpose of the relationship is therefore convergence, not dependency: the disciple grows until the reflection in the mirror and the one holding the mirror become indistinguishable. When Kabir says he bows to the guru first because the guru showed him the gobind (inner self), he is not saying the guru is greater than the inner self — he is saying the mirror preceded the recognition. See [[concepts/guru-tattva]], Ch.18 Golden Principle on meeting the guru within.
 

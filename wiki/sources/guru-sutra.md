@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/surrender]]", "[[concepts/faith]]"]
 created: 2026-04-28
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -48,9 +48,9 @@ updated: 2026-05-13
 | **Chapter 13** | Transmission of Power | 127–146 | ✅ ingested 2026-05-10 |
 | **Chapter 14** | Guru Vandana | 147–158 | ✅ ingested 2026-05-12 |
 | **Chapter 15** | Maturity of a Guru | 159–178 | ✅ ingested 2026-05-13 |
-| Chapter 16 | Guru by Destiny | 179–182 | ⬜ pending |
-| Chapter 17 | Imagine Yourself as a Deity or Guru | 183–184 | ⬜ pending |
-| Chapter 18 | Self is Guru | 185–186 | ⬜ pending |
+| Chapter 16 | Guru by Destiny | 179–182 | ✅ ingested 2026-05-14 |
+| Chapter 17 | Imagine Yourself as a Deity or Guru | 183–184 | ✅ ingested 2026-05-14 |
+| Chapter 18 | Self is Guru | 185–186 | ✅ ingested 2026-05-14 |
 | Chapter 19 | The Treasure Hunt | 187–199 | ⬜ pending |
 
 ## Key Themes
@@ -328,6 +328,29 @@ updated: 2026-05-13
 - **Spiritual Collaboration** — pooling energy multiplies spiritual strength; Gurudev's cross-tradition alliances (Chishti, Sai Baba, Guru Nanak, etc.); Mexican sorcerers' group principle — see [[concepts/maturity-of-a-guru]]
 - **Guru's Role-Play** — switching between guru/father/friend modes within the spiritual relationship, sometimes within a fraction of a second; disciple must read and match the mode — see [[concepts/role-play]]
 
+## Stories from Ch.16
+
+- [[stories/guru-sutra-ch16-poem]] — "The stars issued an astral edict…" — verbatim verse on destiny and the guru-disciple encounter (Ch.16, p.178)
+
+*Short anecdotes filed inline in [[concepts/destiny]]: Saharanpur Brighu Samhita reading (Gurudev as gann of Shankar); Guru Nanak Dev's birth-laugh and Hardilal's prophecy; Hingori's vision of 100 cream-robed spirits descending.*
+
+## New Concepts from Ch.16
+
+- **Guru by Destiny** — the guru-disciple encounter as pre-mapped in planetary configurations; manipulated births within the karma-time framework; Jupiter as the key planet for spiritualists — see [[concepts/destiny]] (Guru by Destiny section)
+- **Gann** — senior apprentice of Shankar with abilities to manifest Shiv; Gurudev described thus in the Brighu Samhita — see [[entities/bhrigu]], [[entities/mahaguru]]
+- **Divya aatma** — enlightened being; the Brighu Samhita's description of Gurudev — see [[entities/mahaguru]]
+
+## New Concepts from Ch.17
+
+- **Imagine Yourself as Deity/Guru** — thought experiment for refining the practice of reverence; switching sides to understand what genuine worship looks like from the recipient's perspective — see [[concepts/guru-vandana]] (Imagine Yourself as Deity section)
+
+## New Concepts from Ch.18
+
+- **Guru as mirror image of the self** — the guru is the disciple's own consciousness at a higher level of realisation; the relationship aims at convergence, not permanent hierarchy — see [[concepts/guru-tattva]]
+- **Gobind** — Kabir's term for the self or spirit within; appears in the foundational couplet on guru vs. inner self — see [[concepts/guru-tattva]]
+- **Kabir's hierarchy of spiritual types** — philosophic > scriptural > ritualistic > pilgrim-wanderers — see [[concepts/guru-tattva]]
+- **Meeting the guru within** — Ch.18 Golden Principle: the endpoint of discipleship — see [[concepts/guru-tattva]], [[concepts/self-worship]]
+
 ## Contradictions / Tensions
 
 > [!warning] The 5% figure
@@ -395,6 +418,12 @@ updated: 2026-05-13
 
 > [!tip] Holding disciples to a higher standard than oneself — Ch.15
 > Hingori confesses he held disciples to a higher standard than he held himself at their stage: "I expected a lot more from them than I probably expected from myself." This internal admission from the practitioner who teaches forgiveness, patience, and empathy surfaces the inevitable gap between teaching and living. It also reinforces Ch.11's teaching on customised guidance: the guru's own evolution is not finished. The chapter's title — Maturity of a *Guru* — signals that maturity is ongoing, not achieved once and held.
+
+> [!warning] "Never visualise yourself as a guru" vs. Ch.17's invitation to do exactly that — Ch.16/17
+> Ch.16 notes that "a few theophysicists suggest a good disciple must never visualise himself as a guru." Hingori immediately dismisses this view: "This kind of limited thinking stumps me." Ch.17 then instructs the disciple to imagine being a deity or guru as a method for learning how to worship properly. The tension is internally resolved by Hingori's direct rejection of the prohibition — but it surfaces a genuine division within the broader spiritual fraternity.
+
+> [!tip] Guru by destiny vs. free will in choosing a guru — Ch.16 vs. Ch.2
+> Ch.16 argues that neither guru nor disciple can be a coincidence — their encounter is destined via planetary alignment and prior-life continuity. Yet Ch.2 recommends Thursday fasts as a practice for those *seeking* a guru, implying active effort toward the encounter. The two are not contradictory: the destined encounter still requires the disciple to be spiritually positioned (Thursday fasts create that positioning); destiny does not eliminate the disciple's preparatory effort.
 
 > [!warning] Deliberate withholding of help vs. customised guidance — Ch.15
 > Hingori deliberately withheld help from Singh (who wanted to quit drinking) for two years, feeling Singh needed to find strength within himself. This sits in tension with the customised-guidance teaching (Ch.11) which describes the guru as actively tailoring training for each disciple. Hingori's resolution is implicit: the customisation here *was* the withholding — the right training for Singh was the internal struggle, not the guru's intervention. But this distinction requires careful handling: the line between "designed restraint" and "abdication of guidance" is unclear from the text alone.

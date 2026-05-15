@@ -4,7 +4,7 @@ type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-12
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
 # Quotes on the Guru
@@ -906,3 +906,53 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > I would prefer a stumbling guru than a sturdy disciple (in a manner of speaking).
 > — Hingori, *Guru Sutra*, Ch.15, p.623
 [[concepts/maturity-of-a-guru]] · [[concepts/guru-disciple]]
+
+---
+
+## Imagine Yourself as Deity or Guru (*Guru Sutra* Ch.17)
+
+### On Sincere Reverence vs. Performance
+
+> "I would welcome a disciple who is determined to succeed spiritually, and yet underplays his reverence, while being sincere and loyal. I would prefer someone who does not spend his time trying to impress me but follows instructions to further spiritual practices and seva."
+> — Hingori, *Guru Sutra*, Ch.17, p.184
+[[concepts/guru-vandana]] · [[concepts/guru-disciple]] · [[practices/seva]]
+
+---
+
+## The Self is Guru (*Guru Sutra* Ch.18)
+
+### Kabir on the Guru and the Inner Self
+
+> "Guru gobind dou khade, kake lagoo paaye?
+> Balihari guru aapne, gobind diyo bataye."
+> (If both the guru and gobind [the self or spirit within] stand before you, whom do you bow to first? I bow to my guru first, for it is he who showed me the way to gobind.)
+> — Kabir, quoted in *Guru Sutra*, Ch.18, p.185
+[[concepts/guru-tattva]] · [[concepts/self-worship]] · [[concepts/guru-disciple]]
+
+---
+
+### The Guru as Mirror
+
+> "A guru is nothing but a mirror image of the self at a realised level of the consciousness."
+> — Hingori, *Guru Sutra*, Ch.18, p.185
+[[concepts/guru-tattva]] · [[concepts/self-worship]] · [[concepts/guru-disciple]]
+
+---
+
+### Kabir's Hierarchy of Spiritual Types
+
+> "Utamah Tatva Chintava,
+> Madhyma Shastra Chintava,
+> Adhama Mantra Tantra Chintava,
+> Adhmadhamaha Tirth Bhrantatmaha"
+> (Those with the highest spiritual status will be philosophic; the next will be scriptural; the third ritualistic; the lowest will be wanderers going from one pilgrim centre to another.)
+> — Kabir, quoted in *Guru Sutra*, Ch.18, p.186
+[[concepts/guru-tattva]] · [[concepts/guru-disciple]]
+
+---
+
+### Golden Principle — Meeting the Guru Within
+
+> Golden Principle: When a disciple has unfolded his own myth, realised the inner truth and accepted the purpose of his cosmic role-play, he has met his guru within.
+> — Hingori, *Guru Sutra*, Ch.18, p.186
+[[concepts/guru-tattva]] · [[concepts/self-worship]] · [[concepts/guru-disciple]]

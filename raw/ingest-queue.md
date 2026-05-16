@@ -11,19 +11,12 @@ a large chapter (≥ 500 lines) is hit.
 -->
 
 ## Active Book
-**Guru Sutra** (`raw/guru-sutra-chapters/`)
+**Witnessing Greatness** (`raw/witnessing-greatness-chapters/`)
 
 ## Next
-- [ ] ch-19-the-treasure-hunt.md             (1276 lines)
-
-## Remaining — Guru Sutra
-*(none)*
-
-## Queued — Witnessing Greatness
-> Start only after Guru Sutra is fully completed.
-> Source: `raw/witnessing-greatness-chapters/`
-
 - [ ] ch-01-back-to-the-future.md            (478 lines)
+
+## Remaining — Witnessing Greatness
 - [ ] ch-02-invisibly-yours-buddhe-baba.md   (470 lines)
 - [ ] ch-03-impossible-is-possible.md        (624 lines)
 - [ ] ch-04-saint-maker.md                   (394 lines)
@@ -63,6 +56,7 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-16-guru-by-destiny.md
 - [x] ch-17-imagine-yourself-as-deity-or-guru.md
 - [x] ch-18-self-is-guru.md
+- [x] ch-19-the-treasure-hunt.md
 
 ## Completed — Other Books
 - [x] Karma Sutra (fully ingested)

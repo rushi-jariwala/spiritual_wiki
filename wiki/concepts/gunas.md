@@ -168,6 +168,18 @@ See [[concepts/tantra]] — clarified in the same chapter as a spiritual science
 
 ---
 
+## *Guru Sutra* Ch.19 — Tamas Redeemed: Boredom as a Spiritual Tool
+
+Ch.19 extends the tamas treatment by naming one of its constructive expressions: boredom.
+
+> Tamas is inertia. It gets reflected as lethargy, sluggishness, lack of inclination and dullness of activity.
+> Boredom is an attitude of neither joy nor sorrow. It dulls the spikes of all feelings and thus acts as an equaliser of emotions. It prevents us from getting stuck in the over-analysis of any subject or obsession with any point of view.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+
+Earlier chapters describe tamas as detachment and unemotional living on its positive side. Ch.19 makes this more specific: boredom (tamasic inertia applied inward) becomes a mechanism for **aura conservation** and **preparation for an emptier mind**. People who mistake extended boredom for depression miss its function — it is the spirit's own strategy for pulling attention away from pleasure-seeking and toward thoughtlessness.
+
+See [[concepts/boredom]] for the full treatment.
+
 ## Cross-references
 
 - [[concepts/kleshas]] — raga and dwesa are fuel for rajas and tamas; kleshas and gunas are interdependent

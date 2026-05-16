@@ -88,6 +88,26 @@ If a disciple's faith in his guru is shaken, the guru continues to serve the dis
 > "The most exquisite paradox… as soon as you give it all up, you can have it all. As long as you want power, you can't have it. The minute you don't want power, you'll have more than you ever dreamed possible."
 > — Guru Ram Dass, quoted in *Guru Sutra*, Ch.8, p.76
 
+## *Guru Sutra* Ch.19 — Faith, Entitlement, and Losing Faith at a Sthan
+
+### Entitlement vs. Faith
+
+Ch.19 introduces a sharp distinction: a disciple who expects faith to be *rewarded* is still in the stage of a child or employee, not a disciple.
+
+> Till such time that people have a sense of entitlement, they are playing the role of children and not disciples. Children or pets or employees can be accepted with a sense of entitlement because it is common nature and not superior nature.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+
+A disciple must look at faith not as an input for reward but as grace — the grace that enables deep faith in the guru. The moment a disciple expects a return, he remains a *disciple-in-the-making*.
+
+### Losing Faith at a Sthan
+
+When a regular visitor to a sthan loses faith, their connection weakens — and with it, the sthan's influence on their spiritual growth:
+
+> There have been examples of devotees losing faith and then regaining it, either months or years later. In such cases of lost and found, the spiritual growth of the devotees remains suspended during the phase of no-faith, even though they may continue to have spiritual experiences.
+> — Hingori, *Guru Sutra*, Ch.19, p.193
+
+Spiritual experiences may continue during the no-faith phase, but **evolution plateaus**. This is not framed as failure — but as a suspension requiring re-engagement to resume the climb.
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — The parent concept; faith is the binding force of the guru-disciple relationship

@@ -114,3 +114,4 @@ The dissolution of the jivaatma's identity into the absolution of the param-aatm
 - [[stories/hingori-bhakti-journey]] — the bhakti stage in detail
 - [[stories/ramakrishna-totapari-kali]] — Totapari's intervention illustrates the guru forcing a transit from Bhakti (devotion) to Divya Gyan (self-awareness) when the disciple cannot make that transition alone
 - [[concepts/customised-guidance]] — the guru's tailored training is what navigates the disciple through these six stages; Ch.11 provides the operational framework
+- [[concepts/satsang]] — for seekers at the Shraddha or Vishwas stage without access to a siddh guru, satsang provides collective energy and spiritual momentum as a support structure

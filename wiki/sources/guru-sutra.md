@@ -4,7 +4,7 @@ type: source
 sources: [guru_sutra_book.md]
 related: ["[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/guru-tattva]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/surrender]]", "[[concepts/faith]]"]
 created: 2026-04-28
-updated: 2026-05-14
+updated: 2026-05-16
 ---
 
 # Guru Sutra — Secrets of Spiritual Power
@@ -51,7 +51,7 @@ updated: 2026-05-14
 | Chapter 16 | Guru by Destiny | 179–182 | ✅ ingested 2026-05-14 |
 | Chapter 17 | Imagine Yourself as a Deity or Guru | 183–184 | ✅ ingested 2026-05-14 |
 | Chapter 18 | Self is Guru | 185–186 | ✅ ingested 2026-05-14 |
-| Chapter 19 | The Treasure Hunt | 187–199 | ⬜ pending |
+| Chapter 19 | The Treasure Hunt + Queries Answered | 187–199 | ✅ ingested 2026-05-16 |
 
 ## Key Themes
 
@@ -343,6 +343,22 @@ updated: 2026-05-14
 ## New Concepts from Ch.17
 
 - **Imagine Yourself as Deity/Guru** — thought experiment for refining the practice of reverence; switching sides to understand what genuine worship looks like from the recipient's perspective — see [[concepts/guru-vandana]] (Imagine Yourself as Deity section)
+
+## New Concepts from Ch.18
+
+- **Guru as mirror image of the self** — the guru is the disciple's own consciousness at a higher level of realisation; the relationship aims at convergence, not permanent hierarchy — see [[concepts/guru-tattva]]
+- **Gobind** — Kabir's term for the self or spirit within; appears in the foundational couplet on guru vs. inner self — see [[concepts/guru-tattva]]
+- **Kabir's hierarchy of spiritual types** — philosophic > scriptural > ritualistic > pilgrim-wanderers — see [[concepts/guru-tattva]]
+- **Meeting the guru within** — Ch.18 Golden Principle: the endpoint of discipleship — see [[concepts/guru-tattva]], [[concepts/self-worship]]
+
+## New Concepts from Ch.19
+
+- **Aatmic gyan** — intuitive knowledge; ability to connect unconscious/subconscious/conscious minds; 0.001% of people are intuitive; thoughtlessness and meditation as the paths — see [[concepts/aatmic-gyan]]
+- **Satsang** — the group dynamics of spiritual gathering; collective energy amplifies individual practice; association as energetic transfer — see [[concepts/satsang]]
+- **Boredom as positive tamas** — emotion equaliser and aura conservation method; the spirit instils boredom to dull outward focus; foundation of an emptier mind — see [[concepts/gunas]] (Ch.19 section)
+- **Faith without entitlement** — faith is grace, not reward-input; entitlement marks a disciple-in-the-making — see [[concepts/faith]] (Ch.19 section)
+- **Awelna inapplicable to fake gurus** — disconnecting from a non-siddh or pretender guru = freedom, not awelna — see [[concepts/guru-awelna]] (Ch.19 section)
+- **Shiv-shakti union and kul** — grihasth ashram as vehicle for kundalini rise beyond fourth chakra; the kul as a karmic-sharing network across generations; wife's 50% share in husband's deeds — see [[concepts/grihasth-ashram]] (Ch.19 section)
 
 ## New Concepts from Ch.18
 

@@ -87,6 +87,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[spiritual-attacks]] — Envy-driven black magic, yantra, mantra projection, dream attacks, hostile temple energies; Mahagayatri Mantra as defence
 - [[guru-vandana]] — Practice of revering the guru: touching feet (north/south pole energy exchange), meditation as telepathic channel, modesty of the guru, fame vs. anonymity, Guru Purnima, after-death worship
 - [[maturity-of-a-guru]] — The guru's developmental arc: forgiveness, patience, humility, tactfulness, collaboration, role-play, succession by merit, disciple-to-guru transition, and counterbalances
+- [[aatmic-gyan]] — Intuitive soul-knowledge; ability to connect unconscious/subconscious/conscious minds; 0.001% of people are intuitive; thoughtlessness as the path
+- [[satsang]] — Gathering of spiritualists; collective energy amplifies individual practice; group dynamics sustain spiritual momentum; association as energetic transfer
 
 ---
 
@@ -119,7 +121,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[karma-sutra]] — Hingori, 2015 · *Fully ingested (Ch.1–9)*
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
-- [[guru-sutra]] — Hingori, 2019 · *Ingested: Introduction + Ch.1–18*
+- [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19)*
 
 ---
 

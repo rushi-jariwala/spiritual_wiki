@@ -1188,6 +1188,32 @@ The sturdy disciple has mastered the practices of discipleship — consistency, 
 
 ---
 
+## The Spiritual Journey (*Guru Sutra* Ch.19)
+
+### The Car with Automatic Brakes
+*Illuminates: [[concepts/destiny]], [[concepts/guru-disciple]], [[concepts/customised-guidance]]*
+
+Car companies advertise mileage under controlled conditions — but life does not come with a "controlled-conditions" guarantee. The car of a spiritual aspirant's journey has automatic brakes that keep slowing it down: lethargy, temptations, de-stabilisation by the senses, planetary movements, hierarchy within the institution, the moods of the guru, the pull of extravagant social life.
+
+> Most car companies advertise the mileage a car can offer based on controlled conditions. However, life does not come with a 'controlled-conditions' guarantee, so it is vital to drive over potholes and other obstructions which are a part of one's destiny.
+> — Hingori, *Guru Sutra*, Ch.19, p.191
+
+The analogy reframes the eleven hurdles a disciple faces (guru's temperament, family interference, hierarchy, senses, lethargy, planetary forces, social/spiritual mixing, spiritual vanity, extravagance, financial pressure, poor health) not as failures of the system but as the road itself. Speed breakers are not design flaws; they are the terrain of a life lived in the physical dimension. See [[concepts/destiny]], [[concepts/customised-guidance]].
+
+---
+
+### Spiritual Association Rubs Off
+*Illuminates: [[concepts/satsang]], [[concepts/gunas]], [[concepts/aura]]*
+
+Like spending extended time with corporate intellectuals — some of their intellectual intensity, work ethic, and calibre of thinking will transfer — spending time with spiritually inclined people produces the same energetic osmosis. Conversely, time spent with those who are insincere about their purpose also transfers that insincerity.
+
+> If you keep the association of the corporate intellectuals, some of it will rub off on you. On the other hand, if you were to spend time with those who are not sincere about what they do, you too will acquire some of that insincerity of purpose.
+> — Hingori, *Guru Sutra*, Ch.19, p.192
+
+The Bluetooth principle (see [[concepts/aura]]) operates in group contexts: quality of association is not merely social but energetic. This is the mechanism by which satsang produces spiritual momentum that individual practice alone cannot replicate. See [[concepts/satsang]], [[concepts/gunas]].
+
+---
+
 ## The Guru and the Self (*Guru Sutra* Ch.18)
 
 ### The Guru as Mirror

@@ -168,6 +168,29 @@ See [[concepts/tantra]] — clarified in the same chapter as a spiritual science
 
 ---
 
+## *Guru Sutra* Ch.19 — Boredom as the Positive Side of Tamas
+
+*Guru Sutra* Ch.19 introduces a nuance that enriches the portrait of tamas: it has a positive, spiritually useful dimension when properly understood.
+
+Tamas as inertia gets reflected as lethargy, sluggishness, lack of inclination, and dullness of activity. In ordinary life this is a drag. But the same quality, when viewed differently, produces **boredom** — and boredom is spiritually valuable.
+
+> Boredom is an attitude of neither joy nor sorrow. It dulls the spikes of all feelings and thus acts as an equaliser of emotions. It prevents us from getting stuck in the over-analysis of any subject or obsession with any point of view. It also restrains us from being over-indulgent with likes/dislikes, attractions/distractions, activity/reactivity, etc.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+
+People commonly mistake boredom for depression — but an extended state of excitement is equally inapt. Boredom is the spirit's method of drawing the practitioner's attention inward:
+
+> Our spirit tries to instil boredom to dull our focus on the outside or external environment. By being too focused on the external environment, we deplete our aura by wasting it on pleasure seeking.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+
+Boredom thus serves as:
+- **Emotion equaliser** — flattening the oscillation between highs and lows
+- **Aura conservation method** — reducing the outward dispersal of shakti through sensory engagement
+- **Foundation of an emptier mind** — the precondition for [[concepts/citt-vritti-nirodh]]
+
+> [!tip] An evolving disciple is taught to use extended periods of boredom — even to seek them out — rather than fleeing inward silence for activity or entertainment. Tamas as boredom is the guna's redemptive form: the same inertia that drags the uninitiated becomes the stillness the advanced practitioner cultivates.
+
+---
+
 ## Cross-references
 
 - [[concepts/kleshas]] — raga and dwesa are fuel for rajas and tamas; kleshas and gunas are interdependent

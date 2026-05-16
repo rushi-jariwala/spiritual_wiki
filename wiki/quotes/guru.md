@@ -956,3 +956,45 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > Golden Principle: When a disciple has unfolded his own myth, realised the inner truth and accepted the purpose of his cosmic role-play, he has met his guru within.
 > — Hingori, *Guru Sutra*, Ch.18, p.186
 [[concepts/guru-tattva]] · [[concepts/self-worship]] · [[concepts/guru-disciple]]
+
+---
+
+## The Treasure Hunt / Queries Answered (*Guru Sutra* Ch.19)
+
+### On Finding a Guru
+
+> If you have been successful in finding a guru who has been able to motivate you to climb the spiritual ladder, consider yourself a winner in the treasure hunt of life.
+> — Hingori, *Guru Sutra*, Ch.19, p.188
+[[concepts/guru-disciple]] · [[entities/mahaguru]]
+
+---
+
+### Guru vs. Mahaguru — The Definitive Distinction
+
+> He who rears disciples is a guru. He who rears gurus is a Mahaguru.
+> — Hingori, *Guru Sutra*, Ch.19, p.196
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[concepts/maturity-of-a-guru]]
+
+---
+
+### On Boredom as Equanimity
+
+> Boredom is an attitude of neither joy nor sorrow. It dulls the spikes of all feelings and thus acts as an equaliser of emotions.
+> — Hingori, *Guru Sutra*, Ch.19, p.198
+[[concepts/gunas]] · [[concepts/citt-vritti-nirodh]]
+
+---
+
+### On Faith Without Entitlement
+
+> A disciple must look at faith, not as an input for reward but as grace that ensures he has attained deep faith in his guru. Till such time he continues to expect a reward, he remains a disciple-in-the-making.
+> — Hingori, *Guru Sutra*, Ch.19, p.199
+[[concepts/faith]] · [[concepts/guru-disciple]]
+
+---
+
+### On Satsang and Association
+
+> I would suggest that you carefully choose the people to mingle with and make sure that their aspirations and intentions match yours.
+> — Hingori, *Guru Sutra*, Ch.19, p.192
+[[concepts/satsang]] · [[concepts/guru-disciple]] · [[concepts/gunas]]

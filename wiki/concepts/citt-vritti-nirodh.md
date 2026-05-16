@@ -120,3 +120,5 @@ Gurudev carried the burden of knowing the past, present, and future of everyone 
 > — Gurudev (Mallik = the param-aatma), *The Guru of Gurus*, p.210
 
 See [[concepts/hygiene]] for the full mental hygiene section.
+
+> [!tip] The nirodh state — sustained cessation of thought-ripples — is the same internal condition that makes [[concepts/aatmic-gyan]] possible. Aatmic gyan (intuitive soul-knowledge) can only surface when the flurry of thoughts, feelings, and emotions has subsided enough for the spirit's signal to reach the conscious mind.

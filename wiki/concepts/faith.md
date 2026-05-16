@@ -88,6 +88,19 @@ If a disciple's faith in his guru is shaken, the guru continues to serve the dis
 > "The most exquisite paradox… as soon as you give it all up, you can have it all. As long as you want power, you can't have it. The minute you don't want power, you'll have more than you ever dreamed possible."
 > — Guru Ram Dass, quoted in *Guru Sutra*, Ch.8, p.76
 
+## Faith Without Entitlement (*Guru Sutra* Ch.19)
+
+A Q&A in the book's closing chapter addresses why devotees and disciples expect their faith to be rewarded — and why this expectation marks them as disciples-in-the-making rather than genuine disciples.
+
+The sense of entitlement is natural in children, pets, or employees — *common nature*, not *superior nature*. These roles carry entitlement as a built-in feature of the relationship. But a disciple is an intern being groomed for a more advanced role. That role requires moving beyond entitlement:
+
+> A disciple must look at faith, not as an input for reward but as grace that ensures he has attained deep faith in his guru. Till such time he continues to expect a reward, he remains a disciple-in-the-making.
+> — Hingori, *Guru Sutra*, Ch.19, p.199
+
+This reframes what faith is. It is not a deposit made in expectation of a return — a transaction. It is a *state of being* — the realisation that the depth of one's faith is itself the grace, and the guru's guidance is the fruit of that faith rather than its payoff.
+
+> [!tip] The transition from "faith as transaction" to "faith as grace" maps onto the larger arc from Stage 2 (devotee with emotional oscillation and expectation) to Stage 4 (acceptance, without agenda). See [[concepts/guru-disciple]] for the four-stage spectrum.
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — The parent concept; faith is the binding force of the guru-disciple relationship

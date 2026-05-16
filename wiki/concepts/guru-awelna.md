@@ -66,6 +66,17 @@ The Bade Jainsahib story leads to a teaching that goes beyond awelna:
 
 Identifying with the consciousness supreme is the highest attainment. Identifying with the physical or astral self inflated by spiritual experiences is the trap. Spiritual power must be received with humility and grace, not allowed to inflate one's ego.
 
+## Awelna Does Not Apply to Fake Gurus (*Guru Sutra* Ch.19)
+
+A Q&A in the closing chapter clarifies an important boundary case: what happens when a guru who has misled his disciples is exposed, and disciples sever ties?
+
+> Guru awelna may not apply to a guru who is not siddh or a pretender to the title.
+> — Hingori, *Guru Sutra*, Ch.19, p.232
+
+The reasoning is direct: fooling people spiritually is itself an unforgivable act, prone to punishment by destiny. A pretender to the title of guru has already committed the graver wrong. Disconnecting from such a person is not awelna — it is *freedom*.
+
+> [!tip] The awelna concept presupposes a genuine siddh guru with whom the disciple has a real karmic bond. The inner consciousness that punishes the disciple for awelna does so because the guru represents "the very icon of its ambitions." A non-siddh or fraudulent guru does not occupy that position in the disciple's inner life — so the punishing mechanism does not activate. The disciple's freedom is not just permissible but correct.
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — the relationship within which awelna is defined

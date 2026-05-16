@@ -60,6 +60,23 @@ The empirical evidence Hingori offers: most of Gurudev's householder disciples b
 
 Gurudev's own preference for giving diksha to householders (following the precedent of Guru Nanak Dev — also a householder) is not incidental. It reflects the teaching that the householder's field is where the most concentrated spiritual transmutation occurs. See [[concepts/diksha]] for the full treatment of diksha in Gurudev's tradition.
 
+## *Guru Sutra* Ch.19 — Celibacy, Shiv-Shakti Union, and the Kul
+
+A Q&A in the book's closing chapter addresses why siddh gurus typically practise celibacy even though Gurudev prescribed the grihasth ashram. The answer reveals the deeper metaphysics of householder life.
+
+**Why siddh gurus practise celibacy:** A siddh guru has evolved to the point where realisation of the consciousness supreme is achieved or theoretically close. He is neither interested in coupling with another physical form nor pliable to expending energy for sexual pleasure. Sexual enjoyment keeps energy rooted to the lower chakras — so from his vantage, it is a distraction.
+
+**Why the householder path is valid:** The householder perceives sex as a path to higher consciousness through the union of shiv and shakti. Marriage is the opportunity to inhabit the role of shiv or purusha (male) and to recognise in one's wife the play of prakriti or shakti (female). The complementarity of the two energies offers completeness:
+
+> The dynamic energy of prakriti in the female and the manifestation of shiv or purusha in the male partner complement each other and offer completeness through sexual union. This may not happen at a level of physical consciousness, but it can, at levels deeper. Spiritually, this is interpreted as the rise of the kundalini beyond the heart or fourth chakra.
+> — Hingori, *Guru Sutra*, Ch.19, p.195
+
+The qualification: the sexual energy generated is short and oscillatory. It gets wasted if the bodies of both partners do not have the holding capacity to absorb it. The goal is to internalize this energy rather than dissipate it.
+
+**The kul dimension:** A further advantage of grihasth ashram is the formation of a *kul* (family lineage). All members of the same family share common genetic traits (conditioning) and partake in each other's karmas — across both ancestors and descendants. As a rite in Hindu marriage ceremonies, a commitment is made that the wife will be entitled to 50% of the benefit accrued from her husband's deeds.
+
+> [!tip] The grihasth ashram is thus spiritually productive in two directions: (1) the shiv-shakti union as a possible vehicle for kundalini ascent; (2) the kul as a karmic-sharing network across generations. Neither dimension is available to the celibate renunciate. The two paths are not in competition — they are for different stages of evolution.
+
 ## Cross-references
 
 - [[entities/mahaguru]] — lived the teaching himself; returned from sanyaas on divine instruction

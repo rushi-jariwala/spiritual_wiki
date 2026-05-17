@@ -1,7 +1,7 @@
 ---
 title: Buddhe Baba
 type: entity
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]"]
 created: 2026-04-25
 updated: 2026-04-25
@@ -46,7 +46,7 @@ Buddhe Baba appeared not only to Gurudev but to several members of his family:
 Two theories circulate:
 
 1. **A realised manifestation of Shiv** — consistent with Gurudev's own hints and with the high calibre of the guidance provided.
-2. **Sitaram ji of Benaras** — the guru of Gurudev's initial spiritual mentor, [[entities/sitaramji-dasua|Sitaramji of Dasua]]. Sitaram ji of Benaras was an accomplished saint who — like Jesus and Guru Nanak Dev — *went seh sharir after death:* he dematerialised his physical body by reconfiguring its atomic structure, a feat accomplished by only a few spiritualists in history. Given this elevated stature, he qualifies to be called Shiv, which compounds rather than resolves the confusion.
+2. **Sitaram ji of Benaras** — the guru of Gurudev's initial spiritual mentor, Sitaram ji of Dasua. *Witnessing Greatness* Ch.01 (via RC Malhotra ji's testimony) confirms that both Sitaram ji of Dasua *and* Sitaram ji of Benaras mentored young Gurudev at the Sheetla Mata temple near his home in Hariana: *"Sitaram ji of Dasua began living at the Sheetla Mata temple near Gurudev's house. His guru, Sitaram ji of Benaras, who lived in Haridwar, later joined him. They both mentored Gurudev."* Sitaram ji of Benaras was an accomplished saint who — like Jesus and Guru Nanak Dev — *went seh sharir after death:* he dematerialised his physical body by reconfiguring its atomic structure, a feat accomplished by only a few spiritualists in history. Given this elevated stature, he qualifies to be called Shiv, which compounds rather than resolves the confusion.
 
 > Gurudev's hints at Buddhe Baba being Shiv only compound the confusion. Since the mahaguru never disclosed Buddhe Baba's identity, we can only guess but never be sure.
 > — Hingori, *The Guru of Gurus*, p.50

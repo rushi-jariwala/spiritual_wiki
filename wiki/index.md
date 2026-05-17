@@ -89,6 +89,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[maturity-of-a-guru]] — The guru's developmental arc: forgiveness, patience, humility, tactfulness, collaboration, role-play, succession by merit, disciple-to-guru transition, and counterbalances
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
+- [[kalas]] — 16+ divine qualities that manifest in a person or deity; a mahaguru's range exceeds these; sharp humour as an essential kala
+- [[reverse-engineered-destiny]] — the future shapes the past for beings of exceptional stature; Gurudev's early life as the illustration; *Witnessing Greatness* interpretive lens
 
 ---
 
@@ -122,6 +124,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
+- [[witnessing-greatness]] — Hingori · *Eyewitness biography of Gurudev; Ch.01 ingested*
 
 ---
 
@@ -151,11 +154,13 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Stories
 
-- [[gurudev-birth-cobra]] — Hooded cobra on the infant's crib; sadhu predicts "someone like Shiv" at 35
+- [[gurudev-birth-prophecy-grandfather]] — Grandfather's pilgrimage; Bhrighu Samhita prophecy; unusual downpour at birth; naming (*Witnessing Greatness*)
+- [[gurudev-birth-cobra]] — Hooded cobra on the infant's crib; Rashmi ji's testimony; sadhu predicts "someone like Shiv" at 35
 - [[gurudev-illness-baba-balak-nath]] — Bedridden 1948; miraculous cure via jal; triggered his spiritual quest
 - [[gurudev-chirag-flood]] — Wades knee-deep floodwater every Thursday to honour his dargah ritual
 - [[gurudev-cow-milk-pusa]] — Helps woman milk her cow; chance meeting leads to PUSA and IARI career
 - [[gurudev-kl-nagpal-jigsaw]] — Mistaken hiring brings Nagpal ji and Gurudev together; Hingori's "jigsaw coincidence" framing
+- [[dwarkanath-ji-gurudev-roommate]] — Roommate years: money detachment, charisma, night paath, movie tickets, Gurgaon reunion (*Witnessing Greatness*)
 - [[gurudev-agra-train-prediction]] — Gurudev predicts friends won't reach Agra; train delayed five hours; verified
 - [[hingori-bina-station-temple]] — Hingori convulses lighting a diya; explains why Gurudev never entered Shiv temples
 - [[hingori-arthritis-cure]] — The founding moment of Hingori's discipleship

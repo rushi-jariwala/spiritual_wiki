@@ -2,7 +2,7 @@
 title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]"]
 created: 2026-04-12
 updated: 2026-04-25
@@ -14,7 +14,7 @@ updated: 2026-04-25
 
 ## Status
 
-**Ingested through Supernature (pp.231–248).** Full biography now covers birth through death, legacy, and supernature chapter. Who's Who and Glossary back matter pending.
+**Ingested through Supernature (pp.231–248) from *The Guru of Gurus*; *Witnessing Greatness* Ch.01 ingested.** Full biography covers birth through death, legacy, and supernature. Who's Who and Glossary back matter from GoG pending. WG Ch.02–20 pending.
 
 ## Who
 
@@ -24,28 +24,35 @@ Gurudev has also been referred to as the **Guru of Gurus** and, in at least one 
 
 ## Early Life
 
-*(Primary source: [[sources/guru-of-gurus]], Ch.1, pp.6–25. Secondary: biographical introduction to Aatma Sutra.)*
+*(Primary sources: [[sources/guru-of-gurus]], Ch.1, pp.6–25; [[sources/witnessing-greatness]], Ch.01. Secondary: biographical introduction to Aatma Sutra.)*
 
 **Birth and name.** Gurudev was born in early spring of **1938** in **Hariana**, a small hamlet in the Hoshiarpur district of Punjab. His father was **Bhagat Ram ji**, a chemicals trader; his mother **Ram Pyari ji**. He had an elder sister, **Bimla**. His parents had been unable to conceive a second child; his paternal grandfather sought divine intervention from a sant at the Golden Temple, who gave Gurudev's mother *jal* (sanctified water) to drink for forty days. Gurudev was conceived shortly after.
 
-His given name was intended to be **Sant Prakash** (enlightened saint) on the sant's instruction. But it rained heavily at his birth, and his grandmother — seeing this as an auspicious omen from Indra, the rain god — insisted on a name containing 'Indra.' He was named **Rajinder**, meaning King of Kings. The Brighu Samhita had already foretold: *"An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."* See [[entities/bhrigu]].
+*Witnessing Greatness* adds the story of the grandfather's pilgrimage to Gurudwara Santoksar Sahib in Amritsar: a sage there gifted two fruits and *jal*, hinting at the name Santprakash. But the Bhrighu Samhita had already foretold a *divya aatma* with a different name to be born in Hariana. When Gurudev was born, an unusual downpour was seen as auspicious; his **grandmother** interpreted the rain as a significant omen and chose a name signifying mastery over rain — the very name Rishi Bhrigu had foretold. He was named **Rajinder**, meaning King of Kings. See [[stories/gurudev-birth-prophecy-grandfather]] and [[entities/bhrigu]].
 
 **Childhood signs.** In the weeks after his birth, his mother found a **hooded cobra seated on him** in his crib on the terrace. The cobra slid away; a temple priest told the family it was an excellent omen of exalted future. A sadhu who visited a few years later told his mother he would become a powerful saint, *"someone like Shiv,"* when he turned thirty-five. See [[stories/gurudev-birth-cobra]].
 
 Around age five he joined **DAV Modern School** in Hariana, studying Hindi, Urdu, and Farsi. His schoolmates remembered him as easy-going and mischievous.
 
-**The illness of 1948.** When he was around ten, he fell gravely ill after consuming food from an acquaintance and became bedridden. His parents carried him across kilometres of mountain road to the temple of **Baba Balak Nath** in Himachal Pradesh. A disciple of Baba Balak Nath gave him *jal* to drink; he vomited buttermilk and *masaan* (ashes) and recovered. [[entities/mataji|Mataji]] later recalled that this miraculous recovery may have triggered his quest for spiritual knowledge. See [[stories/gurudev-illness-baba-balak-nath]].
+**The illness of 1948.** When he was in the fifth or sixth grade, he fell gravely ill after consuming food from an acquaintance and became bedridden for **about two years** (Mataji's testimony, *Witnessing Greatness*). His parents carried him across approximately 103 km of mountain road to the temple of **Baba Balak Nath** in Hamirpur, Himachal Pradesh. A disciple of Baba Balak Nath gave him *jal* to drink; he vomited undigested buttermilk and *masaan* (ashes) and recovered. Mataji later recalled: *"He struggled with the idea of an external force wielding such power over his body for so long. This unsettling realisation catalysed his deep dive into spirituality."* See [[stories/gurudev-illness-baba-balak-nath]].
 
 **Spiritual beginnings.** Healed, he returned to mischievous ways with his schoolmate Subbhash Sabharwal — picking fruits from fields on the way home. At one such escapade at a dargah, they were caught by a fakir who lived there:
 
 > During a fruit picking escapade at a dargah, Gurudev and Subbhash were caught red-handed by a fakir (mystic) who lived there. He asked the boys to bow their heads at the shrine to atone for the act. They did as instructed. Following this incident, Gurudev returned to the dargah regularly to spend time with the fakir. This time, the desire was for the fruit of spiritual knowledge.
 > — Hingori, *The Guru of Gurus*, p.11
 
-He also skipped school regularly to spend time at the **Sheetla Devi temple** near his home and with sadhus and mystics who visited. His first formal spiritual mentor was **Sitaramji of Dasua**, who himself had a guru — **Sitaramji of Benaras**. Under Sitaramji of Dasua's guidance, Gurudev acquired several *siddhis* (spiritual attainments), which were mediocre compared to the powers he later developed as a mahaguru; he renounced all of them before his ascent. Eventually Gurudev came to have a second, more mysterious mentor whom he addressed as Buddhe Baba. He also lit a *chirag* (oil lamp) at Sadak Shah Wali's dargah every Thursday — once wading through knee-deep floodwater to do so. See [[stories/gurudev-chirag-flood]].
+He also skipped school regularly to spend time at the **Sheetla Devi temple** near his home and with sadhus and mystics who visited. His childhood friend **Subbhash Sabbharwal ji** recalls their visits to a dargah on the way home from school:
+
+> "On our way home from school was a dargah. We would visit it to pluck bers from the trees that grew nearby. The fakir who lived there would say, 'You create a lot of trouble; at least bow your head here.' I found out much later that Gurudev often visited the dargah alone."
+> — Subbhash Sabbharwal ji, *Witnessing Greatness*, Ch.01
+
+His first formal spiritual mentor was **Sitaramji of Dasua**, who lived at the Sheetla Mata temple near Gurudev's house. His own guru — **Sitaramji of Benaras**, who lived in Haridwar — later joined him, and both mentored Gurudev together (*Witnessing Greatness*, RC Malhotra ji's testimony). Under their guidance, Gurudev acquired several *siddhis* (spiritual attainments), which were mediocre compared to the powers he later developed as a mahaguru; he renounced all of them before his ascent. Eventually Gurudev came to have a second, more mysterious mentor whom he addressed as Buddhe Baba. He also lit a *chirag* (oil lamp) at Sadak Shah Wali's dargah every Thursday — once wading through knee-deep floodwater to do so. See [[stories/gurudev-chirag-flood]].
 
 Even as a teenager his pocket money went to food for animals, birds, and fish, with any remainder spent on soft drinks for friends. He rarely spent on himself. As **Mohan Singh Chira** (a Hariana native, later a devotee) recalled: *"Even as a teenager, his heart was bigger than his chest!"*
 
 He graduated high school with average marks amid ongoing complaints from his teachers, and his parents relocated him to Delhi to pursue career opportunities.
+
+**Early spiritual universality.** Gurudev was born into Hinduism but embodied spiritual universality from the outset. He visited the local dargah every Thursday to light a *diya* — even innovating with handmade mud or clay lamps when floods prevented normal diyas (*Gaggu ji's testimony, Witnessing Greatness*). Subbhash Sabbharwal ji, his Hariana classmate, recalled: *"Gurudev never had a keen interest in academics. To be honest, neither of us were at the top of our class."* Hingori reframes this as foreknowledge: destined for omniscience through third-eye awakening, conventional education held no relevance for him. See [[concepts/reverse-engineered-destiny]].
 
 **Early Delhi years (1955–1958).** In 1955, Gurudev moved into his **paternal uncle's house** at **Shahdara, Delhi**.
 
@@ -66,6 +73,8 @@ The friends lived frugally — plain parathas for breakfast and lunch, occasiona
 - Whatever he predicted came true. When Dwarkanath ji and Nagpal ji planned a day trip to Agra without him, Gurudev predicted they wouldn't make it. The train was delayed five hours; they returned home. See [[stories/gurudev-agra-train-prediction]].
 - An old radio in the apartment would not turn on — but whenever Gurudev tapped its rusting body, it would begin to play.
 - Generosity that invited exploitation: when Dwarkanath ji pointed this out, Gurudev said, *"I am aware of that, but when someone asks for help, I cannot refuse."*
+
+Dwarkanath ji's testimony from *Witnessing Greatness* adds texture to the roommate years: Gurudev's detachment from money was apparent from the start — he refused leftover change from transactions, spent on others, and would occasionally produce a bundle of notes from his pocket in circumstances that demanded nisvarth seva. His night meditations (rising to wrap in a blanket and do *paath* for hours while his roommates slept) and predictions that invariably came true were also remarked upon. The Gurgaon reunion years later moved Dwarkanath ji to sit on the floor out of respect: *"His presence was so commanding that it seemed to dissipate any negativity around us."* See [[stories/dwarkanath-ji-gurudev-roommate]].
 
 Despite the fun-loving, cigarette-smoking exterior, when Gurudev told Jain Saheb he was *"destined to become a guru to many,"* Jain Saheb laughed. Years later Jain Saheb became one of his most powerful disciples, while Dwarkanath ji and Nagpal ji became devotees.
 
@@ -395,10 +404,12 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 
 ## Notable Stories
 
-**Early life (from *The Guru of Gurus*)**
-- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; priest calls it a good omen
-- [[stories/gurudev-illness-baba-balak-nath]] — bedridden in 1948; miraculous recovery at Baba Balak Nath; Mataji's testimony
-- [[stories/gurudev-chirag-flood]] — wades through knee-deep floodwater every Thursday to light a chirag
+**Early life (from *The Guru of Gurus* and *Witnessing Greatness*)**
+- [[stories/gurudev-birth-prophecy-grandfather]] — grandfather's pilgrimage; Bhrighu Samhita prophecy; downpour at birth; naming (*WG Ch.01*)
+- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; Rashmi ji's testimony; priest calls it a good omen
+- [[stories/gurudev-illness-baba-balak-nath]] — bedridden about two years; miraculous recovery at Baba Balak Nath; Mataji's fuller testimony
+- [[stories/gurudev-chirag-flood]] — wades floodwater every Thursday; Gaggu ji on clay lamp innovation
+- [[stories/dwarkanath-ji-gurudev-roommate]] — roommate years; money detachment; charisma; night paath; Gurgaon reunion (*WG Ch.01*)
 - [[stories/gurudev-cow-milk-pusa]] — helps woman milk her cow; chance meeting leads to career at IARI
 - [[stories/gurudev-kl-nagpal-jigsaw]] — KL Nagpal's mistaken hiring; the "jigsaw coincidence" framing
 - [[stories/gurudev-agra-train-prediction]] — predicts friends won't reach Agra; train delayed five hours; verified
@@ -458,6 +469,8 @@ See [[quotes/guru]].
 - [[stories/shambhuji-five-headed-form]] — Mahashivratri 1974; Shambhu ji witnesses five-headed form
 - [[stories/gurudev-invisible-srinagar-shop]] — Srinagar; purchased spare parts without being recognised by his own devotee
 - [[sources/guru-of-gurus]] · [[sources/witnessing-greatness]] — full biographical sources
+- [[concepts/reverse-engineered-destiny]] — the interpretive lens of *Witnessing Greatness* Ch.01: his destiny as mahaguru shaped every circumstance of his early life
+- [[concepts/kalas]] — the 16+ divine qualities; Gurudev embodied these from childhood, including the kala of sharp humour
 
 ## Open Questions
 

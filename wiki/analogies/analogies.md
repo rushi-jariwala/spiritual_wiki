@@ -1,7 +1,7 @@
 ---
 title: Analogies
 type: analogy-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: []
 created: 2026-04-15
 updated: 2026-05-14
@@ -1246,4 +1246,28 @@ The climber ascends for himself; the instructor trains others to ascend. Both de
 > — Hingori, *Guru Sutra*, Ch.19, p.192
 
 The satsang teaching reframed through a corporate parallel: professional association shapes professional character; spiritual association shapes spiritual character. The mechanism is the same — sustained proximity transmits quality. This is why choosing one's spiritual company is as consequential as choosing one's workplace.
+
+---
+
+## Reverse-Engineered Destiny (*Witnessing Greatness*)
+
+### A Fertile Field Prepared for the Seeds of the Future
+*Illuminates: [[concepts/reverse-engineered-destiny]], [[entities/mahaguru]], [[concepts/destiny]]*
+
+> "His early spiritual pursuits were an assortment of practices as he meandered through various teachings without a clear path. The undercurrent of his journey was deeply rooted in the significant spiritual power inherited from his past lives and his destined future as the Guru of Gurus. At the time, though, the present was like a fertile field being prepared for the seeds of the future."
+> — Hingori, *Witnessing Greatness*, Ch.01
+
+Gurudev's years of undirected spiritual wandering before meeting Buddhe Baba are reframed not as aimlessness but as preparation. The field metaphor captures the distinction between active planting and passive conditioning: the soil is being turned, the weeds removed, the ground made receptive — even though no seed has yet been sown. The planting (Buddhe Baba's guidance, the siddhi discharge, the first healing) comes later, but only because the field had already been cultivated.
+
+---
+
+### Back to the Future — The Jigsaw Pre-Assembled
+*Illuminates: [[concepts/reverse-engineered-destiny]], [[concepts/destiny]], [[entities/mahaguru]]*
+
+> "It was as if destiny had reverse-engineered the perfect assembly of souls, aligning their births and careers to facilitate their meeting and training under Gurudev."
+> — Hingori, *Witnessing Greatness*, Ch.01
+
+The chapter title — "Back to the Future" — frames the entire reading method: Gurudev's early life is intelligible only by reading backwards from the mahaguru he became. A jigsaw assembled in reverse: you see the completed image first, then understand why each piece had to be exactly where it was. The "accidents" of his youth — disinterest in academics, soil-surveyor posting, clerical hiring errors, chance encounters — are revealed as structural supports for a future already decided. See also [[concepts/reverse-engineered-destiny]], [[stories/gurudev-kl-nagpal-jigsaw]].
+
+---
 

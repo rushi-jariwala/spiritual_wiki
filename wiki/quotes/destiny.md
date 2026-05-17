@@ -1,7 +1,7 @@
 ---
 title: Quotes on Destiny
 type: quote-collection
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[concepts/destiny]]", "[[concepts/mahurat]]", "[[concepts/prarabdh-karma]]", "[[concepts/doer-ship]]", "[[entities/bhrigu]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-18
 updated: 2026-05-14
@@ -40,6 +40,16 @@ updated: 2026-05-14
 > "An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."
 > — Brighu Samhita, cited in Hingori, *The Guru of Gurus*, p.8
 [[entities/bhrigu]] · [[entities/mahaguru]] · [[stories/gurudev-kl-nagpal-jigsaw]]
+
+## Reverse-Engineered Destiny (*Witnessing Greatness*)
+
+> "Every element of Gurudev's early life — from the auspicious signs at his birth to his professional affiliations — was strategically reverse-engineered to sculpt him into the spiritual titan he was to become."
+> — Hingori, *Witnessing Greatness*, Ch.01
+[[concepts/reverse-engineered-destiny]] · [[entities/mahaguru]]
+
+> "The notion that the future shapes the strategies of the past finds a compelling illustration in young Gurudev's disinterest in conventional education. Though he did not know it at the time, he was destined for omniscience, a state he would achieve through the awakening of his third eye."
+> — Hingori, *Witnessing Greatness*, Ch.01
+[[concepts/reverse-engineered-destiny]] · [[entities/mahaguru]] · [[concepts/destiny]]
 
 ## Guru by Destiny (*Guru Sutra*, Ch.16)
 

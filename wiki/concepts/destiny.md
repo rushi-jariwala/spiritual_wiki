@@ -1,8 +1,8 @@
 ---
 title: Destiny
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
-related: ["[[concepts/mahurat]]", "[[concepts/samskars]]", "[[concepts/prarabdh-karma]]", "[[concepts/karma]]", "[[concepts/doer-ship]]", "[[concepts/kaarna-sharir]]", "[[concepts/self-acceptance]]", "[[concepts/guru-disciple]]", "[[concepts/guru-tattva]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
+related: ["[[concepts/mahurat]]", "[[concepts/samskars]]", "[[concepts/prarabdh-karma]]", "[[concepts/karma]]", "[[concepts/doer-ship]]", "[[concepts/kaarna-sharir]]", "[[concepts/self-acceptance]]", "[[concepts/guru-disciple]]", "[[concepts/guru-tattva]]", "[[concepts/reverse-engineered-destiny]]"]
 created: 2026-04-18
 updated: 2026-05-14
 ---
@@ -148,3 +148,4 @@ See also [[stories/guru-sutra-ch16-poem]] — the verse: *"The stars issued an a
 - [[stories/hingori-meat-chopper-guilt]] — the lived example: accepting destiny dissolves guilt over a destined act
 - [[stories/guru-sutra-ch16-poem]] — verse: "The stars issued an astral edict…"
 - [[stories/hingori-vision-100-spirits]] — vision of cream-robed spirits descending; celestial beings finding mahurats to be born together
+- [[concepts/reverse-engineered-destiny]] — *Witnessing Greatness* Ch.01 extends destiny to a specific reading mode: for beings of exceptional stature, the future shapes the past; the mahaguru's entire early life was configured by his destiny as Guru of Gurus

@@ -80,3 +80,4 @@ The Aatma Sutra passage is not a softer version of the Karma Sutra teaching — 
 - [[concepts/samskars]] — what destiny is made of, and what doer-ship creates
 - [[synthesis/samskar-loop]] — the four-link loop; destiny + doer-ship are the entry and exit points
 - [[practices/karmic-worksheet]] — daily practice at the doer-ship layer
+- [[concepts/reverse-engineered-destiny]] — *Witnessing Greatness* extension: for a mahaguru, the future fixes the past rather than vice versa; a biographical application of this synthesis at the highest scale

@@ -1,10 +1,10 @@
 ---
 title: Gurudev Wades the Flood to Light the Chirag
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[practices/tapasya]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
+related: ["[[entities/mahaguru]]", "[[practices/tapasya]]", "[[concepts/faith]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-18
 ---
 
 # Gurudev Wades the Flood to Light the Chirag
@@ -15,11 +15,24 @@ updated: 2026-04-25
 
 — Hingori, *The Guru of Gurus*, pp.12–13
 
+*Witnessing Greatness* adds Gaggu ji's (Gurudev's nephew's) testimony, which extends the detail:
+
+> "Every Thursday, without exception, Gurudev would light a diya at the dargah. Even when nature's fury caused floods, or traditional diyas were hard to come by, he would innovate—sometimes using a handmade mud or clay lamp."
+
+— Gaggu ji, *Witnessing Greatness*, Ch.1, p.11
+
+*Witnessing Greatness* also adds Subbhash Sabbharwal ji's (childhood friend's) recollection of how the visits began:
+
+> On the way home from school was a dargah. They would visit it to pluck bers (jujubes) from the trees that grew nearby. The fakir who lived there would say, "You create a lot of trouble; at least bow your head here." Subbhash ji found out much later that Gurudev often visited the dargah alone.
+
+— Subbhash Sabbharwal ji, *Witnessing Greatness*, Ch.1, p.11
+
 ## Source
 
-*The Guru of Gurus*, "Spiritual Beginnings," pp.12–13
+*The Guru of Gurus*, "Spiritual Beginnings," pp.12–13; *Witnessing Greatness*, Ch.1, pp.11–12.
 
 ## Related Concepts / Entities
 
-- [[entities/mahaguru]] — his Thursday ritual; one of the earliest markers of his spiritual discipline
-- [[practices/tapasya]] — wading through floodwater to honour a commitment is the texture of tapasya; discipline preceding formal training
+- [[entities/mahaguru]] — his Thursday ritual; one of the earliest markers of his spiritual discipline; cross-faith in character from childhood
+- [[practices/tapasya]] — wading through floodwater to honour a commitment is the texture of tapasya; improvising with mud and clay when conventional lamps were unavailable shows the discipline was about the act, not the instrument
+- [[concepts/faith]] — the dargah devotion was cross-faith (born Hindu, devoted to a Sufi saint's shrine); embodied the "connect rather than convert" principle from the very beginning

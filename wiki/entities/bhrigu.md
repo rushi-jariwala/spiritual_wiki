@@ -1,10 +1,10 @@
 ---
 title: Rishi Bhrigu
 type: entity
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/destiny]]", "[[stories/bhrigu-dr-chandra]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
+related: ["[[concepts/destiny]]", "[[stories/bhrigu-dr-chandra]]", "[[entities/mahaguru]]", "[[stories/gurudev-santoksar-birth-prophecy]]"]
 created: 2026-04-18
-updated: 2026-05-14
+updated: 2026-05-18
 ---
 
 # Rishi Bhrigu
@@ -31,6 +31,8 @@ In Hingori's framework, Bhrigu's prophetic ability is a demonstration that [[con
 
 The prophecy named both the birthplace and the initial letter of the name — fulfilled by the name Rajinder. This is presented alongside the grandmother's spontaneous choice of a name containing 'Raj,' suggesting the Samhita's prediction shaped the outcome through natural human decisions, not divine override. Sage Bhrigu "knew that this realised soul was destined to be named Rajinder and not Sant Prakash."
 
+*Witnessing Greatness* Ch.1 (Rashmi ji's account) adds the context in which the competing name "Santprakash" arose: the grandfather's pilgrimage to Gurudwara Santoksar Sahib in Amritsar, where a sage gifted two fruits and jal and hinted at "Santprakash" for the coming child. The Bhrigu prophecy preempted this — "foretold the rise of a *divya aatma* with a different name." The grandfather's pilgrimage, the sage's hint, and the Bhrigu override together form a layered illustration of how destiny operates through — rather than around — human choices. See [[stories/gurudev-santoksar-birth-prophecy]].
+
 ## The Saharanpur Reading — Gurudev as Gann (*Guru Sutra*, Ch.16)
 
 *Guru Sutra* Ch.16 adds a second Brighu Samhita reading about Gurudev — distinct from the birth prophecy in *The Guru of Gurus*. A few years before Gurudev's passing, some of his disciples travelled to **Saharanpur** in northern India to learn more about his life from this ancient treatise. What they found was extraordinary:
@@ -45,6 +47,7 @@ Hingori comments: "The question that pops up is: How could a saint who lived tho
 ## Notable Stories
 
 - [[stories/bhrigu-dr-chandra]] — three independent Bhrigu Nadi predictions fulfilled across one family
+- [[stories/gurudev-santoksar-birth-prophecy]] — grandfather's Amritsar pilgrimage; Bhrigu Samhita's prophecy of a *divya aatma* in Hariana overrides the sage-given name Santprakash
 - [[entities/mahaguru]] — Brighu Samhita prophecy at birth: birthplace Hariana, name beginning with Raj
 
 ## Cross-references

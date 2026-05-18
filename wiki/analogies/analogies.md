@@ -1,10 +1,10 @@
 ---
 title: Analogies
 type: analogy-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: []
 created: 2026-04-15
-updated: 2026-05-14
+updated: 2026-05-18
 ---
 
 # Analogies
@@ -1246,4 +1246,37 @@ The climber ascends for himself; the instructor trains others to ascend. Both de
 > — Hingori, *Guru Sutra*, Ch.19, p.192
 
 The satsang teaching reframed through a corporate parallel: professional association shapes professional character; spiritual association shapes spiritual character. The mechanism is the same — sustained proximity transmits quality. This is why choosing one's spiritual company is as consequential as choosing one's workplace.
+
+
+---
+
+## Destiny & Reverse-Engineering
+
+### The Future Shapes the Strategies of the Past
+*Illuminates: [[concepts/destiny]], [[entities/mahaguru]], [[sources/witnessing-greatness]]*
+
+> "The notion that the future shapes the strategies of the past finds a compelling illustration in young Gurudev's disinterest in conventional education. Though he did not know it at the time, he was destined for omniscience, a state he would achieve through the awakening of his third eye."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.10
+
+What looks like failure or randomness in the present is often destiny pre-configuring the path toward a future the person has not yet seen. Gurudev's indifference to history, chemistry, and geography was not laziness — it was the quiet clearing of the ground for an entirely different kind of knowing. The analogy runs forward and backward simultaneously: understood from the present, it looks like a meandering life; understood from the future, every deviation was the route.
+
+---
+
+### The Fertile Field Prepared for Seeds of the Future
+*Illuminates: [[concepts/destiny]], [[concepts/samskars]], [[entities/mahaguru]]*
+
+> "The undercurrent of his journey was deeply rooted in the significant spiritual power inherited from his past lives and his destined future as the Guru of Gurus. At the time, though, the present was like a fertile field being prepared for the seeds of the future."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.11
+
+The early spiritual wandering — assorted practices without a clear path, encounters with sadhus, dargah rituals, siddhis — was not wasted motion. It was the tilling and conditioning of soil that would later receive a very specific seed. The harvest belongs to the future; the field work belongs to the present. A field that looks unplanted is not barren — it is in preparation.
+
+---
+
+### From Friend to Devotee
+*Illuminates: [[concepts/faith]], [[concepts/guru-disciple]], [[concepts/surrender]]*
+
+> "While the narrative of transitioning from friends to foes is standard, evolving from a friend to a devotee is unique. It speaks volumes about Dwarkanath ji's humility and wisdom in acknowledging and honouring his once roommate as his spiritual guru."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.19
+
+The common arc is equality → rivalry or betrayal. The reverse arc — equal → surrendered — requires something rarer: the capacity to update one's model of a person entirely, without pride, without the defences that intimacy erects. Dwarkanath ji had twenty years of casual memories of Gurudev; he had to let those memories coexist with, and ultimately yield to, the mahaguru he encountered in Gurgaon.
 

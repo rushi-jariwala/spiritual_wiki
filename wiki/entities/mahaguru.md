@@ -2,10 +2,10 @@
 title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]"]
 created: 2026-04-12
-updated: 2026-04-25
+updated: 2026-05-18
 ---
 
 # The Mahaguru (Gurudev)
@@ -26,9 +26,12 @@ Gurudev has also been referred to as the **Guru of Gurus** and, in at least one 
 
 *(Primary source: [[sources/guru-of-gurus]], Ch.1, pp.6–25. Secondary: biographical introduction to Aatma Sutra.)*
 
-**Birth and name.** Gurudev was born in early spring of **1938** in **Hariana**, a small hamlet in the Hoshiarpur district of Punjab. His father was **Bhagat Ram ji**, a chemicals trader; his mother **Ram Pyari ji**. He had an elder sister, **Bimla**. His parents had been unable to conceive a second child; his paternal grandfather sought divine intervention from a sant at the Golden Temple, who gave Gurudev's mother *jal* (sanctified water) to drink for forty days. Gurudev was conceived shortly after.
+**Birth and name.** Gurudev was born in early spring of **1938** in **Hariana**, a small hamlet in the Hoshiarpur district of Punjab. His father was **Bhagat Ram ji**, a chemicals trader; his mother **Ram Pyari ji**. He had an elder sister, **Bimla**. His paternal grandfather made a pilgrimage to **Gurudwara Santoksar Sahib in Amritsar** to obtain blessings for birth of grandsons. A sage there gifted him two fruits and *jal*, hinting at the name Santprakash for a future child. But the Bhrigu Samhita had already prophesied a different *divya aatma* with a different name, born in Hariana. See [[stories/gurudev-santoksar-birth-prophecy]].
 
-His given name was intended to be **Sant Prakash** (enlightened saint) on the sant's instruction. But it rained heavily at his birth, and his grandmother — seeing this as an auspicious omen from Indra, the rain god — insisted on a name containing 'Indra.' He was named **Rajinder**, meaning King of Kings. The Brighu Samhita had already foretold: *"An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."* See [[entities/bhrigu]].
+His given name was intended to be **Sant Prakash** on the sage's indication. But it rained unusually at his birth, and his grandmother — seeing this as an auspicious omen signifying mastery over rain — chose a name fulfilling the Bhrigu prophecy: **Rajinder**, meaning King of Kings. The Brighu Samhita had foretold: *"An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."* See [[entities/bhrigu]].
+
+> [!warning] Gurudwara Santoksar Sahib vs. "Golden Temple"
+> *Witnessing Greatness* Ch.1 names the pilgrimage site as Gurudwara Santoksar Sahib in Amritsar; an earlier account refers to the "Golden Temple." Both are in Amritsar; these may describe the same visit at different levels of naming precision. Unresolved. See [[sources/witnessing-greatness]] Contradictions section.
 
 **Childhood signs.** In the weeks after his birth, his mother found a **hooded cobra seated on him** in his crib on the terrace. The cobra slid away; a temple priest told the family it was an excellent omen of exalted future. A sadhu who visited a few years later told his mother he would become a powerful saint, *"someone like Shiv,"* when he turned thirty-five. See [[stories/gurudev-birth-cobra]].
 
@@ -58,7 +61,9 @@ A chance encounter resolved his professional direction: he helped an older woman
 
 On completing the course in **1958**, he joined the **All India Soil and Land Use Survey** department at the **Indian Agricultural Research Institute (IARI)**. He received his first salary of **₹150** at the age of twenty.
 
-**Friends in Delhi.** At work he befriended **Kishanlal Nagpal ji** (whom he called *Naaga*) — whose hiring was itself a case of mistaken identity that Hingori calls *"coincidences designed to fit in an intricate jigsaw puzzle of the graphic that was Gurudev."* See [[stories/gurudev-kl-nagpal-jigsaw]]. Nagpal ji shared a 120-sq-ft room in Paharganj with **Dwarkanath ji** (a CWD employee), who became Gurudev's landlord and close friend. Colleague **Jain Saheb** and neighbour **Kundanlal Sahani** joined the circle.
+**Friends in Delhi.** At work he befriended **Kishanlal Nagpal ji** (whom he called *Naaga*) — whose hiring was itself a case of mistaken identity that Hingori calls *"coincidences designed to fit in an intricate jigsaw puzzle of the graphic that was Gurudev."* See [[stories/gurudev-kl-nagpal-jigsaw]]. Nagpal ji shared an apartment in East Delhi with **Dwarkanath ji**, a friend from Agra, who became Gurudev's landlord and close friend. See [[stories/dwarkanath-gurudev-delhi-years]]. Colleague **Jain Saheb** and neighbour **Kundanlal Sahani** joined the circle.
+
+*Witnessing Greatness* (Ch.1) adds Dwarkanath ji's observation that Gurudev's charisma was such that "every meeting transformed casual acquaintances into ardent admirers" — and that a sharp sense of humour was the most visible of his *kalas* (divine qualities; in Hindu-Yogic tradition, a being can embody 16 or more such qualities; a mahaguru's range typically exceeds these). His detachment from money was equally striking: pocket money went to animals and birds, or sweets for friends; he refused leftover change during transactions; and money would occasionally appear in his pockets to be used solely for selfless purposes.
 
 The friends lived frugally — plain parathas for breakfast and lunch, occasional pakoras, a shared monthly mess fund of ₹30 each. Gurudev was already noted for:
 - Meditating under a blanket in the middle of the night (observed by his roommates)
@@ -395,10 +400,12 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 
 ## Notable Stories
 
-**Early life (from *The Guru of Gurus*)**
-- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; priest calls it a good omen
-- [[stories/gurudev-illness-baba-balak-nath]] — bedridden in 1948; miraculous recovery at Baba Balak Nath; Mataji's testimony
-- [[stories/gurudev-chirag-flood]] — wades through knee-deep floodwater every Thursday to light a chirag
+**Early life (from *The Guru of Gurus* and *Witnessing Greatness* Ch.1)**
+- [[stories/gurudev-santoksar-birth-prophecy]] — grandfather's Amritsar pilgrimage; Bhrigu Samhita prophecy; auspicious rain; name changed at birth
+- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; priest calls it a good omen; Rashmi ji's first-person account
+- [[stories/gurudev-illness-baba-balak-nath]] — bedridden ~2 years; miraculous recovery at Baba Balak Nath; Mataji's full testimony
+- [[stories/gurudev-chirag-flood]] — every Thursday without exception; wades floodwater; improvises with clay lamps (Gaggu ji's account)
+- [[stories/dwarkanath-gurudev-delhi-years]] — Dwarkanath ji's memories: money materialising, paath/astral travel, movie tickets, transition from roommate to devotee
 - [[stories/gurudev-cow-milk-pusa]] — helps woman milk her cow; chance meeting leads to career at IARI
 - [[stories/gurudev-kl-nagpal-jigsaw]] — KL Nagpal's mistaken hiring; the "jigsaw coincidence" framing
 - [[stories/gurudev-agra-train-prediction]] — predicts friends won't reach Agra; train delayed five hours; verified

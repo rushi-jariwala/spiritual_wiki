@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Witnessing Greatness** (`raw/witnessing-greatness-chapters/`)
 
 ## Next
-- [ ] ch-01-back-to-the-future.md            (478 lines)
+- [ ] ch-02-invisibly-yours-buddhe-baba.md   (470 lines)
 
 ## Remaining — Witnessing Greatness
-- [ ] ch-02-invisibly-yours-buddhe-baba.md   (470 lines)
 - [ ] ch-03-impossible-is-possible.md        (624 lines)
 - [ ] ch-04-saint-maker.md                   (394 lines)
 - [ ] ch-05-seva.md                          (544 lines)
@@ -36,6 +35,9 @@ a large chapter (≥ 500 lines) is hit.
 - [ ] ch-18-spiritual-oversight.md           (351 lines)
 - [ ] ch-19-humble-titan.md                  (365 lines)
 - [ ] ch-20-sculpting-divinity.md            (526 lines)
+
+## Completed — Witnessing Greatness
+- [x] ch-01-back-to-the-future.md
 
 ## Completed — Guru Sutra
 - [x] Introduction + ch-01-concepts-of-guruism.md

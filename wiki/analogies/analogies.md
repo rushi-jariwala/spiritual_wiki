@@ -44,6 +44,26 @@ Hingori's extended metaphor: life is a movie made long ago, witnessed in the pre
 
 ---
 
+### Reverse-Engineered Destiny
+*Illuminates: [[concepts/destiny]], [[concepts/prarabdh-karma]], [[entities/mahaguru]]*
+
+> "Every element of Gurudev's early life—from the auspicious signs at his birth to his professional affiliations—was strategically reverse-engineered to sculpt him into the spiritual titan he was to become."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.9
+
+The governing metaphor of *Witnessing Greatness*. Where conventional causality runs forward — past conditions shape the future — here the logic is reversed: Gurudev's future as the Guru of Gurus *sculpted his past*. His disinterest in conventional academics was not a failure of character but the destiny of omniscience making worldly study irrelevant. His career as a soil surveyor placed him in India's remote areas, exactly where his future spiritual influence would need to reach. His circle of Delhi friends was assembled like an intricate jigsaw by destiny, each piece pre-positioned. The phrase "reverse-engineered" is drawn from engineering: a product is disassembled to understand how it was built; here, a destiny is "disassembled" into the circumstances that its fulfillment required. Closely related to the [[#The Jigsaw|Jigsaw]] analogy, but operating at a larger scale — the entire life, not just specific meetings.
+
+---
+
+### The Fertile Field
+*Illuminates: [[concepts/destiny]], [[entities/mahaguru]], [[concepts/kalas]]*
+
+> The undercurrent of his journey was deeply rooted in the significant spiritual power inherited from his past lives and his destined future as the Guru of Gurus. At the time, though, the present was like a fertile field being prepared for the seeds of the future.
+> — Hingori, *Witnessing Greatness*, Ch.1, p.13
+
+Gurudev's early years of unfocused spiritual wandering — absorbing teachings from sadhus, meandering through practices without a clear path — are not described as misdirection but as preparation. The field is turned before the seed is sown. The karmashaya of past lives is the soil; the early practices are the tilling; the arrival of Sitaram ji of Dasua and later Buddhe Baba are the planting. Nothing is wasted.
+
+---
+
 ### The Pendulum of Duality
 *Illuminates: [[concepts/destiny]], [[concepts/maya]], [[concepts/prarabdh-karma]]*
 

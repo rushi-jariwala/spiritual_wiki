@@ -2,7 +2,7 @@
 title: R.C. Malhotra (Ramesh Chand Malhotra)
 type: entity
 tags: [disciple, senior-disciple, first-disciple]
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-18
 updated: 2026-05-13
@@ -55,6 +55,15 @@ See [[stories/malhotra-power-misuse]].
 After Gurudev's passing, Malhotraji was treated as the most senior figure in the institution, addressed by some as *Chote Guruji* or *Junior Guruji*. He initially decided to resign as chief trustee of the trust established to carry on Gurudev's seva. Hingori persuaded him to stay overnight, but the next day Malhotraji resigned anyway — with Gurudev's posthumous orchestration engineering the scene (Hingori's luggage moved to the meeting centre by an unseen hand) so that Hingori was compelled to intervene theatrically and reinstate him. See [[stories/malhotraji-luggage-resignation]].
 
 Gurudev had subtly predicted that after his demise his disciples would operate independently, yet in collaboration. No single designated successor was named beyond Malhotraji as the senior.
+
+## Testimony on Gurudev's Early Mentors
+
+In *Witnessing Greatness* Ch.1, Malhotra ji provides testimony about the two spiritual mentors who guided young Gurudev at the Sheetla Mata temple in Hariana: **Sitaram ji of Dasua** and his own guru **Sitaram ji of Benaras**:
+
+> "Sitaram ji of Dasua began living at the Sheetla Mata temple near Gurudev's house. His guru, Sitaram ji of Benaras, who lived in Haridwar, later joined him. They both mentored Gurudev."
+> — RC Malhotra ji, *Witnessing Greatness*, Ch.1, pp.14–15
+
+Together they provided Gurudev a structured approach to spirituality and guided him in acquiring siddhis that allowed him to heal diseases and grant wishes. Malhotra ji is described in *Witnessing Greatness* as "the mahaguru's first disciple."
 
 ## Notable Stories
 

@@ -1,7 +1,7 @@
 ---
 title: Buddhe Baba
 type: entity
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]"]
 created: 2026-04-25
 updated: 2026-04-25
@@ -52,6 +52,10 @@ Two theories circulate:
 > — Hingori, *The Guru of Gurus*, p.50
 
 > [!question] The identity of Buddhe Baba is an intentional mystery left by Gurudev. Speculation is invited but no answer is authorised.
+
+## The Sitaram Connection — Witnessing Greatness
+
+*Witnessing Greatness* Ch.1 adds RC Malhotra ji's testimony about the two early mentors of Gurudev: **Sitaram ji of Dasua** (who took up residence at the Sheetla Mata temple near Gurudev's house in Hariana) and his own guru **Sitaram ji of Benaras** (who lived in Haridwar and later joined Dasua). Both mentored young Gurudev, guiding him toward his first siddhis. Sitaram ji of Benaras is one of the two main candidates for Buddhe Baba's identity (see Identity — Unresolved above). This additional testimony from Malhotra ji, the first disciple, strengthens the chain of evidence for the Sitaram ji of Benaras theory.
 
 ## Cross-references
 

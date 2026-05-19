@@ -2,7 +2,7 @@
 title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]"]
 created: 2026-04-12
 updated: 2026-04-25
@@ -14,7 +14,7 @@ updated: 2026-04-25
 
 ## Status
 
-**Ingested through Supernature (pp.231–248).** Full biography now covers birth through death, legacy, and supernature chapter. Who's Who and Glossary back matter pending.
+**Ingested through Supernature (pp.231–248).** Full biography now covers birth through death, legacy, and supernature chapter. Who's Who and Glossary back matter pending. *Witnessing Greatness* Ch.1 ingested 2026-05-19; supplementary witness testimony integrated below.
 
 ## Who
 
@@ -51,6 +51,9 @@ He graduated high school with average marks amid ongoing complaints from his tea
 
 > [!warning] Paternal uncle vs. paternal aunt
 > *Aatma Sutra*'s biographical introduction says he moved to live with his "paternal aunt." *The Guru of Gurus* Ch.1 clearly states "paternal uncle's house at Shahdara." The latter is the more detailed, eyewitness-based source; the discrepancy is noted but not resolved. See [[sources/guru-of-gurus]] Contradictions section.
+
+> [!warning] Sister's name — Rashmi ji vs. listed siblings
+> *Witnessing Greatness* Ch.1 names Gurudev's sister as **Rashmi ji** (who provides the first-person cobra account and the pilgrimage story). *The Guru of Gurus* lists his siblings as: eldest sister Bimla, brother Satish (Chacha), and sisters Sudesh, Ramesh, Premlata, and Indira. No "Rashmi" appears in that list. Whether this is a different transliteration, a nickname, or a discrepancy between sources is unresolved. See [[sources/witnessing-greatness]] Contradictions section.
 
 Unwilling to burden his relatives, he did odd jobs — selling pens and toffees, working as a bus conductor — and volunteered for heavy household chores, including carrying **15–20 kg sacks of grains** to the grinding mill while chanting mantras.
 
@@ -395,10 +398,11 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 
 ## Notable Stories
 
-**Early life (from *The Guru of Gurus*)**
-- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; priest calls it a good omen
-- [[stories/gurudev-illness-baba-balak-nath]] — bedridden in 1948; miraculous recovery at Baba Balak Nath; Mataji's testimony
-- [[stories/gurudev-chirag-flood]] — wades through knee-deep floodwater every Thursday to light a chirag
+**Early life (from *The Guru of Gurus* and *Witnessing Greatness* Ch.1)**
+- [[stories/gurudev-birth-cobra]] — hooded cobra found seated on the infant; priest calls it a good omen (updated with Rashmi ji's first-person account)
+- [[stories/gurudev-illness-baba-balak-nath]] — bedridden 1948; miraculous recovery at Baba Balak Nath; Mataji's verbatim testimony (updated)
+- [[stories/gurudev-chirag-flood]] — wades through knee-deep floodwater every Thursday to light a chirag (updated with Gaggu ji and Subbhash ji accounts)
+- [[stories/dwarkanath-friend-to-devotee]] — Dwarkanath ji's full account: living with Gurudev, his predictions, midnight paath, and transition from friend to devotee (*Witnessing Greatness* Ch.1)
 - [[stories/gurudev-cow-milk-pusa]] — helps woman milk her cow; chance meeting leads to career at IARI
 - [[stories/gurudev-kl-nagpal-jigsaw]] — KL Nagpal's mistaken hiring; the "jigsaw coincidence" framing
 - [[stories/gurudev-agra-train-prediction]] — predicts friends won't reach Agra; train delayed five hours; verified
@@ -458,6 +462,8 @@ See [[quotes/guru]].
 - [[stories/shambhuji-five-headed-form]] — Mahashivratri 1974; Shambhu ji witnesses five-headed form
 - [[stories/gurudev-invisible-srinagar-shop]] — Srinagar; purchased spare parts without being recognised by his own devotee
 - [[sources/guru-of-gurus]] · [[sources/witnessing-greatness]] — full biographical sources
+- [[entities/dwarkanath]] — Delhi landlord and friend; later became a devotee; primary witness for early Delhi years in *Witnessing Greatness*
+- [[concepts/kalas]] — 16+ divine qualities; Gurudev's humour identified as one of the kalas he possessed "in spades"
 
 ## Open Questions
 

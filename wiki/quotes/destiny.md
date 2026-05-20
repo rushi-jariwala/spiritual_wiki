@@ -1,10 +1,10 @@
 ---
 title: Quotes on Destiny
 type: quote-collection
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/destiny]]", "[[concepts/mahurat]]", "[[concepts/prarabdh-karma]]", "[[concepts/doer-ship]]", "[[entities/bhrigu]]", "[[concepts/guru-disciple]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/destiny]]", "[[concepts/mahurat]]", "[[concepts/prarabdh-karma]]", "[[concepts/doer-ship]]", "[[entities/bhrigu]]", "[[concepts/guru-disciple]]", "[[synthesis/reverse-engineered-destiny]]"]
 created: 2026-04-18
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 # Quotes on Destiny
@@ -40,6 +40,20 @@ updated: 2026-05-14
 > "An ansh (part) of Shiv will take birth in a village named Hariana, and his name will begin with Raj."
 > — Brighu Samhita, cited in Hingori, *The Guru of Gurus*, p.8
 [[entities/bhrigu]] · [[entities/mahaguru]] · [[stories/gurudev-kl-nagpal-jigsaw]]
+
+## Reverse-Engineered Destiny (*Witnessing Greatness*, Ch.1)
+
+> "Every element of Gurudev's early life—from the auspicious signs at his birth to his professional affiliations—was strategically reverse-engineered to sculpt him into the spiritual titan he was to become."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.9
+[[concepts/destiny]] · [[synthesis/reverse-engineered-destiny]] · [[entities/mahaguru]]
+
+> "It was as if destiny had reverse-engineered the perfect assembly of souls, aligning their births and careers to facilitate their meeting and training under Gurudev."
+> — Hingori, *Witnessing Greatness*, Ch.1, pp.15–16
+[[concepts/destiny]] · [[synthesis/reverse-engineered-destiny]]
+
+> "Gurudev's destiny as a mahaguru reverse-engineered his early years, imbuing them with qualities that would pave his path to spiritual eminence."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.19
+[[concepts/destiny]] · [[synthesis/reverse-engineered-destiny]]
 
 ## Guru by Destiny (*Guru Sutra*, Ch.16)
 

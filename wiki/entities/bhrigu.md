@@ -31,6 +31,8 @@ In Hingori's framework, Bhrigu's prophetic ability is a demonstration that [[con
 
 The prophecy named both the birthplace and the initial letter of the name — fulfilled by the name Rajinder. This is presented alongside the grandmother's spontaneous choice of a name containing 'Raj,' suggesting the Samhita's prediction shaped the outcome through natural human decisions, not divine override. Sage Bhrigu "knew that this realised soul was destined to be named Rajinder and not Sant Prakash."
 
+*Witnessing Greatness* Ch.1 sharpens the contrast: the grandfather's pilgrimage to **Gurudwara Santoksar Sahib in Amritsar** produced a sage's hint pointing to the name **Santprakash**, while *"the pages of the Bhrighu Samhita whispered a different prophecy"* — a divya aatma born in Hariana with a name beginning Raj-. The grandmother's reading of the unusual birth-downpour as an Indra omen resolved the tension in favour of the Samhita's prophecy. See [[stories/gurudev-naming-saga]].
+
 ## The Saharanpur Reading — Gurudev as Gann (*Guru Sutra*, Ch.16)
 
 *Guru Sutra* Ch.16 adds a second Brighu Samhita reading about Gurudev — distinct from the birth prophecy in *The Guru of Gurus*. A few years before Gurudev's passing, some of his disciples travelled to **Saharanpur** in northern India to learn more about his life from this ancient treatise. What they found was extraordinary:
@@ -45,6 +47,7 @@ Hingori comments: "The question that pops up is: How could a saint who lived tho
 ## Notable Stories
 
 - [[stories/bhrigu-dr-chandra]] — three independent Bhrigu Nadi predictions fulfilled across one family
+- [[stories/gurudev-naming-saga]] — the Santprakash-vs-Rajinder naming contest; the Bhrigu Samhita's "Raj-" prophecy fulfilled through the grandmother's choice
 - [[entities/mahaguru]] — Brighu Samhita prophecy at birth: birthplace Hariana, name beginning with Raj
 
 ## Cross-references

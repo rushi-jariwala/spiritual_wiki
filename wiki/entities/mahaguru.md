@@ -87,6 +87,8 @@ Despite the fun-loving, cigarette-smoking exterior, when Gurudev told Jain Saheb
 
 **Detachment from money — the materialising bundles.** From childhood Gurudev spent his pocket money feeding animals and birds or treating friends, rarely on himself. Dwarkanath ji was most struck by his "complete detachment from money": he gave generously despite earning modestly, and refused leftover change during transactions. Occasionally he would pull a bundle of notes from his pocket to everyone's surprise — a power Hingori believed was granted to him for *nisvarth seva* alone. The same gift extended to disciples carrying out his instructions: Hingori's monthly flight money for Bada Guruvar would mysteriously appear under his mattress, in a drawer, or in a coat pocket. See [[stories/gurudev-flight-money-materialising]].
 
+**From friend to devotee.** *Witnessing Greatness* Ch.1 closes the Delhi-years arc on the rarity of the roommate-to-disciple transition. Visiting Gurgaon after Gurudev had become a mahaguru, Dwarkanath ji found it *"challenging to reconcile my memories of my old friend with his new role as a guru."* At one meeting Gurudev gestured for him to sit beside him; out of respect Dwarkanath ji sat on the floor, *"struck by the powerful energy he radiated."* Hingori comments: *"While the narrative of transitioning from friends to foes is standard, evolving from a friend to a devotee is unique."*
+
 > Gurudev was a man who made mountains out of mountains, who thought they were molehills.
 > — Hingori, *Aatma Sutra*, biographical introduction
 

@@ -153,6 +153,8 @@ Gurudev applied the same principle explicitly to his healing work:
 > "I don't cure anyone who comes for help. They cure themselves. I am not the doer."
 > — Gurudev, *The Guru of Gurus*, p.227
 
+His relationship with [[entities/buddhe-baba]] was the ground of this stance. Gurudev's signature attribution — **"He does. I don't"** — pointed always to his own guide as the true agent of every healing and seva. The non-doership was not merely philosophical posture but lived reference: Buddhe Baba was the doer; Gurudev the instrument. (*Witnessing Greatness*, Ch.2, p.24)
+
 He practised and recommended non-doership in all healing — only those *meant* to get cured came to him; he was merely the facilitator. No one meant to receive healing was turned away; no one not meant to be healed could be forced to recover. The outcome was not in the doer's hands. See [[concepts/spiritual-healing]].
 
 ## Cross-references
@@ -170,3 +172,4 @@ He practised and recommended non-doership in all healing — only those *meant* 
 - [[stories/hingori-non-doership-shortcut]] — Hingori's bracketing formula for practical daily application
 - [[entities/adi-shankaracharya]] — *Nirvana Shatakam* as the fullest expression of karm-mukt
 - [[concepts/spiritual-healing]] — Gurudev's "I am not the doer" as non-doership applied in the healing context
+- [[entities/buddhe-baba]] — "He does. I don't": Gurudev's attribution of all seva to Buddhe Baba as the living enactment of non-doership at the mahaguru level

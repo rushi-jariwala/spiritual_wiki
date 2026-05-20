@@ -1,10 +1,10 @@
 ---
 title: Buddhe Baba at the Deserted Temple
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[entities/buddhe-baba]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-20
 ---
 
 # Buddhe Baba at the Deserted Temple
@@ -36,6 +36,20 @@ This is the founding encounter of the Buddhe Baba relationship — and, in effec
 
 The phrase "or perhaps the rekindling" suggests Hingori's understanding that the Buddhe Baba relationship may predate the physical meeting in Madhya Pradesh — that the encounter was the surfacing of a bond formed at a deeper level.
 
+## *Witnessing Greatness* Ch.2 Enrichment (narrated by Suresh Kohli ji of Sunet, Himachal Pradesh)
+
+The Ch.2 version, narrated by Suresh Kohli ji, adds the following details not present in the *Guru of Gurus* account:
+
+- Gurudev was stationed in **Madhya Pradesh for a soil survey camp** when he took a long walk and stumbled upon the old temple.
+- He was **indulging in tobacco** at the time — the sage asked to share some.
+- After the sage completed the mantra, Gurudev walked back to camp with the mantra continuously echoing in his mind. That evening in meditation, the sage appeared in vision and said: *"All you were seeking was already within me [you]. Look at your palm."* A **glowing OM symbol had appeared on his hand** — and another OM on his chest. He quickly covered the hand with a cloth and put on a vest to conceal the symbols.
+- **The following morning**, as the sage had foretold, he found a kada beneath his pillow.
+- He returned to the temple. It was **completely deserted**. He questioned locals: all confirmed the temple had been vacant for years.
+- That night in paath, the sage reappeared in vision and gave the commission: *"You do not need to seek me physically. I will always be present during your paath to guide you. But remember, you must do nisvarth seva."* When Gurudev asked how to serve selflessly, the sage clarified: *"Whoever you touch will be healed, and I will guide you every step of the way."*
+- **The very next day**: Suresh Kohli ji recalls that Gurudev encountered a group hurriedly transporting a sick man on a charpoy (he had an unbearable stomach ache). An inner voice instructed Gurudev to intervene; he placed his hand on the sick man's stomach and silently recited his mantra. The pain disappeared in moments.
+
+> — narrated by Suresh Kohli ji of Sunet, Himachal Pradesh, *Witnessing Greatness*, Ch.2, pp.22–23
+
 ## Related Concepts
 
 - [[entities/buddhe-baba]] — the sage who appears, completes the mantra, predicts the kada, and vanishes
@@ -43,3 +57,4 @@ The phrase "or perhaps the rekindling" suggests Hingori's understanding that the
 - [[concepts/guru-disciple]] — the guru relationship operates even between Gurudev and his own mentor
 - [[concepts/non-doership]] — the voice's instruction: "everything is already within you"; the doer is not Gurudev
 - [[practices/seva]] — nisvarth seva is explicitly commissioned here; "whoever he touched would be healed"
+- [[stories/gurudev-kurwai-first-healing]] — the formal first healing that Gurudev dated to 1973; the charpoy healing narrated by Suresh Kohli ji may be an earlier, informal first

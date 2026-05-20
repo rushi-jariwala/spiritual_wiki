@@ -2,6 +2,7 @@
 title: Analogies
 type: analogy-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+updated: 2026-05-20
 related: []
 created: 2026-04-15
 updated: 2026-05-20
@@ -55,6 +56,16 @@ Destiny does not deliver a steady state — it delivers an oscillation. Positive
 ---
 
 ## The Guru
+
+### School Teachers at Different Levels — Multiple Gurus on the Spiritual Path
+*Illuminates: [[entities/buddhe-baba]], [[concepts/guru-disciple]], [[entities/mahaguru]]*
+
+> "To understand this better, think about how we learn in school. We have different teachers for distinct levels of our education, each helping us learn in several ways. Just as a budding scientist might first learn the basics from one teacher, only to delve into deeper complexities under another, a spiritual aspirant might have different guides at different junctures."
+> — Hingori, *Witnessing Greatness*, Ch.2, p.26
+
+Gurudev's own trajectory illustrates this: sadhus and fakirs in formative years → Sitaram ji of Dasua and Sitaram ji of Benaras in adolescence → Buddhe Baba in adulthood. All were teachers; yet only Buddhe Baba held "the reins to his aatma's odyssey." The analogy makes a critical distinction: having multiple guides is the norm; having a guide who commands your ultimate spiritual destiny is the exception. The latter is the sadguru who holds the reins — no matter how late in the journey they appear.
+
+---
 
 ### Winning the Lottery
 *Illuminates: [[concepts/guru-disciple]]*

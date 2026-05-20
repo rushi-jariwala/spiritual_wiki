@@ -1268,3 +1268,32 @@ The climber ascends for himself; the instructor trains others to ascend. Both de
 
 The satsang teaching reframed through a corporate parallel: professional association shapes professional character; spiritual association shapes spiritual character. The mechanism is the same — sustained proximity transmits quality. This is why choosing one's spiritual company is as consequential as choosing one's workplace.
 
+---
+
+## Supernature — Witnessing Greatness (Ch.3)
+
+### Maya and the Miracle — The Inversion of the Impossible
+*Illuminates: [[concepts/maya]], [[concepts/supernature]]*
+
+> The limitations imposed by Maya cause ordinary beings to perceive miracles where advanced spiritualists see ordinary occurrences. Advanced spiritual practices combined with gyan expand consciousness, making what seems impossible both conceivable and achievable.
+> — Hingori, *Witnessing Greatness*, Ch.3, p.43
+
+The same event carries opposite meanings to different observers. For the crowd in front of Gurudev's gate: an ordinary man walking in. For those who knew: a demonstration of molecular-level control over light. For the mahaguru: an unremarkable convenience. The inversion is not about reality but about the receiver's capacity. What looks miraculous is a function not of the act but of the Maya-veil in the observer. This analogy is the chapter's interpretive key: every "impossible" account is ordinary once the veil thins.
+
+---
+
+### "They Will Stop Us Only If They See Us" — Invisibility as Precision
+*Illuminates: [[concepts/supernature]], [[concepts/astral-travel]]*
+
+> "They will stop us only if they see us."
+> — Gurudev to Rajpal Sekhri ji, *Witnessing Greatness*, Ch.3, p.40
+
+A remark so casual it is almost a throwaway — and therefore all the more exact. The condition for being stopped is being seen. The condition for being seen is emitting light. The condition for emitting light is having a molecular structure that reflects it. Remove that and you pass through any crowd, any gate, any recognition. The implication: invisibility is not supernatural departure from physics but its precise application at a deeper level. See [[stories/rajpal-sekhri-gurudev-invisible]].
+
+---
+
+### The Statue as Antenna — Statue Consciousness
+*Illuminates: [[concepts/statue-consciousness]], [[concepts/spiritual-healing]], [[concepts/supernature]]*
+
+The Asthal testimonies collectively present the statue not as a ceramic representation but as a **tuned receiver** — charged through collective pran pratishtha with the mahaguru's consciousness, able to receive petitions, emit healing jal, smile, shift form, and even accommodate a disciple's consciousness inside it. What makes an antenna a working device is not its shape but what it has been calibrated to receive and transmit. The statue at Asthal was calibrated by the devotion and ritual attention of 65+ disciples; it now operates as a live channel, not a symbol. See [[concepts/statue-consciousness]] and [[stories/asthal-temple-statue-miracles]].
+

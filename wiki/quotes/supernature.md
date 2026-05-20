@@ -1,10 +1,10 @@
 ---
 title: Quotes — Supernature
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]"]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-20
 ---
 
 # Quotes — Supernature
@@ -96,3 +96,57 @@ Quotes from *The Guru of Gurus*, Chapter 07: Supernature (pp.231–248).
 > He embodied power of the most selfless kind. To us, he was a friend, father and mentor. In all the roles the mahaguru played, he reminded us of our own supernature.
 > — Hingori, *The Guru of Gurus*, p.232
 [[concepts/supernature]] · [[concepts/role-play]] · [[entities/mahaguru]]
+
+---
+
+> "You need a lot of spiritual strength to withstand what you witnessed."
+> — Gurudev to Shambu ji (after the five-headed form vision), *Witnessing Greatness*, Ch.3, p.34
+[[concepts/supernature]] · [[stories/shambhuji-five-headed-form]]
+
+---
+
+> "The room instantly filled with dazzling light as if hundreds of suns had risen! I could not stand how bright it was and collapsed at his feet."
+> — Kwatra ji, *Witnessing Greatness*, Ch.3, p.34–35
+[[concepts/supernature]] · [[stories/kwatra-ji-blinding-light]]
+
+---
+
+> "They will stop us only if they see us."
+> — Gurudev to Rajpal Sekhri ji (before walking through the crowd at the Gurgaon home gate), *Witnessing Greatness*, Ch.3, p.40
+[[concepts/supernature]] · [[stories/rajpal-sekhri-gurudev-invisible]]
+
+---
+
+> "I have already told you that I have created two of you."
+> — Gurudev to Virender ji, *Witnessing Greatness*, Ch.3, p.39
+[[concepts/supernature]] · [[concepts/astral-travel]] · [[stories/virenderji-uninvited-guests]]
+
+---
+
+> "You clamour for my visit, and when I oblige, you greet me with a nunchaku."
+> — Gurudev to Uddhav Kirtikar ji (playfully), *Witnessing Greatness*, Ch.3, p.44–45
+[[concepts/supernature]] · [[stories/uddhav-ji-black-triangles]]
+
+---
+
+> "What's the big deal?"
+> — Gurudev to Dr. Shankarnarayan ji (on being told Gurudev had been seen at the hilltop temple while never leaving the office), *Witnessing Greatness*, Ch.3, p.37–38
+[[concepts/supernature]] · [[entities/dr-shankarnarayan]]
+
+---
+
+> "This was neither a vision nor a dream. It has happened more than once. Whenever Gurudev appears, I am completely aware. It is a clear dimension of here and now."
+> — Sudhir (Hingori's childhood friend), *Witnessing Greatness*, Ch.3, p.42–43
+[[concepts/supernature]] · [[stories/schoolmate-gurudev-gurgaon]]
+
+---
+
+> Asthal proves that inanimate objects such as statues, once ordinary, have become imbued with the mahaguru's consciousness, turning them into more than mere symbols of devotion; they have become extensions of his spiritual presence and grace.
+> — Hingori, *Witnessing Greatness*, Ch.3, p.47
+[[concepts/statue-consciousness]] · [[stories/asthal-temple-statue-miracles]]
+
+---
+
+> If one individual can manifest as Shiv, what might you, too, be capable of achieving?
+> — Hingori, *Witnessing Greatness*, Ch.3, p.48
+[[concepts/supernature]] · [[concepts/maya]] · [[entities/mahaguru]]

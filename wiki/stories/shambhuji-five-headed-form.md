@@ -1,10 +1,10 @@
 ---
 title: Shambhu Ji Sees the Five-Headed Form
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/supernature]]", "[[entities/mahaguru]]", "[[concepts/role-play]]"]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-20
 ---
 
 # Shambhu Ji Sees the Five-Headed Form
@@ -34,6 +34,17 @@ Shambhu ji was a disciple from Jwalamukhi, Himachal Pradesh — a man of conside
 The five-headed form corresponds to the Mahamritunjay / Sadashiv form of Shiv — the highest representation of Shiv, depicted with five faces representing the five directions and five elemental principles. Gurudev's reference to this painting in the sthan as the Mahamritunjay form is significant: he acknowledged the five-headed as the correct template without initially confirming that he himself embodied it.
 
 The story clarifies the price of spiritual perception: the inner vehicle must be strong enough to receive what it is shown. The faint is not failure — it is honest measure. And Gurudev's generosity is characterised by Raj Kapoor ji: even after the forced disclosure, the life-extension was not reclaimed.
+
+## Witnessing Greatness Version (Ch.3)
+
+*Witnessing Greatness* Ch.3 (pp.33–34) presents a parallel account narrated in full by Raji Kapoor ji, which adds several details not found in *The Guru of Gurus*:
+
+- Shambu ji was **initiated into seva at Kathog in Himachal Pradesh in 1976**; the life-extension had been granted "during a previous visit" to Himachal Pradesh.
+- The revelation took place when Shambu ji visited **Shivpuri** and specifically requested the five-headed form there.
+- After Shambu ji regained consciousness and shared what he saw, Gurudev remarked: *"You need a lot of spiritual strength to withstand what you witnessed"* — and allowed the life extension to stand.
+- The account confirms Shambu ji passed away "in the late 1980s, having lived the life extension of five years."
+
+> [!warning] The two versions give different timestamps — *The Guru of Gurus* says Mahashivratri 1974, while *Witnessing Greatness* gives 1976 as the initiation year at Kathog. These may refer to different points in the same arc, or one may be a transcription error. The core narrative is consistent across both.
 
 ## Related Concepts / Entities
 

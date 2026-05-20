@@ -37,9 +37,16 @@ Later in life, Shankarnarayan ji approached Gurudev repeatedly with an important
 > "Maine tujhe guru banaya hai. Tu kaagaz bhi mathe se laga kar usko de dega, toh woh theek ho jayega."
 > — Gurudev, recorded in [[stories/gurudev-diary-guru-not-doctor]], the same principle illustrated by the photograph incident
 
+### The Hilltop Temple Bilocation
+
+*Witnessing Greatness*, Ch.3 (pp.37–38):
+
+Gurudev directed Shankarnarayan ji to visit a hilltop temple established by Adi Shankaracharya. After completing his mantras inside, he exited the temple to see Gurudev standing at a distance. Reflecting on the encounter, he shares: *"Gurudev appeared to be there, yet when I returned to the office, he had not left the office at all. Upon telling him what I saw, he responded, 'What's the big deal?' and continued his work."* This matter-of-fact response — treating bilocation as unremarkable — is characteristic of the mahaguru's relationship to his own capacities. See [[concepts/supernature]].
+
 ## Sources
 
 - *The Guru of Gurus*, Early Years chapter; The Mahaguru chapter
+- *Witnessing Greatness*, Ch.3 — Impossible Is Possible
 
 ## Cross-references
 

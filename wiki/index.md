@@ -105,10 +105,15 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[adi-shankaracharya]] — Founder of Advaita Vedanta; *Nirvana Shatakam* cited as classical expression of karm-mukt
 - [[kapill]] — Recurring disciple at the Mumbai sthan; vision of Shiv as himself; gati experience at supersonic speed
 - [[chacha]] — Gurudev's younger brother; powerful spiritualist; defeated two tantriks; died 2 Aug 1988
+- [[sitaram-dasua]] — Gurudev's first spiritual mentor, who guided his early acquisition of siddhis
+- [[sitaram-benaras]] — Guru of Sitaram ji of Dasua, a highly evolved soul who attained seh sharir
 - [[buddhe-baba]] — Gurudev's mysterious spiritual mentor; omnipresent; identity never disclosed; possibly Shiv or Sitaram ji of Benaras
 - [[augarh]] — Gurudev's mysterious disciple; head of the Aghor sect; realised manifestation of Shiv; manifests in multiple forms
 - [[neelkanth-dham]] — Gurudev's samadhi site in Najafgarh; visited daily in metaphysical form per Brighu Samhita's post-death reading
 - [[sitaram-taki]] — Disciple who witnessed two of Gurudev's astral departures; healed the disabled girl at Renuka
+- [[subbhash-sabbharwal]] — Gurudev's childhood friend and companion in Hariana
+- [[dwarkanath]] — Gurudev's close friend, flatmate, and landlord in Delhi
+- [[kl-nagpal]] — Gurudev's colleague and Delhi flatmate, affectionately called Naaga
 - [[bittu]] — One of the "four musketeers"; Gurudev's driver and companion
 - [[dr-shankarnarayan]] — Senior colleague at IARI; first to call Gurudev "Guruji"; healed daughter Vaishali by throwing away medicines
 - [[giri]] — Factory owner, Mumbai; broken-hand karmic return; Mohammedpur greening (1988)
@@ -122,6 +127,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
+- [[witnessing-greatness]] — Hingori, 2024 · *Ingested Ch.1 (Back to the Future)*
 
 ---
 
@@ -151,11 +157,19 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Stories
 
+- [[gurudev-birth-prophecy]] — Pilgrimage to Amritsar, prediction of Sant Prakash, and choice of Rajinder
 - [[gurudev-birth-cobra]] — Hooded cobra on the infant's crib; sadhu predicts "someone like Shiv" at 35
 - [[gurudev-illness-baba-balak-nath]] — Bedridden 1948; miraculous cure via jal; triggered his spiritual quest
+- [[gurudev-dargah-bers]] — Picking jujube fruits at the dargah, confrontation by the fakir, and beginnings of spiritual search
+- [[gurudev-mentorship-sitaram]] — Early guidance under Sitaram ji of Dasua and Sitaram ji of Benaras
 - [[gurudev-chirag-flood]] — Wades knee-deep floodwater every Thursday to honour his dargah ritual
+- [[gurudev-delhi-uncle-wheat]] — Moving to Shahdara, carrying heavy grain sacks to the grinding mill, and showing gratitude
+- [[gurudev-pusa-destiny]] — Helping principal's spouse milk a cow, leading to course at Bharat Sevak Samaj
 - [[gurudev-cow-milk-pusa]] — Helps woman milk her cow; chance meeting leads to PUSA and IARI career
 - [[gurudev-kl-nagpal-jigsaw]] — Mistaken hiring brings Nagpal ji and Gurudev together; Hingori's "jigsaw coincidence" framing
+- [[gurudev-delhi-roommates]] — Sharing a flat in East Delhi, meditating under blankets, and prediction of Agra train delay
+- [[gurudev-roommate-mysteries]] — Spontaneous occurrences in the Delhi flat: tapped radios, movie tickets, and mattress funds
+- [[gurudev-friend-to-devotee]] — Dwarkanath ji's transition from flatmate and friend to devotee
 - [[gurudev-agra-train-prediction]] — Gurudev predicts friends won't reach Agra; train delayed five hours; verified
 - [[hingori-bina-station-temple]] — Hingori convulses lighting a diya; explains why Gurudev never entered Shiv temples
 - [[hingori-arthritis-cure]] — The founding moment of Hingori's discipleship

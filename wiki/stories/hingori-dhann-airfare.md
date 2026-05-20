@@ -1,10 +1,10 @@
 ---
 title: Hingori's Airfare — Surrender of Dhann
 type: story
-sources: [guru_sutra_book.md]
+sources: [guru_sutra_book.md, raw/witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[concepts/surrender]]", "[[concepts/guru-disciple]]", "[[concepts/faith]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-20
 ---
 
 # Hingori's Airfare — Surrender of Dhann
@@ -12,16 +12,22 @@ updated: 2026-05-05
 ## Full Narrative
 
 > In the early days of my induction into spiritualism, Gurudev suggested I travel from Mumbai to Gurgaon, every month for bada guruvar. Being in a financial crunch at the time, this was an expensive proposition. To top that, Gurudev insisted I travel only by air and not train. While the train journey would have been comparatively longer, it would have been much cheaper. Perhaps, his intention was to save my time (24 hours by train versus 2 hours by air) and capitalise it by investing it in seva at the sthan. Following his instructions took a lot from me. However, having realised the guru is always right, one must do as he instructs. I invariably did as told. He gifted me some of the divine symbols he possessed. The value of that is immeasurable. An earning for eternity. I felt foolish about my tight-fisted attitude.
-> — Hingori, *Guru Sutra*, Ch.9, pp.81–82
+
+— Hingori, *Guru Sutra*, Ch.9, pp.81–82
+
+> Miraculously, during those years of frequent financial shortfalls, the necessary funds for the flight tickets would somehow materialise—found under my mattress, hidden in a cupboard drawer, or secreted in a coat pocket. I am confident that the mahaguru's benevolence was at work.
+
+— Hingori, *Witnessing Greatness*, Ch.1, p.17
 
 ## Source
 
-*Guru Sutra*, Ch.9, "Surrender of Dhann," pp.81–82
+- *Guru Sutra*, Ch.9, "Surrender of Dhann," pp.81–82
+- *Witnessing Greatness*, Chapter 1 ("Back To The Future"), p.17
 
 ## Related Concepts / Entities
 
 - [[concepts/surrender]] — Classic illustration of surrender of dhann: following an expensive instruction without understanding its logic
 - [[concepts/faith]] — "Having realised the guru is always right, one must do as he instructs"
 - [[concepts/power-symbols]] — Gurudev gifted Hingori divine symbols; the return on financial surrender was immeasurable
-- [[entities/mahaguru]] — Gurudev's unstated calculus: preserve time, invest it in seva; the gift came after compliance
-- [[entities/hingori]] — The disciple who felt foolish for his tight-fisted resistance once the return was revealed
+- [[entities/mahaguru]] — Gurudev's unstated calculus: preserve time, invest it in seva; the gift and materialization of funds came after compliance
+- [[entities/hingori]] — The disciple who felt foolish for his tight-fisted resistance once the return and help was revealed

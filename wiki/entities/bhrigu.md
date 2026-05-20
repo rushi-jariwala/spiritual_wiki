@@ -1,10 +1,10 @@
 ---
 title: Rishi Bhrigu
 type: entity
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/destiny]]", "[[stories/bhrigu-dr-chandra]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, raw/witnessing-greatness-chapters/ch-01-back-to-the-future.md]
+related: ["[[concepts/destiny]]", "[[stories/bhrigu-dr-chandra]]", "[[entities/mahaguru]]", "[[stories/gurudev-birth-prophecy]]"]
 created: 2026-04-18
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 # Rishi Bhrigu
@@ -45,6 +45,7 @@ Hingori comments: "The question that pops up is: How could a saint who lived tho
 ## Notable Stories
 
 - [[stories/bhrigu-dr-chandra]] — three independent Bhrigu Nadi predictions fulfilled across one family
+- [[stories/gurudev-birth-prophecy]] — the birth prophecy choosing Rajinder over Sant Prakash
 - [[entities/mahaguru]] — Brighu Samhita prophecy at birth: birthplace Hariana, name beginning with Raj
 
 ## Cross-references

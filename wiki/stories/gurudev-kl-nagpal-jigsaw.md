@@ -1,10 +1,10 @@
 ---
 title: The KL Nagpal Jigsaw — Coincidences Designed by Destiny
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/destiny]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, raw/witnessing-greatness-chapters/ch-01-back-to-the-future.md]
+related: ["[[entities/mahaguru]]", "[[entities/kl-nagpal]]", "[[entities/dwarkanath]]", "[[concepts/destiny]]", "[[stories/gurudev-delhi-roommates]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-20
 ---
 
 # The KL Nagpal Jigsaw — Coincidences Designed by Destiny
@@ -21,9 +21,13 @@ updated: 2026-04-25
 
 ## Source
 
-*The Guru of Gurus*, "The Bonds of Friendship," pp.18, 23
+- *The Guru of Gurus*, "The Bonds of Friendship," pp.18, 23
+- *Witnessing Greatness*, Chapter 1 ("Back To The Future"), p.16
 
 ## Related Concepts / Entities
 
 - [[entities/mahaguru]] — the figure toward whom all the coincidences converge
+- [[entities/kl-nagpal]] — the roommate whose mistaken identity set up their meeting
+- [[entities/dwarkanath]] — the Agra friend and flatmate who roomed with them in Delhi
 - [[concepts/destiny]] — Hingori's "jigsaw puzzle" framing treats these accidents as destiny-engineered; the same logic as the prarabdh mechanism
+- [[stories/gurudev-delhi-roommates]] — the subsequent East Delhi flat-sharing that emerged from this workspace connection

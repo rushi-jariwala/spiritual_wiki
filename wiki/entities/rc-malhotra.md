@@ -2,10 +2,10 @@
 title: R.C. Malhotra (Ramesh Chand Malhotra)
 type: entity
 tags: [disciple, senior-disciple, first-disciple]
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, raw/witnessing-greatness-chapters/ch-01-back-to-the-future.md]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-18
-updated: 2026-05-13
+updated: 2026-05-20
 ---
 
 # R.C. Malhotra (Ramesh Chand Malhotra)

@@ -36,7 +36,7 @@ updated: 2026-05-20
 | Chapter | Title | Pages | Status |
 |---|---|---|---|
 | 1 | Back To The Future | 9–20 | ✅ ingested 2026-05-20 |
-| 2 | Invisibly Yours, Buddhe Baba | — | ⬜ pending |
+| 2 | Invisibly Yours, Buddhe Baba | 21–32 | ✅ ingested 2026-05-20 |
 | 3 | Impossible Is Possible | — | ⬜ pending |
 | 4 | Saint Maker | — | ⬜ pending |
 | 5 | Seva | — | ⬜ pending |
@@ -55,6 +55,61 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.2 — Invisibly Yours, Buddhe Baba, pp.21–32)
+
+- **The omnipresent guide**: the chapter's central claim is that Buddhe Baba operated not as a periodic visitor but as a perpetual presence — accessible during Gurudev's night-paath, consulted before significant decisions, invoked by name at sthans, and visible (in different forms) to family members across decades. The chapter's structure enacts this: a chorus of witnesses across time (childhood, seva years, post-departure), each adding a piece to an identity that is never fully assembled.
+- **Non-doership at the mahaguru level**: Gurudev's signature attribution — "He does. I don't" — is the chapter's recurring refrain. See [[concepts/non-doership]] and [[entities/buddhe-baba]].
+- **The garland hierarchy**: Gurudev's practice of declining garlands once he had received as many as his guru wore demonstrates the live operating principle — deference upward continues even in public, even when the superior is invisible.
+- **Three identity theories**: the chapter adds a third theory (Chachi ji's view that Buddhe Baba was Gurudev's own enlightened jivaatma) to the existing two (manifestation of Shiv; Sitaram ji of Benaras). Raji Sharma ji's testimony refines theory 2: Sitaram ji of Benaras, having gone seh sharir, is one with Shiv — so theories 1 and 2 are potentially the same.
+- **Anonymity as spiritual strategy**: the chapter closes with Hingori's analysis of why Buddhe Baba remained deliberately unknown — public identity recruits the ego and undermines spiritual depth. "Hum yahaan apna astitva mitaane aaye hain, banaane nahin." This enriches [[concepts/guru-vandana]] (fame vs. anonymity) and [[concepts/non-doership]].
+- **Multiple gurus across stages**: the school-teacher analogy placed in this chapter frames the multi-mentor journey as universal — different guides for different stages, but only one who holds "the reins to his aatma's odyssey." See [[wiki/analogies/analogies]] and [[concepts/guru-disciple]].
+- **Physical imprints from astral contact**: the Malhotra yog dand story and Hingori's fan-ankle story ([[stories/hingori-fan-ankle]]) are placed together as evidence for a consistent principle: physical consequences can originate in astral-realm encounters. See [[concepts/astral-travel]].
+
+## Notable Quotes (Ch.2)
+
+> "He does. I don't."
+> — Gurudev (attributing all seva to Buddhe Baba), *Witnessing Greatness*, Ch.2, p.24
+
+> "I have to consider my guru, and I certainly cannot wear more garlands than my guru does."
+> — Gurudev to Rajpal Sekhri ji, *Witnessing Greatness*, Ch.2, p.24
+
+> "You do not need to seek me physically. I will always be present during your paath to guide you. But remember, you must do nisvarth seva. Whoever you touch will be healed, and I will guide you every step of the way."
+> — Buddhe Baba to Gurudev (narrated by Suresh Kohli ji), *Witnessing Greatness*, Ch.2, pp.22–23
+
+> "Buddhe Baba chose anonymity as a strategic means to sidestep the constraints and diversions associated with a public identity… Selfless service without attachment to one's own identity exemplifies true seva."
+> — Hingori, *Witnessing Greatness*, Ch.2, pp.31–32
+
+> "Hum yahaan apna astitva mitaane aaye hain, banaane nahin."
+> (We are here to erase our identity, not to construct it.)
+> — saying characterising Buddhe Baba's principle, *Witnessing Greatness*, Ch.2, p.32
+
+## Stories Extracted (Ch.2)
+
+- [[stories/renu-buddhe-baba-childhood-encounter]] — Renu ji alone and sick; waking encounter with a white-clad figure from the storeroom
+- [[stories/rashmi-buddhe-baba-grief-vision]] — Rashmi ji weeping in grief; luminous figure consoles her and explains the soil survey tour
+- [[stories/malhotra-buddhe-baba-yog-dand]] — RC Malhotra ji's astral meeting; physical yog dand imprint upon waking
+- [[stories/hingori-raft-vision-buddhe-baba]] — Hingori's personal vision; divine being on a raft; Gurudev's deference
+- Enrichment passes on: [[stories/buddhe-baba-deserted-temple]] (Suresh Kohli ji's fuller narration, including the charpoy healing the next day) · [[stories/gurudev-kurwai-first-healing]] (the inner-voice instruction to heal the man on the charpoy) · [[stories/buddhe-baba-sister-vision]] (earlier account, superseded in detail by [[stories/rashmi-buddhe-baba-grief-vision]])
+
+## New Concepts Introduced (Ch.2)
+
+No standalone new concept pages required. Ch.2 enriches existing concepts:
+- [[entities/buddhe-baba]] — massively enriched: three identity theories, Testimonies section, Appearances section, Anonymity as spiritual strategy
+- [[concepts/non-doership]] — "He does. I don't" cross-reference added
+- [[concepts/guru-vandana]] — anonymity teaching reinforced
+- [[wiki/analogies/analogies]] — *School Teachers at Different Levels* analogy added
+
+## Contradictions / Tensions (Ch.2)
+
+> [!warning] **The garland-count incident vs. invisibility of Buddhe Baba**
+> Several testimonies state that Buddhe Baba had no photograph at the sthan (FC Sharma ji). Yet Gurudev refused extra garlands to avoid exceeding his guru's count — implying a garland was offered somewhere or to someone representing Buddhe Baba. The logistics remain unexplained. The chapter does not resolve how garlands reached an invisible presence.
+
+> [!warning] **Three identity theories — partially convergent, partially not**
+> Raji Sharma ji's theory (Sitaram ji of Benaras as Shiv roop) makes theories 1 and 2 compatible. But Chachi ji's theory (Buddhe Baba as Gurudev's own jivaatma) is structurally different and is not reconciled with the other two. A figure external to Gurudev (theories 1 and 2) cannot simultaneously be Gurudev's own evolved jivaatma (theory 3) without significant theological work the chapter does not perform.
+
+> [!warning] **Hingori's raft vision description does not match other sightings**
+> The white-clad elderly figure with long white hair and flowing beard (common to Rashmi ji, Renu ji, Puran ji, Mrs Bhalla) does not match the "green toga, square-shaped face" figure in Hingori's raft vision. Hingori himself notes the uncertainty. This may be a different form, a different entity, or a different level of manifestation.
 
 ## Key Themes (Ch.1 — Back To The Future, pp.9–20)
 

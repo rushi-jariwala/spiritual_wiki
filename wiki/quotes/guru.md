@@ -1,15 +1,36 @@
 ---
 title: Quotes on the Guru
 type: quote-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]"]
 created: 2026-04-12
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 # Quotes on the Guru
 
 Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teachership.
+
+---
+
+## On the Guru's Guru — Buddhe Baba (*Witnessing Greatness* Ch.2)
+
+> "He does. I don't."
+> — Gurudev (attributing all seva to Buddhe Baba), *Witnessing Greatness*, Ch.2, p.24
+[[entities/buddhe-baba]] · [[concepts/non-doership]] · [[entities/mahaguru]]
+
+> "I have to consider my guru, and I certainly cannot wear more garlands than my guru does."
+> — Gurudev to Rajpal Sekhri ji, *Witnessing Greatness*, Ch.2, p.24
+[[entities/buddhe-baba]] · [[entities/mahaguru]] · [[concepts/guru-vandana]]
+
+> "You do not need to seek me physically. I will always be present during your paath to guide you. But remember, you must do nisvarth seva. Whoever you touch will be healed, and I will guide you every step of the way."
+> — Buddhe Baba to Gurudev (narrated by Suresh Kohli ji), *Witnessing Greatness*, Ch.2, pp.22–23
+[[entities/buddhe-baba]] · [[practices/seva]] · [[concepts/intent-as-healing]]
+
+> "Hum yahaan apna astitva mitaane aaye hain, banaane nahin."
+> (We are here to erase our identity, not to construct it.)
+> — saying invoked in *Witnessing Greatness*, Ch.2, p.32, to characterise Buddhe Baba's anonymity
+[[entities/buddhe-baba]] · [[concepts/non-doership]] · [[concepts/guru-vandana]]
 
 ---
 

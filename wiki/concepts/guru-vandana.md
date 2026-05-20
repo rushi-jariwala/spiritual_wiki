@@ -91,6 +91,8 @@ This is not a blanket criticism of well-known gurus — many use fame productive
 
 Gurudev taught his circle to stay low-key — to do what had to be done without gaining recognition. He would meet 30,000 to 40,000 people every month at the sthans, yet could roam freely in other cities without being identified. When a team of Japanese journalists visited the Gurgaon sthan to interview the resident guru, Gurudev met them, gave an evasive answer on the whereabouts of the guru, got into his car and drove off. The media personnel had no idea they had been talking to the very man they came to interview, since they had no idea what he looked like. — *Guru Sutra*, Ch.14, pp.285–287
 
+[[entities/buddhe-baba]] lived this principle with even greater completeness — remaining so thoroughly anonymous that even Gurudev's closest disciples never learned his identity across eighteen years. Hingori reads this as a deliberate strategic choice: "He understood that being known could undermine his deeper spiritual objectives... Selfless service without attachment to one's own identity exemplifies true seva." The associated teaching: *"Hum yahaan apna astitva mitaane aaye hain, banaane nahin"* — we are here to erase our identity, not to construct it. (*Witnessing Greatness*, Ch.2, pp.31–32)
+
 A siddh guru should want his disciples — and himself — to identify not only with other human beings, but with all life forms. Else would not the theory of oneness be a wasted one?
 
 ---

@@ -63,6 +63,7 @@ Gurudev had subtly predicted that after his demise his disciples would operate i
 - [[stories/hingori-gati-malhotra]] — taught Hingori *gati* in a vision state; sent by Gurudev
 - [[stories/malhotra-power-misuse]] — train delays and bull-and-fruit-cart misuse; Gurudev's reprimand and warning
 - [[stories/malhotraji-luggage-resignation]] — posthumous orchestration; luggage moved to the meeting; theatrical reinstatement as chief trustee
+- [[stories/malhotra-buddhe-baba-yog-dand]] — astral meeting with Gurudev and Buddhe Baba; opinions upset Buddhe Baba; physical yog dand imprint on back upon waking (*Witnessing Greatness*, Ch.2)
 
 ## Cross-references
 

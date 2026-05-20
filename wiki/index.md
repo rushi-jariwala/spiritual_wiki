@@ -234,6 +234,10 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[chacha-tantriks]] — Two tantriks attack Chacha; neither can harm him; both casually forgiven and reformed
 - [[buddhe-baba-deserted-temple]] — Tobacco exchange, incomplete mantra, steel kada; commissioning of nisvarth seva
 - [[buddhe-baba-sister-vision]] — Reddish light, sage-form reassures distressed sister; Gurudev confirms the identity
+- [[rashmi-buddhe-baba-grief-vision]] — Rashmi ji weeps in grief, mistaking "gone" for death; luminous white figure consoles her and explains the soil survey tour
+- [[renu-buddhe-baba-childhood-encounter]] — Renu ji, alone and feverish, sees white-clad figure emerge from the storeroom; Mataji identifies it as Buddhe Baba
+- [[malhotra-buddhe-baba-yog-dand]] — RC Malhotra ji's astral meeting with Buddhe Baba; opinions upset the guide; physical yog dand imprint discovered on his back upon waking
+- [[hingori-raft-vision-buddhe-baba]] — Gurudev guides Hingori to a riverbank raft; a divine being in green toga receives the only seat; silent glide across the water
 - [[augarh-har-ki-pauri]] — Bows to Gurudev's feet at aarti; disappears into crowd; touches Mataji's feet unnoticed
 - [[augarh-laxman-jhoola]] — Sheet-clad man with red eyes; joint healing of Surender's son; vanishes in seconds
 - [[hingori-augarh-mataji-town]] — Drunk man chants Hingori's mental mantra; guards Mataji's family home all night

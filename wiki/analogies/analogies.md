@@ -1,10 +1,10 @@
 ---
 title: Analogies
 type: analogy-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: []
 created: 2026-04-15
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 # Analogies
@@ -542,6 +542,16 @@ Used by Hingori to describe the state of the spiritual lineage after Gurudev's p
 > — Hingori, *The Guru of Gurus*, p.18
 
 Used to frame a cluster of improbable accidents surrounding Gurudev's early life — a mistaken hiring, a chance encounter with a woman's cow that leads to a career, a friendship forged in a 120-sq-ft room — none of which appear connected until the full picture emerges. The jigsaw analogy captures the prarabdh mechanism: individual pieces look random, but the completed image was determined before the pieces were laid down. The puzzle was pre-assembled; life's work is living it out. See [[stories/gurudev-kl-nagpal-jigsaw]], [[stories/gurudev-cow-milk-pusa]].
+
+---
+
+### Reverse-Engineering the Spiritual Titan
+*Illuminates: [[concepts/destiny]], [[synthesis/reverse-engineered-destiny]], [[entities/mahaguru]]*
+
+> "Every element of Gurudev's early life—from the auspicious signs at his birth to his professional affiliations—was strategically reverse-engineered to sculpt him into the spiritual titan he was to become."
+> — Hingori, *Witnessing Greatness*, Ch.1, p.9
+
+The engineering metaphor sharpens the jigsaw image above. A jigsaw is *assembled* — the pieces are laid down toward a pre-existing picture. Reverse-engineering goes a step further: you begin with the finished product (the mahaguru) and *derive the specifications* the earlier components must have met. The childhood disinterest in academics, the soil-survey posting, the eight workmates born in the same era — each is read as a part machined to tolerance for a device whose final function was already fixed. *"It was as if destiny had reverse-engineered the perfect assembly of souls."* See [[synthesis/reverse-engineered-destiny]].
 
 ---
 

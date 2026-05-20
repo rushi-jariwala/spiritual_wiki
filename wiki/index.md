@@ -122,6 +122,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ingesting: Ch.1 (Back To The Future) done*
 
 ---
 
@@ -151,6 +152,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Stories
 
+- [[gurudev-naming-saga]] — Grandfather's Santoksar pilgrimage; the Santprakash-vs-Rajinder naming contest; Bhrigu Samhita's "Raj-" prophecy fulfilled by the grandmother's rain-omen choice
+- [[gurudev-flight-money-materialising]] — Hingori's monthly Bada Guruvar flight money mysteriously appears under mattress, drawer, coat pocket; Gurudev's materialising shakti for seva
 - [[gurudev-birth-cobra]] — Hooded cobra on the infant's crib; sadhu predicts "someone like Shiv" at 35
 - [[gurudev-illness-baba-balak-nath]] — Bedridden 1948; miraculous cure via jal; triggered his spiritual quest
 - [[gurudev-chirag-flood]] — Wades knee-deep floodwater every Thursday to honour his dargah ritual
@@ -378,3 +381,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[samskar-loop]] — Four-link mechanism of karmic perpetuation; the break at citta level *(Karma Sutra)*
 - [[destiny-and-doership]] — The Hingori theodicy; how the two concepts together dissolve guilt from both sides *(Karma Sutra + Aatma Sutra)*
 - [[guru-sutra-arc]] — The complete Guru Sutra arc: from finding the guru (treasure hunt) to recognising the guru within (self as guru); Phase 1: Hunt; Phase 2: Bond; Phase 3: Recognition *(Guru Sutra)*
+- [[reverse-engineered-destiny]] — Destiny read backward from the final form; Gurudev's early life as a life retrofitted to the dimensions of the mahaguru *(Witnessing Greatness Ch.1 + Guru of Gurus + Aatma Sutra)*

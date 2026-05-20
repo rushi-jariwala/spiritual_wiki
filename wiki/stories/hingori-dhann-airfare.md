@@ -18,6 +18,8 @@ updated: 2026-05-05
 
 *Guru Sutra*, Ch.9, "Surrender of Dhann," pp.81–82
 
+> [!tip] *Witnessing Greatness* Ch.1 records the same monthly flight arrangement from a different angle: the money to comply *materialised* — found under Hingori's mattress, in a drawer, or in a coat pocket. The instruction created the conditions for its own fulfilment. See [[stories/gurudev-flight-money-materialising]].
+
 ## Related Concepts / Entities
 
 - [[concepts/surrender]] — Classic illustration of surrender of dhann: following an expensive instruction without understanding its logic

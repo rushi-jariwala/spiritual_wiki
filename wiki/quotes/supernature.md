@@ -1,10 +1,10 @@
 ---
 title: Quotes — Supernature
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[entities/mahaguru]]", "[[concepts/maya]]"]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-21
 ---
 
 # Quotes — Supernature
@@ -96,3 +96,67 @@ Quotes from *The Guru of Gurus*, Chapter 07: Supernature (pp.231–248).
 > He embodied power of the most selfless kind. To us, he was a friend, father and mentor. In all the roles the mahaguru played, he reminded us of our own supernature.
 > — Hingori, *The Guru of Gurus*, p.232
 [[concepts/supernature]] · [[concepts/role-play]] · [[entities/mahaguru]]
+
+---
+
+*The following quotes are from* Witnessing Greatness, *Ch.3 — Impossible Is Possible.*
+
+---
+
+> "You need a lot of spiritual strength to withstand what you witnessed."
+> — Gurudev to Shambu ji (after the five-headed vision), *Witnessing Greatness*, Ch.3, p.33
+[[concepts/supernature]] · [[stories/shambhuji-five-headed-form]]
+
+---
+
+> "The room instantly filled with dazzling light as if hundreds of suns had risen! I could not stand how bright it was and collapsed at his feet."
+> — Kwatra ji, *Witnessing Greatness*, Ch.3, p.34
+[[concepts/supernature]] · [[entities/mahaguru]]
+
+---
+
+> "I was healed. And I believe that the radiant light form was none other than Gurudev."
+> — Humsa Dhir ji, *Witnessing Greatness*, Ch.3, p.35
+[[concepts/supernature]] · [[concepts/spiritual-healing]] · [[stories/humsa-dhir-healing-light-being]]
+
+---
+
+> "They will stop us only if they see us."
+> — Gurudev to Rajpal Sekhri ji (before walking through a crowd at his gate), *Witnessing Greatness*, Ch.3, p.40
+[[concepts/supernature]] · [[stories/rajpal-sekhri-invisibility-gate]]
+
+---
+
+> "I have already told you that I have created two of you."
+> — Gurudev to Virender ji, *Witnessing Greatness*, Ch.3, p.38
+[[concepts/supernature]] · [[concepts/astral-travel]] · [[stories/virenderji-uninvited-guests]]
+
+---
+
+> "You clamour for my visit, and when I oblige, you greet me with a nunchaku."
+> — Gurudev to Uddhav ji, *Witnessing Greatness*, Ch.3, p.44
+[[concepts/supernature]] · [[stories/uddhav-ji-black-triangles]]
+
+---
+
+> "This was neither a vision nor a dream. Whenever Gurudev appears, I am completely aware. It is a clear dimension of here and now."
+> — Sudhir (Hingori's childhood friend), *Witnessing Greatness*, Ch.3, p.43
+[[concepts/supernature]] · [[stories/sudhir-waking-vision]]
+
+---
+
+> "The mahaguru's statue has made my role almost redundant, and it is an honour to witness and embrace this irrelevance."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.48
+[[stories/asthal-temple-statues]] · [[concepts/supernature]] · [[concepts/non-doership]]
+
+---
+
+> "The limitations imposed by Maya cause ordinary beings to perceive miracles where advanced spiritualists see ordinary occurrences. Advanced spiritual practices combined with gyan expand consciousness, making what seems impossible both conceivable and achievable."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.43
+[[concepts/maya]] · [[concepts/supernature]]
+
+---
+
+> "If one individual can manifest as Shiv, what might you, too, be capable of achieving?"
+> — Hingori, *Witnessing Greatness*, Ch.3, p.48
+[[concepts/supernature]] · [[concepts/self-worship]] · [[entities/mahaguru]]

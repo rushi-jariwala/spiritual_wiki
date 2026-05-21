@@ -1,10 +1,10 @@
 ---
 title: Astral Travel
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]", "[[concepts/supernature]]"]
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-21
 ---
 
 # Astral Travel
@@ -172,12 +172,36 @@ The Brighu Samhita also alludes to Gurudev's alliance with the Ashvin Kumaras.
 
 Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultaneously attend to many people's problems. Many disciples also have nirman kayas. Hingori writes that his own nirman kaya has appeared in people's dreams, healed them, given them answers to their problems, and occasionally given them mantras he has never consciously heard of.
 
+## *Witnessing Greatness* Ch.3 — Enrichments
+
+### Nirman Kaya Propagating Through the Lineage
+
+The most significant addition from WG Ch.3 is the documentation that nirman kaya capacity propagates to disciples — not only to Gurudev. Multiple disciples are seen in places they are not physically present, and Gurudev explicitly confirms he is the agent:
+
+- Gurudev promised Virender ji (Rohtak judge): *"I will create two of you — one to work in the court and the other to assist me."* Two separate mornings in 1988, neighbours saw a version of Virender ji walking past their gates at 6 am while he was at home in prayer. Gurudev's confirmation: *"I have already told you that I have created two of you."* See [[stories/virenderji-uninvited-guests]].
+- Nakul Malhotra ji left his guru at the Bandra sthan; minutes later, his father called from Bombay Hospital in Marine Lines: *"Guruji just visited your mother at the hospital."* The journey between the two locations takes approximately 40 minutes.
+- Ashish Khanna ji's guru appeared at his restaurant table in Goa while physically in a meeting in Mumbai. See [[stories/ashish-khanna-goa-bilocation]].
+
+### Invisibility — Mechanism Explained
+
+WG Ch.3 provides an explicit mechanism for the invisibility that the *Guru of Gurus* documented as fact. Highly advanced yogis can transform the *molecular structure* of their bodies, effectively stopping light from reflecting off them, and thus vanishing from sight. This is offered as the physical-science basis for what is otherwise described as inexplicable. See [[stories/rajpal-sekhri-invisibility-gate]].
+
+An involuntary variant is also documented: Ashish ji, on vacation in Almaty, felt three times his size without intending to. Photographs showed only the lower half of his body — everything above the waist absent — as though partial invisibility occurred without his conscious will. See [[stories/ashish-khanna-goa-bilocation]].
+
+### Post-Death Appearances — New Accounts
+
+WG Ch.3 adds to the existing record of Gurudev's posthumous appearances (previously documented: the schoolmate in DLF Gurgaon via *Aatma Sutra*). New accounts:
+- Daughter of Asha Sekhri ji: Gurudev at her wedding; three men following her in Oslo; both after his 1991 death. See [[stories/asha-sekhri-wedding-oslo]].
+- Rajneesh Sharma ji's neighbour: saw Gurudev around their building for three or four consecutive days after his death.
+- Narender and Saroj ji: saw Gurudev physically at the Maharudra yagya in 1992, and their daughter saw him at the Karnal sthan years later.
+- Sudhir (Hingori's childhood friend): waking vision, not a dream, of Gurudev in full physical form seven to eight feet tall, inviting him to "come, son." Led him to the Gurgaon sthan. See [[stories/sudhir-waking-vision]].
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — the spirit body that performs astral travel
 - [[concepts/aura]] — the *shakti* that powers gati and astral capacity
 - [[concepts/mukti]] — nirman kaya mechanism; advanced spiritualists active in the spirit realm
-- [[concepts/supernature]] — bilocation, invisibility, and elemental control as dimensions of supernature
+- [[concepts/supernature]] — bilocation, invisibility, elemental control, post-death presence, and consecrated statues as dimensions of supernature
 - [[entities/mahaguru]] — primary exemplar; travelled astrally thrice a week; appeared posthumously
 - [[entities/hingori]] — first-person witness and practitioner across all stages
 - [[entities/rc-malhotra]] — teacher of gati to Hingori in vision state
@@ -187,3 +211,8 @@ Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultane
 - [[stories/uddhav-ji-black-triangles]] — Gurudev acts astrally at a distance to protect a disciple from a dangerous spirit apparition
 - [[stories/hingori-puranji-missed-astral-tour]] — Brahmaand offer; Hingori physically wakes instead of going astrally
 - [[concepts/constant-awareness]] — constant awareness is the standing state within which astral travel occurs; documented in the same incidents (flight to Hyderabad, Bathri yogi, inland letter)
+- [[stories/virenderji-uninvited-guests]] — fuller WG account: Gurudev creates two versions of Virender ji
+- [[stories/ashish-khanna-goa-bilocation]] — guru bilocates Goa-Mumbai; partial invisibility in Almaty
+- [[stories/asha-sekhri-wedding-oslo]] — posthumous appearances: wedding and Oslo
+- [[stories/sudhir-waking-vision]] — posthumous waking vision by a stranger
+- [[stories/rajpal-sekhri-invisibility-gate]] — molecular-level invisibility mechanism explained

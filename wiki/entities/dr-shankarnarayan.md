@@ -2,10 +2,10 @@
 title: Dr. Shankarnarayan
 type: entity
 tags: [disciple, colleague]
-sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[stories/shankarnarayan-vaishali-healing]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[stories/shankarnarayan-vaishali-healing]]", "[[concepts/supernature]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-21
 ---
 
 # Dr. Shankarnarayan
@@ -37,9 +37,16 @@ Later in life, Shankarnarayan ji approached Gurudev repeatedly with an important
 > "Maine tujhe guru banaya hai. Tu kaagaz bhi mathe se laga kar usko de dega, toh woh theek ho jayega."
 > — Gurudev, recorded in [[stories/gurudev-diary-guru-not-doctor]], the same principle illustrated by the photograph incident
 
+### The Hilltop Temple Bilocation
+
+*Witnessing Greatness*, Ch.3
+
+Gurudev directed Dr. Shankarnarayan ji to visit a hilltop temple established by Adi Shankaracharya. Exiting after chanting his mantras, Shankarnarayan ji was surprised to see Gurudev standing at a distance. When he returned to the office, Gurudev had not left his seat. Upon telling him what he saw, Gurudev responded: *"What's the big deal?"* — and continued his work. This is one of several documented bilocation events in *Witnessing Greatness* Ch.3. See [[concepts/supernature]].
+
 ## Sources
 
 - *The Guru of Gurus*, Early Years chapter; The Mahaguru chapter
+- *Witnessing Greatness*, Ch.3 — Impossible Is Possible, p.37
 
 ## Cross-references
 

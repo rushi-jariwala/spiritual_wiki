@@ -139,6 +139,7 @@ Self-acceptance generates self-like; self-like generates self-love; self-love th
 - **Valmiki** — ancient sage and author of the Ramayan; was a bandit in a former phase; Phase A-to-Z exemplar (*Aatma Sutra*, Ch.XII)
 - **Vishvamitra** — arrogant king who rose through penance to the title of *brahmarishi*; Phase A-to-Z exemplar (*Aatma Sutra*, Ch.XII)
 - [[stories/rajeev-alcoholic-to-saint]] — alcoholic who became a revered healer; Phase A-to-Z from Hingori's own circle
+- [[stories/humsa-dhir-healing-light-being]] — healing that followed the night of Humsa ji's inner resolution to accept her condition; self-acceptance as the condition that opened the door to grace
 - [[stories/hingori-meat-chopper-guilt]] — the founding personal experience of guilt dissolving through destiny acceptance
 - [[stories/rabia-of-basra-sufi-saint]]
 - [[stories/ram-kills-bali-behind-tree]]

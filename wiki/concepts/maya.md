@@ -2,7 +2,7 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
 created: 2026-04-12
 updated: 2026-04-22
@@ -143,6 +143,17 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 - [[stories/ram-kills-bali-behind-tree]] — maya teaching applied: killing Bali without guilt
 - [[stories/ram-banishes-sita]] — maya teaching applied: banishing Sita without malice
 - [[stories/ram-speech-to-guru-vashisht]] — Ram's own account of his state
+
+## Maya as the Limit of Miraculous Perception
+
+*Witnessing Greatness* Ch.3 closes with Hingori's distillation of the chapter's testimonies into a Maya teaching:
+
+> "The limitations imposed by Maya cause ordinary beings to perceive miracles where advanced spiritualists see ordinary occurrences. Advanced spiritual practices combined with gyan expand consciousness, making what seems impossible both conceivable and achievable."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.43
+
+This is an inversion of the usual maya framing. Here, maya does not merely delude the practitioner into mistaking the unreal for real — it also truncates the practitioner's sense of what is *possible*. The boundary between ordinary and miraculous is itself a maya-construct. What a disciple experiences as an inexplicable miracle (Gurudev appearing in Oslo years after his death) is, from Gurudev's vantage, an ordinary deployment of spiritual consciousness. The chapter ends with Hingori's challenge: *"If one individual can manifest as Shiv, what might you, too, be capable of achieving?"*
+
+> [!tip] Maya limits perception in both directions: it makes the unreal seem real (the standard teaching) and it makes the possible seem impossible (the supernature corollary). Both boundaries dissolve together as consciousness expands.
 
 ## Maya and Ek Se Anek
 

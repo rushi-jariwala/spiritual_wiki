@@ -37,7 +37,7 @@ updated: 2026-05-20
 |---|---|---|---|
 | 1 | Back To The Future | 9–20 | ✅ ingested 2026-05-20 |
 | 2 | Invisibly Yours, Buddhe Baba | 21–32 | ✅ ingested 2026-05-20 |
-| 3 | Impossible Is Possible | — | ⬜ pending |
+| 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-21 |
 | 4 | Saint Maker | — | ⬜ pending |
 | 5 | Seva | — | ⬜ pending |
 | 6 | Roots to Wings | — | ⬜ pending |
@@ -55,6 +55,68 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.3 — Impossible Is Possible, pp.33–48)
+
+- **Supernature as ongoing, post-death reality**: the chapter's organising premise is that the mahaguru's extraordinary capacities did not cease with his 1991 death. They dispersed into: posthumous physical appearances (weddings, streets, buildings), waking visions to strangers he directs to his sthan, and active healing through consecrated statues. See [[concepts/supernature]].
+- **Bilocation across the lineage**: Ch.3 documents not only Gurudev bilocating, but his disciples doing so — with Gurudev explicitly taking credit (*"I have created two of you"*). The nirman kaya capacity is not just something Gurudev demonstrates; it propagates through initiated disciples. See [[concepts/astral-travel]].
+- **Invisibility — the molecular explanation**: Hingori provides the only explicit theoretical account of how invisibility works — molecular transformation to stop light reflection — grounding a spiritual phenomenon in a physical-science model. See [[stories/rajpal-sekhri-invisibility-gate]].
+- **Consecrated statues as consciousness portals**: the Asthal temple section (pp.45–48) documents the most unusual category of supernature in the book: inanimate statues, consecrated through mass *pran pratishtha*, become active healers and two-way portals. The statue smiles, rotates its face, responds to prayer, heals through *jal* — and a meditating sevadaar's consciousness enters the statue and heals a remote patient through its eyes. See [[stories/asthal-temple-statues]].
+- **Maya as boundary of possibility**: the chapter's closing argument reframes Maya not only as the producer of illusion but as the setter of an artificially low ceiling on what is possible. The mahaguru's life dismantles this ceiling; the challenge to the reader is to revise their own. See [[concepts/maya]].
+- **Triangle entities**: two categories of beings manifesting as geometric triangles — Gurudev himself appearing as a triangle to Uddhav ji, and Bade Jain Saheb independently encountering a divine triangle. Suggests geometry is a valid form for higher-dimensional presences. See [[stories/uddhav-ji-black-triangles]].
+- **Healing through acceptance**: Humsa Dhir ji's healing follows her inner resolution to accept her condition — not a prayer or petition. The being of light (identified as Gurudev) appears that same night. See [[stories/humsa-dhir-healing-light-being]] and [[concepts/self-acceptance]].
+
+## Notable Quotes (Ch.3)
+
+> "They will stop us only if they see us."
+> — Gurudev to Rajpal Sekhri ji, *Witnessing Greatness*, Ch.3, p.40
+[[concepts/supernature]] · [[stories/rajpal-sekhri-invisibility-gate]]
+
+> "I have already told you that I have created two of you."
+> — Gurudev to Virender ji, *Witnessing Greatness*, Ch.3, p.38
+[[concepts/supernature]] · [[concepts/astral-travel]] · [[stories/virenderji-uninvited-guests]]
+
+> "You clamour for my visit, and when I oblige, you greet me with a nunchaku."
+> — Gurudev to Uddhav ji, *Witnessing Greatness*, Ch.3, p.44
+[[concepts/supernature]] · [[stories/uddhav-ji-black-triangles]]
+
+> "You need a lot of spiritual strength to withstand what you witnessed."
+> — Gurudev to Shambu ji (after the five-headed vision), *Witnessing Greatness*, Ch.3, p.33
+[[concepts/supernature]] · [[stories/shambhuji-five-headed-form]]
+
+> "This was neither a vision nor a dream. Whenever Gurudev appears, I am completely aware. It is a clear dimension of here and now."
+> — Sudhir, *Witnessing Greatness*, Ch.3, p.43
+[[concepts/supernature]] · [[stories/sudhir-waking-vision]]
+
+> "The mahaguru's statue has made my role almost redundant, and it is an honour to witness and embrace this irrelevance."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.48
+[[stories/asthal-temple-statues]] · [[concepts/supernature]] · [[concepts/non-doership]]
+
+> "The limitations imposed by Maya cause ordinary beings to perceive miracles where advanced spiritualists see ordinary occurrences. Advanced spiritual practices combined with gyan expand consciousness, making what seems impossible both conceivable and achievable."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.43
+[[concepts/maya]] · [[concepts/supernature]]
+
+## Stories Extracted (Ch.3)
+
+- [[stories/humsa-dhir-healing-light-being]] — healed overnight by orange-golden light being; preceded by an act of inner acceptance
+- [[stories/ashish-khanna-goa-bilocation]] — guru bilocates Goa-Mumbai; Ashish ji partially invisible in Almaty
+- [[stories/asha-sekhri-wedding-oslo]] — post-death: daughter's wedding gift of a ring; Oslo street protection
+- [[stories/sudhir-waking-vision]] — Hingori's childhood friend receives a waking vision from Gurudev, finds the Gurgaon sthan
+- [[stories/asthal-temple-statues]] — multi-witness Asthal phenomena: smiling statues, jal healing, consciousness inside the idol
+- [[stories/rajpal-sekhri-invisibility-gate]] — Gurudev walks through a crowd unseen; Hingori at Badrinath
+- Enrichment passes on: [[stories/shambhuji-five-headed-form]] (WG version: Raji Kapoor ji's telling, Shivpuri setting, "You need spiritual strength") · [[stories/uddhav-ji-black-triangles]] (first-person nunchaku account + Bade Jain Saheb triangle) · [[stories/virenderji-uninvited-guests]] (two Rohtak incidents + Gurudev's confirmation)
+
+## New Concepts Introduced (Ch.3)
+
+No standalone new concept pages required. Ch.3 enriches:
+- [[concepts/supernature]] — new sections: Disciples Bilocating, Post-Death Manifestations, Consecrated Statues as Extensions of Presence
+- [[concepts/astral-travel]] — WG Ch.3 enrichments section added
+- [[concepts/maya]] — Maya as the Limit of Miraculous Perception section added
+
+## Contradictions / Tensions (Ch.3)
+
+> [!warning] **Five-headed vision: Gurgaon (GoG, 1974) vs. Shivpuri (WG, post-1976 initiation)**
+> *The Guru of Gurus* places the five-headed vision in Gurgaon during Mahashivratri 1974, with the life-extension warning given *within* the same encounter. *Witnessing Greatness* Ch.3 narrates it via Raji Kapoor ji as occurring at Shivpuri, with the life-extension granted separately at an earlier Himachal Pradesh visit. The two may describe different events, or WG is the more specific account of the same event. The discrepancy is unresolved. See [[stories/shambhuji-five-headed-form]].
 
 ## Key Themes (Ch.2 — Invisibly Yours, Buddhe Baba, pp.21–32)
 

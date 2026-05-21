@@ -122,7 +122,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ingesting: Ch.1 (Back To The Future) done*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ingesting: Ch.1–3 done*
 
 ---
 
@@ -212,7 +212,13 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[ram-speech-to-guru-vashisht]] — Verbatim from *Supreme Yoga* (Venkateshananda); "I behold the world as pure, infinite consciousness"
 - [[hingori-neena-two-guilts]] — Hingori lies about Gurudev's instruction; Neena reveals Gurudev had already confirmed it; the two guilts cancel
 - [[rajeev-alcoholic-to-saint]] — Dissolute drunk introduced to the sthan; years later becomes a revered healer
-- [[shambhuji-five-headed-form]] — Mahashivratri 1974; Shambhu ji witnesses five-headed form in golden light; faints; Raj Kapoor ji notes the extra years were not taken away
+- [[shambhuji-five-headed-form]] — Mahashivratri 1974/Shivpuri; Shambhu ji witnesses five-headed form in golden light; faints; Raji Kapoor ji notes the extra years were not taken away; WG adds detail and Gurudev's remark on spiritual strength
+- [[humsa-dhir-healing-light-being]] — Humsa Dhir ji healed overnight by a tall being of orange-golden light; healing preceded by inner acceptance of her condition
+- [[ashish-khanna-goa-bilocation]] — Ashish Khanna ji's guru bilocates Goa-Mumbai; same narrator partially invisible in Almaty, Kazakhstan
+- [[asha-sekhri-wedding-oslo]] — Post-death: Gurudev gifts ring at daughter's wedding; years later walks protectively beside her daughter on a street in Oslo
+- [[sudhir-waking-vision]] — Hingori's childhood friend receives a waking vision of Gurudev years after his death; finds the Gurgaon sthan
+- [[asthal-temple-statues]] — Multi-witness Asthal temple phenomena: smiling statues, jal healing, Gautam Bhushan ji's consciousness inside the idol
+- [[rajpal-sekhri-invisibility-gate]] — Gurudev walks unseen through a crowd at his gate; Hingori invisible at Badrinath temple
 - [[gurudev-invisible-srinagar-shop]] — Srinagar; broken jeep; Gurudev purchases spare parts from a devotee without being recognised; invisibility as yogic kriya
 - [[rajee-shiv-darshan]] — Gurudev takes Rajee out of body to a mountain cave; Shankar pours milky water saying *mrityu, mrityu, mrityu*
 - [[kapill-shiv-in-himself]] — Meditating Kapill sees Shankar and realises he is looking at himself
@@ -386,3 +392,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[destiny-and-doership]] — The Hingori theodicy; how the two concepts together dissolve guilt from both sides *(Karma Sutra + Aatma Sutra)*
 - [[guru-sutra-arc]] — The complete Guru Sutra arc: from finding the guru (treasure hunt) to recognising the guru within (self as guru); Phase 1: Hunt; Phase 2: Bond; Phase 3: Recognition *(Guru Sutra)*
 - [[reverse-engineered-destiny]] — Destiny read backward from the final form; Gurudev's early life as a life retrofitted to the dimensions of the mahaguru *(Witnessing Greatness Ch.1 + Guru of Gurus + Aatma Sutra)*
+- [[consciousness-beyond-form]] — Five-stage arc from physical presence to consciousness propagated through disciples and consecrated objects; the mahaguru's presence expanding beyond death *(WG Ch.3 + GoG + Aatma Sutra)*

@@ -918,6 +918,26 @@ Uddhav ji's reflection on decades of proximity to Gurudev. The photograph captur
 
 ---
 
+### Appearances Can Be Deceptive — The Mahaguru's Ordinary Exterior
+*Illuminates: [[concepts/supernature]], [[entities/mahaguru]]*
+
+> "With his seemingly ordinary exterior, Gurudev epitomised the saying, 'Appearances can be deceptive'. To the casual observer, he might have appeared as just another man walking the path of life. However, beneath this unassuming facade lay a reservoir of extraordinary spiritual force."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.35
+
+An inversion of the usual direction: the phrase "appearances can be deceptive" typically warns of hidden danger. Here it flags hidden greatness. The ordinary-looking man is the rarest of entities. The analogy reminds that spiritual evolution does not announce itself through dress, status, or demeanour — it hides precisely so that those drawn to it are drawn by something deeper. See [[concepts/supernature]].
+
+---
+
+### Statues as Extensions — Inanimate Objects Imbued with Consciousness
+*Illuminates: [[concepts/supernature]], [[stories/asthal-temple-statues]]*
+
+> "Asthal proves that inanimate objects such as statues, once ordinary, have become imbued with the mahaguru's consciousness, turning them into more than mere symbols of devotion; they have become extensions of his spiritual presence and grace."
+> — Hingori, *Witnessing Greatness*, Ch.3, p.46
+
+The consecrated statue at Asthal is not a representation of Gurudev; it is a channel through which his consciousness continues to operate. The analogy points to a consistent principle across traditions — the image as a focal point for divine energy — but radicalises it: here the healing power is documented, not merely symbolic. See [[stories/asthal-temple-statues]] and [[concepts/spiritual-healing]].
+
+---
+
 ## Mantra Practice & Energy
 
 ### The Body Clock — Mantra Timing

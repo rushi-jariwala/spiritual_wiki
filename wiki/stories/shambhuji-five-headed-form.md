@@ -1,10 +1,10 @@
 ---
 title: Shambhu Ji Sees the Five-Headed Form
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/supernature]]", "[[entities/mahaguru]]", "[[concepts/role-play]]"]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-21
 ---
 
 # Shambhu Ji Sees the Five-Headed Form
@@ -34,6 +34,23 @@ Shambhu ji was a disciple from Jwalamukhi, Himachal Pradesh — a man of conside
 The five-headed form corresponds to the Mahamritunjay / Sadashiv form of Shiv — the highest representation of Shiv, depicted with five faces representing the five directions and five elemental principles. Gurudev's reference to this painting in the sthan as the Mahamritunjay form is significant: he acknowledged the five-headed as the correct template without initially confirming that he himself embodied it.
 
 The story clarifies the price of spiritual perception: the inner vehicle must be strong enough to receive what it is shown. The faint is not failure — it is honest measure. And Gurudev's generosity is characterised by Raj Kapoor ji: even after the forced disclosure, the life-extension was not reclaimed.
+
+## Witnessing Greatness Enrichment (Ch.3)
+
+*Witnessing Greatness* Ch.3 provides Raji Kapoor ji's own telling of the event, placing it at Shivpuri rather than Gurgaon and adding chronological context:
+
+> "In 1976, Gurudev initiated Shambu ji, a resident of Jwalaji, into seva at Kathog in Himachal Pradesh. Years later, this journey led to an extraordinary moment at Shivpuri."
+
+In this version, the life-extension of five years had been granted to Shambu ji during a *previous* visit to Himachal Pradesh — not in the same encounter where the five-headed form was shown. When Shambu ji requested the vision at Shivpuri, Gurudev warned him again that seeing the form would cost him his extended years, but Shambu ji insisted.
+
+After Shambu ji regained consciousness and shared what he had seen, Gurudev remarked:
+
+> "You need a lot of spiritual strength to withstand what you witnessed."
+
+In an act of tremendous grace, Gurudev allowed Shambu ji to retain the boon of extended life despite the vision. Raji Kapoor ji (present as a witness) confirms: the extra years were not taken away. Shambu ji eventually passed away in the late 1980s — having lived the five-year extension granted by the mahaguru.
+
+> [!warning] **Two accounts, two locations, two timings**
+> *The Guru of Gurus* places the five-headed vision in Gurgaon during Mahashivratri 1974, with the life-extension warning given *within* the same encounter. *Witnessing Greatness* Ch.3 places the event at Shivpuri (after a 1976 Kathog initiation), with the life-extension granted separately at an earlier Himachal Pradesh visit. Both agree on the core events; the geography and sequencing differ. The WG account, as a first-person narration by Raji Kapoor ji, may reflect a different event or a refinement of the earlier record.
 
 ## Related Concepts / Entities
 

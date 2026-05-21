@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Witnessing Greatness** (`raw/witnessing-greatness-chapters/`)
 
 ## Next
-- [ ] ch-03-impossible-is-possible.md        (624 lines)
+- [ ] ch-04-saint-maker.md                   (394 lines)
 
 ## Remaining — Witnessing Greatness
-- [ ] ch-04-saint-maker.md                   (394 lines)
 - [ ] ch-05-seva.md                          (544 lines)
 - [ ] ch-06-roots-to-wings.md               (625 lines)
 - [ ] ch-07-deception-of-perception.md       (321 lines)
@@ -38,6 +37,7 @@ a large chapter (≥ 500 lines) is hit.
 ## Completed — Witnessing Greatness
 - [x] ch-01-back-to-the-future.md
 - [x] ch-02-invisibly-yours-buddhe-baba.md
+- [x] ch-03-impossible-is-possible.md
 
 ## Completed — Guru Sutra
 - [x] Introduction + ch-01-concepts-of-guruism.md

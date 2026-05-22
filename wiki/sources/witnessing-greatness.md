@@ -4,7 +4,7 @@ type: source
 sources: [witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # Witnessing Greatness
@@ -38,7 +38,7 @@ updated: 2026-05-20
 | 1 | Back To The Future | 9–20 | ✅ ingested 2026-05-20 |
 | 2 | Invisibly Yours, Buddhe Baba | 21–32 | ✅ ingested 2026-05-20 |
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
-| 4 | Saint Maker | — | ⬜ pending |
+| 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-22 |
 | 5 | Seva | — | ⬜ pending |
 | 6 | Roots to Wings | — | ⬜ pending |
 | 7 | Deception of Perception | — | ⬜ pending |
@@ -55,6 +55,60 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.4 — Saint-Maker, pp.49–58)
+
+- **The 250-year spiritual relay**: the chapter's organising thesis is that Gurudev's saint-making mission spans centuries, not a single lifetime. Monks were born into available wombs at different stages of life to join successive waves of the mission. The first wave were gathered and trained; a second wave is ongoing; future generations are planned. See [[entities/mahaguru]] — The Saint-Making Mission.
+- **The guru's evolution is bound to his disciples'**: Ravi ji's testimony crystallises a principle only implicit elsewhere — the mahaguru *cannot progress* until his disciples do. This reframes the guru-disciple relationship: it is not a one-directional gift but a mutual obligation running across lifetimes.
+- **The guru selects — the disciple does not choose**: every story in the chapter demonstrates that the disciples did not find Gurudev; he had already set his sights on them. Santlal ji is told by a sadhu his spiritual allegiance lies elsewhere — in the same town. Lal Saheb is a casual visitor with no spiritual need. Hingori's arthritis cure preceded his faith by five years.
+- **Past-life bonds verified physically**: Ravi ji's mantra-induced vision of a mansion in Shahjahanpur is sketched and physically verified by Malhotra ji. The courtyard has changed (mud → cement) but the structure matches. The multi-lifetime claim is placed in the domain of *evidence*, not faith alone.
+- **Post-mortem saint-making continues**: Roshini Dhir ji and Khozu Arsiwalla ji never met Gurudev in physical form — yet receive his direct presence in their dreams, including a personal declaration (to Khozu ji) of spiritual elevation. The factory continues to operate after the physical departure of its founder.
+- **Kabir's couplet on transmission through presence**: "Laali mere laal ki, jit dekhoon tit laal..." — the disciple seeking to observe the master's greatness is dyed in the same colour. Presence transmits. See [[wiki/analogies/analogies]].
+
+## Notable Quotes (Ch.4)
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do; they are in his charge, and he cannot forsake them mid-journey."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.49
+
+> "Gurudev often spoke of the 500-year journey to reunite us in this lifetime. Our destinies were entwined long before."
+> — Puran ji, *Witnessing Greatness*, Ch.4, p.50
+
+> "My son if I were to simply recount your past, where would be the wonder in that? Recite the Mahaguru mantra as you drift into sleep and find out for yourself."
+> — Gurudev to Ravi ji, *Witnessing Greatness*, Ch.4, p.51
+
+> "I was sceptical because I had trouble believing that a man so simple could be a guru. I asked him if he had visited Gangowal in 1960, and he said he had. I wondered whom he had met, and he perfectly described the sadhu I had met."
+> — Santlal ji, *Witnessing Greatness*, Ch.4, p.53
+
+> "I had no pressing issues and no ailments. Merely a whim led me to Gurudev's doorstep."
+> — Lal Saheb, *Witnessing Greatness*, Ch.4, p.53
+
+> *Laali mere laal ki, jit dekhoon tit laal. Laali dekhan main gayi, main bhi ho gayi laal.*
+> — Saint Kabir, quoted by Hingori in *Witnessing Greatness*, Ch.4, p.51
+
+## Stories Extracted (Ch.4)
+
+- [[stories/ravi-ji-past-life-mansion]] — mantra-induced vision of a 150–170-year-old mansion in Shahjahanpur; cave ascetics in North India mountains; verified by Malhotra ji travelling to the site with the sketch
+- [[stories/santlal-ji-transformation]] — bureaucratic arrogance to sainthood; Gangowal sadhu says the true guru is "in the same town"; midnight meeting with lungi-clad Gurudev in Gurgaon; nine-lifetime bond; mother's blessings advance the encounter by two years
+- [[stories/lal-saheb-initiation]] — Indian-Canadian with no spiritual need; days of waiting in Toronto; half-cup of tea as medium of transmission; Gurudev had set his sights on him before even arriving
+
+Short anecdotes kept inline (not given own pages):
+- Roshini Dhir ji's dream of rows of Shivlings and Gurudev's blessing → [[entities/mahaguru]] (The Saint-Making Mission)
+- Khozu Arsiwalla ji's dream of being declared a guru → [[entities/mahaguru]] (The Saint-Making Mission)
+- Hingori's own Mumbai-sceptic narrative (arthritis cure without faith; Africa kada blocking escapades) → enrichment of [[stories/hingori-faith-development]] and [[stories/hingori-kada-nairobi]] (already captured)
+
+## New Concepts Introduced (Ch.4)
+
+No standalone new concept pages required. Ch.4 enriches existing pages:
+- [[entities/mahaguru]] — The Saint-Making Mission section added: 250-year relay, second wave, post-mortem gathering, Roshini and Khozu testimonies
+- [[entities/rc-malhotra]] — Papaji nickname, Najafgarh sthan establishment, celibacy, Chote Guruji role in the saint-making fold
+- [[concepts/guru-disciple]] — Multi-Lifetime Bond section added with full Ch.4 treatment; the principle that the guru selects and cannot forsake
+- [[stories/hingori-vision-100-spirits]] — enriched with the 250-year relay context and second-wave framing
+
+## Contradictions / Tensions (Ch.4)
+
+> [!tip] No new contradictions with prior sources. Ch.4 deepens themes already present: the 500-year gathering (first stated in *The Guru of Gurus*, pp.81–82 — see [[stories/hingori-vision-100-spirits]]) is now supported by multiple independent disciple testimonies (Ravi ji, Puran ji, Giri Lalwani ji, Santlal ji) with physically-verified past-life detail (Shahjahanpur mansion). The pattern is consistent and mutually corroborating.
+
+---
 
 ## Key Themes (Ch.3 — Impossible Is Possible, pp.33–48)
 

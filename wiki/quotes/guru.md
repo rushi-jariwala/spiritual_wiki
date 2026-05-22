@@ -4,12 +4,36 @@ type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]"]
 created: 2026-04-12
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # Quotes on the Guru
 
 Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teachership.
+
+---
+
+## On the Multi-Lifetime Bond — Saint-Maker (*Witnessing Greatness* Ch.4)
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do; they are in his charge, and he cannot forsake them mid-journey. Gurudev made it clear that he returned to this life to advance his spiritual family beyond the point they had reached in their past lives."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.49
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[concepts/destiny]]
+
+> "Gurudev often spoke of the 500-year journey to reunite us in this lifetime. Our destinies were entwined long before."
+> — Puran ji, *Witnessing Greatness*, Ch.4, p.50
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[concepts/destiny]]
+
+> "My son if I were to simply recount your past, where would be the wonder in that? Recite the Mahaguru mantra as you drift into sleep and find out for yourself."
+> — Gurudev to Ravi ji, *Witnessing Greatness*, Ch.4, p.51
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[stories/ravi-ji-past-life-mansion]]
+
+> "Tu aa gaya, putt!" (You have come, my child.)
+> — Gurudev greeting his returning disciples, *Witnessing Greatness*, Ch.4, p.49
+[[entities/mahaguru]] · [[concepts/guru-disciple]]
+
+> "Putt, tera mera janmaan janmaan da rishta hai." (Our connection spans many, many lifetimes.)
+> — Gurudev in Roshini Dhir ji's dream, *Witnessing Greatness*, Ch.4, p.57
+[[entities/mahaguru]] · [[concepts/guru-disciple]]
 
 ---
 

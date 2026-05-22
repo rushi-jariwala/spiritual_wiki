@@ -1,10 +1,10 @@
 ---
 title: Hingori's Vision of One Hundred Spirits Descending
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/loks]]", "[[concepts/destiny]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/loks]]", "[[concepts/destiny]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-22
 ---
 
 # Hingori's Vision of One Hundred Spirits Descending
@@ -18,7 +18,13 @@ updated: 2026-04-26
 
 ## Source
 
-*The Guru of Gurus*, "The Server, Not the Served," pp.81–82
+*The Guru of Gurus*, "The Server, Not the Served," pp.81–82; enriched with *Witnessing Greatness*, Ch.4, pp.49–50
+
+## Context — The 250-Year Relay (*Witnessing Greatness*, Ch.4)
+
+*Witnessing Greatness* Ch.4 adds the fullest context for this vision. Gurudev gathered the **first wave** of scattered disciples in this lifetime — drawing them back into his spiritual sphere. Some found their way to him seeking healing; others searching for guidance through life's tumultuous journey. Upon their arrival he welcomed them with the knowing phrase, *"Tu aa gaya, putt!"* (You have come, my child) — an acknowledgement of a reunion centuries in the making.
+
+The bald monks in cream togas that Hingori witnessed were to be born into *"whatever wombs were available,"* aligning with the mahaguru at different stages in life. Some wombs were designated for a **second wave** of disciples; others for future generations still. The spiritual relay is understood to unfold over approximately **250 years**, with the overarching goal of guiding individuals to reassess their attitudes and evolve into saints. See [[entities/mahaguru]] — The Saint-Making Mission.
 
 ## Related Concepts / Entities
 

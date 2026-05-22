@@ -2,10 +2,10 @@
 title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[concepts/destiny]]"]
 created: 2026-04-12
-updated: 2026-05-13
+updated: 2026-05-22
 ---
 
 # The Guru-Disciple Relationship
@@ -70,6 +70,21 @@ Not all seekers have a human guru. Hingori acknowledges:
 > — *Karma Sutra*, Ch.1, p.20
 
 The do-it-yourself route is real but implicitly harder, with fewer guarantees. **Guru Nanak himself**, Hingori notes, did not have a guru in human form — he worshipped a devi, and through her received the attainment of OM on his palm and his spiritual powers. See [[stories/guru-nanak-river-bain]].
+
+### The Multi-Lifetime Bond (*Witnessing Greatness*, Ch.4)
+
+The guru-disciple relationship frequently transcends a single lifetime. *Witnessing Greatness* Ch.4 is the most concentrated treatment of this dimension. Gurudev described spending **500 years** gathering his disciples — reuniting souls whose bonds with him were forged in previous incarnations. The disciples themselves were not blank slates but *established saints from past lives* who needed his guidance to shine brighter:
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do; they are in his charge, and he cannot forsake them mid-journey. Gurudev made it clear that he returned to this life to advance his spiritual family beyond the point they had reached in their past lives."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.49
+
+The gathering was meticulous and deliberate — "artfully cloaking destiny as coincidence." Individual disciples received revelations about specific past-life details: Puran ji was told of connections from an incarnation in Ujjain and again from the era of Guru Nanak Dev (500+ years prior); Giri Lalwani ji was told the bond spans many lifetimes and includes other disciples who have accompanied Gurudev through his previous incarnations as a guru; Santlal ji was told their bond extended across nine incarnations, and that his mother's blessings had brought their destined encounter forward by two years. See [[stories/santlal-ji-transformation]].
+
+A key principle: the journey to finding a guru is not driven by the disciple's search but by the **guru's intuitive selection** of his disciples. Hingori's own path — from a sceptical Mumbaikar cured of arthritis who nonetheless did not develop faith for another five years — illustrates this: it was Gurudev's invisible influence (expressed through the energised kada he placed on Hingori's wrist) that eventually browbeat him to faith.
+
+> [!tip] Multi-lifetime bonds are not unique to Gurudev — they are a structural feature of the sadguru relationship. The guru takes on the disciple's karmic evolution "not just in one life, but possibly in future lives as well" (*Guru Sutra*, Ch.2, p.10). What Ch.4 uniquely provides is eyewitness testimony of what that looks like from the disciple's side: specific past-life memories accessed through the Mahaguru mantra, physically verified, and experienced as continuity rather than reunion.
+
+See also [[stories/ravi-ji-past-life-mansion]], [[stories/hingori-vision-100-spirits]], [[entities/mahaguru]] (The Saint-Making Mission).
 
 ### Posthumous Guidance
 

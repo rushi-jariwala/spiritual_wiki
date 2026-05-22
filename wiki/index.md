@@ -123,7 +123,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–3 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–4 ingested.*
 
 ---
 
@@ -358,6 +358,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[asha-sekhri-daughter-ring-oslo]] — Gurudev appears post-mortem at daughter's wedding, gifts ring; later escorts her home in Oslo
 - [[narender-saroj-maharudra-yagya-apparition]] — Multiple family sightings of Gurudev in physical form at July 1992 Maharudra yagya
 - [[asthal-temple-statue-miracles]] — Asthal temple establishment; six statue experience accounts: smiling, healing, form-shifting, consciousness entry
+- [[ravi-ji-past-life-mansion]] — Ravi ji's mantra-induced vision of a 150–170-year-old mansion in Shahjahanpur; cave-ascetics vision; physically verified by Malhotra ji
+- [[santlal-ji-transformation]] — bureaucratic arrogance to sainthood; Gangowal sadhu says the true guru is "in the same town"; midnight meeting; nine-lifetime bond revealed
+- [[lal-saheb-initiation]] — Indian-Canadian with no spiritual need; half-cup of tea as transmission medium; Gurudev had set his sights on him before arriving in Toronto
 
 ---
 

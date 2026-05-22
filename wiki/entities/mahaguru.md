@@ -5,7 +5,7 @@ tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]"]
 created: 2026-04-12
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # The Mahaguru (Gurudev)
@@ -180,6 +180,8 @@ Gurudev's workplace became his first field of seva. When colleagues mentioned pa
 Gurudev opened the first *sthan* at Malhotra ji's home at Shadipur, Delhi in **1973**. The following year seva moved to Gurudev's own home at Shivpuri in Gurgaon, following the visit of two women from Rohtak who had sought the "man who performed miracles on Thursdays." After a complex encounter involving a cursed woman whose guru's spirit entered the sthan and set it afire (see [[stories/renuka-cursed-woman]]), Gurudev formalised the **Bada Guruvar** schedule: seva on the first Thursday after the night of no moon (*amavasya*). No payment was accepted at any sthan.
 
 He built a multilevel spiritual structure — appointing disciples as gurus, bestowing his powers on them, and gathering many *ganns* (spiritual heirs). It is widely held that he carried forward eleven disciples from his past and, in this lifetime, gathered many more.
+
+Gurudev described this as a **500-year journey** of reunion. As Puran ji recalls: *"Gurudev often spoke of the 500-year journey to reunite us in this lifetime. Our destinies were entwined long before."* His gathering was a meticulous orchestration, drawing individuals from across the globe, artfully cloaking destiny as coincidence. (*Witnessing Greatness*, Ch.4, p.50)
 
 ## The Mahaguru in the Field (pp.72–80)
 
@@ -403,6 +405,33 @@ Chapter VI (*Aatma Sutra*) documents his posthumous appearances in spirit form. 
 
 See also [[concepts/jivaatma]] on the persistence of beings after bodily death.
 
+## The Saint-Making Mission (*Witnessing Greatness*, Ch.4)
+
+*Witnessing Greatness* Ch.4 presents the most explicit treatment of Gurudev's cosmic saint-making function as it extends across both time and the post-mortem dimension.
+
+### The Multi-Wave Spiritual Relay
+
+Decades before Ch.4 was written, Hingori had a vision of Gurudev resting on an invisible platform suspended in the sky with five or six disciples in attendance, while hundreds of bald monks in cream-coloured togas descended to earth on an invisible escalator. He understood intuitively that these beings were born into whatever wombs were available, aligning with the mahaguru at different stages in life. Some wombs were designated for a second wave of disciples; others for future generations. This spiritual relay was understood to unfold over approximately **250 years**, with the overarching goal of guiding individuals toward sainthood. (This vision also appears in *The Guru of Gurus*, pp.81–82 — see [[stories/hingori-vision-100-spirits]].)
+
+### The Guru's Duty — Bound to His Disciples
+
+Ravi ji's observation crystallises the mahaguru's unique accountability:
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do; they are in his charge, and he cannot forsake them mid-journey. Gurudev made it clear that he returned to this life to advance his spiritual family beyond the point they had reached in their past lives."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.49
+
+### Ongoing Gathering After Physical Departure
+
+The saint-making mission continued after Gurudev's passing. Disciples who never met him in his physical lifetime are drawn to his sthan through dreams and visions:
+
+Roshini Dhir ji, a sevadaar at the sthan, had a dream years after joining: rows and rows of Shivlings emerging from the ground, with people circumambulating and watering them. Gurudev walked among the rows, invisible to everyone but her. When she touched his feet, he blessed her: *"Putt, tera mera janmaan janmaan da rishta hai"* (Our connection spans many, many lifetimes). She had never met him in physical form yet understood she had been part of his orbit far longer than her current lifetime.
+
+Khozu Arsiwalla ji, who serves at the sthans in Mumbai and Lonavala, dreamed of encountering Gurudev and Guruji (a senior disciple) together. Guruji drew something on his forehead and declared: *"Ab se tu ek guru hai"* (From now on, you are a guru). This moment of elevation was marked personally by the mahaguru's presence — again, without a single prior physical meeting.
+
+Every day, more individuals report experiencing the mahaguru's guidance through dreams, visions, and rare physical encounters, highlighting his ongoing commitment to the continuity of the spiritual institution he founded with Buddhe Baba's guidance.
+
+> [!tip] The saint-making factory's two registers: in his physical lifetime, Gurudev gathered a first wave of scattered disciples with deep past-life bonds. After his physical departure, a second wave — drawn by the same invisible threads — finds its way to the sthans without ever having met him. The 250-year relay continues.
+
 ## Predictive Ability
 
 *Aatma Sutra* Ch.V records that Gurudev's predictions were "the most unique." Two instances are cited:
@@ -450,6 +479,11 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 - [[stories/schoolmate-gurudev-gurgaon]] — posthumous appearance: Gurudev appears to a stranger in Gurgaon 20 years after death; directs him to the sthan
 - [[stories/gurudev-horse-gives-birth]] — his patient empathy and unwavering vision turn Hingori around; "A horse gives birth to a horse"
 - [[stories/gurudev-seva-poem]] — "A few minutes in every hour…"; the scope of his seva in verse
+
+**From *Witnessing Greatness*, Ch.4 (Saint-Maker)**
+- [[stories/ravi-ji-past-life-mansion]] — Ravi ji's mantra-induced vision of a 150–170 year old mansion in Shahjahanpur; further vision of cave ascetics in North India mountains; verified by Malhotra ji
+- [[stories/santlal-ji-transformation]] — bureaucratic arrogance to sainthood; five-day wait for a Gangowal sadhu who says the sought guru is "in the same town"; midnight meeting in Gurgaon; nine-lifetime bond revealed
+- [[stories/lal-saheb-initiation]] — Indian-Canadian with no spiritual need; days of waiting; half-cup of tea as transmission; Gurudev had set his sights on him before even reaching Toronto
 
 ## Quotes
 

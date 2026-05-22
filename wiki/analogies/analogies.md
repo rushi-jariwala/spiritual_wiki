@@ -1282,6 +1282,19 @@ The same event carries opposite meanings to different observers. For the crowd i
 
 ---
 
+## Saint-Making Mission — Witnessing Greatness (Ch.4)
+
+### Kabir's Laali — The Disciple Dyed in the Master's Hue
+*Illuminates: [[concepts/guru-disciple]], [[entities/mahaguru]], [[concepts/guru-tattva]]*
+
+> *Laali mere laal ki, jit dekhoon tit laal. Laali dekhan main gayi, main bhi ho gayi laal.*
+> (The redness of my beloved is everywhere I look. I went to witness that redness, and I, too, became red.)
+> — Saint Kabir, quoted in *Witnessing Greatness*, Ch.4, p.51
+
+The disciple who comes to witness the master's greatness is irradiated by it. The seeker goes to observe — and ends up transformed by the very quality they came to examine. Hingori uses this couplet to capture what happens when sceptics or casual visitors enter the mahaguru's presence: the "rich hue that colours the master's greatness" suffuses the disciple's essence. Contact with genuine spiritual attainment is not neutral — it transmits. The analogy is also a warning: to truly observe the saint is to risk becoming one.
+
+---
+
 ### "They Will Stop Us Only If They See Us" — Invisibility as Precision
 *Illuminates: [[concepts/supernature]], [[concepts/astral-travel]]*
 

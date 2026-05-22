@@ -5,7 +5,7 @@ tags: [disciple, senior-disciple, first-disciple]
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-18
-updated: 2026-05-13
+updated: 2026-05-22
 ---
 
 # R.C. Malhotra (Ramesh Chand Malhotra)
@@ -49,6 +49,16 @@ Like Hingori and others in the early years, Malhotraji experimented with the pow
 2. **Bull and fruit cart** — A rude fruit vendor angered him. Malhotraji willed a nearby bull to attack the vendor's cart and overturn it. Gurudev paid the vendor for the damaged goods and threatened to withdraw Malhotraji's power if misuse continued.
 
 See [[stories/malhotra-power-misuse]].
+
+## Saint-Making Factory — Papaji's Role (*Witnessing Greatness*, Ch.4)
+
+*Witnessing Greatness* Ch.4 presents the fullest portrait of Malhotra ji's spiritual stature and institutional role. Affectionately called **Papaji** (Punjabi term of endearment for an elder male), his insightful wisdom and heartfelt devotion won him the cherished title of **'Chote Guruji'** (spiritual heir), signifying his role as a living manifestation of Gurudev's principles.
+
+Malhotra ji chose a **life of celibacy**, devoting over half his life to seva and managing the affairs of the sthan. His powers, initially approached with childlike experimental curiosity — as in the bull-and-fruit-cart incident (see [[stories/malhotra-power-misuse]]) — were progressively refined through rigorous spiritual journey and the internalization of Gurudev's emphasis on using gifts for the greater good.
+
+His evolved stature enabled him to assist Gurudev in guiding new waves of disciples and devotees entering the saint-making fold. He oversaw the **establishment of the sthan at Najafgarh**, adjacent to Gurudev's samadhi — ensuring the physical continuity of the tradition at its most sacred site. After Gurudev and Mataji's passing, Malhotra ji steered the institution, preserving its sanctity and vision until his last breath. His legacy, suffused with his guru's essence, continues to inspire the path of countless seekers.
+
+> [!tip] The Papaji/Chote Guruji pairing mirrors the Gurudev/Buddhe Baba pairing one rung up the lineage — a senior disciple whose primary function shifts, in the second half of their life, from personal attainment to institutional nurturing of those who follow.
 
 ## *Guru Sutra* Ch.15 — After Gurudev's Demise
 

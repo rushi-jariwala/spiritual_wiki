@@ -9,7 +9,9 @@ updated: 2026-05-20
 
 # Reverse-Engineered Destiny
 
-*Synthesis date: 2026-05-20. Sources available: Karma Sutra, Aatma Sutra, Guru Sutra, The Guru of Gurus, Witnessing Greatness (Ch.1–2).*
+*Synthesis date: 2026-05-20. Sources available: Karma Sutra, Aatma Sutra, Guru Sutra, The Guru of Gurus, Witnessing Greatness (Ch.1–4).*
+
+> [!tip] *Witnessing Greatness* Ch.4 extends the reverse-engineering principle from Gurudev's own early life to his disciples' lives: their births, careers, and chance meetings were all "artfully cloaking destiny as coincidence" — each one placed in the path of the mahaguru at the exact moment needed. The disciples' 500-year-old bonds were the input variable; their current-lifetime encounters were the output. See [[entities/mahaguru]] — The Saint-Making Mission, and [[concepts/guru-disciple]] — The Multi-Lifetime Bond.
 
 > [!tip] *Witnessing Greatness* Ch.2 adds another layer to this thesis: [[entities/buddhe-baba]] was himself part of the reverse-engineered design — appearing to Gurudev in a deserted Madhya Pradesh temple at precisely the moment when his siddhi-mastery was complete and a new direction was needed. Buddhe Baba's role was to dismantle what had been built (the siddhis, released at Har Ki Pauri) and point toward the final form (the mahaguru). This makes Buddhe Baba not merely a guide but a structural component in the destiny's reverse-engineering — the one who held "the reins to his aatma's odyssey."
 

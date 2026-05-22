@@ -1,10 +1,10 @@
 ---
 title: Supernature
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]"]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-05-20
 ---
 
 # Supernature
@@ -38,12 +38,15 @@ And Gurudev's own claim, confirmed by every account in the chapter: *"We would n
 
 ### Multiple Identities / Form-Changing
 
-The mahaguru was witnessed appearing in different forms by several disciples. He appeared in a five-headed form (with a body bathed in golden light) to Shambhu ji on Mahashivratri 1974 — one of the few times he allowed such a glimpse, and even then, at great cost to the viewer. Other disciples caught partial glimpses:
+The mahaguru was witnessed appearing in different forms by several disciples. He appeared in a five-headed form (with a body bathed in golden light) to Shambhu ji — one of the few times he allowed such a glimpse, and even then, at great cost to the viewer. Other disciples caught partial glimpses:
 
-- Kwatra ji saw his guru's form turn into pure light as he prostrated at his feet
-- Rajpal ji saw his head double in size
-- Gupta ji of Parwanoo saw a dwarfed form
+- **Kwatra ji** (Gurgaon): on Mahashivratri at 3 am, the room "instantly filled with dazzling light as if hundreds of suns had risen" — he collapsed at Gurudev's feet; see [[stories/kwatra-ji-blinding-light]]
+- **Ravi Trehan ji**: asked to see Gurudev's spiritual form; in a dream days later saw him seated on tiger skin in a cave — Shiv's iconography, Gurudev's face; Gurudev silenced him the next day without being told see [[stories/ravi-trehan-shankar-dream]]
+- **Raj Laxmi ji (Guddan ji)** of Kanpur: dream of Gurudev seamlessly shifting his form between himself and Lord Shankar, "back and forth, in a continuous transformation"
+- **Rajpal ji** saw his head double in size; **Gupta ji** of Parwanoo saw a dwarfed form (~4 feet through a glass door)
 - Pappu ji (son of Shambhu ji) saw the long-bearded form within minutes of the clean-shaven avatar
+
+The connection between Gurudev and Shiv — described in *Witnessing Greatness* as rooted in the conviction that the mahaguru is an *ansh* of Shiv, confirmed by Rishi Bhrigu in the Bhrigu Samhita — is the theological basis for these form-sightings.
 
 See [[stories/shambhuji-five-headed-form]] and [[stories/uddhav-ji-black-triangles]] for the most detailed accounts.
 
@@ -76,16 +79,22 @@ He lived in constant awareness of past, present, and future. He could exhaust ka
 
 ### Bilocation and Invisibility
 
-He was physically present and absent at the same time. On at least three documented occasions he was seen in two places simultaneously:
-- Visiting Sunil ji at his shop in London while seated with Bakshi ji at the Gurgaon sthan
+He was physically present and absent at the same time. Documented bilocation instances from across the sources:
+
+- **KL Bakshi ji / Sunil Ghai**: Sunil called from England to report Gurudev had visited his London shop — at the exact moment Bakshi ji was seated with Gurudev in Gurgaon
+- **Dr. Shankarnarayan ji**: directed to a hilltop temple by Gurudev; on leaving the temple, saw Gurudev at a distance — yet when he returned to the office, Gurudev had never left; Gurudev's response: *"What's the big deal?"* See [[entities/dr-shankarnarayan]]
 - Conversing at his office and his farm at about the same time
 - Attending to a phone call in a locked room in Nagpur while seated with disciples moments earlier
 
-He could also walk through crowds unrecognised at will. In Srinagar, he purchased spare parts from a shop whose owner worshipped his photograph — without being recognised. See [[stories/gurudev-invisible-srinagar-shop]].
+The mechanism is the **nirman kaya** (created body): by internalising and manipulating energy — envisioning oneself in a specific asana and using specific mantras — advanced yogis shaped an energy body mirroring the physical form. This practice, mastered by ancient yogis, allowed them to create energy duplicates for discharging karmic liabilities more efficiently. Gurudev's bilocation is understood as his adeptness in creating multiple nirman kayas. Notably, his disciples — and their disciples — also bilocated, often without conscious awareness. See [[stories/virenderji-uninvited-guests]], [[stories/ashish-khanna-goa-bilocation]], and [[stories/nakul-malhotra-bilocation]].
 
-If he did not wish to be photographed, shutters froze or reels came out blank. A German photographer who insisted on shooting him two days before Mahashivratri — despite being told "Today, I am not present here" — found all his attempts blank; only the Mahashivratri photographs turned out.
+He could walk through crowds unrecognised at will. The crowd at his Gurgaon home gate did not see him — *"They will stop us only if they see us"* — and Rajpal Sekhri ji, accompanying him, was equally unseen. See [[stories/rajpal-sekhri-gurudev-invisible]] and [[stories/gurudev-invisible-srinagar-shop]].
 
-For full treatment of astral dimensions, see [[concepts/astral-travel]].
+Highly advanced yogis can transform the molecular structure of their bodies to stop light from reflecting off them — and thus vanish from sight. This capacity was also found, involuntarily, in disciples: Ashish ji was photographed partially invisible in Kazakhstan. See [[stories/ashish-ji-kazakhstan-partial-invisible]].
+
+If he did not wish to be photographed, shutters froze or reels came out blank.
+
+For the full astral-travel treatment, see [[concepts/astral-travel]].
 
 ### Spiritual Mastery
 
@@ -94,6 +103,21 @@ He had command over the world of spirits — helping them move from lower realms
 He deployed his astral form in service — appearing in disciples' dreams to heal, reveal futures and pasts, transmit mantras, and exhaust karmas in the dream state rather than the physical one. He developed multiple *nirman kayas* (subtle energy bodies) to simultaneously attend to many people.
 
 He allied with advanced spiritual entities to jointly serve life forms, including Shirdi Sai, Guru Nanak, Guru Gobind Singh, Guru Vashisht, Parshuram ji, Lord Krishna, Dattatreya, Ganpati, Hanuman, several Muslim saints, Shiv manifestations, and Devis such as Mahakali, Laxmi, Saraswati, and Renuka.
+
+### Post-Mortem Appearances
+
+Ordinarily once individuals pass away they do not manifest physically, but Gurudev defies this norm. After his 1991 passing, he has appeared physically to multiple witnesses:
+
+- **Asha Sekhri ji's daughter**: attended her wedding physically, gifted his ring; years later walked protectively with her in Oslo between her and following men, disappearing when she reached her front door. See [[stories/asha-sekhri-daughter-ring-oslo]]
+- **Rajneesh Sharma ji** (married to Gurudev's youngest daughter Alka ji): a neighbour saw Gurudev around the building premises for three to four days in a row after his death
+- **Narender ji and Saroj ji**: briefly saw Gurudev in physical form the day before their Maharudra yagya (July 1992); saw a figure in all white approaching the yagshaala; their daughter saw him standing at their Karnal sthan years later — he vanished instantly. See [[stories/narender-saroj-maharudra-yagya-apparition]]
+- **Sudhir** (Hingori's childhood friend): in full waking consciousness, saw Gurudev approximately seven to eight feet tall, shirt sleeves folded, in white, saying "Come, son" — and was thereby led to the sthan. See [[stories/schoolmate-gurudev-gurgaon]]
+
+*Witnessing Greatness* Ch.3 frames these post-mortem appearances within the concept of Maya: what ordinary people call miracles are simply another day in the mahaguru's world. Advanced spiritual practice expands consciousness to where the impossible becomes conceivable. The chapter's question to the reader: *"If one individual can manifest as Shiv, what might you, too, be capable of achieving?"*
+
+### Statue Consciousness
+
+The chapter also introduces a new dimension of supernature: the mahaguru's consciousness operating through consecrated statues. At the Asthal temple in Dehradun, statues of Gurudev (and Mataji) underwent pran pratishtha by over 65 disciples — and have since been the site of multiple healings, visions, and one reported case of a disciple's consciousness entering the statue and directing remote healing. See [[concepts/statue-consciousness]] and [[stories/asthal-temple-statue-miracles]].
 
 ## Kept Under Wrap
 
@@ -116,7 +140,13 @@ Hingori notes that the chapter deliberately underplays the supernature accounts 
 - [[concepts/destiny]] — the supernature-destiny inversion; choosing limitation as expression of limitlessness
 - [[concepts/spiritual-healing]] — supernature expressed through healing: life extension, karma exhaustion, dream-state surgery
 - [[concepts/constant-awareness]] — the perpetual omniscience of past/present/future as part of supernature
+- [[concepts/statue-consciousness]] — the mahaguru's consciousness extending into consecrated statues after death
+- [[concepts/maya]] — the lens through which the impossible appears as miracle to ordinary consciousness
 - [[entities/mahaguru]] — the subject; his full biographical and teaching record
 - [[stories/shambhuji-five-headed-form]] — the most detailed account of a disciple glimpsing his true form
 - [[stories/gurudev-invisible-srinagar-shop]] — bilocation and invisibility in practice
-- [[stories/uddhav-ji-black-triangles]] — astral intervention at distance to protect a disciple
+- [[stories/uddhav-ji-black-triangles]] — astral intervention at distance; triangular manifestation forms
+- [[stories/rajpal-sekhri-gurudev-invisible]] — crowd walkthrough; "They will stop us only if they see us"
+- [[stories/virenderji-uninvited-guests]] — Gurudev creating two of Virender ji; disciple bilocation
+- [[stories/asha-sekhri-daughter-ring-oslo]] — post-mortem wedding appearance; Oslo protection
+- [[stories/asthal-temple-statue-miracles]] — temple establishment and statue consciousness in action

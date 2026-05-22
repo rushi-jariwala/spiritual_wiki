@@ -1,10 +1,10 @@
 ---
 title: The Schoolmate's Vision — Gurudev Appears in Gurgaon
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/astral-travel]]", "[[concepts/supernature]]", "[[concepts/maya]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-05-20
 ---
 
 # The Schoolmate's Vision — Gurudev Appears in Gurgaon
@@ -22,8 +22,23 @@ updated: 2026-04-18
 
 *Aatma Sutra*, Chapter VI: Astral Travel, pp.71–72
 
+## Witnessing Greatness Version (Ch.3) — Sudhir's Account
+
+*Witnessing Greatness* Ch.3 (pp.42–43) names the person and provides a far richer first-person account. He is **Sudhir**, Hingori's **childhood friend** — a man who had achieved considerable success, travelled extensively, later grappled with alcoholism and financial difficulties, and eventually overcame his addiction. Long after Gurudev's passing, Sudhir had the following experience:
+
+> "I was lying in bed one morning, eyes wide open, when suddenly there was a complete hush, and I saw a gentleman, larger than life, about seven to eight feet tall, shirt sleeves folded, in white, looking at me with very kind eyes. He put his hand out and said, 'Come, son.' All my senses shut down, leaving only an awareness of this person I had never seen before. From the back of my head, there seemed to be a voice roaring, 'Guruji of Gurgaon'. And then, everything came back. The outward awareness returned, as did the sights and sounds of normal life. I went on the internet to look up 'Guruji of Gurgaon'. After a few false starts, I eventually found an address. I went to Sector 10 in Gurgaon, and lo and behold, I saw Gurudev's images hanging on the walls of the sthan!"
+>
+> "This was neither a vision nor a dream," Sudhir emphasises. "It has happened more than once. Whenever Gurudev appears, I am completely aware. It is a clear dimension of here and now."
+> — Sudhir, *Witnessing Greatness*, Ch.3, p.42–43
+
+### Key differences from the Aatma Sutra version
+
+The *Aatma Sutra* account condenses the event to a projected image on a wall with a verbal address. The *Witnessing Greatness* version is immersive: wide-awake, all senses present, then shutting down. The mahaguru appears seven to eight feet tall — the **viraat roop** — in white, with kind eyes and a beckoning hand. The voice identifying "Guruji of Gurgaon" comes from "the back of his head" — as though from within. Sudhir stresses it happened more than once, always in full waking consciousness.
+
 ## Related Concepts / Entities
 
-- [[concepts/astral-travel]] — posthumous astral appearance of Gurudev; spirit form still active in service approximately 20 years after his physical death
-- [[entities/mahaguru]] — appears in a waking vision to a stranger in distress, directing him to the *sthan*
-- [[entities/hingori]] — narrator; this is his schoolmate's experience, heard at the Gurgaon *sthan*
+- [[concepts/astral-travel]] — posthumous astral appearance of Gurudev; active in service approximately 20 years after his physical death
+- [[concepts/supernature]] — appearing in a viraat roop (seven to eight feet tall) to a stranger in full waking consciousness
+- [[concepts/maya]] — the chapter's own framing: maya causes ordinary beings to perceive miracles where advanced spiritualists see ordinary occurrences
+- [[entities/mahaguru]] — appearing in an expanded form, extending a hand, naming himself; leading a struggling person to the sthan
+- [[entities/hingori]] — narrator; Sudhir is his childhood friend

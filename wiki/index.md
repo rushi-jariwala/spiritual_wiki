@@ -73,7 +73,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[constant-awareness]] — Multi-planar perpetual awareness; one-point concentration; OM/Ajna architecture; manifesting visualisation; probability reduction
 - [[hygiene]] — Gurudev's four-part framework: Social, Commercial, Mental, Spiritual hygiene; habit-grade practices for amplifying spiritual efforts
 - [[spiritual-healing]] — Sources of negativity, dispassionate approach, spirit possession mechanics, life extension, modes of healing, non-doership as the frame
-- [[supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, spiritual mastery
+- [[supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, post-mortem appearances, spiritual mastery
+- [[statue-consciousness]] — Consecrated statues as live extensions of the mahaguru's consciousness; pran pratishtha mechanism; Asthal temple testimonies
 - [[power-symbols]] — Shiv-parivaar symbols on Gurudev's body (OM, Trishul, Shivling-gileri, Ganpati, Nandi, Jyot); their meanings and transfer to disciples
 - [[tantra]] — Spiritual science; inherently neither positive nor negative; tamasic vs. sattvic uses; village practitioners; road-crossing energy
 - [[faith]] — The binding force of the guru-disciple bond; obligates the guru; must be exclusive; tested and graduated; bridge from physical path to spiritual future
@@ -122,7 +123,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ingesting: Ch.1 (Back To The Future) done*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–3 ingested.*
 
 ---
 
@@ -195,8 +196,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[hingori-lonavala-temple-vision]] — Dream-state visit to a Lonavala temple, later verified exact in physical reality
 - [[hingori-gati-malhotra]] — Senior disciple teaches superfast astral travel in a vision; spirit body moves like a rocket
 - [[hingori-fan-ankle]] — Astral flight through a ceiling fan; ankle caught in rotating energy field; 15 days limping
-- [[virenderji-uninvited-guests]] — Judge's nirman kaya invites friends to morning walk; he had overslept and missed it
-- [[schoolmate-gurudev-gurgaon]] — Gurudev appears posthumously to a stranger in distress, 20 years after death; directs him to the sthan
+- [[virenderji-uninvited-guests]] — Gurudev creates two of Virender ji; two Rohtak bilocation incidents confirmed by Gurudev himself
+- [[schoolmate-gurudev-gurgaon]] — Gurudev appears posthumously to Sudhir (Hingori's childhood friend) as a 7-8 foot form; "Come, son"; directs him to the sthan
 - [[hingori-third-eye-opened-closed]] — Third eye opened, then deliberately shut so Hingori would not get stuck at the Tapa Lok level
 - [[hingori-lok-visits]] — Three or four vision-state visits; grandmother in a darker lok ignores him; colour-coded togas
 - [[guna-self-assessment]] — 18-attribute self-diagnostic for sattvic/rajasic/tamasic dominant guna
@@ -294,7 +295,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[manikaran-cave-sage]] — Hidden waterfall passageway; sage with 500-year-old body preserved via Hatha Yog amrit; Gurudev visited every five years
 - [[gurudev-brighu-samhita-after-death]] — August 1991; visit predicted thousands of years prior; eleven disciples + five ganns appointed
 - [[renu-milk-market-visit]] — Early 1970s; Gurudev learns family cannot afford dietary essentials; service before self becomes backbone
-- [[uddhav-ji-black-triangles]] — Two black triangles with yellow eyes; Gurudev intervenes astrally to save Uddhav's life
+- [[uddhav-ji-black-triangles]] — Uddhav Kirtikar ji (Mumbai cop) greets triangular divine forms with a nunchaku; Gurudev's playful chastisement; Bade Jain Saheb's calm recognition
 - [[mungaoli-sweater-incident]] — Hingori wears sweater as social pretence; Gurudev makes the cold real; "Grihasth mein bhi vairagya hai"
 - [[hingori-wife-dosa-correction]] — Wife complains of late-night gossip; Gurudev redirects; three years of Bada Guruvar dosas
 - [[hingori-faith-development]] — 1977 first visit; arthritis returns; 1982 actual spiritual entry; "You will get a lot more than you can imagine"
@@ -347,6 +348,16 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[malhotraji-luggage-resignation]] — Malhotraji's resignation and Gurudev's posthumous orchestration: luggage moved to the meeting; Hingori compelled to intervene theatrically
 - [[guru-sutra-ch15-poem]] — "You can't pace the journey. / You can't hasten the climb…" — patience verse from *Guru Sutra* Ch.15
 - [[guru-sutra-ch16-poem]] — "The stars issued an astral edict…" — verse on destined encounter with the guru (*Guru Sutra* Ch.16)
+- [[kwatra-ji-blinding-light]] — Mahashivratri 3 am; sceptic collapses in light "as if hundreds of suns had risen"; both-hands blessing
+- [[humsa-dhir-healing]] — Muscle fatigue healed overnight by an orange-golden light being; acceptance as the pivot
+- [[ravi-trehan-shankar-dream]] — Gurudev seen in Shiv's form in a cave; silenced the next day with a finger to the lips
+- [[ashish-khanna-goa-bilocation]] — Disciple of Gurudev appears in Goa restaurant from simultaneous Mumbai meeting
+- [[nakul-malhotra-bilocation]] — Guru present at Bandra sthan and Bombay Hospital (40 min apart) at the same moment
+- [[rajpal-sekhri-gurudev-invisible]] — Gurudev and Rajpal Sekhri ji walk through a large crowd entirely unseen
+- [[ashish-ji-kazakhstan-partial-invisible]] — Photo at Almaty lake shows only lower half of Ashish ji's body; involuntary partial invisibility
+- [[asha-sekhri-daughter-ring-oslo]] — Gurudev appears post-mortem at daughter's wedding, gifts ring; later escorts her home in Oslo
+- [[narender-saroj-maharudra-yagya-apparition]] — Multiple family sightings of Gurudev in physical form at July 1992 Maharudra yagya
+- [[asthal-temple-statue-miracles]] — Asthal temple establishment; six statue experience accounts: smiling, healing, form-shifting, consciousness entry
 
 ---
 

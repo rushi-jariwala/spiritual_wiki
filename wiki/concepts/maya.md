@@ -148,6 +148,15 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 
 *The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
 
+## Maya and the Perception of Miracles
+
+*Witnessing Greatness* Ch.3 applies the maya concept specifically to how people experience the mahaguru's supernature:
+
+> The limitations imposed by Maya cause ordinary beings to perceive miracles where advanced spiritualists see ordinary occurrences. Advanced spiritual practices combined with gyan expand consciousness, making what seems impossible both conceivable and achievable.
+> — Hingori, *Witnessing Greatness*, Ch.3, p.43
+
+This is a precise application of the maya framework: the same event (Gurudev walking through a crowded gate unseen, or Sudhir being visited in a waking vision by a 7-8 foot luminous figure) has different ontological status depending on the observer's consciousness. For the crowd, the gate is empty. For Rajpal Sekhri ji, it is a demonstration of yogic physics. For Gurudev, it is unremarkable. Maya is not just the general veil of delusion — it calibrates *how much of reality each observer can receive*. The chapter's closing call is thus not wonder but aspiration: *"If one individual can manifest as Shiv, what might you, too, be capable of achieving?"* The answer depends on how much of the veil has been thinned. See [[concepts/supernature]].
+
 ## Open Questions
 
 > [!question] Is maya neutral or obstructive?

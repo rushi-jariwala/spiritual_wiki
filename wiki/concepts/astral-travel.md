@@ -172,6 +172,13 @@ The Brighu Samhita also alludes to Gurudev's alliance with the Ashvin Kumaras.
 
 Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultaneously attend to many people's problems. Many disciples also have nirman kayas. Hingori writes that his own nirman kaya has appeared in people's dreams, healed them, given them answers to their problems, and occasionally given them mantras he has never consciously heard of.
 
+*Witnessing Greatness* Ch.3 provides the first explicit mechanism description of nirman kaya creation:
+
+> Nirman kaya refers to a unique form crafted through internalising and manipulating energy. This process involves envisioning oneself in a particular asana and then utilising specific mantras to shape this visualisation into an energy body that mirrors the physical form. This practice, believed to have been mastered by ancient advanced yogis, allowed them to create energy duplicates of themselves. These energy bodies were used in conjunction with their physical forms to discharge their karmic liabilities, proving to be a more efficient means than relying solely on the physical body.
+> — Hingori, *Witnessing Greatness*, Ch.3, p.37
+
+Notably, the chapter also documents Gurudev actively **creating a nirman kaya for a disciple** — promising Virender ji at their first meeting "I will create two of you — one to work in the court and the other to assist me." The two incidents in Rohtak confirmed this: Virender ji's double was seen by independent witnesses at 6 am while the judge himself was praying at home. See [[stories/virenderji-uninvited-guests]].
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — the spirit body that performs astral travel

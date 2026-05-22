@@ -397,9 +397,11 @@ Gurudev is said to continue guiding disciples from the non-physical state:
 > Our spiritual guru continues to guide us by meeting his disciples in their dream state.
 > — *Karma Sutra*, Ch.1, p.2
 
-Chapter VI documents his posthumous appearances in spirit form. Approximately 20 years after his passing, Hingori's schoolmate in DLF, Gurgaon had a waking midday vision of a stranger projected on his wall: "Don't worry I will solve your problems. Come to Guruji of Gurgaon in Sector 7." He Googled it, identified Gurudev, reached the sthan in Sector 7, and today his life revolves around it. See [[stories/schoolmate-gurudev-gurgaon]].
+Chapter VI (*Aatma Sutra*) documents his posthumous appearances in spirit form. Approximately 20 years after his passing, Hingori's schoolmate in DLF, Gurgaon had a waking midday vision of a stranger projected on his wall: "Don't worry I will solve your problems. Come to Guruji of Gurgaon in Sector 7." He Googled it, identified Gurudev, reached the sthan in Sector 7, and today his life revolves around it. See [[stories/schoolmate-gurudev-gurgaon]].
 
-See also [[concepts/jivaatma]] on the persistence of beings after bodily death, and [[sources/dream-sutra]] for more (to be ingested).
+*Witnessing Greatness* Ch.3 expands the post-mortem presence significantly. He appeared at Asha Sekhri ji's daughter's wedding — unseen through crowded gates — and gifted her his ring; years later in Oslo, he walked protectively behind her in the street as three men followed her, disappearing the moment she opened her front door. See [[stories/asha-sekhri-daughter-ring-oslo]]. Narender ji and Saroj ji saw him at their home sthan and approaching the yagshaala at their 1992 Maharudra yagya. See [[stories/narender-saroj-maharudra-yagya-apparition]]. He appeared to Sudhir (Hingori's childhood friend) in full waking consciousness — seven to eight feet tall, in white, saying "Come, son" — and was thereby identified and the sthan located. His consciousness also extends through the consecrated statues at Asthal. See [[concepts/statue-consciousness]].
+
+See also [[concepts/jivaatma]] on the persistence of beings after bodily death.
 
 ## Predictive Ability
 

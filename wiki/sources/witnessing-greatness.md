@@ -38,7 +38,7 @@ updated: 2026-05-20
 | 1 | Back To The Future | 9–20 | ✅ ingested 2026-05-20 |
 | 2 | Invisibly Yours, Buddhe Baba | 21–32 | ✅ ingested 2026-05-20 |
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
-| 4 | Saint Maker | — | ⬜ pending |
+| 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | — | ⬜ pending |
 | 6 | Roots to Wings | — | ⬜ pending |
 | 7 | Deception of Perception | — | ⬜ pending |
@@ -55,6 +55,67 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.4 — Saint-Maker, pp.49–58)
+
+- **The saint-making factory**: Ch.4's organising image is that Gurudev ran a "remarkable success story" of a saint-making factory — gathering disciples from past lives, transforming them from ordinary sceptics and bureaucrats, and releasing them as saints into the world. The chapter is structured as a chorus of these transformations.
+- **The 250-year multi-wave mission**: Hingori's vision of the bald monks on the invisible escalator is given its fullest framing here — a 250-year spiritual relay across first, second, and future waves of disciples, born into "whatever wombs were available." This is the largest temporal scale introduced across all the ingested sources.
+- **Past-life bonds as the architecture of the spiritual family**: the chapter's central claim is that every disciple's path to Gurudev was a *resumption* not a beginning. Ravi ji's 150–170-year-old Shahjahanpur mansion vision (verified on the ground), Santlal ji's nine previous incarnations, Puran ji's Ujjain and Guru Nanak Dev era connections, Giri Lalwani ji's testimony, and Hingori's own past-life saintly figure — all converge on this.
+- **The guru selects the disciple**: Gurudev's explicit teaching, given at his first meeting with Santlal ji, is that the journey to finding a guru is driven by the guru's intuitive selection, not the disciple's search. The Gangowal sadhu who "could not take" Santlal ji is the clearest illustration: the right guru is protected in reserve.
+- **Post-mortem saint-making as an ongoing programme**: the chapter closes with testimonies of disciples who have never met Gurudev in the physical realm — Roshini Dhir ji and Khozu Arsiwalla ji — experiencing his presence, blessing, and even spiritual promotion in the dream state. See [[entities/mahaguru]] (Saint-Making Factory section).
+- **Scepticism as the standard entry point**: Hingori notes that Mumbaikars were particularly agnostic. His own faith took five years and a series of surreal events in Africa (the blessed kada repeatedly blocking misconduct). The chapter establishes this as a pattern, not an exception.
+
+## Notable Quotes (Ch.4)
+
+> "Tu aa gaya, putt!" (You have come, my child.)
+> — Gurudev to arriving disciples, *Witnessing Greatness*, Ch.4, p.49
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.50
+
+> "My son if I were to simply recount your past, where would be the wonder in that? Recite the Mahaguru mantra as you drift into sleep and find out for yourself."
+> — Gurudev to Ravi ji, *Witnessing Greatness*, Ch.4, p.51
+
+> "Gurudev often spoke of the 500-year journey to reunite us in this lifetime. Our destinies were entwined long before."
+> — Puran ji, *Witnessing Greatness*, Ch.4, p.51
+
+> "I was sceptical because I had trouble believing that a man so simple could be a guru."
+> — Santlal ji, *Witnessing Greatness*, Ch.4, p.53
+
+> "I had no pressing issues and no ailments. Merely a whim led me to Gurudev's doorstep."
+> — Lal Saheb, *Witnessing Greatness*, Ch.4, p.53
+
+> "Laali mere laal ki, jit dekhoon tit laal. Laali dekhan main gayi, main bhi ho gayi laal."
+> — Saint Kabir, cited in *Witnessing Greatness*, Ch.4, p.55
+
+## Stories Extracted (Ch.4)
+
+- [[stories/hingori-vision-100-spirits]] — enriched with WG Ch.4's fuller frame: invisible escalator, 250-year relay, first and second waves of disciples
+- [[stories/ravi-ji-mansion-cave-visions]] — Ravi ji's Shahjahanpur mansion and Himalayan cave past-life visions; Malhotra ji's ground verification
+- [[stories/santlal-ji-journey-to-gurudev]] — Santlal ji's path from Gangowal to Gurgaon; nine previous incarnations; mother's blessings advance the meeting by two years
+- [[stories/lal-saheb-half-cup-tea.md|lal-saheb-half-cup-tea]] — Lal Saheb's initiation through a half-cup of tea; the jyot at dawn; preordained Toronto visit
+
+Short anecdotes kept inline (not given own pages):
+- Roshini Dhir ji's Shivling dream and "janmaan janmaan da rishta" blessing → [[entities/mahaguru]] (Saint-Making Factory section)
+- Khozu Arsiwalla ji's "Ab se tu ek guru hai" dream → [[entities/mahaguru]] (Saint-Making Factory section)
+- The fruit vendor / bull story told from the Malhotra ji angle → enriched in [[stories/malhotra-power-misuse]] and [[entities/rc-malhotra]]
+- Hingori's African escapades and the blessed kada → already fully documented in [[stories/hingori-kada-nairobi]]
+
+## New Concepts Introduced (Ch.4)
+
+No standalone new concept pages. Ch.4 enriches existing concepts and entities:
+- **Saint-making factory** framing added to [[entities/mahaguru]]
+- **250-year relay / multi-wave mission** added to [[stories/hingori-vision-100-spirits]]
+- New entity created: [[entities/santlal-ji]]
+- Three analogies added to [[wiki/analogies/analogies]]: invisible escalator, Kabir's laal, destiny-as-coincidence
+- Five quotes added to [[quotes/guru]]
+
+## Contradictions / Tensions (Ch.4)
+
+> [!warning] **Mother's blessings shifting destiny by two years**
+> Gurudev tells Santlal ji that his mother's blessings "brought forward their destined encounter by two years." This implies that the timing of a destined meeting can be modified by a third party's prayers or blessings. This sits in subtle tension with [[concepts/destiny]] as a fixed, karma-fructification-driven script. Hingori does not resolve this; the mother's blessings appear to operate *within* destiny, shifting timing but not the fact of the meeting itself. Flagged in [[entities/santlal-ji]] and [[stories/santlal-ji-journey-to-gurudev]].
+
+---
 
 ## Key Themes (Ch.3 — Impossible Is Possible, pp.33–48)
 

@@ -13,6 +13,31 @@ Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teacher
 
 ---
 
+## On the Saint-Making Mission (*Witnessing Greatness* Ch.4)
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do; they are in his charge, and he cannot forsake them mid-journey. Gurudev made it clear that he returned to this life to advance his spiritual family beyond the point they had reached in their past lives."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.50
+[[entities/mahaguru]] · [[concepts/guru-disciple]] · [[concepts/destiny]]
+
+> "Gurudev often spoke of the 500-year journey to reunite us in this lifetime. Our destinies were entwined long before."
+> — Puran ji, *Witnessing Greatness*, Ch.4, p.51
+[[entities/mahaguru]] · [[concepts/destiny]] · [[concepts/faith]]
+
+> "My son if I were to simply recount your past, where would be the wonder in that? Recite the Mahaguru mantra as you drift into sleep and find out for yourself."
+> — Gurudev to Ravi ji, *Witnessing Greatness*, Ch.4, p.51
+[[entities/mahaguru]] · [[concepts/astral-travel]] · [[stories/ravi-ji-mansion-cave-visions]]
+
+> "Tu aa gaya, putt!" (You have come, my child.)
+> — Gurudev's greeting to returning disciples, *Witnessing Greatness*, Ch.4, p.49
+[[entities/mahaguru]] · [[concepts/faith]] · [[concepts/destiny]]
+
+> "Laali mere laal ki, jit dekhoon tit laal. Laali dekhan main gayi, main bhi ho gayi laal."
+> (The colour of my beloved is everywhere I look. I went to see the colour, and I myself became that colour.)
+> — Saint Kabir, cited in *Witnessing Greatness*, Ch.4, p.55
+[[concepts/guru-tattva]] · [[concepts/stages-of-spiritual-transformation]] · [[concepts/guru-disciple]]
+
+---
+
 ## On the Guru's Guru — Buddhe Baba (*Witnessing Greatness* Ch.2)
 
 > "He does. I don't."

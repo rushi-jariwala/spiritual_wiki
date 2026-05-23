@@ -95,7 +95,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Entities
 
-- [[mahaguru]] — Central figure of the tradition; karmayoga personified
+- [[mahaguru]] — Central figure of the tradition; karmayoga personified; saint-maker across 250 years
+- [[santlal-ji]] — Disciple; nine previous incarnations with Gurudev; sceptic transformed by recognition
 - [[mataji]] — Gurudev's wife; the Shakti to his Shiv; Annapurna miracle; died May 2014
 - [[hingori]] — Author of the Sutras; disciple whose arthritis was cured in a minute
 - [[ashoka]] — Historical example of karmayoga; the Kalinga transformation
@@ -123,7 +124,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–3 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–4 ingested.*
 
 ---
 
@@ -358,6 +359,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[asha-sekhri-daughter-ring-oslo]] — Gurudev appears post-mortem at daughter's wedding, gifts ring; later escorts her home in Oslo
 - [[narender-saroj-maharudra-yagya-apparition]] — Multiple family sightings of Gurudev in physical form at July 1992 Maharudra yagya
 - [[asthal-temple-statue-miracles]] — Asthal temple establishment; six statue experience accounts: smiling, healing, form-shifting, consciousness entry
+- [[ravi-ji-mansion-cave-visions]] — Ravi ji's past-life visions of the Shahjahanpur mansion and the Himalayan cave; Malhotra ji's ground verification
+- [[santlal-ji-journey-to-gurudev]] — Santlal ji's path from Gangowal sadhu to Gurgaon midnight meeting; nine lifetimes, a mother's blessings
+- [[lal-saheb-half-cup-tea]] — Lal Saheb's initiation through a half-cup of tea; the jyot at dawn; preordained from Toronto
 
 ---
 

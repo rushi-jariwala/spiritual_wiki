@@ -9,7 +9,9 @@ updated: 2026-05-20
 
 # Reverse-Engineered Destiny
 
-*Synthesis date: 2026-05-20. Sources available: Karma Sutra, Aatma Sutra, Guru Sutra, The Guru of Gurus, Witnessing Greatness (Ch.1–2).*
+*Synthesis date: 2026-05-20. Sources available: Karma Sutra, Aatma Sutra, Guru Sutra, The Guru of Gurus, Witnessing Greatness (Ch.1–4).*
+
+> [!tip] *Witnessing Greatness* Ch.4 extends the reverse-engineering thesis to the disciples themselves: not just the mahaguru's early life, but each disciple's journey to him — Santlal ji's nine lifetimes, Ravi ji's Shahjahanpur mansion and cave visions, Puran ji's Ujjain and Guru Nanak era connections — was part of a 500-year orchestration "artfully cloaking destiny as coincidence." The disciples did not find the guru; they were returned to him. This makes the assembly of souls around the mahaguru *itself* a reverse-engineered outcome. See [[stories/ravi-ji-mansion-cave-visions]], [[stories/santlal-ji-journey-to-gurudev]], and [[entities/mahaguru]] (The Saint-Making Factory section).
 
 > [!tip] *Witnessing Greatness* Ch.2 adds another layer to this thesis: [[entities/buddhe-baba]] was himself part of the reverse-engineered design — appearing to Gurudev in a deserted Madhya Pradesh temple at precisely the moment when his siddhi-mastery was complete and a new direction was needed. Buddhe Baba's role was to dismantle what had been built (the siddhis, released at Har Ki Pauri) and point toward the final form (the mahaguru). This makes Buddhe Baba not merely a guide but a structural component in the destiny's reverse-engineering — the one who held "the reins to his aatma's odyssey."
 

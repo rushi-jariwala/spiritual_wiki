@@ -1297,3 +1297,38 @@ A remark so casual it is almost a throwaway — and therefore all the more exact
 
 The Asthal testimonies collectively present the statue not as a ceramic representation but as a **tuned receiver** — charged through collective pran pratishtha with the mahaguru's consciousness, able to receive petitions, emit healing jal, smile, shift form, and even accommodate a disciple's consciousness inside it. What makes an antenna a working device is not its shape but what it has been calibrated to receive and transmit. The statue at Asthal was calibrated by the devotion and ritual attention of 65+ disciples; it now operates as a live channel, not a symbol. See [[concepts/statue-consciousness]] and [[stories/asthal-temple-statue-miracles]].
 
+---
+
+## The Saint-Making Factory (*Witnessing Greatness*, Ch.4)
+
+### The Invisible Escalator — The 250-Year Spiritual Relay
+*Illuminates: [[entities/mahaguru]], [[concepts/destiny]], [[concepts/faith]]*
+
+> Decades ago, I had a vision of Gurudev resting on an invisible platform suspended in the sky with five or six of us in attendance. We witnessed hundreds of bald monks dressed in cream-coloured togas descending to earth on an invisible escalator.
+> — Hingori, *Witnessing Greatness*, Ch.4, p.49
+
+An escalator moves many riders simultaneously, each at their own pace, toward the same destination — without requiring each rider to climb. The "invisible escalator" of the saint-making factory operates the same way: over 250 years, across multiple waves (first, second, future), evolved beings descend into available wombs and align with the mahaguru at different stages of life. The mechanism is invisible; only the destination and the mahaguru's mission make it legible. See [[stories/hingori-vision-100-spirits]].
+
+---
+
+### Saint Kabir's Laal — The Disciple Imbibes the Master's Hue
+*Illuminates: [[concepts/guru-disciple]], [[concepts/guru-tattva]], [[concepts/stages-of-spiritual-transformation]]*
+
+> Laali mere laal ki, jit dekhoon tit laal.
+> Laali dekhan main gayi, main bhi ho gayi laal.
+> (The colour of my beloved is everywhere I look.
+> I went to see the colour, and I myself became that colour.)
+> — Saint Kabir, cited in *Witnessing Greatness*, Ch.4, p.55
+
+Kabir describes the disciple's experience on finding the master. The master's "hue" — his spiritual qualities, consciousness, and presence — does not merely influence the disciple; the disciple is *transmuted* by it. The analogy is of a dye so potent that the very observer becomes stained. In Gurudev's saint-making factory, this was the operating mechanism: disciples came sceptical, came seeking healing, came out of curiosity — and left wearing a different colour. See [[concepts/guru-tattva]] and [[concepts/stages-of-spiritual-transformation]].
+
+---
+
+### Destiny Cloaked as Coincidence — The Artful Orchestration
+*Illuminates: [[concepts/destiny]], [[concepts/guru-disciple]], [[synthesis/reverse-engineered-destiny]]*
+
+> Gurudev's gathering was a meticulous orchestration, drawing individuals from across the globe, artfully cloaking destiny as coincidence.
+> — Hingori, *Witnessing Greatness*, Ch.4, p.51
+
+A stage magician's art is not making things disappear but making the mechanism of their disappearance invisible. Gurudev's saint-making followed the same principle: the mechanism (past-life bonds, planetary alignments, the guru's invisible selection) was operating continuously; what appeared on the surface was a chance meeting at a temple, an impromptu business trip, a friend's referral. The coincidence is the costume; the orchestration is the body wearing it. See [[concepts/destiny]] and [[synthesis/reverse-engineered-destiny]].
+

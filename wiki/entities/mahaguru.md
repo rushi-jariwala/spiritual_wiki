@@ -290,6 +290,49 @@ He developed multiple *nirman kayas* to attend to many people simultaneously. He
 
 Before his passing, he began construction of his samadhi at Najafgarh. He has been sighted there in the decades since. His final statement on his own nature: *"His limitlessness is still felt at his sthans across the world and at his samadhi in Najafgarh."*
 
+## The Saint-Making Factory (*Witnessing Greatness*, Ch.4)
+
+*Witnessing Greatness* Ch.4 frames Gurudev's gathering of disciples as a project of cosmic scale — not merely selecting spiritual students but fulfilling a 500-year mission of reassembling a scattered spiritual family.
+
+### The Vision of the 500-Year Gathering
+
+Gurudev gathered the first wave of scattered disciples in this lifetime, drawing them back into his spiritual sphere. Most were diverse — pulled from different professions and academic backgrounds, many barely grasping the basics of spirituality. They did not realise then that their outwardly ordinary attributes belied the underlying connection they shared with the mahaguru.
+
+When disciples arrived, Gurudev welcomed them with the knowing phrase:
+
+> "Tu aa gaya, putt!" (You have come, my child.)
+
+These words were far from mere pleasantries — they were an acknowledgement of a reunion centuries in the making.
+
+See [[stories/hingori-vision-100-spirits]] for Hingori's vision of the bald monks descending on an invisible escalator, and the 250-year spiritual relay.
+
+### The Multi-Lifetime Mission
+
+Ravi ji's observation captures the structural commitment:
+
+> "The guru shoulders the duty of guiding his disciples, binding his evolution to theirs. He cannot progress until they do; they are in his charge, and he cannot forsake them mid-journey. Gurudev made it clear that he returned to this life to advance his spiritual family beyond the point they had reached in their past lives."
+> — Ravi ji, *Witnessing Greatness*, Ch.4, p.50
+
+Puran ji echoes this: *"Gurudev often spoke of the 500-year journey to reunite us in this lifetime. Our destinies were entwined long before."*
+
+The gathering was described as "a meticulous orchestration, drawing individuals from across the globe, artfully cloaking destiny as coincidence." Each disciple's path was uniquely tailored yet perfectly woven into a preordained spiritual assembly.
+
+### Post-Mortem Saint-Making
+
+*Witnessing Greatness* Ch.4 documents that the saint-making function continues after Gurudev's passing. Individuals who never met him physically are awakening to the deep connections they share with him:
+
+**Roshini Dhir ji**, a sevadaar, shares a dream from years after coming to the sthan:
+
+> "I was at a place where rows and rows of Shivlings emerged from the ground. Many people were circumambulating these structures and watering them. Gurudev was walking among these rows, invisible to everyone but me. When I touched his feet, he blessed me and said, 'Putt, tera mera janmaan janmaan da rishta hai' (Our connection spans many, many lifetimes)'. I then realised that even though I have never seen him in physical form in this lifetime, he has been a vital part of my existence far longer than I consciously know."
+> — Roshini Dhir ji, *Witnessing Greatness*, Ch.4, p.57
+
+**Khozu Arsiwalla ji**, who serves at the Mumbai and Lonavala sthans, shares:
+
+> "In my dream, I encountered Gurudev and Guruji (Gurudev's disciple) seated together. Guruji approached me and drew something on my forehead, and declared, 'Ab se tu ek guru hai (From now onward, you are a guru).'"
+> — Khozu Arsiwalla ji, *Witnessing Greatness*, Ch.4, p.58
+
+Every day, more individuals report experiencing the mahaguru's guidance through dreams, visions, and even rare physical encounters — highlighting his ongoing commitment to the continuity of the spiritual institution he founded with Buddhe Baba's guidance.
+
 ## Passing and Legacy (pp.111–117)
 
 Gurudev **chose** to leave his body on **28 July 1991**, aged 53, to continue his spiritual pursuits in the afterlife. His remains were interred at [[entities/neelkanth-dham|Neelkanth Dham]] in Najafgarh. He had overseen the construction of the site himself and prophesied that those who visited would be relieved of suffering. This has been borne out; many claim to have sighted him at the Dham decades later.

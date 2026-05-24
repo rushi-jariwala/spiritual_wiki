@@ -108,6 +108,14 @@ When a regular visitor to a sthan loses faith, their connection weakens — and 
 
 Spiritual experiences may continue during the no-faith phase, but **evolution plateaus**. This is not framed as failure — but as a suspension requiring re-engagement to resume the climb.
 
+## The Multi-Lifetime Dimension of Faith (*Witnessing Greatness*, Ch.4)
+
+*Witnessing Greatness* Ch.4 adds a dimension to faith not present in the *Guru Sutra* treatment: faith across incarnations. The disciple-guru bond is not created in this lifetime — it is resumed. Santlal ji's nine previous incarnations with Gurudev, Puran ji's Ujjain and Guru Nanak Dev era connections, Ravi ji's vision of the Shahjahanpur mansion — all suggest that the faith a disciple feels upon meeting the guru is not new. It is the activation of a bond formed centuries prior.
+
+The scepticism of Mumbaikars, including Hingori himself (five years of delay after the arthritis cure), is thus reframed: not as lack of faith but as the expected friction of a bond not yet fully reactivated. The gate opens, but the disciple must step through.
+
+See [[stories/santlal-ji-journey-to-gurudev]], [[stories/lal-saheb-half-cup-tea]], and [[stories/ravi-ji-mansion-cave-visions]] for specific cases.
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — The parent concept; faith is the binding force of the guru-disciple relationship
@@ -115,6 +123,7 @@ Spiritual experiences may continue during the no-faith phase, but **evolution pl
 - [[concepts/stages-of-spiritual-transformation]] — Vishwas (faith) is one of the six stages: Shraddha → Vishwas → Seva → Gyan → Bhakti → Divya Gyan
 - [[concepts/jivaatma]] — Faith opens the disciple's jivaatma to connection with the guru's jivaatma at multiple levels of consciousness
 - [[concepts/maya]] — "The land of delusion where falsehood lives like a king" — faith is the bridge out of maya; see [[stories/guru-sutra-ch8-poem]]
+- [[entities/santlal-ji]] — nine lifetimes of past-life bond as the substrate of the faith that eventually emerged
 - [[stories/guru-sutra-ch8-property-test]] — Faith tested through a negotiation no other disciple could close
 - [[stories/guru-sutra-ch8-poem]] — "Exit the land of delusion… let the bridge of faith take you places where your caged soul can take wing"
 - [[stories/hingori-faith-development]] — 1977 first visit; arthritis returns; 1982 actual spiritual entry; the full timeline of faith's development

@@ -2,10 +2,10 @@
 title: R.C. Malhotra (Ramesh Chand Malhotra)
 type: entity
 tags: [disciple, senior-disciple, first-disciple]
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]"]
 created: 2026-04-18
-updated: 2026-05-13
+updated: 2026-05-23
 ---
 
 # R.C. Malhotra (Ramesh Chand Malhotra)
@@ -48,7 +48,20 @@ Like Hingori and others in the early years, Malhotraji experimented with the pow
 1. **Train delays** — He regularly missed his train home from work and discovered he could will the train to be delayed. He did so on several occasions. Gurudev found out and was upset; he reprimanded Malhotraji directly.
 2. **Bull and fruit cart** — A rude fruit vendor angered him. Malhotraji willed a nearby bull to attack the vendor's cart and overturn it. Gurudev paid the vendor for the damaged goods and threatened to withdraw Malhotraji's power if misuse continued.
 
+*Witnessing Greatness* Ch.4 adds the framing that Malhotraji's past lifetimes had been adorned with sainthood — barely lingering in his conscious memory. The powers he received from Gurudev were to him "as novel as a child's toy," and he approached them with the same experimental curiosity. These early misuses were the predictable friction of a saint rediscovering tools he once knew.
+
 See [[stories/malhotra-power-misuse]].
+
+## *Witnessing Greatness* Ch.4 — Chote Guruji and the Najafgarh Sthan
+
+*Witnessing Greatness* Ch.4 gives the fullest account of Malhotraji's evolution from Gurudev's first disciple to his spiritual heir:
+
+> Through his rigorous spiritual journey and the refinement of his qualities, Malhotraji grew adept at handling the potent spiritual powers he had been endowed with. His evolution in spiritual stature enabled him to assist Gurudev in guiding the new waves of disciples and devotees entering the transformative fold of Gurudev's saint-making factory.
+> — Hingori, *Witnessing Greatness*, Ch.4, pp.55–56
+
+Affectionately called **Papaji** (a Punjabi term of endearment for an elder brother or male elder), Malhotraji's insightful wisdom and heartfelt devotion won him the cherished title of **'Chote Guruji'** (spiritual heir) — signifying his spiritual prowess and role as a living manifestation of his guru's principles.
+
+Choosing a life of **celibacy**, he devoted over half his life to seva and managing the affairs of the sthan. His efforts saw the **establishment of the sthan at Najafgarh**, adjacent to Gurudev's samadhi. In the wake of Gurudev and Mataji's transcendence from the physical realm, Malhotraji steered the institution, preserving its sanctity and vision until his last breath.
 
 ## *Guru Sutra* Ch.15 — After Gurudev's Demise
 
@@ -64,6 +77,7 @@ Gurudev had subtly predicted that after his demise his disciples would operate i
 - [[stories/malhotra-power-misuse]] — train delays and bull-and-fruit-cart misuse; Gurudev's reprimand and warning
 - [[stories/malhotraji-luggage-resignation]] — posthumous orchestration; luggage moved to the meeting; theatrical reinstatement as chief trustee
 - [[stories/malhotra-buddhe-baba-yog-dand]] — astral meeting with Gurudev and Buddhe Baba; opinions upset Buddhe Baba; physical yog dand imprint on back upon waking (*Witnessing Greatness*, Ch.2)
+- [[stories/ravi-ji-mansion-cave-visions]] — Malhotra ji travels to Shahjahanpur to verify Ravi ji's past-life dream sketch; the courtyard confirmed, now cement instead of mud (*Witnessing Greatness*, Ch.4)
 
 ## Cross-references
 

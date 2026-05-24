@@ -1,10 +1,10 @@
 ---
 title: Quotes on Seva and Service
 type: quote-collection
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[entities/mahaguru]]", "[[entities/guru-vashisht]]"]
 created: 2026-04-22
-updated: 2026-04-25
+updated: 2026-05-24
 ---
 
 # Quotes on Seva and Service
@@ -121,3 +121,47 @@ updated: 2026-04-25
 > "Beta, if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"
 > — Mataji (recalled by Renu ji), *The Guru of Gurus*, p.34
 [[entities/mataji]]
+
+## *Witnessing Greatness* Ch.5 — Gurudev on Seva
+
+> "God or param-aatma lives within every being. If you want to please God, please the gods in human form. Every person faces struggles, be it pain, illness, or adversity; your mission is to ease their suffering and minimise their distress."
+> — Gurudev (recalled by Rajpal ji), *Witnessing Greatness*, Ch.5, p.59
+[[entities/mahaguru]] · [[entities/rajpal]] · [[practices/seva]]
+
+> "Inspire others to serve, but also do seva yourself. Beyond physical acts, extend seva through your words. Speak kindly and avoid being harsh or rude. Turn every situation into an opportunity for seva."
+> — Gurudev (recalled by Giri ji), *Witnessing Greatness*, Ch.5, p.60
+[[entities/mahaguru]] · [[entities/giri]] · [[practices/seva]]
+
+> "Seva never stops. It continues 24/7."
+> — Gurudev (in Bharat Dalal ji's dream), *Witnessing Greatness*, Ch.5, p.61
+[[entities/mahaguru]] · [[stories/bharat-dalal-seva-never-stops]]
+
+> "The real gods are those who come to the sthan. A guru must serve them to be of value. True service is catering to those who visit your guru's sthan."
+> — Gurudev (recalled by Bittu ji), *Witnessing Greatness*, Ch.5, p.64
+[[entities/mahaguru]] · [[entities/bittu]] · [[practices/seva]]
+
+> "Serve my purpose, and I will fulfil yours."
+> — Gurudev, *Witnessing Greatness*, Ch.5, p.67
+[[entities/mahaguru]] · [[practices/seva]] · [[stories/pradeep-pragya-cancer-patient]]
+
+> "Son, what I need from you is not tied to specific tasks. I need you to be available so when the time comes, I can channel your energy into my work."
+> — Gurudev to Hingori, *Witnessing Greatness*, Ch.5, p.68
+[[entities/mahaguru]] · [[stories/hingori-seva-spirit-availability]]
+
+> "If the guru sleeps, everything comes to a standstill. So, how can I afford to sleep?"
+> — Gurudev (recalled by Giri ji), *Witnessing Greatness*, Ch.5, p.69
+[[entities/mahaguru]] · [[entities/giri]] · [[concepts/astral-travel]]
+
+> "Yes. I hope to grant Bajrang's dead offspring a future life as a human to repay him for the joy he brought us."
+> — Gurudev (recalled by Pehalwanji), *Witnessing Greatness*, Ch.5, p.70
+[[entities/mahaguru]] · [[stories/bajrang-offspring-human-reincarnation]]
+
+## Disciples on Vessel Consciousness and Seva's Fruit
+
+> "The purest reward of seva lies in the heartfelt blessings we receive. Such blessings are priceless and impossible to force or buy. They emanate from the soul, echoing 'Bhagwan tumhara bhala karein (May the divine favour you)'."
+> — Suresh Kohli ji, *Witnessing Greatness*, Ch.5, pp.63–64
+[[practices/seva]]
+
+> "When I claim, 'I will heal you', the healing does not manifest. Yet, when I channel the blessings of Gurudev by invoking him, miraculous healings happen."
+> — Suresh Sharma ji, *Witnessing Greatness*, Ch.5, p.64
+[[practices/seva]] · [[concepts/non-doership]] · [[concepts/intent-as-healing]]

@@ -1,10 +1,10 @@
 ---
 title: Astral Travel
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]", "[[practices/seva]]"]
 created: 2026-04-18
-updated: 2026-04-26
+updated: 2026-05-24
 ---
 
 # Astral Travel
@@ -178,6 +178,21 @@ Gurudev had developed several *nirman kayas* (subtle energy bodies) to simultane
 > — Hingori, *Witnessing Greatness*, Ch.3, p.37
 
 Notably, the chapter also documents Gurudev actively **creating a nirman kaya for a disciple** — promising Virender ji at their first meeting "I will create two of you — one to work in the court and the other to assist me." The two incidents in Rohtak confirmed this: Virender ji's double was seen by independent witnesses at 6 am while the judge himself was praying at home. See [[stories/virenderji-uninvited-guests]].
+
+## *Witnessing Greatness* Ch.5 — Astral Seva: Sleep as Continuous Service
+
+Chapter 5 adds a dimension of Gurudev's astral practice not emphasised elsewhere: his sleep was not rest but seva.
+
+> For Gurudev, sleep transcended the mere act of resting the body. He viewed it as an ethereal journey where his spirit would voyage beyond the physical realm, leaving his body temporarily inactive. A significant part of his seva took place on the astral plane. During these periods, he would engage in paath, entering a state of deep meditation that enabled his consciousness to partially detach from his physical form. This facilitated astral travel, allowing him to extend aid and healing across the global network of sthans he had established.
+
+His daily rhythm: seva until 2–3 am, rising by 5 am. Close disciples were perplexed by his stamina. Giri ji observed he "never saw him sleep" and noted he always seemed fresh. When pressed, Gurudev replied:
+
+> "If the guru sleeps, everything comes to a standstill. So, how can I afford to sleep?"
+> — *Witnessing Greatness*, Ch.5, p.69
+
+The mechanism: Gurudev had developed the ability to let one half of his body rest in sleep while keeping the other half awake and alert — a state of partial dissociation that enabled continuous astral seva across the global sthan network.
+
+Bharat Dalal ji's dream is consistent: in a different dimension, thousands were assembled before Gurudev who moved among them offering blessings. His message — *"Seva never stops. It continues 24/7"* — describes the astral-seva programme as much as the waking one. See [[stories/bharat-dalal-seva-never-stops]].
 
 ## Cross-references
 

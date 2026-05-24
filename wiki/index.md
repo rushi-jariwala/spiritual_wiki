@@ -124,7 +124,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–4 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–5 ingested.*
 
 ---
 
@@ -362,6 +362,11 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[ravi-ji-mansion-cave-visions]] — Ravi ji's past-life visions of the Shahjahanpur mansion and the Himalayan cave; Malhotra ji's ground verification
 - [[santlal-ji-journey-to-gurudev]] — Santlal ji's path from Gangowal sadhu to Gurgaon midnight meeting; nine lifetimes, a mother's blessings
 - [[lal-saheb-half-cup-tea]] — Lal Saheb's initiation through a half-cup of tea; the jyot at dawn; preordained from Toronto
+- [[dhruv-bhalla-neurological-girl-healing]] — Three years of no progress with a neurologically impaired girl; inner voice "she will stand"; she stood after Dhruv ji channelled Gurudev's method
+- [[pradeep-pragya-cancer-patient]] — Pradeep ji honours his seva commitment to a cancer patient before rushing his semi-conscious daughter to Gurudev; rewarded with a knowing smile and healing
+- [[bajrang-offspring-human-reincarnation]] — Bajrang's dead young one; Gurudev's paath and prayer for the monkey's offspring to receive a human birth
+- [[bharat-dalal-seva-never-stops]] — Bharat Dalal ji's dream in a different dimension; thousands assembled before Gurudev; "Seva never stops. It continues 24/7."
+- [[gautam-bhushan-grass-meditation]] — Meditation of becoming a blade of grass, leaf, tree trunk, and stone; Aham Brahmasmi as direct experience
 
 ---
 

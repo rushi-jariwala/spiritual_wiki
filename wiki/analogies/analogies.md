@@ -1332,3 +1332,55 @@ Kabir describes the disciple's experience on finding the master. The master's "h
 
 A stage magician's art is not making things disappear but making the mechanism of their disappearance invisible. Gurudev's saint-making followed the same principle: the mechanism (past-life bonds, planetary alignments, the guru's invisible selection) was operating continuously; what appeared on the surface was a chance meeting at a temple, an impromptu business trip, a friend's referral. The coincidence is the costume; the orchestration is the body wearing it. See [[concepts/destiny]] and [[synthesis/reverse-engineered-destiny]].
 
+---
+
+## Seva — Witnessing Greatness (Ch.5)
+
+### Muhammad and the Mountain — Sthans Bringing Seva to All
+*Illuminates: [[practices/seva]], [[entities/mahaguru]]*
+
+> In his pursuit to bring seva to all corners of the world, the mahaguru embodied the famous saying: if the mountain won't come to Muhammad, then Muhammad must go to the mountain.
+> — Hingori, *Witnessing Greatness*, Ch.5, p.63
+
+Applied to Gurudev's network of home-based sthans: instead of requiring seekers to travel to a central ashram, he established sthans in the homes of disciples across cities and villages worldwide. The saying encodes the priority structure of seva — the one with capacity (the guru) moves toward those without it, not the reverse. The sthans are the footsteps of Muhammad going to the mountain.
+
+---
+
+### Snakes and Ladders — The Visitor as Spiritual Asset
+*Illuminates: [[practices/seva]], [[concepts/guru-disciple]]*
+
+> Through them [those who come to the sthan], we get a chance to introspect, improve our self-reflections, and progress spiritually. Their presence aids us in circumventing the 'snakes' of spirituality and ascending the ladders of our spiritual journey.
+> — Hingori, *Witnessing Greatness*, Ch.5, p.64
+
+A second use of the Snakes and Ladders metaphor (cf. *Aatma Sutra* Ch.VIII) — here applied not to inter-lok progress but to the within-life spiritual game of the sevadaar. The visitor at the sthan is not a burden to be managed; they are the *ladder* the sevadaar climbs. Genuine seva dissolves the ego, generates blessings, and produces exactly the pratipaksh-bhavana that bypasses the usual snakes. Each person served is a rung. See [[practices/seva]].
+
+---
+
+### "I Do" vs. "It Unfolds Through Me" — The Seva Ownership Shift
+*Illuminates: [[concepts/non-doership]], [[practices/seva]]*
+
+> Inspired by his approach, we transitioned from an 'I do' mindset to 'It unfolds through me'.
+> — Hingori, *Witnessing Greatness*, Ch.5, p.64
+
+A concise metaphor for the non-doership shift in the context of seva. The "I do" claim encashes positive karma as the doer takes ownership; the "It unfolds through me" posture keeps the karma clean — the act happens, the credit remains unencashed. Symmetrically, releasing ownership of virtues enables releasing ownership of flaws, because the ownership mechanism is the same. See [[concepts/non-doership]] and [[practices/seva]].
+
+---
+
+### The Tea-Stall Fate — Giving and Receiving as Destiny
+*Illuminates: [[practices/seva]], [[concepts/karma]], [[concepts/doer-ship]]*
+
+> "Yeh kal bhi peete the, hum kal bhi peelate the. Yeh aaj bhi peete hain, hum aaj bhi peelate hain. Yeh kal bhi piyenge, hum kal bhi pilayenge."
+> — Gurudev (recalled by Dwarkanath ji), *Witnessing Greatness*, Ch.5, p.61
+
+When colleagues added tea to Gurudev's tab without his knowledge, he rejected the framework of exploitation entirely: the receiver's role and the giver's role are both destiny, not choices. The tea-stall analogy encodes the karma-as-destiny teaching in the most mundane register possible — a chai bill — to make it immediately actionable. If both giving and receiving are fated, resentment at the imbalance is a category error. See [[practices/seva]], [[concepts/destiny]].
+
+---
+
+### Vessel Consciousness in Healing
+*Illuminates: [[concepts/non-doership]], [[concepts/intent-as-healing]], [[practices/seva]]*
+
+> "When I claim, 'I will heal you', the healing does not manifest. Yet, when I channel the blessings of Gurudev by invoking him, miraculous healings happen."
+> — Suresh Sharma ji, *Witnessing Greatness*, Ch.5, p.64
+
+A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
+

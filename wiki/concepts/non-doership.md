@@ -1,10 +1,10 @@
 ---
 title: Non-Doership
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/doer-ship]]", "[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/sanchit-karma]]", "[[concepts/vairagya]]", "[[concepts/samskars]]", "[[concepts/vasna]]", "[[entities/adi-shankaracharya]]", "[[concepts/self-acceptance]]", "[[concepts/spiritual-healing]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/doer-ship]]", "[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/sanchit-karma]]", "[[concepts/vairagya]]", "[[concepts/samskars]]", "[[concepts/vasna]]", "[[entities/adi-shankaracharya]]", "[[concepts/self-acceptance]]", "[[concepts/spiritual-healing]]", "[[practices/seva]]"]
 created: 2026-04-14
-updated: 2026-04-22
+updated: 2026-05-24
 ---
 
 # Non-Doership
@@ -145,6 +145,22 @@ Hingori's resolution: the two practices operate at different levels and are **co
 > — Hingori, *Aatma Sutra*, Ch.XIV, p.177
 
 Non-doership reduces karmic weight by severing the ownership mechanism. Self-worship re-anchors identity in the divine core rather than the physical and mental noise. Together they exhaust *samskars* from below (non-doership) and affirm divinity from above (self-worship). The affirmation "I am not the doer" must be repeated thousands of times hypnotically, seeping from conscious to unconscious. See [[concepts/self-worship]].
+
+## *Witnessing Greatness* Ch.5 — "It Unfolds Through Me"
+
+Chapter 5 gives the vessel-consciousness shift its most practical articulation across the corpus, showing non-doership not as philosophy but as a lived operational mode for seva.
+
+> Inspired by his approach, we transitioned from an 'I do' mindset to 'It unfolds through me'. By letting go of ownership, we could liberate ourselves from past karma and minimise the accumulation of new karmic credits or debts. Recognising that we do not own our virtues also enabled us to relinquish ownership of our flaws. This remarkable shift accelerated our spiritual evolution.
+
+The symmetry is the chapter's key insight: claiming ownership of good deeds (the 'I serve' mindset) encashes positive karma just as claiming ownership of failures encashes negative karma. Releasing both — *"It unfolds through me"* — is the same mechanism as the 'I am not the doer' formula, applied specifically to seva.
+
+Three disciples narrate convergent experiences:
+
+- **Ravi ji**: During guidance sessions, insights flash through him; moments later he cannot recall what he said, yet issues resolve. *"I merely function as a vessel, with Gurudev being the guiding force. He uses me to relay messages to the person before me."*
+- **Suresh Sharma ji** (Kotla, Himachal Pradesh): *"When I claim, 'I will heal you', the healing does not manifest. Yet, when I channel the blessings of Gurudev by invoking him, miraculous healings happen."*
+- **Dhruv Bhalla ji** (Kolkata): Three years of no progress with a neurologically impaired girl. An inner voice declared she would stand. Mimicking Gurudev's specific method from an audio biography, she stood. Conclusion: *"My role as a healer is to act as a channel for the sthan's energy and fully embrace its guiding flow."* See [[stories/dhruv-bhalla-neurological-girl-healing]].
+
+The common thread: non-doership in seva is not passivity — the body and mind are fully engaged — but the authorship of the result belongs to the guru-field, not the individual.
 
 ## Non-Doership in Healing
 

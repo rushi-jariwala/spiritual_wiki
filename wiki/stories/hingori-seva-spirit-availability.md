@@ -1,10 +1,10 @@
 ---
 title: Seva Slots Taken — Gurudev's Teaching on Spiritual Availability
 type: story
-sources: [guru_sutra_book.md]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[concepts/surrender]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-24
 ---
 
 # Seva Slots Taken — Gurudev's Teaching on Spiritual Availability
@@ -21,6 +21,13 @@ updated: 2026-05-05
 ## Source
 
 *Guru Sutra*, Ch.9, "Surrender of the Spiritual Self," pp.85–86
+
+*Witnessing Greatness*, Ch.5, "Seva" — a parallel telling with Gurudev's words rendered more directly:
+
+> A few months into this routine, Gurudev called me into his room to discuss my experiences with seva. Initially hesitant, I eventually shared my frustration. To my surprise, he listened with an amused smile and then offered a puzzling insight: "Son, what I need from you is not tied to specific tasks. I need you to be available so when the time comes, I can channel your energy into my work."
+>
+> Initially, his words were cryptic, yet their significant implications emerged upon thoughtful consideration. Gurudev frequently shared that he would meditate on us during patient treatments, channelling our collective energies to assist others. In time, I realised that the true value of our contribution extends beyond mere physical deeds — it rests in the preparedness and openness of our spirits to integrate with the sthan's broader purpose.
+> — Hingori, *Witnessing Greatness*, Ch.5, pp.67–68
 
 ## Related Concepts / Entities
 

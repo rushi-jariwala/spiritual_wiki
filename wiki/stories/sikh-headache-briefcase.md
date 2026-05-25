@@ -1,10 +1,10 @@
 ---
 title: The Sikh with the Briefcase — "It Is My Duty, Not My Business"
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/hygiene]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/hygiene]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[entities/rajpal]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-24
 ---
 
 # The Sikh with the Briefcase — "It Is My Duty, Not My Business"
@@ -17,6 +17,11 @@ updated: 2026-04-26
 ## Source
 
 *The Guru of Gurus*, Commercial Hygiene section, p.207.
+
+*Witnessing Greatness*, Ch.5 — narrated by Rajpal ji, with additional conditions specified:
+
+> Rajpal ji shares a story about a Sikh man with a constant, unbearable headache: "Despite going to top-notch hospitals, he did not find any relief. Gurudev offered to help him but set two conditions: the man had to stop eating meat and drinking alcohol. Two weeks later, the Sikh gentleman returned, carrying a briefcase filled with one lakh rupees. The man had promised to give this money to whoever could cure him. But Gurudev, staying true to his beliefs, turned down the money. He also told the man that accepting it would undo the healing that had given him complete relief."
+> — Hingori, *Witnessing Greatness*, Ch.5, p.62
 
 ## Related Concepts and Entities
 

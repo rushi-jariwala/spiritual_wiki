@@ -28,3 +28,5 @@ updated: 2026-04-26
 - [[entities/giri]] — the witness; left amused and enlightened about his guru
 - [[concepts/karmayoga]] — the farm itself is a site of karmic labour; Bajrang is an incidental but revealing moment within it
 - [[concepts/empathy]] — Gurudev read and responded to Bajrang's inner state as fully as he would any human's
+
+> [!tip] See also [[stories/bajrang-offspring-human-reincarnation]] — when Bajrang's young one later died, Gurudev retreated into paath to pray for the monkey's offspring to receive a human birth. The two stories span the arc of Gurudev's parental relationship with Bajrang.

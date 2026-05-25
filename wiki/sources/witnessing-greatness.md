@@ -39,7 +39,7 @@ updated: 2026-05-20
 | 2 | Invisibly Yours, Buddhe Baba | 21–32 | ✅ ingested 2026-05-20 |
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
-| 5 | Seva | — | ⬜ pending |
+| 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | — | ⬜ pending |
 | 7 | Deception of Perception | — | ⬜ pending |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
@@ -55,6 +55,80 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.5 — Seva, pp.59–72)
+
+- **Aham Brahmasmi as seva's operating principle**: the chapter opens with Gurudev's statement that param-aatma lives within every being — serving others is therefore serving the consciousness supreme. The visitor at the sthan is literally "the real god." This is the fullest grounding of seva in metaphysics across the entire corpus.
+- **Unconditional seva**: the inner voice Gurudev received at the start of his seva journey — *"Serve all who come to you, free from bias or preference"* — became the operative rule for his entire career. Krishanmohan ji (Durgarpur) articulates it as current practice: *"I see only the divine essence in every individual I meet."*
+- **Vessel consciousness — "It unfolds through me"**: the chapter's central theological move. Disciples narrate how claiming "I will heal you" blocks the healing, while invoking the guru opens it. Ravi ji, Suresh Sharma ji, and Dhruv Bhalla ji all describe the same shift in experiential terms. Hingori formalises it: the shift from "I do" to "It unfolds through me" simultaneously dissolves the mechanism for both karmic credit and karmic debit.
+- **Spiritual availability as seva**: Gurudev's puzzling instruction to Hingori — "I need you to be available so I can channel your energy" — positions the spirit's readiness as the real substance of seva, the physical task being secondary.
+- **Astral seva**: Gurudev's sleep described for the first time as a form of continuous seva. He entered paath-meditation, partially dissociated from the physical body, and conducted healing and teaching across the global sthan network astrally. *"Seva never stops. It continues 24/7."* (Bharat Dalal ji's dream)
+- **Seva across all forms of life**: animals receive the same attention as humans. Gurudev milked cows, cared for dogs, prayed for Bajrang's dead offspring to receive a human birth. Gurudev explicitly "dissolved the distinctions between humans and animals" in his seva.
+- **The sthan network as seva infrastructure**: sthans as the structural solution to bringing seva to all — "if the mountain won't come to Muhammad…"
+- **Service before self as a contractual promise**: "Serve my purpose, and I will fulfil yours" — verified in Pradeep ji's story of honouring a commitment to a cancer patient before rushing his semi-conscious daughter to Gurudev.
+- **Seva's equal spiritual return regardless of task**: whether on the gaddi or managing footwear — spiritual progress was equal. Women in kitchen seva found OMs on their hands. The sthan treated everyone at par.
+
+## Notable Quotes (Ch.5)
+
+> "God or param-aatma lives within every being. If you want to please God, please the gods in human form."
+> — Gurudev (recalled by Rajpal ji), *Witnessing Greatness*, Ch.5, p.59
+
+> "Yeh kal bhi peete the, hum kal bhi peelate the. Yeh aaj bhi peete hain, hum aaj bhi peelate hain. Yeh kal bhi piyenge, hum kal bhi pilayenge."
+> — Gurudev (recalled by Dwarkanath ji), *Witnessing Greatness*, Ch.5, p.61
+
+> "Seva never stops. It continues 24/7."
+> — Gurudev (in Bharat Dalal ji's dream), *Witnessing Greatness*, Ch.5, p.61
+
+> "The real gods are those who come to the sthan. A guru must serve them to be of value."
+> — Gurudev (recalled by Bittu ji), *Witnessing Greatness*, Ch.5, p.64
+
+> "Son, what I need from you is not tied to specific tasks. I need you to be available so when the time comes, I can channel your energy into my work."
+> — Gurudev to Hingori, *Witnessing Greatness*, Ch.5, p.68
+
+> "Serve my purpose, and I will fulfil yours."
+> — Gurudev, *Witnessing Greatness*, Ch.5, p.67
+
+> "If the guru sleeps, everything comes to a standstill. So, how can I afford to sleep?"
+> — Gurudev (recalled by Giri ji), *Witnessing Greatness*, Ch.5, p.69
+
+> "The purest reward of seva lies in the heartfelt blessings we receive. Such blessings are priceless and impossible to force or buy."
+> — Suresh Kohli ji, *Witnessing Greatness*, Ch.5, pp.63–64
+
+## Stories Extracted (Ch.5)
+
+- [[stories/dhruv-bhalla-neurological-girl-healing]] — three years of no progress; inner voice "this girl will stand"; she stood after mimicking Gurudev's method
+- [[stories/pradeep-pragya-cancer-patient]] — Pradeep ji's moral quandary: honouring a prior seva commitment before rushing his semi-conscious daughter to Gurudev; rewarded with healing
+- [[stories/bajrang-offspring-human-reincarnation]] — Bajrang's dead offspring; Gurudev retreated into paath; prayed for human birth for the young monkey
+- [[stories/bharat-dalal-seva-never-stops]] — Bharat Dalal ji's dream in a different dimension; thousands assembled; "Seva never stops. It continues 24/7."
+- [[stories/gautam-bhushan-grass-meditation]] — meditation of becoming blade of grass, leaf, tree trunk, stone; Aham Brahmasmi as direct experience
+
+Short anecdotes kept inline in [[practices/seva]]:
+- Gurudev's response to colleagues at Haribabu Gupta ji's tea stall (Curzon Road, Delhi) — the fate-of-giving-and-receiving teaching
+- Naubatram ji's son (Shivpuri, 1970s) — chronic allergy healed at all hours; "Whenever your son is unwell, come to me, no matter how late"
+- Two individuals with questionable pasts — inner voice: "Serve all who come to you, free from bias or preference"
+- Pratap Singh ji's observation (Gurudev's agnostic superior) — always greeted with a genuine smile despite crowd
+- Pradeep Sethi ji's vision — touching visitors' feet instead of receiving blessings
+- Suresh Prabhu ji on seva without recognition — Gurudev's prophecy of his political prominence fulfilled a decade later
+- Virender ji and the dogs with ticks — "Tu mera putt hai"
+- Nitin Gadekar ji — 25 years of seva; footwear to healing; all equal at the sthan
+- Ravi ji on channeling Gurudev's guidance — instructions flashing through him, not recalled after
+
+Enrichments of existing pages:
+- [[stories/hingori-seva-spirit-availability]] — WG Ch.5 version adds Gurudev's direct wording
+- [[stories/sikh-headache-briefcase]] — WG Ch.5 (Rajpal ji's narration) adds the two conditions, the two-week wait, and the additional threat that accepting would "undo the healing"
+
+## New Concepts Introduced (Ch.5)
+
+No standalone new concept pages required. Ch.5 enriches existing concepts:
+- **Vessel consciousness / "It unfolds through me"** — added to [[concepts/non-doership]] (WG Ch.5 section)
+- **Astral seva** — added to [[concepts/astral-travel]] (WG Ch.5 section)
+- [[practices/seva]] — massively enriched with WG Ch.5 material (entire new section)
+- [[quotes/seva]] — major additions from Ch.5
+
+## Contradictions / Tensions (Ch.5)
+
+> [!warning] **Bajrang's offspring — cross-yoni reincarnation as grace**
+> The Bajrang story introduces a mechanism not otherwise documented in the corpus: a saint granting a monkey's offspring a human birth, skipping many yoni levels at once. Hindu cosmological convention holds that spirits traverse 8.4 million yonis sequentially. Gurudev's prayer here asserts that a saint can, by grace, compress this journey. The chapter itself flags this as challenging "our conventional understanding of nature" while asserting "in the realm of saints, nature herself bends to their rules." This sits in unresolved tension with the [[concepts/karma]] framework's general insistence on the mechanical inevitability of karmic fructification.
 
 ## Key Themes (Ch.4 — Saint-Maker, pp.49–58)
 

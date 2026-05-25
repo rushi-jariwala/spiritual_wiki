@@ -2,14 +2,30 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]", "[[entities/mataji]]", "[[concepts/vairagya]]"]
 created: 2026-04-12
-updated: 2026-05-20
+updated: 2026-05-25
 ---
 
 # Quotes on the Guru
 
 Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teachership.
+
+---
+
+## On Love and True Presence (*Witnessing Greatness* Ch.6)
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev to Renu ji (eldest daughter), *Witnessing Greatness*, Ch.6, p.80
+[[entities/mahaguru]] · [[entities/mataji]] · [[concepts/vairagya]] · [[concepts/guru-kripa]]
+
+> Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few.
+> — Hingori (on Gurudev's love), *Witnessing Greatness*, Ch.6, p.80
+[[entities/mahaguru]] · [[concepts/vairagya]] · [[concepts/non-doership]]
+
+> "We are fakirs."
+> — Gurudev to Renu ji (on turning the family drawing room into a communal dormitory), *Witnessing Greatness*, Ch.6, p.85
+[[entities/mahaguru]] · [[concepts/vairagya]] · [[concepts/grihasth-ashram]] · [[stories/drawing-room-fakirs]]
 
 ---
 

@@ -82,6 +82,24 @@ This is *vairagya* operating at full integration: the love is real in its effect
 
 This is the final destination of *vairagya* as a practice: not the suppression of joy and pain, but the natural subsidence of both when the 'I' is no longer claiming authorship over the act.
 
+## *Witnessing Greatness* Ch.6 — Love as Radiation
+
+Ch.6 adds a family vantage-point on Gurudev's *vairagya*. His eldest daughter Renu ji confronted him about his absence from their lives — stretches of ten to fifteen days without exchanging words. His response:
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.80
+
+The narrator (Hingori) reflects:
+
+> Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few.
+> — *Witnessing Greatness*, Ch.6, p.80
+
+This is vairagya applied to love itself — love freed from preferential attachment, from the family circle, from the claim of exclusivity. Renu ji admits that she understood this only after Gurudev's passing: *"I now understand what guru kripa is, and how his influence encompasses all."* What she had experienced as absence was, in fact, the opposite of absence: love that by belonging to no one in particular could belong to everyone equally.
+
+> [!tip] This exactly matches the *Guru of Gurus*'s formulation of his vairagya: *"Main sab ka hoon aur sab mere hain. Lekin main kisi ka nahi hu aur mera koi nahi."* The family chapter makes this abstract statement concrete: his children felt his absence precisely because his love had no inner/outer boundary.
+
+The drawing room incident provides the household instantiation: when asked to build a private family space, he built it — then announced that twenty-five disciples could sleep there. *"We are fakirs."* See [[stories/drawing-room-fakirs]].
+
 ## Cross-references
 
 - [[concepts/non-doership]] — non-doership requires *vairagya* from self-identity to fully function
@@ -93,3 +111,6 @@ This is the final destination of *vairagya* as a practice: not the suppression o
 - [[concepts/moksha]] — the progressive detachment is the highway; full *vairagya* from the jivaatma is moksh's approach
 - [[concepts/stages-of-spiritual-transformation]] — vairagya underpins the bhakti stage; "to conquer happiness, you must conquer sorrow"
 - [[concepts/senses-management]] — sensory management is vairagya in its most practical, daily form
+- [[concepts/grihasth-ashram]] — "Grihasth mein bhi vairagya hai": the householder's life is the primary arena for practising vairagya
+- [[stories/drawing-room-fakirs]] — "We are fakirs": communal space as an instance of vairagya within the home
+- [[entities/mataji]] — Renu ji's confrontation and Gurudev's love-as-radiation response

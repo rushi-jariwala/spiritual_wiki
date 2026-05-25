@@ -26,6 +26,11 @@ Gurudev spoke sparsely on doctrine. He was a man of demonstration first — his 
 - *"If any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night."* — the full scope of compassion without separation.
 - *"Vichaar vishay se aata hai."* — (Thought arises from the object of engagement.) A seed-sentence on the origin of thoughts that opens into four distinct observations: thoughts emerge from sensory interaction; from the guna mix; from the magnetic nature of the mind; and from samskars surfacing. Hingori needed multiple paragraphs to unpack it. See [[concepts/hygiene]] and [[concepts/citt-vritti-nirodh]].
 - *"As soon as I touch the briefcase, your headache will return. It is my duty to do seva, not my business."* — the entire teaching on commercial hygiene and the difference between seva and commerce in one response. See [[stories/sikh-headache-briefcase]].
+- *"Son, nature has a cure for everything — all you have to know is where to look for it."* — spoken to Nitu ji after a Bichoo Booti (Poison Ivy) brush in Himachal Pradesh; Gurudev first diagnosed the cause, then used the plant's own roots as the remedy. A complete teaching on nature's inherent wholeness and the investigator's responsibility. See [[stories/nitu-bichoo-booti]].
+- *"Learn to heal yourself."* — spoken to Alka ji as a child who fell ill often; she understood its meaning only years after his passing, when she healed arm pain by mantras and self-belief alone. See [[entities/mataji]] (Family Life section).
+- *"Learn to respect food. This is barkat — those who have it, waste it."* — spoken after eating a disciple's half-finished paratha himself rather than discarding it; a complete teaching on gratitude for abundance. See [[stories/gurudev-barkat-wasted-food]].
+- *"We are fakirs."* — spoken to Renu ji when she imagined the newly-built drawing room as a private family space; Gurudev saw it as a communal dormitory. See [[stories/drawing-room-fakirs]].
+- *"Grihastha mein bhi vairagya hai."* (Detachment is possible as a householder.) — one of his formally recorded *ek vakyas* (*Witnessing Greatness*, Ch.6, p.7); captures the entire teaching of [[concepts/grihasth-ashram]] in five words.
 
 None of these were explained at length when spoken. The point was the seed, not the commentary.
 

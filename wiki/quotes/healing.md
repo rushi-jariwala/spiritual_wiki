@@ -1,13 +1,27 @@
 ---
 title: Quotes on Healing
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-06-roots-to-wings.md]
+related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/ek-vakyas]]", "[[stories/nitu-bichoo-booti]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-25
 ---
 
 # Quotes on Healing
+
+## On Nature's Healing and Self-Healing (*Witnessing Greatness* Ch.6)
+
+> "Son, nature has a cure for everything — all you have to know is where to look for it."
+> — Gurudev to Nitu ji, *Witnessing Greatness*, Ch.6, p.83
+[[concepts/spiritual-healing]] · [[concepts/ek-vakyas]] · [[stories/nitu-bichoo-booti]]
+
+> "Learn to heal yourself."
+> — Gurudev to Alka ji (recalled years after his passing), *Witnessing Greatness*, Ch.6, p.84
+[[concepts/spiritual-healing]] · [[concepts/ek-vakyas]] · [[entities/mataji]]
+
+---
+
+## On Non-Doership and Authority
 
 > "I don't cure anyone who comes for help. They cure themselves. I am not the doer."
 > — Gurudev, *The Guru of Gurus*, p.227

@@ -1384,3 +1384,35 @@ When colleagues added tea to Gurudev's tab without his knowledge, he rejected th
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Vairagya and Love in Family Life
+
+### Love as Radiation
+*Illuminates: [[concepts/vairagya]], [[entities/mahaguru]], [[entities/mataji]]*
+
+> Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few.
+> — Hingori (on Gurudev's love for his family and disciples), *Witnessing Greatness*, Ch.6, p.80
+
+Gurudev's daughter Renu ji confronted him about his absence from the family. His response and Hingori's gloss develop a specific image: love as **radiation** — pervasive, non-directional, not concentrated on any one target. Where ordinary affection is a beam (pointed, exclusive, depleting), Gurudev's love was ambient — it enveloped everyone equally because it was owned by no one in particular. The radiation analogy extends the *Guru of Gurus* teaching (*"Main sab ka hoon aur sab mere hain. Lekin main kisi ka nahi hu aur mera koi nahi"*) into experiential language. Radiation needs no one to aim it — it simply is. See [[concepts/vairagya]] and [[entities/mataji]].
+
+---
+
+### Describing Colour to the Blind
+*Illuminates: [[concepts/vairagya]], [[concepts/guru-kripa]], [[entities/mataji]]*
+
+> Explaining the meaning of true love to a young child can be like describing a colour they have never seen.
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+
+Renu ji was not equipped, as a child, to receive her father's concept of true love because she had not yet experienced the contrast. The analogy captures the developmental limit: some truths cannot be transmitted — they can only be understood when life has provided the experiential reference. Renu ji says she grasped it only after Gurudev's passing. Closely related to the ek vakya pedagogy: Gurudev planted the seed knowing it would germinate in its own time. See [[concepts/guru-kripa]] and [[concepts/ek-vakyas]].
+
+---
+
+### Love as Fragrance
+*Illuminates: [[concepts/vairagya]], [[entities/mahaguru]]*
+
+> It should envelop everyone like a fragrance, not just a select few.
+> — Hingori (on Gurudev's love), *Witnessing Greatness*, Ch.6, p.80
+
+A condensed companion to the radiation analogy. Fragrance does not choose its recipients — it diffuses indiscriminately, filling every space it can reach. This is the quality of love without preferential attachment: it reaches disciples, strangers, animals, and family alike, not because of selection but because of its nature. The fragrance of a flower does not withhold itself from any nose that passes near it. See [[concepts/vairagya]].
+

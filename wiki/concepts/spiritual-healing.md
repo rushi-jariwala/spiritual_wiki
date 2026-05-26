@@ -1,10 +1,10 @@
 ---
 title: Spiritual Healing
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters/ch-06-roots-to-wings.md]
+related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[concepts/ek-vakyas]]", "[[practices/seva]]", "[[stories/nitu-bichoo-booti]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-25
 ---
 
 # Spiritual Healing
@@ -34,6 +34,14 @@ Negativity manifests through six main channels:
 ## Approach to Healing
 
 Spiritual healing must be done with **dispassion and without nepotism**. Gurudev never used his healing powers on his own kith and kin — medicine, not spiritual intervention, came to their rescue. His children were told to learn to heal themselves. On some occasions, family members became instruments of seva (e.g., a young girl's typhoid was transferred to Gurudev's own daughter so the girl would be rid of the disease).
+
+### Self-Healing as a Teaching
+
+Gurudev's instruction *"Learn to heal yourself"* was an ek vakya planted in his daughter Alka ji. She heard it as a child but only understood it after his passing, when she experienced severe pain in her arm. She focused on the arm for a minute or two while chanting her mantras. The pain subsided — and when it did not return for fifteen days, she was confident the healing was complete. *"I realised what Daddy meant — if we have self-belief, we can heal ourselves."* See [[entities/mataji]] (Family Life section) and [[concepts/ek-vakyas]].
+
+### Nature as Healer
+
+Gurudev also taught that nature carries its own remedies. When Nitu ji (his youngest son) was badly affected by Bichoo Booti (Poison Ivy) in Himachal Pradesh, Gurudev's first response was not to invoke spiritual power but to investigate — he led Nitu ji back to the spot, identified the plant, and applied its own roots as the cure. *"Son, nature has a cure for everything — all you have to know is where to look for it."* See [[stories/nitu-bichoo-booti]]. This teaching sits alongside, not in opposition to, spiritual healing: both approach the body as a system that can be healed from within.
 
 Despite being advanced healers themselves, Santosh ji is still troubled by kidney stones, Ravi ji by a chronic skin allergy, and Puran ji by orthopaedic problems. Gurudev explained this to Ravi ji:
 
@@ -148,6 +156,7 @@ Spiritual healing was a significant part of Gurudev's seva. He did it without ac
 
 ## Notable Stories
 
+- [[stories/nitu-bichoo-booti]] — Bichoo Booti (Poison Ivy) incident; Gurudev uses the plant's own roots as the cure; "nature has a cure for everything"
 - [[stories/om-singh-thirteen-chains]] — 13 chains, instant possession clearing
 - [[stories/bittu-burns-healing-dream]] — post-humous dream healing of severe burns
 - [[stories/guddan-barfi-healing]] — long-term illness cleared; barfi vomited

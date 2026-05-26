@@ -124,7 +124,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–5 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
 
 ---
 
@@ -363,6 +363,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[santlal-ji-journey-to-gurudev]] — Santlal ji's path from Gangowal sadhu to Gurgaon midnight meeting; nine lifetimes, a mother's blessings
 - [[lal-saheb-half-cup-tea]] — Lal Saheb's initiation through a half-cup of tea; the jyot at dawn; preordained from Toronto
 - [[dhruv-bhalla-neurological-girl-healing]] — Three years of no progress with a neurologically impaired girl; inner voice "she will stand"; she stood after Dhruv ji channelled Gurudev's method
+- [[nitu-bichoo-booti]] — Nitu ji brushes Poison Ivy in Himachal Pradesh; Gurudev investigates before healing; uses the plant's own roots; "nature has a cure for everything"
+- [[gurudev-barkat-wasted-food]] — Gurudev eats a half-eaten paratha rather than let it be wasted; teaches the family about barkat and respect for food
+- [[drawing-room-fakirs]] — Renu ji requests a drawing room; Gurudev builds a floor but declares 25 disciples can sleep there; "We are fakirs"
 - [[pradeep-pragya-cancer-patient]] — Pradeep ji honours his seva commitment to a cancer patient before rushing his semi-conscious daughter to Gurudev; rewarded with a knowing smile and healing
 - [[bajrang-offspring-human-reincarnation]] — Bajrang's dead young one; Gurudev's paath and prayer for the monkey's offspring to receive a human birth
 - [[bharat-dalal-seva-never-stops]] — Bharat Dalal ji's dream in a different dimension; thousands assembled before Gurudev; "Seva never stops. It continues 24/7."

@@ -40,7 +40,7 @@ updated: 2026-05-20
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
-| 6 | Roots to Wings | — | ⬜ pending |
+| 6 | Roots to Wings | — | ✅ ingested 2026-05-25 |
 | 7 | Deception of Perception | — | ⬜ pending |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
@@ -55,6 +55,88 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
+
+- **Grihasth ashram lived from the inside**: the chapter provides the most personal portrait of Gurudev's householder life — as husband and father — and how the teaching of "Grihasth mein bhi vairagya hai" was embodied in daily decisions. The ek vakya is explicitly named as one of his core sayings (*ek vakhyas*) at the chapter's open.
+- **The Santoksar Lake akashvani and Buddhe Baba's hand**: Mataji's first-person account enriches the Santoksar event with a new detail — the akashvani was "possibly orchestrated by his then future guru, Buddhe Baba." This reframes the event from a celestial instruction to a deliberate intervention by Gurudev's future guru to lock in the householder's path as a prerequisite.
+- **Mataji's background and her own spiritual journey**: the chapter introduces Rudra ji (Mataji's brother) as the first narrator of their meeting. Her self-directed spiritual path — Gayatri mantra → Mahagayatri mantra — is documented for the first time, with Gurudev's gradual and measured approach to sharing deeper practices.
+- **Five children as reincarnated ancestors**: Gurudev explicitly stated that each of his five children carried the spirit of a specific ancestor or past-life connection. Nitu ji was identified as the reincarnation of Gurudev's own father — born one week before Chacha ji's wedding as Gurudev had predicted. Gurudev addressed Nitu ji as 'Pandit ji', his father's honorific.
+- **Vairagya in practical domestic life**: Gurudev's love for his family was explicitly compared to radiation — pervasive, non-directional, belonging to no one in particular. His eldest daughter Renu ji experienced this as absence; she understood it as love only after his passing. Simultaneously, every practical decision — the drawing room, the cook for tours, the response to wasted food — was inhabited with vairagya. "We are fakirs" was not an aspiration but a statement of existing orientation.
+- **Respect for food as spiritual practice**: Gurudev's barkat teaching emerged from a domestic incident — he ate a half-finished paratha himself before anyone else could react, then addressed the entire household: *"Those who have it, waste it. Ask someone less fortunate what a square meal is worth."*
+- **Nature as healer**: Gurudev investigated before intervening. The Bichoo Booti incident (Nitu ji's Poison Ivy encounter) was resolved not by spiritual power but by identifying the plant's own roots as the cure. "Son, nature has a cure for everything — all you have to know is where to look for it."
+- **Uma Prabhu ji's tribute to Mataji**: *"More than Gurudev, who was very driven, Mataji must have had a difficult life. Her quiet simplicity and spirituality strongly anchored his spiritual drive... Her presence and the aura she had was enough to bring comfort."* The most precise articulation across all sources of Mataji's role as the Shakti who made Gurudev's Shiv possible.
+- **Mataji's physical labour**: the madhani (traditional wooden churning tool) routine — separating butter from curd every morning before school — as the foundation of the sthan's ghee purity. Hingori's own failed attempt at churning ends in embarrassment.
+
+## Notable Quotes (Ch.6)
+
+> "Grihastha mein bhi vairagya hai."
+> (Detachment is possible as a householder.)
+> — Gurudev's ek vakya, *Witnessing Greatness*, Ch.6, p.7
+[[concepts/grihasth-ashram]] · [[concepts/vairagya]] · [[concepts/ek-vakyas]]
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.80
+[[entities/mataji]] · [[concepts/vairagya]] · [[concepts/guru-kripa]]
+
+> Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few.
+> — Hingori (on Gurudev's love), *Witnessing Greatness*, Ch.6, p.80
+[[concepts/vairagya]] · [[entities/mahaguru]]
+
+> "Son, nature has a cure for everything — all you have to know is where to look for it."
+> — Gurudev to Nitu ji, *Witnessing Greatness*, Ch.6, p.83
+[[concepts/spiritual-healing]] · [[concepts/ek-vakyas]] · [[stories/nitu-bichoo-booti]]
+
+> "Learn to respect food. This is barkat — those who have it, waste it. Ask someone less fortunate what a square meal is worth. We must be grateful for what we have."
+> — Gurudev, *Witnessing Greatness*, Ch.6, p.83
+[[stories/gurudev-barkat-wasted-food]] · [[entities/mataji]]
+
+> "We are fakirs."
+> — Gurudev to Renu ji (on the communal drawing room), *Witnessing Greatness*, Ch.6, p.85
+[[concepts/vairagya]] · [[stories/drawing-room-fakirs]]
+
+> "More than Gurudev, who was very driven, Mataji must have had a difficult life. Her quiet simplicity and spirituality strongly anchored his spiritual drive. That is why the concept of Shiv and Shakti is appropriate in their situation."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.534
+[[entities/mataji]] · [[concepts/grihasth-ashram]]
+
+## Stories Extracted (Ch.6)
+
+- [[stories/nitu-bichoo-booti]] — Nitu ji's Poison Ivy incident in Himachal Pradesh; Gurudev's investigative method; "nature has a cure for everything"
+- [[stories/gurudev-barkat-wasted-food]] — Gurudev eats a disciple's half-eaten paratha; teaches about barkat and food respect
+- [[stories/drawing-room-fakirs]] — Renu ji's drawing room request; Gurudev turns it into a communal dormitory; "We are fakirs"
+
+Short anecdotes kept inline in [[entities/mataji]]:
+- Mataji finds Gurudev motionless in paath (first marriage encounter) — enriched WG version
+- "Master, wait and see what I become at 35" — enriched WG version
+- Gurudev's "strictness" as a calculated act to protect the family in his absence
+- Renu ji's school reluctance and Gurudev's patient approach
+- Renu ji's true love confrontation and Gurudev's response
+- Vacation promises ("Where shall we travel next?") that rarely materialised
+- Daddy names children AND farm animals by name; buffalo responds
+- America phone calls: Chacha ji's animal-welfare updates outlast the children's turn
+- Gurudev cooks vegetables using a week's worth of tomatoes
+- Alka ji heals herself years later ("Learn to heal yourself")
+- White butter on parathas for visitors; cook chosen by need, not skill
+- Reincarnation of Gurudev's father as Nitu ji (born one week before Chacha ji's wedding)
+- Mataji's Gayatri → Mahagayatri mantra journey (self-directed)
+- Mataji and the madhani: morning ghee-churning routine
+
+## New Concepts Introduced (Ch.6)
+
+No standalone new concept pages required. Ch.6 enriches existing concepts and entities:
+- **Love as radiation / vairagya in the family** — added to [[concepts/vairagya]] (WG Ch.6 section)
+- **Akashvani as Buddhe Baba's intervention** — added to [[concepts/grihasth-ashram]] (WG Ch.6 section)
+- **Self-healing and nature's healing** — added to [[concepts/spiritual-healing]] (WG Ch.6 section)
+- **Ek vakyas** — four new seed sentences added to [[concepts/ek-vakyas]]
+- Three analogies added to [[wiki/analogies/analogies]]: love as radiation, describing colour to the blind, love as fragrance
+- [[entities/mataji]] — massively enriched with family life section, Rudra ji's testimony, Uma Prabhu ji's tribute, madhani detail
+
+## Contradictions / Tensions (Ch.6)
+
+> [!warning] **"Santoksar Lake" vs. "Gurudwara Sri Santoksar Saheb"**
+> Earlier accounts (*The Guru of Gurus*, *Witnessing Greatness* Ch.1) refer to the site of the akashvani as "Gurudwara Sri Santoksar Saheb in Amritsar." Ch.6 says Gurudev was meditating "near the Santoksar Lake in Amritsar." These likely refer to the same site (the Gurudwara is built on the lake's bank), but the distinction is not clarified in the text. The Ch.6 version is the only one with Mataji's direct testimony as narrator. Possibly the same event narrated from different reference points.
+
+---
 
 ## Key Themes (Ch.5 — Seva, pp.59–72)
 

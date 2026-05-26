@@ -2,9 +2,9 @@
 title: Quotes on Seva and Service
 type: quote-collection
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[entities/mahaguru]]", "[[entities/guru-vashisht]]"]
+related: ["[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[entities/mahaguru]]", "[[entities/guru-vashisht]]", "[[entities/mataji]]"]
 created: 2026-04-22
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Quotes on Seva and Service
@@ -155,6 +155,12 @@ updated: 2026-05-24
 > "Yes. I hope to grant Bajrang's dead offspring a future life as a human to repay him for the joy he brought us."
 > — Gurudev (recalled by Pehalwanji), *Witnessing Greatness*, Ch.5, p.70
 [[entities/mahaguru]] · [[stories/bajrang-offspring-human-reincarnation]]
+
+## On Food as Barkat (*Witnessing Greatness* Ch.6)
+
+> "Learn to respect food. This is barkat — those who have it, waste it. Ask someone less fortunate what a square meal is worth. We must be grateful for what we have."
+> — Gurudev, *Witnessing Greatness*, Ch.6, p.83
+[[entities/mahaguru]] · [[stories/gurudev-barkat-wasted-food]] · [[entities/mataji]]
 
 ## Disciples on Vessel Consciousness and Seva's Fruit
 

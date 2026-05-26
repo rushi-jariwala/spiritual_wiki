@@ -124,7 +124,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–5 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
 
 ---
 
@@ -367,6 +367,13 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[bajrang-offspring-human-reincarnation]] — Bajrang's dead young one; Gurudev's paath and prayer for the monkey's offspring to receive a human birth
 - [[bharat-dalal-seva-never-stops]] — Bharat Dalal ji's dream in a different dimension; thousands assembled before Gurudev; "Seva never stops. It continues 24/7."
 - [[gautam-bhushan-grass-meditation]] — Meditation of becoming a blade of grass, leaf, tree trunk, and stone; Aham Brahmasmi as direct experience
+- [[gurudev-nitu-reincarnation]] — Nitu ji born one week before Chacha ji's wedding as predicted; children as reincarnated ancestral spirits
+- [[nitu-bichoo-booti-nature-heals]] — Poison Ivy at Himachal camp; Gurudev investigates before healing; "nature has a cure for everything"
+- [[gurudev-half-paratha-barkat]] — Gurudev eats the half-eaten paratha; "learn to respect food, this is barkat"
+- [[renu-ji-gurudev-love-as-radiation]] — Renu ji's confrontation about absent father; love as radiation rather than selective warmth
+- [[gurudev-we-are-fakirs-drawing-room]] — new drawing room reframed as communal dormitory; "we are fakirs"
+- [[gurudev-alka-self-healing]] — "learn to heal yourself"; arm pain healed via mantra years after Gurudev's passing
+- [[gurudev-khandsa-farm-animals]] — Gurudev knew every farm animal by name; long-distance calls about animal welfare from America
 
 ---
 

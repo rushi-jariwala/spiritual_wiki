@@ -1,10 +1,10 @@
 ---
 title: Quotes on Healing
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-26
 ---
 
 # Quotes on Healing
@@ -36,3 +36,11 @@ updated: 2026-04-26
 > "The disease that medicine could not cure was cured by him through touch or stare. A lifetime of suffering in an instant removed, by the intent of this healer extraordinaire."
 > — Hingori, *The Guru of Gurus*, p.219
 [[entities/mahaguru]] · [[concepts/spiritual-healing]] · [[concepts/intent-as-healing]]
+
+> "Son, nature has a cure for everything. All you have to know is where to look for it."
+> — Gurudev to Nitu ji, *Witnessing Greatness*, Ch.6, p.82
+[[entities/mahaguru]] · [[concepts/intent-as-healing]] · [[stories/nitu-bichoo-booti-nature-heals]]
+
+> "Learn to heal yourself."
+> — Gurudev to Alka ji, *Witnessing Greatness*, Ch.6, p.83
+[[entities/mahaguru]] · [[concepts/intent-as-healing]] · [[stories/gurudev-alka-self-healing]]

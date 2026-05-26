@@ -82,6 +82,17 @@ This is *vairagya* operating at full integration: the love is real in its effect
 
 This is the final destination of *vairagya* as a practice: not the suppression of joy and pain, but the natural subsidence of both when the 'I' is no longer claiming authorship over the act.
 
+## *Witnessing Greatness* Ch.6 — Love as Radiation
+
+Hingori's reflection on Renu ji's childhood confrontation with Gurudev about absent fatherhood provides the most sustained exploration of what non-selective love looks like from the inside:
+
+> "Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few."
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+
+This directly extends the *vairagya* exemplar passage: the disciple's experience of Gurudev as "belonging to everyone, and yet, to no one" maps precisely onto Renu ji's childhood experience of an emotionally present-but-not-selectively-attentive father. The difference is the vantage point: disciples experienced it as abundance; his children experienced it as absence. The same vairagya, two perspectives. See [[stories/renu-ji-gurudev-love-as-radiation]].
+
+> [!tip] Ch.6 establishes that *vairagya* is not felt as love by those nearest to the teacher — at least not during his lifetime. Renu ji arrived at the understanding only after his passing. This is the mechanism behind the "colour they have never seen" analogy.
+
 ## Cross-references
 
 - [[concepts/non-doership]] — non-doership requires *vairagya* from self-identity to fully function
@@ -93,3 +104,5 @@ This is the final destination of *vairagya* as a practice: not the suppression o
 - [[concepts/moksha]] — the progressive detachment is the highway; full *vairagya* from the jivaatma is moksh's approach
 - [[concepts/stages-of-spiritual-transformation]] — vairagya underpins the bhakti stage; "to conquer happiness, you must conquer sorrow"
 - [[concepts/senses-management]] — sensory management is vairagya in its most practical, daily form
+- [[concepts/guru-kripa]] — Renu ji's understanding of guru kripa as love-as-radiation arrives only after Gurudev's departure
+- [[stories/renu-ji-gurudev-love-as-radiation]] — the closest view from inside the family of what vairagya feels like to those around it

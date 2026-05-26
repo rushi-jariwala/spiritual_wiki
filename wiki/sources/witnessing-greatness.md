@@ -40,7 +40,7 @@ updated: 2026-05-20
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
-| 6 | Roots to Wings | — | ⬜ pending |
+| 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-26 |
 | 7 | Deception of Perception | — | ⬜ pending |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
@@ -55,6 +55,84 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
+
+- **The householder as Shakti container**: the chapter's opening frame — Gurudev's ek vakya *"Grihasth mein bhi vairagya hai"* — is given biographical substance by the family testimonies that follow. Detachment is not the absence of household life but its inhabiting without ownership.
+- **Mataji's testimony on finding Gurudev in paath**: the first direct account from Mataji herself on the shock of discovering her husband motionless on the bed — not breathing, unresponsive to shaking — and her sister-in-law's calm "he is in paath." This is the WG version of a story previously narrated by Hingori.
+- **Akashvani near Santoksar Lake**: Gurudev heard a celestial voice telling him his spiritual quest could only be completed by returning to his wife and embracing the householder life. Hingori adds: the message was "possibly orchestrated by his then future guru, Buddhe Baba" — suggesting Buddhe Baba was engineering Gurudev's path even before formal initiation. See [[concepts/grihasth-ashram]].
+- **Mataji's self-directed spiritual journey**: Gurudev never steered her spiritual path. She was drawn to the Gayatri mantra independently; he later gave her the Mahagayatri mantra as her commitment deepened. A gradual, measured unveiling.
+- **Love as radiation**: Hingori's sustained reflection on Gurudev's non-selective love, prompted by Renu ji's confrontation. The teaching that love at the mahaguru level is omnidirectional radiation — not a directed beam — is one of the chapter's conceptual contributions. See [[concepts/guru-kripa]] and [[stories/renu-ji-gurudev-love-as-radiation]].
+- **Children as reincarnated ancestral spirits**: Gurudev's stated belief that all five children were reincarnated spirits of his ancestors and past spiritual connections. His youngest son Nitu ji widely believed to be the reincarnation of his own father — born one week before Chacha ji's wedding, as Gurudev had predicted to Mataji. See [[stories/gurudev-nitu-reincarnation]].
+- **Teaching through daily life**: the chapter contains several compressed teachings delivered via ordinary domestic situations — Poison Ivy and the plant's own root cure (*"nature has a cure for everything"*), a half-eaten paratha and food respect (*"this is barkat"*), cardamoms and cloves with *"learn to heal yourself"*, and the new drawing room reframed as communal space (*"we are fakirs"*). Each is an ek vakya embedded in an unremarkable moment.
+- **Women as manifestations of Shakti**: Gurudev's explicit teaching — *"women are manifestations of Shakti"* — combined with the household observation that there was no differentiation between sons and daughters.
+- **Uma Prabhu ji's tribute to Mataji**: the chapter closes with a disciple's assessment of Mataji as the silent anchor of Gurudev's spiritual drive. *"Mataji's resilience, grit, and simplicity resulted in the spirituality that oozed from her."* The concept of Shiv and Shakti is invoked explicitly.
+- **The madhani ghee**: every morning Mataji separated butter from curd using a traditional madhani to ensure purity of the ghee for the sthan temple — a domestic labour Gurudev was exacting about. After teaching, after madhani, she went to school. Then came home to more work.
+
+## Notable Quotes (Ch.6)
+
+> "I had no idea about his spiritual pursuits when we married. One day, I went to talk to him and found him lying motionless on the bed. He was not breathing. I frantically tried to wake him..."
+> — Mataji, *Witnessing Greatness*, Ch.6, p.75
+
+> "Master, wait and see what I become when I turn 35."
+> — Gurudev to Mataji, *Witnessing Greatness*, Ch.6, p.76
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.80
+
+> "Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few."
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+
+> "Son, nature has a cure for everything. All you have to know is where to look for it."
+> — Gurudev to Nitu ji, *Witnessing Greatness*, Ch.6, p.82
+
+> "Learn to heal yourself."
+> — Gurudev to Alka ji, *Witnessing Greatness*, Ch.6, p.83
+
+> "Learn to respect food. This is barkat — those who have it, waste it."
+> — Gurudev, *Witnessing Greatness*, Ch.6, p.83
+
+> "We are fakirs."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.85
+
+> "Mataji's resilience, grit, and simplicity resulted in the spirituality that oozed from her, which is why she did not need to give any blessing. Her presence and the aura she had was enough to bring comfort."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.86
+
+## Stories Extracted (Ch.6)
+
+- [[stories/gurudev-nitu-reincarnation]] — five children as reincarnated ancestral spirits; Nitu ji born one week before Chacha ji's wedding as predicted
+- [[stories/nitu-bichoo-booti-nature-heals]] — Poison Ivy; Gurudev investigates before healing; the root as cure; "nature has a cure for everything"
+- [[stories/gurudev-half-paratha-barkat]] — Gurudev eats the half-eaten paratha; food respect; barkat teaching
+- [[stories/renu-ji-gurudev-love-as-radiation]] — Renu ji's confrontation; Gurudev's response; love as radiation; Renu ji's post-mortem understanding of guru kripa
+- [[stories/gurudev-we-are-fakirs-drawing-room]] — the new floor as communal space; "we are fakirs"; vairagya within the householder life
+- [[stories/gurudev-alka-self-healing]] — "learn to heal yourself"; arm pain healed via mantra years after Gurudev's passing
+- [[stories/gurudev-khandsa-farm-animals]] — Gurudev names every farm animal; long-distance calls about animal welfare from America
+
+Short anecdotes kept inline (not given own pages):
+- Ila ji cooking challenge → inline in [[entities/mataji]]: Gurudev used a week's supply of tomatoes for one dish
+- Gurudev waking Mataji at odd hours for tea → inline in [[entities/mataji]]
+- Mataji making ghee with madhani → inline in [[entities/mataji]] (Uma Prabhu ji's tribute section)
+- Rudra ji's first impressions of Gurudev, 1960 → inline in [[entities/mataji]] (Who section)
+
+## New Concepts Introduced (Ch.6)
+
+No standalone new concept pages required. Ch.6 enriches existing concepts:
+- [[concepts/grihasth-ashram]] — WG Ch.6 section added: Mataji's account; akashvani near Santoksar Lake; Buddhe Baba's possible orchestration; location discrepancy flagged
+- [[concepts/intent-as-healing]] — "learn to heal yourself" section added; Alka ji's self-healing as the principle transmitted to a disciple's family member
+- [[concepts/guru-kripa]] — Renu ji's post-mortem understanding of guru kripa added; love as radiation as the operating principle
+- [[entities/mataji]] — substantially enriched: Bilga background, Rudra ji's impressions, her direct account of finding Gurudev in paath, her self-directed spiritual journey (Gayatri → Mahagayatri), Mataji's spiritual journey section, Uma Prabhu ji's tribute, madhani detail, family life section
+- [[entities/mahaguru]] — "As Father" section enriched: five children as reincarnated spirits, Nitu ji, Renu ji's confrontation, women as Shakti, food values, nature heals, animal care
+- [[wiki/analogies/analogies]] — three new analogies: love as radiation, colour never seen, nature's own cure
+- [[quotes/healing]] — two new quotes added
+- [[quotes/seva]] — two new quotes added
+- [[quotes/guru]] — four new quotes added
+
+## Contradictions / Tensions (Ch.6)
+
+> [!warning] **Santoksar: lake vs. gurudwara**
+> *Witnessing Greatness* Ch.6 states that Gurudev heard the akashvani "near the Santoksar Lake in Amritsar." Both *The Guru of Gurus* and earlier wiki pages describe the same event at "Gurudwara Sri Santoksar Saheb in Amritsar." Gurudwara Sri Santoksar Sahib is built on the Santoksar Sarovar (holy tank), so the two descriptions most likely refer to the same site, approached from different reference points (the water body vs. the gurudwara). The discrepancy is noted but judged likely non-contradictory.
+
+---
 
 ## Key Themes (Ch.5 — Seva, pp.59–72)
 

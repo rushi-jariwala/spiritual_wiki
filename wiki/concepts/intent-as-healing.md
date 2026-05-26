@@ -67,6 +67,12 @@ See [[stories/hingori-wrong-remedy-intention]].
 
 [[concepts/mantra-transfer|Mantra transfer]] operates by the same logic. When Gurudev declared Hingori *siddh* in a mantra before Hingori had chanted it, the siddhi resided in Gurudev's intent, not in the syllables. The mantra words were given *after*, as a formal structure to house what had already been transmitted.
 
+## Intent Transferred to the Disciple — "Learn to Heal Yourself"
+
+*Witnessing Greatness* Ch.6 adds a further dimension: the healing faculty is not exclusive to the mahaguru. Gurudev told his daughter Alka ji, who was frequently ill as a child: *"Learn to heal yourself."* She had no idea what he meant. Years after his passing, suffering severe arm pain, she recalled his words, focused on the arm for a minute or two while chanting her mantras — and the pain subsided and did not return for 15 days. *"I realised what Daddy meant — if we have self-belief, we can heal ourselves."* See [[stories/gurudev-alka-self-healing]].
+
+> [!tip] The Alka ji story shows the intent-as-healing principle operating not via the guru's direct transmission but via the disciple's own focused consciousness — demonstrating that the faculty is learnable, not merely receivable.
+
 ## Cross-references
 
 - [[concepts/mantra-transfer]] — parallel principle: the guru's accumulated intent can be directly transferred
@@ -76,3 +82,5 @@ See [[stories/hingori-wrong-remedy-intention]].
 - [[practices/seva]] — healing through seva operates by the same principle: it is the intent of nisvarth service, not the method, that transforms
 - [[concepts/spiritual-healing]] — the full treatment of healing modes, sources of negativity, and how intent-as-healing operates in practice
 - [[stories/hingori-wrong-remedy-intention]] — empirical proof: wrong remedy, right result
+- [[stories/gurudev-alka-self-healing]] — the healing faculty transmitted to a disciple's daughter; self-belief as the operative agent
+- [[stories/nitu-bichoo-booti-nature-heals]] — nature's own remedies as the correct vehicle; investigative patience before healing

@@ -165,3 +165,15 @@ updated: 2026-05-24
 > "When I claim, 'I will heal you', the healing does not manifest. Yet, when I channel the blessings of Gurudev by invoking him, miraculous healings happen."
 > — Suresh Sharma ji, *Witnessing Greatness*, Ch.5, p.64
 [[practices/seva]] · [[concepts/non-doership]] · [[concepts/intent-as-healing]]
+
+---
+
+## On Gratitude and Respect for Life's Blessings
+
+> "Learn to respect food. This is barkat — those who have it, waste it. Ask someone less fortunate what a square meal is worth. We must be grateful for what we have."
+> — Gurudev, *Witnessing Greatness*, Ch.6, p.83
+[[entities/mahaguru]] · [[stories/gurudev-half-paratha-barkat]]
+
+> "We are fakirs."
+> — Gurudev to Renu ji (on the communal drawing room), *Witnessing Greatness*, Ch.6, p.85
+[[entities/mahaguru]] · [[concepts/vairagya]] · [[stories/gurudev-we-are-fakirs-drawing-room]]

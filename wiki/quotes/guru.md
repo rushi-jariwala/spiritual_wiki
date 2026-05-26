@@ -1044,3 +1044,23 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > Our spirit tries to instil boredom to dull our focus on the outside or external environment. By being too focused on the external environment, we deplete our aura by wasting it on pleasure seeking.
 > — Hingori, *Guru Sutra*, Ch.19, p.198
 [[concepts/boredom]] · [[concepts/aura]]
+
+---
+
+## On the Guru's Love and Influence
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.80
+[[entities/mahaguru]] · [[concepts/guru-kripa]] · [[stories/renu-ji-gurudev-love-as-radiation]]
+
+> "Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few."
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+[[concepts/guru-kripa]] · [[concepts/vairagya]] · [[stories/renu-ji-gurudev-love-as-radiation]]
+
+> "It was only in the aftermath of his passing that I began to grasp the depth of his concept of love. I now understand what guru kripa is, how the guru imparts his wisdom, and how his influence encompasses all."
+> — Renu ji, *Witnessing Greatness*, Ch.6, p.80
+[[concepts/guru-kripa]] · [[entities/mahaguru]] · [[stories/renu-ji-gurudev-love-as-radiation]]
+
+> "Mataji's resilience, grit, and simplicity resulted in the spirituality that oozed from her, which is why she did not need to give any blessing. Her presence and the aura she had was enough to bring comfort."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.86
+[[entities/mataji]] · [[concepts/aura]] · [[practices/seva]]

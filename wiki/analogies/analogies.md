@@ -1384,3 +1384,35 @@ When colleagues added tea to Gurudev's tab without his knowledge, he rejected th
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Family, Love & Daily Life
+
+### Love as Radiation — Not a Directed Beam
+*Illuminates: [[concepts/guru-kripa]], [[concepts/vairagya]], [[entities/mahaguru]]*
+
+> "Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few."
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+
+The analogy separates love-as-emotion (a beam directed at particular people) from love-as-radiation (omnidirectional, unconditional, permeating rather than choosing). Gurudev's apparently absent fatherhood is re-read through this lens: his love was not missing — it was non-selective, structural, like radiation. His daughter Renu ji arrived at this understanding only after his passing. See [[stories/renu-ji-gurudev-love-as-radiation]] and [[concepts/guru-kripa]].
+
+---
+
+### The Colour Never Seen — Teaching Beyond Conceptual Range
+*Illuminates: [[concepts/guru-kripa]], [[concepts/stages-of-spiritual-transformation]], [[concepts/ek-vakyas]]*
+
+> "Explaining the meaning of true love to a young child can be like describing a colour they have never seen."
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+
+Some teachings cannot be transmitted conceptually to a recipient who has not yet reached the experiential level the teaching describes. The guru plants the seed; the colour only becomes visible when the readiness arrives. Renu ji heard Gurudev's words about true love at childhood and could only grasp their meaning after his departure. See [[concepts/ek-vakyas]] for the broader pattern: seed teachings that germinate over decades.
+
+---
+
+### Nature's Own Cure — The Root and the Plant That Stings
+*Illuminates: [[concepts/intent-as-healing]], [[concepts/customised-guidance]]*
+
+> "Son, nature has a cure for everything. All you have to know is where to look for it."
+> — Gurudev to Nitu ji, *Witnessing Greatness*, Ch.6, p.82
+
+The Bichoo Booti (Poison Ivy) stings — and its own root is the antidote. The cure is always present at the site of the problem. Gurudev applied this literally (the plant's root to the rash) and implicitly as a frame for all healing: the correct remedy is never far from the source of distress, once you have the knowledge to see it. Compare with the intent-as-healing teaching — method matters only insofar as it is the *right* method, identified through investigation, not guesswork. See [[stories/nitu-bichoo-booti-nature-heals]].
+

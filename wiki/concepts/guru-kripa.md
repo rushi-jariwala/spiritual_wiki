@@ -49,6 +49,15 @@ A disciple named Karmakarji, from the Kolkata sthan, worked at a pharmaceutical 
 > A coincidence? Perhaps. But guru kripa? A distinct possibility.
 > — Hingori, *Guru Sutra*, Ch.12, p.117
 
+## Guru Kripa Understood After Departure
+
+*Witnessing Greatness* Ch.6 adds a personal testimony from Renu ji, Gurudev's eldest daughter. Growing up she felt a recurring distance — sometimes 10 to 15 days would pass with barely a word exchanged — and experienced it as absence. Only after Gurudev's passing did she begin to grasp the depth of his concept of love and the encompassing nature of his influence:
+
+> "It was only in the aftermath of his passing that I began to grasp the depth of his concept of love. Perhaps, had I realised it while he was in his physical form, I would not have felt like I do now. I now understand what guru kripa is, how the guru imparts his wisdom, and how his influence encompasses all."
+> — Renu ji, *Witnessing Greatness*, Ch.6, p.80
+
+Hingori's reflection: *"Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few."* The understanding of guru kripa arrived precisely when Gurudev was no longer in physical form — confirming the teaching that his influence was not limited by proximity or physical presence. See [[stories/renu-ji-gurudev-love-as-radiation]].
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — the broader relationship within which kripa operates
@@ -60,3 +69,4 @@ A disciple named Karmakarji, from the Kolkata sthan, worked at a pharmaceutical 
 - [[entities/mahaguru]] — Gurudev as the source of kripa in Hingori's tradition
 - [[entities/hingori]] — whose asking for guru kripa became the pivot of his discipleship
 - [[stories/hingori-guru-kripa-request]] — the "battle of wits" story
+- [[stories/renu-ji-gurudev-love-as-radiation]] — Renu ji's understanding of guru kripa arrives only after Gurudev's passing

@@ -25,6 +25,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-08-astral-travel|2026-05-08 — The Body That Needs No Door]] — Astral Travel: the spirit body's physics, Sitaram's eyewitness of Gurudev's sheet-wrapped departure, and how seva quietly builds the fuel to fly
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the three-fold offering of body, wealth, and mind; the paradox that total surrender produces not subservience but a self that cannot be dominated
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why the seers could read it, how the guru softens its impact, and why guilt is a category error applied to a pre-scripted life
+- [[blog/2026-05-27-aura|2026-05-27 — The Wealth That Follows You Home]] — Aura: the bioelectric shield, the cosmic currency that outlives the body, and why what you dwell on is what you become
 
 ---
 
@@ -64,3 +65,5 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `bhrigu-dr-chandra` — destiny (2026-05-12)
 - `gurudev-predictions-mumbai-politician` — destiny (2026-05-12)
 - `scooter-accident-vision` — destiny (2026-05-12)
+- `hingori-wife-aura-protection` — aura (2026-05-27)
+- `nandlal-shakti-ball` — aura (2026-05-27)

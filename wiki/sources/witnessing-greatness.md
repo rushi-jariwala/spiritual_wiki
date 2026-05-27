@@ -4,7 +4,7 @@ type: source
 sources: [witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-27
 ---
 
 # Witnessing Greatness
@@ -40,7 +40,7 @@ updated: 2026-05-20
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
-| 6 | Roots to Wings | — | ⬜ pending |
+| 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-27 |
 | 7 | Deception of Perception | — | ⬜ pending |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
@@ -55,6 +55,66 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
+
+- **The grihasth mahaguru's inner life**: the chapter is a chorus of testimony from Gurudev's wife, children, and one senior disciple — the most sustained portrait of Gurudev as a family man across any source. The dominant question: how did he navigate the competing demands of husband, father, working professional, and mahaguru?
+- **The akashvani's possible author**: Ch.6 adds a detail absent from *The Guru of Gurus* — the celestial voice at Santoksar Lake directing Gurudev to return to householder life was *"possibly orchestrated by his then future guru, Buddhe Baba."* If so, the householder path was itself engineered by Gurudev's eventual mentor, making the grihasth teaching a deliberate shaping of the mahaguru's path from outside. See [[concepts/grihasth-ashram]], [[entities/buddhe-baba]].
+- **Mataji's testimony**: the chapter opens Mataji's own voice — the first time she directly recounts the early marriage years. Her account of finding Gurudev motionless in paath, her independent Gayatri mantra practice, and Gurudev's gradual unveiling of the Mahagayatri mantra are the most personal testimony from her across the corpus.
+- **Children as reincarnated spirits of ancestors**: Gurudev believed his five children were reincarnated spirits of his ancestors and spiritual connections, and he discharged karmic debts through raising them properly. Nitu ji was addressed as "Pandit ji," believed to be Gurudev's own father reborn — born one week before Chacha ji's wedding, exactly as Gurudev had predicted.
+- **Love as non-discriminating radiation**: Gurudev's response to Renu ji's confrontation — *"I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is"* — frames the mahaguru's love as radiation, not perfume: permeating everyone without boundaries. Renu ji only understood after his passing.
+- **"We are fakirs"**: the drawing room incident — Gurudev seeing the newly built room as accommodation for 25 sleeping disciples, not a private family space — is the householder fakir teaching made domestic. See [[concepts/grihasth-ashram]].
+- **Nature heals nature's wound**: Nitu ji's Bichoo Booti encounter. Gurudev investigated thoroughly, led the child back to the plant, applied its own roots as the antidote. Teaching: *"nature has a cure for everything — all you have to know is where to look for it."*
+- **"Learn to heal yourself"**: Alka ji's parallel teaching — blessed cardamoms for childhood illness, and the seed planted for her post-mortem self-healing of arm pain via mantras. Both teachings point to inner capacity, not external dependence.
+- **Barkat and food respect**: the half-eaten paratha episode. Gurudev ate the leftover himself, then addressed the household: *"This is barkat — those who have it, waste it."* Respect for food as a spiritual practice and a marker of gratitude for abundance. New concept: [[concepts/barkat]].
+- **Mataji as the Queen of Queens**: Uma Prabhu ji's tribute is the chapter's most concentrated formulation — Mataji's presence and aura were enough to bring comfort without needing to give a blessing. Her daily routine: churning butter with a madhani each morning for purity of ghee at the sthan temple, then teaching school, then returning to a pile of work. Hingori's verdict: "The Queen of Queens."
+
+## Notable Quotes (Ch.6)
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.80
+
+> "Son, nature has a cure for everything — all you have to know is where to look for it."
+> — Gurudev to Nitu ji, *Witnessing Greatness*, Ch.6, p.83
+
+> "Learn to heal yourself."
+> — Gurudev to Alka ji, *Witnessing Greatness*, Ch.6, p.83
+
+> "Learn to respect food. This is barkat — those who have it, waste it. Ask someone less fortunate what a square meal is worth. We must be grateful for what we have."
+> — Gurudev, *Witnessing Greatness*, Ch.6, p.81
+
+> "We are fakirs."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.6, p.86
+
+> "More than Gurudev, who was very driven, Mataji must have had a difficult life. Her quiet simplicity and spirituality strongly anchored his spiritual drive. That is why the concept of Shiv and Shakti is appropriate in their situation."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.84
+
+## Stories Extracted (Ch.6)
+
+- [[stories/nitu-bichoo-booti-natures-cure]] — Poison Ivy in Himachal Pradesh; Gurudev's investigative approach; plant roots as antidote; "nature has a cure for everything"
+- [[stories/renu-confrontation-true-love]] — Renu ji confronts Gurudev about divided attention; "love as radiation"; post-mortem realisation of guru kripa
+- [[stories/gurudev-barkat-half-eaten-paratha]] — half-eaten paratha in the kitchen sink; Gurudev eats the leftovers; barkat teaching
+
+Short anecdotes kept inline (not given own pages):
+- Rudra ji's 1960 letter describing Gurudev — "kind-hearted individual and ideal match" → [[entities/mataji]]
+- Cooking challenge: Gurudev uses a week's tomatoes in one dish → [[entities/mataji]]
+- Farm animals at Khandsa named by Gurudev (Kali, Ganga, Jamuna) → [[entities/mataji]]
+- Long-distance calls from America: Chacha ji updates on the animals → [[entities/mataji]]
+- Drawing room as communal space — "20-25 people can sleep here" → [[concepts/grihasth-ashram]]
+- Alka ji's self-healing of arm pain after Gurudev's passing → [[concepts/intent-as-healing]]
+- Mataji churning ghee daily with madhani → [[entities/mataji]]
+- Uma Prabhu ji's tribute → [[entities/mataji]]
+
+## New Concepts Introduced (Ch.6)
+
+- [[concepts/barkat]] — new concept page: divine abundance; the teaching that those who have it waste it; respect for food as a spiritual practice
+
+## Contradictions / Tensions (Ch.6)
+
+> [!warning] **The akashvani attributed to Buddhe Baba**
+> The chapter states the celestial voice directing Gurudev to return to his wife was "possibly orchestrated by his then future guru, Buddhe Baba." Buddhe Baba formally commissioned Gurudev for seva at the *deserted temple* encounter, which the wiki places *after* Gurudev had already returned to householder life and begun practising. If the akashvani precedes the deserted-temple encounter, this would place Buddhe Baba's influence as active even before the formal commissioning — a significant extension of the timeline. The chapter does not resolve this; "possibly" hedges the claim explicitly. Flagged in [[entities/buddhe-baba]].
+
+---
 
 ## Key Themes (Ch.5 — Seva, pp.59–72)
 

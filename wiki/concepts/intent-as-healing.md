@@ -1,10 +1,10 @@
 ---
 title: Intent as Healing
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]", "[[stories/nitu-bichoo-booti-natures-cure]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-27
 ---
 
 # Intent as Healing
@@ -67,6 +67,16 @@ See [[stories/hingori-wrong-remedy-intention]].
 
 [[concepts/mantra-transfer|Mantra transfer]] operates by the same logic. When Gurudev declared Hingori *siddh* in a mantra before Hingori had chanted it, the siddhi resided in Gurudev's intent, not in the syllables. The mantra words were given *after*, as a formal structure to house what had already been transmitted.
 
+## Self-Healing — The Teaching Planted in Children
+
+*Witnessing Greatness* Ch.6 records two incidents in which Gurudev planted the same seed differently in two of his children.
+
+**Alka ji:** As a child she was frequently ill. Gurudev would bless cardamoms and cloves and give them to her. One day he told her: *"Learn to heal yourself."* She had no idea what he meant. Years after his passing, she was experiencing severe pain in her arm. His words returned to her. She focused on the arm for a minute or two while chanting her mantras. The pain subsided and did not return for fifteen days. *"I realised what Daddy meant — if we have self-belief, we can heal ourselves."*
+
+**Nitu ji (via nature):** Gurudev gave the same teaching a different shape when Nitu ji was stung by Bichoo Booti (Poison Ivy): rather than healing the child himself, he led him back to the plant and applied the plant's own roots as the cure. *"Son, nature has a cure for everything — all you have to know is where to look for it."* See [[stories/nitu-bichoo-booti-natures-cure]].
+
+Both incidents are expressions of the same teaching: the operative agent is awareness, not the external remedy. The guru plants the seed; the disciple (or child) discovers the mechanism in their own experience.
+
 ## Cross-references
 
 - [[concepts/mantra-transfer]] — parallel principle: the guru's accumulated intent can be directly transferred
@@ -76,3 +86,4 @@ See [[stories/hingori-wrong-remedy-intention]].
 - [[practices/seva]] — healing through seva operates by the same principle: it is the intent of nisvarth service, not the method, that transforms
 - [[concepts/spiritual-healing]] — the full treatment of healing modes, sources of negativity, and how intent-as-healing operates in practice
 - [[stories/hingori-wrong-remedy-intention]] — empirical proof: wrong remedy, right result
+- [[stories/nitu-bichoo-booti-natures-cure]] — nature's own cure; the awareness principle in a child's encounter with Poison Ivy

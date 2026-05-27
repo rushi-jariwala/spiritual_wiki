@@ -1,10 +1,10 @@
 ---
 title: Mataji (Sudesh Sharma)
 type: entity
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[concepts/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[concepts/seva]]", "[[concepts/grihasth-ashram]]", "[[concepts/barkat]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/renu-confrontation-true-love]]", "[[stories/nitu-bichoo-booti-natures-cure]]", "[[stories/gurudev-barkat-half-eaten-paratha]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-27
 ---
 
 # Mataji (Sudesh Sharma)
@@ -19,7 +19,9 @@ updated: 2026-04-25
 
 ## Who
 
-**Sudesh Sharma** married Gurudev in **1960**. She was twenty years old, from a well-respected family in **Ludhiana, Punjab**. Her father was a coal trader who died when she was a child. She was the youngest of seven siblings — her oldest brother a well-known freedom fighter and member of the Indian National Congress; another brother, Rudra ji, a teacher. Years after her marriage she became known reverently as **Mataji** (mother) among Gurudev's disciples.
+**Sudesh Sharma** married Gurudev in **1960**. She was twenty years old, from a well-respected family in **Bilga, near Ludhiana, Punjab**. Her father was a coal trader who died when she was a child. She was the youngest of seven siblings — her oldest brother a well-known freedom fighter and member of the Indian National Congress; another brother, **Rudra ji**, a teacher. Years after her marriage she became known reverently as **Mataji** (mother) among Gurudev's disciples.
+
+When Rudra ji first met his future brother-in-law in 1960, he wrote home to his family: *"I conveyed my impression of him as a kind-hearted individual and an ideal match for my sister."* In an era when letters bridged distances, the words carried from one meeting across the miles.
 
 She worked as a **schoolteacher**, contributing her salary to the running of the household alongside the money Gurudev gave her.
 
@@ -66,6 +68,37 @@ She passed away in **May 2014.** On the hour of her death, the stars were auspic
 > Gurudev and Mataji's relationship may have been that of a married couple, but in essence, it was and possibly continues to be an exceptionally powerful spiritual alliance.
 > — Hingori, *The Guru of Gurus*, p.31
 
+## Family Life — The Children's Testimony
+
+*Witnessing Greatness* Ch.6 gathers the recollections of Gurudev's five children. Each testifies to a different facet of his character.
+
+**"Master, wait and see what I become at thirty-five."** Gurudev's affectionate name for Mataji was *"Master"*, in deference to her job as a schoolteacher. He once told her, with his characteristic enigmatic confidence: *"Master, wait and see what I become when I turn 35."* She assumed he meant a raise or promotion at work. She did not know he was referring to the age at which he would become a mahaguru.
+
+**Everyday playfulness.** Despite his spiritual depth, he was genuinely playful. He cracked good jokes, met work commitments diligently, and enjoyed ordinary pleasures alongside Mataji: movie nights, trips to new places, everyday joys. As Mataji put it: *"He had this infectious sense of humour that never failed to light up my day."*
+
+**The cooking challenge.** On one occasion, Gurudev asked Mataji to cook something delicious. She half-jokingly suggested he try cooking himself. He accepted the challenge and prepared a vegetable dish — asking each family member repeatedly if they enjoyed it, until Mataji had to remind him it ought to be tasty when he had used a week's supply of tomatoes in a single dish. (Ila ji's account, WG Ch.6, p.76)
+
+**Knowing the farm animals by name.** At Khandsa, where the family went for picnics, Gurudev would lead the children to the shed and introduce them to each cow and buffalo by name — Kali, Ganga, Jamuna. When Renu ji challenged him, he called out a jet-black buffalo by name; she rumbled in acknowledgement. Every animal responded. Chacha ji would update Gurudev on the status of each animal during long-distance calls from America — their conversations sometimes lasting an hour while the children waited impatiently for their turn to speak to Mummy.
+
+**The drawing room.** When Renu ji petitioned for an additional floor and drawing room to the modest house, Gurudev was initially reluctant: *"What difference does it make? You can make do with the space you have."* He eventually agreed. Once the room was complete, he looked around and commented: *"It is perfect, and about 20 to 25 people can sleep here comfortably."* Renu ji had imagined a family drawing room. Gurudev saw a communal sleeping space. He reminded her gently: *"We are fakirs"* — luxury had no claim on them. She quietly accepted.
+
+**Renu ji's confrontation.** As the eldest, Renu ji felt her father's divided attention most acutely. One day she gathered the courage to tell him directly that he had no time for his children. He held her in his gaze for two minutes, then said: *"I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."* She understood only after his passing — that his love, like radiation, was not directed at a select few but encompassed all, unrestricted by boundaries. See [[stories/renu-confrontation-true-love]].
+
+**"Learn to heal yourself."** Gurudev would bless cardamoms and cloves for Alka ji when she was ill as a child. One day he told her simply: *"Learn to heal yourself."* She had no idea what he meant. Years later, experiencing severe arm pain after his passing, she focused on her arm while chanting her mantras. The pain subsided and did not return for fifteen days. She then understood. See also [[concepts/intent-as-healing]].
+
+**Nature's cure.** To Nitu ji, his youngest son, he gave a parallel teaching when the boy was stung by Bichoo Booti (Poison Ivy) in Himachal Pradesh: *"Son, nature has a cure for everything — all you have to know is where to look for it."* He applied the plant's own roots to the hand; the pain was immediately relieved. See [[stories/nitu-bichoo-booti-natures-cure]].
+
+**Food and barkat.** Gurudev treated food with a respect that was almost ceremonial. He generously added heaps of white butter to parathas served to visitors. His home carried an unwritten rule: nothing left uneaten on plates. When a visiting disciple left a half-eaten paratha in the kitchen sink, Gurudev ate it himself before Indu didi could respond: *"Learn to respect food. This is barkat — those who have it, waste it."* See [[stories/gurudev-barkat-half-eaten-paratha]].
+
+## The Shakti Who Anchored It All
+
+Uma Prabhu ji, a close disciple, offered the most precise tribute to Mataji's role:
+
+> "More than Gurudev, who was very driven, Mataji must have had a difficult life. Her quiet simplicity and spirituality strongly anchored his spiritual drive. That is why the concept of Shiv and Shakti is appropriate in their situation. Mataji's resilience, grit, and simplicity resulted in the spirituality that oozed from her, which is why she did not need to give any blessing. Her presence and the aura she had was enough to bring comfort."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.84
+
+Each morning, without fail, she engaged in the laborious task of separating butter from curd using a **madhani** (traditional wooden churning tool) — because Gurudev was particular about the purity of ghee used at the sthan temple. After churning, she went to school to teach. When she returned many hours later, a massive pile of domestic and sthan work awaited her. Hingori's verdict: *"The Queen of Queens."*
+
 ## Encounters with Buddhe Baba and Augarh
 
 - **Buddhe Baba:** On one night she awoke to find Gurudev conversing with someone he addressed as Baba. Gurudev ended the conversation abruptly; the next day he revealed Buddhe Baba had told him she was overhearing them. See [[entities/buddhe-baba]].
@@ -78,8 +111,12 @@ She passed away in **May 2014.** On the hour of her death, the stars were auspic
 - [[entities/buddhe-baba]] — Gurudev's mysterious mentor; appeared to her
 - [[entities/augarh]] — Gurudev's mysterious disciple; touched her feet at Haridwar
 - [[concepts/grihasth-ashram]] — her role as Shakti enabled Gurudev to fulfil the householder path
+- [[concepts/barkat]] — the food-respect teaching lived daily in her household
 - [[practices/seva]] — she carried forward nisvarth seva after Gurudev's passing
 - [[stories/mataji-food-miracle-engagement]] — the Annapurna miracle
 - [[stories/mataji-gopal-hingori]] — Mataji's role in other recorded accounts
 - [[stories/gurudev-illness-baba-balak-nath]] — her testimony about the turning-point illness
+- [[stories/renu-confrontation-true-love]] — Renu ji's confrontation and Gurudev's teaching on love as radiation
+- [[stories/nitu-bichoo-booti-natures-cure]] — Nitu ji's Bichoo Booti story; Gurudev's nature-cure teaching
+- [[stories/gurudev-barkat-half-eaten-paratha]] — the barkat episode in the family kitchen
 - [[stories/augarh-har-ki-pauri]], [[stories/augarh-laxman-jhoola]]

@@ -1384,3 +1384,24 @@ When colleagues added tea to Gurudev's tab without his knowledge, he rejected th
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Roots to Wings — Family Life (*Witnessing Greatness*, Ch.6)
+
+### Love as Radiation, Not Perfume
+*Illuminates: [[concepts/grihasth-ashram]], [[entities/mahaguru]], [[concepts/vairagya]]*
+
+> Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few.
+> — Hingori, *Witnessing Greatness*, Ch.6, p.80
+
+When Renu ji confronted Gurudev about having no time for his children, his answer implied a different *structure* of love rather than a defence of his choices. Perfume is applied selectively — to persons and things the wearer values most. Radiation does not discriminate: it permeates everything within its field, without direction or preference. Gurudev's love for the hundreds who came to him each day was of the same quality as his love for his children — non-directional, total, and indistinguishable. From a child's perspective this looks like equal indifference; from the other side it looks like equal grace. The analogy reframes love at the mahaguru level as a *field property*, not an *interpersonal transaction*. See [[stories/renu-confrontation-true-love]], [[concepts/grihasth-ashram]].
+
+---
+
+### Nature Heals Nature's Wound — The Root as Antidote
+*Illuminates: [[concepts/intent-as-healing]], [[entities/mahaguru]]*
+
+When Nitu ji was stung by Bichoo Booti (Poison Ivy), Gurudev did not reach for an external remedy. He investigated, led the child back to the plant, and applied its own roots as the cure: *"Son, nature has a cure for everything — all you have to know is where to look for it."* (*Witnessing Greatness*, Ch.6, p.83)
+
+The poison and its antidote grow in the same soil. This is not merely botanical observation — it is the principle that the solution to any problem is structurally nearby, usually in the same territory as the problem itself. Panic moves away from the source; awareness moves toward it. The root of the plant that stung is the root that heals. In spiritual terms: the klesha that binds is also the opening through which freedom enters, if observed rather than fled. See [[stories/nitu-bichoo-booti-natures-cure]], [[concepts/intent-as-healing]].
+

@@ -62,6 +62,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[self-love]] — Unemotional, agenda-free connectivity to all forms of the consciousness supreme; self-acceptance → self-like → self-respect → self-love → bhakti
 - [[self-worship]] — Reverence of the jivaatma (inner light); two gates metaphor; three exercises; non-doership and self-worship as complementary; Tat Twam Asi in practice
 - [[grihasth-ashram]] — Householder path; Gurudev's teaching that final spiritual attainments require fulfilling domestic responsibilities
+- [[barkat]] — Divine abundance; the luck of making resources last; respect for food as spiritual practice; "those who have it, waste it"
 - [[aghor]] — Philosophy of non-duality; Aghoris break free from maya by transcending sensory aversion through extreme practices; Augarh's sect
 - [[ulta-guru]] — The "inverted guru" who serves his disciples; coined by a gurubhai; grounded in aatmic equality
 - [[mantra-transfer]] — Two forms: laung-based siddhi declaration and paath-hours allocation; has a stated limit
@@ -124,7 +125,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–5 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
 
 ---
 
@@ -367,6 +368,9 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[bajrang-offspring-human-reincarnation]] — Bajrang's dead young one; Gurudev's paath and prayer for the monkey's offspring to receive a human birth
 - [[bharat-dalal-seva-never-stops]] — Bharat Dalal ji's dream in a different dimension; thousands assembled before Gurudev; "Seva never stops. It continues 24/7."
 - [[gautam-bhushan-grass-meditation]] — Meditation of becoming a blade of grass, leaf, tree trunk, and stone; Aham Brahmasmi as direct experience
+- [[nitu-bichoo-booti-natures-cure]] — Poison Ivy in Himachal Pradesh; Gurudev investigates calmly; plant's roots as antidote; "nature has a cure for everything"
+- [[renu-confrontation-true-love]] — Renu ji confronts Gurudev about his divided attention; his response on love as radiation; post-mortem realisation of guru kripa
+- [[gurudev-barkat-half-eaten-paratha]] — Half-eaten paratha in the kitchen sink; Gurudev eats the leftovers; barkat and food-respect teaching
 
 ---
 

@@ -82,6 +82,8 @@ This is *vairagya* operating at full integration: the love is real in its effect
 
 This is the final destination of *vairagya* as a practice: not the suppression of joy and pain, but the natural subsidence of both when the 'I' is no longer claiming authorship over the act.
 
+> [!tip] *Witnessing Greatness* Ch.6 adds a domestic witness to this pattern. Renu ji confronted Gurudev about his absence as a father; his reply — "One day you will understand what true love is" — was understood by her only after his passing. The narrator's gloss: "Love is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few." This is the same vairagya teaching seen from the children's vantage point: the love that belonged to no one could reach everyone. The family felt the structural cost of this; the disciples experienced its structural benefit. The two faces of the same condition. See [[stories/renu-gurudev-confrontation-on-love]].
+
 ## Cross-references
 
 - [[concepts/non-doership]] — non-doership requires *vairagya* from self-identity to fully function

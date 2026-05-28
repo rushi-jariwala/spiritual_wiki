@@ -1,10 +1,10 @@
 ---
 title: Grihasth Ashram (The Householder Path)
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/karmayoga]]", "[[practices/seva]]", "[[concepts/diksha]]"]
 created: 2026-04-25
-updated: 2026-05-06
+updated: 2026-05-28
 ---
 
 # Grihasth Ashram (The Householder Path)
@@ -17,11 +17,11 @@ Grihasth ashram is the stage of life as a householder — the second of the four
 
 Gurudev himself lived this teaching. After his marriage to Mataji in 1960, he decided — within a few weeks — to practise *sanyaas* (renunciation) in a modern way, leaving his marital home to pursue spiritual attainment. Five years passed.
 
-Then, while meditating at **Gurudwara Sri Santoksar Saheb in Amritsar**, he heard a voice tell him:
+Then, while meditating near **Santoksar Lake in Amritsar**, he heard an *akashvani* (celestial voice) — possibly orchestrated by his then-future guru, [[entities/buddhe-baba|Buddhe Baba]] — conveying that his spiritual quest could only reach completion if he returned to his wife and embraced the life of a householder.
 
 > His final attainments were only possible if he fulfilled his responsibilities as a husband.
 
-He returned to his wife and settled into the life of a householder. He subsequently taught this principle of grihasth ashram to his disciples.
+He returned to Mataji and settled into the life of a householder. He subsequently taught this principle of grihasth ashram to his disciples.
 
 ## Nuances
 

@@ -1,10 +1,10 @@
 ---
 title: Senses Management
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[concepts/food-energy]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-29
 ---
 
 # Senses Management
@@ -90,6 +90,47 @@ To change the state of your consciousness, you must change the level of your min
 
 Sensory management is ultimately the method by which the jivaatma strips away the personalised worldview and begins to perceive its own nature.
 
+> [!tip] **Cross-source pattern**: The senses are bidirectional channels — they both receive *and* emit energy. Eyes attract/drain spiritual energy through the gaze. Food absorbs the cook's intentions. Water takes on the molecular signature of directed emotion or mantra. Managing the senses is therefore not only about what enters you, but what you radiate outward. *Witnessing Greatness* Ch.7 makes this bidirectionality explicit in a way earlier sources did not.
+
+## Witnessing Greatness — Ch.7 Testimonies
+
+*Witnessing Greatness* Ch.7 ("Deception of Perception") frames the entire sensory question scientifically at the outset — we detect roughly 0.00000000000035% of the electromagnetic spectrum, dog-whistle frequencies are inaudible to us, and ostensibly solid objects are almost entirely empty space — then maps this empirical limitation directly onto the concept of [[concepts/maya|Maya]]. Sensory mastery is the practical response to that cosmological diagnosis.
+
+### Taste
+
+Multiple disciples confirm that Gurudev's freedom from taste preferences was total by the time of his ministry. Puran ji observes: *"Gurudev readily accepted any vegetarian food cooked for him, no matter how simple. He never demanded particular dishes. His spiritual path had overshadowed his physical needs."* Raji Sharma ji adds: *"Whether it was parathas, a slice of bread, or even mathi with tea, he gracefully accepted everything."* Bittu ji notes he often picked up food from the previous day even when fresh options were available.
+
+Gurudev would go days on just tea, with no food. On the nights he did not eat, Bittu ji finally received the explanation:
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+
+See [[stories/gurudev-not-eating-hungry-disciples]]. Renu ji recalls Indu Sharma ji's concern after Gurudev had missed dinner: with a kind smile, he replied in Punjabi — *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda"* (when one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison).
+
+For the connected teaching on food as an energy medium — the cook's emotions transferring to food, white foods' susceptibility, karmic debt from others' food — see [[concepts/food-energy]].
+
+### Sight
+
+Virender ji: *"In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him."*
+
+Gurudev's budiya/gudiya technique (see Sight section above) is explicitly situated in WG Ch.7 as a method for transcending *vaasnas* — impressions from past lives that surface as impulse. He also cautioned that excessive focus on the opposite gender drains spiritual energy and weakens the aura. His own testimony: he never wore cologne, believing one should not be swayed by the dualities of pleasant versus unpleasant. See [[concepts/aura]].
+
+The two-path teaching at the afterlife crossroads (plain vs. enticing) is the death-state application of the same principle: sense-attraction can trap the spirit in lower realms even at the moment of final transition. See [[concepts/loks]].
+
+### Hearing
+
+By the time of his ministry, Gurudev's hearing had evolved from ordinary appreciation of music (he loved Mohammed Rafi and Hindi film songs on Binaca Geet Mala, and played the mouth organ) into a supernormal faculty. He could hear thoughts and perceived spoken words from great distances.
+
+On a road trip from Chandigarh to Gurgaon, Hingori and his father argued most of the way. Upon arriving, Gurudev calmly admonished Hingori for his behaviour — fully aware of the entire exchange. *"His vigilance was such that nothing went unnoticed."* See also [[stories/blank-cassette-disciple]] for an analogous demonstration.
+
+### Touch
+
+The Mungaoli camp incident (see [[stories/mungaoli-sweater-incident]]) is the clearest single demonstration of Gurudev's mastery over physical sensation — and his ability to influence the physical sensations of others. This episode also contains the teaching on pretence: social performance requires more energy than sincerity, and the mahaguru would not permit either in his presence.
+
+### Smell
+
+Gurudev never wore cologne, consistent with his approach to all the senses: *"He believed one should not be overly drawn to beauty or repulsed by a lack of it"* — a discipline applied equally to fragrance as to sight. The principle in Aghor vidya — develop indifference to stench if you want to cultivate indifference to incense — is the same instruction from the aversive end.
+
 ## Cross-references
 
 - [[concepts/constant-awareness]] — the state reached when senses are mastered; awareness beyond sensory input
@@ -97,5 +138,8 @@ Sensory management is ultimately the method by which the jivaatma strips away th
 - [[concepts/gunas]] — tamas and rajas are fuelled by unmanaged senses; sattva grows as senses are controlled
 - [[concepts/role-play]] — Gurudev's observer stance is identical in senses and emotional management
 - [[concepts/maya]] — the personalised worldview sustained by unmanaged senses is maya
+- [[concepts/food-energy]] — the energetic dimension of food as a spiritual medium; cook's emotions; white foods
 - [[entities/mahaguru]] — Gurudev's life trajectory from foodie and would-be movie star to total sensory mastery
 - [[stories/blank-cassette-disciple]] — Gurudev's demonstration of supernormal hearing/discernment
+- [[stories/gurudev-not-eating-hungry-disciples]] — Bittu ji dialogue; the feeding-before-eating principle
+- [[stories/mungaoli-sweater-incident]] — control over physical sensation and the lesson on pretence

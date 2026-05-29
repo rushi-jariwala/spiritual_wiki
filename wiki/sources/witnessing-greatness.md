@@ -4,7 +4,7 @@ type: source
 sources: [witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-29
 ---
 
 # Witnessing Greatness
@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-05-29 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,79 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya through science**: the chapter opens by grounding the concept of Maya in empirical data — we perceive roughly 0.00000000000035% of the electromagnetic spectrum; dog-whistle frequencies are inaudible; solid matter is almost entirely empty space. The sensory world is not the full world. This is the most tightly argued scientific-plus-Vedantic framing of Maya across the entire corpus.
+- **Food as a spiritual energy medium**: a major new teaching on food carrying the cook's emotional and intentional imprint. Light-coloured foods are particularly energy-receptive. Eating food financed by others with negative intentions creates karmic obligation. Temple cooks are selected for their energetic state. Author's personal experience with Sitaram the domestic helper illustrates this. See [[concepts/food-energy]].
+- **Black magic through food**: white *pedas* charged with reverse mantras caused Hingori's arthritis before his encounter with Gurudev. Kamlesh's sherbet-taweez incident. Protective counter: add turmeric or black pepper to white foods. See [[concepts/spiritual-attacks]].
+- **Gurudev's food transcendence**: sustained testimony from multiple witnesses (Bittu ji, Puran ji, Alka ji, Raji Sharma ji, Renu ji) that Gurudev had transcended the sense of taste completely — indifferent to freshness, flavour, and even eating itself. His abstaining was not austerity but empathy: he scanned his global spiritual family before eating, and if any went hungry, he would not eat. The Punjabi ek vakya: *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."*
+- **Water as a spiritual medium**: water reflecting emotions and intentions; molecular structure changing without chemical change; jal healing at sthans; sipped water as a vehicle for mantra and shakti transfer ("I've transferred 10,000 recitations to you"); Guru Purnima feet-washing water. See [[concepts/mantra-transfer]].
+- **Gurudev's sensory mastery — all five senses**: Virender ji's testimony on self-control (no attraction to money, women, or praise); Gurudev's evolution on sight (budiya/gudiya technique, never wore cologne); hearing (Chandigarh road trip; evolution from music to supernormal hearing); touch (Mungaoli camp cold weather); taste (above).
+- **Two paths in the afterlife**: the chapter presents the Dhruv Tara teaching and Hingori's first-person confirmation from his own realm visits — the lower realm as "a dark, seedy nightclub," the higher realms bright but sparsely populated. See [[concepts/loks]].
+- **Pretence as counterproductive**: the Mungaoli sweater incident teaches that social performance is not just unnecessary but actively harmful — Gurudev made the cold real as a teaching on authenticity.
+
+## Notable Quotes (Ch.7)
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (while sharing sipped water), *Witnessing Greatness*, Ch.7, p.93
+
+> "Why did you do that?"
+> — Gurudev (to Hingori at Mungaoli, stopping the shivering), *Witnessing Greatness*, Ch.7, p.103
+
+## Stories Extracted (Ch.7)
+
+No new standalone story pages required. All narratives are either enrichments of existing pages or short enough for inline capture:
+
+- [[stories/gurudev-not-eating-hungry-disciples]] — enriched with the full Bittu ji dialogue (eye-scanning ritual; "their hunger weighs on me")
+- [[stories/mungaoli-sweater-incident]] — enriched with WG Ch.7 detail (T-shirt → sweater apprehension → uncontrollable shivering; "Why did you do that?"; Gurudev's influence over others' physical sensations)
+
+Short anecdotes kept inline:
+- Sitaram domestic helper / cook's energy → [[concepts/food-energy]]
+- White pedas black magic → [[concepts/spiritual-attacks]]
+- Kamlesh sherbet taweez → enrichment note in [[stories/kamlesh-black-magic-cure]]
+- Road trip Chandigarh–Gurgaon argument → [[concepts/senses-management]] (Hearing section)
+- Renu ji / Indu didi's dinner concern → [[stories/gurudev-not-eating-hungry-disciples]] and [[quotes/family-and-love]]
+- Gurudev sharing sipped water for mantra transfer → [[concepts/mantra-transfer]]
+- Guru Purnima feet-washing ritual → [[concepts/mantra-transfer]] and [[concepts/guru-vandana]]
+- Author's three-realm visits → [[concepts/loks]]
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/food-energy]] — new concept page: food as a spiritual energy medium; cook's emotional imprint; light-coloured foods' vulnerability; karmic debt from others' food; protective spices
+- [[quotes/senses]] — new quote file: senses mastery, self-control, food and water as energy media
+
+Existing pages updated with WG Ch.7 material:
+- [[concepts/senses-management]] — WG Ch.7 section across all five senses with new testimonies
+- [[concepts/mantra-transfer]] — sipped-water mechanism; Guru Purnima feet-washing water
+- [[concepts/loks]] — author's first-person three-realm testimony
+- [[concepts/maya]] — corrected/updated EM spectrum percentage
+- [[concepts/vasna]] — alternate WG Ch.7 definition noted and flagged
+- [[concepts/spiritual-attacks]] — white pedas black magic mechanism added
+- [[analogies/analogies]] — two new analogies: lower realm as nightclub; cook as flavour-vessel
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **Vaasnas — two definitions in tension**
+> *Witnessing Greatness* Ch.7 footnote defines vaasnas as "engrams or impressions that accumulate in the causal body over one's previous lives and current lifetime." *Karma Sutra* defines vasnas as the *tendencies arising from* those stored impressions, not the impressions themselves. The WG Ch.7 definition conflates vasnas with samskars. This may be loose usage across volumes or a deliberately simplified presentation for a less technical audience. Flagged in [[concepts/vasna]].
+
+> [!warning] **EM spectrum percentage — internal discrepancy**
+> *Aatma Sutra* Ch.VII gives the visible spectrum as "less than 0.00000000005%" while *Witnessing Greatness* Ch.7 gives the more specific "0.00000000000035%." Both are Hingori's own figures. The WG number is more precise and more extreme. Flagged in [[concepts/maya]].
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

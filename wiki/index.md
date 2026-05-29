@@ -91,6 +91,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
+- [[food-energy]] — Food as a spiritual energy medium; the cook's emotional imprint; light-coloured foods' susceptibility; karmic debt from others' food
 
 ---
 
@@ -125,7 +126,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 
@@ -151,6 +152,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
+- [[quotes/senses]] — Senses mastery, self-control, food and water as energy media; Virender ji, Alka ji, Puran ji, Bittu ji on Gurudev
 
 ---
 

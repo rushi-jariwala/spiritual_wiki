@@ -282,7 +282,8 @@ His connectivity to the elements was direct and documented:
 
 ### Body-Mind Capacities
 
-- Could live without food for days (Mahashivratri queues lasted two days; he ate nothing until he had met everyone)
+- Could live without food for days (Mahashivratri queues lasted two days; he ate nothing until he had met everyone). He scanned his global spiritual family before eating and would not eat if any were hungry. See [[stories/gurudev-not-eating-hungry-disciples]] and [[concepts/food-energy]]
+- Accepted any vegetarian food — fresh or day-old — with total indifference to flavour or freshness; his food philosophy: significance lay in the *intention* behind the preparation, not the taste. See [[concepts/senses-management]]
 - Withstood extreme temperatures in a light cardigan while others wore layers of wool
 - Could put one brain hemisphere to sleep while the other operated — Pehalwan ji witnessed him riding a scooter with his eyes closed, doing *paath*
 - Never said NO to anyone who asked for help (Ashok Bhalla ji: *"The word NO does not exist in my dictionary"*)

@@ -45,6 +45,8 @@ The teaching does not imply that vasnas are irresistible. Will power — an attr
 
 The use of will power to resist — or of non-doership to act without emotional ownership — both prevent the vasna from converting into a freshly coded samskar.
 
+> [!warning] *Witnessing Greatness* Ch.7 (footnote 3) gives a different definition: "Engrams or impressions that accumulate in the causal body over one's previous lives and current lifetime, influencing one's reactions and decisions unconsciously." This is closer to the definition of [[concepts/samskars]] than to the *Karma Sutra* definition (tendencies arising within consciousness to perform an act). The WG Ch.7 usage treats vaasnas as the stored impressions themselves, not the tendencies they generate. The two definitions may represent different levels of the same mechanism — samskars as the stored data; vaasnas as the energy arising from that data — or they may reflect loose usage of the term across volumes.
+
 ## Cross-references
 
 - [[concepts/samskars]] — the stored data from which vasnas arise, and into which ownership re-encodes action

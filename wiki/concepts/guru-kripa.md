@@ -60,3 +60,4 @@ A disciple named Karmakarji, from the Kolkata sthan, worked at a pharmaceutical 
 - [[entities/mahaguru]] — Gurudev as the source of kripa in Hingori's tradition
 - [[entities/hingori]] — whose asking for guru kripa became the pivot of his discipleship
 - [[stories/hingori-guru-kripa-request]] — the "battle of wits" story
+- [[stories/renu-gurudev-confrontation-on-love]] — Renu ji's retrospective understanding: *"I now understand what guru kripa is, how the guru imparts his wisdom, and how his influence encompasses all"*; the love-as-radiation teaching as deferred kripa

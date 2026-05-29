@@ -1,10 +1,10 @@
 ---
 title: Mataji (Sudesh Sharma)
 type: entity
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[concepts/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[concepts/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-28
 ---
 
 # Mataji (Sudesh Sharma)
@@ -25,9 +25,14 @@ She worked as a **schoolteacher**, contributing her salary to the running of the
 
 ## Marriage
 
-A week after their wedding, she found Gurudev unconscious on the bed. Assuming the worst, she dashed to her sister-in-law's room for help. She calmed down when told that Gurudev would go into a comatose state during *paath* (meditation) and she needn't worry. Mataji recalled this first encounter with her husband's spiritual side with laughter.
+Shortly after their marriage, Gurudev left Mataji under her family's care and embarked on an intense journey of meditation. While meditating near the Santoksar Lake in Amritsar — an akashvani (celestial voice), possibly orchestrated by his future guru Buddhe Baba, conveyed that his spiritual quest could only reach completion if he returned to his wife and embraced the householder life. He reunited with Mataji and fulfilled his responsibilities as a family man — a teaching he later formalised as [[concepts/grihasth-ashram]].
 
-After a few weeks, Gurudev decided to practise *sanyaas* (renunciation) in a modern way, leaving the marital home to pursue spiritual attainment. Five years later, meditating at **Gurudwara Sri Santoksar Saheb in Amritsar**, he heard a voice telling him that his final attainments were only possible if he fulfilled his responsibilities as a husband. He returned to Mataji and settled into the life of a householder — a teaching he later formalised as [[concepts/grihasth-ashram]].
+The first time Mataji encountered his inner life after marriage, she found him lying motionless on the bed, apparently not breathing. In a panic, she called her sister-in-law, who calmly explained: *"There's no need to be anxious; he is in paath."* Mataji recalled this episode with laughter years later. See [[stories/mataji-discovers-gurudev-in-paath]].
+
+In her own words on his earlier years:
+
+> "He frequently meditated near water bodies in his teens. He would spend the entire day meditating, and when he got home, he meditated all night. He embraced a lifestyle marked by austerity and a notable degree of self-reliance."
+> — Mataji, *Witnessing Greatness*, Ch.6, p.76
 
 Gurudev affectionately addressed his wife as **"Master."** Before his advent as a mahaguru, their lives were filled with simple pleasures: riding on his scooter and watching late-night movie shows. When he told her, *"Master, wait and see what I become at thirty-five!"* she assumed he meant a promotion and a salary increment. She did not know he was referring to the age at which he would catapult from spiritual seeker to mahaguru.
 
@@ -37,7 +42,7 @@ She was the **Shakti (feminine principle)** to his **Shiv (masculine principle)*
 
 She was often perplexed by the depth of his spiritual knowledge. She could not fathom its source — she had only seen him read Urdu newspapers or detective fiction like *Colonel Vinod*, and nothing more.
 
-Gurudev never imposed his belief system on her. He pragmatically encouraged her to adhere to her own spiritual and religious practices, once telling her she did not need to chant any mantras because half the benefit of his nisvarth seva and *paath* would accrue to her anyway. He later gave her the powerful **Mahagayatri mantra** — and ribbed her that she should stop chanting lest she become more powerful than him. Their good-natured banter was delightful to watch.
+Gurudev never imposed his belief system on her; her spiritual path was entirely self-directed. She developed a deep affinity for the Gayatri mantra, which Gurudev acknowledged. As her practice deepened, he shared the more powerful **Mahagayatri mantra** with her — a thoughtful, measured act. He later ribbed her that she should stop chanting lest she become more powerful than him. From *The Guru of Gurus*: he pragmatically told her she did not need to chant at all, as half the benefit of his nisvarth seva and *paath* would accrue to her anyway. Their good-natured banter was delightful to watch.
 
 > "No husband ever born has been spared by femininity!"
 > — Hingori, *The Guru of Gurus*, p.30
@@ -48,6 +53,15 @@ Mataji was a fierce and loyal mother figure to Gurudev's disciples. When Gurudev
 
 > Mataji treated us as if we were her children. She defended us, cared about our well-being, and cheered us on as we navigated the snakes and ladders of Guruism.
 > — Hingori, *The Guru of Gurus*, p.30
+
+## The Queen of Queens
+
+Uma Prabhu ji, a disciple who knew the family closely, paid a fitting tribute:
+
+> "More than Gurudev, who was very driven, Mataji must have had a difficult life. Her quiet simplicity and spirituality strongly anchored his spiritual drive. That is why the concept of Shiv and Shakti is appropriate in their situation. Mataji's resilience, grit, and simplicity resulted in the spirituality that oozed from her, which is why she did not need to give any blessing. Her presence and the aura she had was enough to bring comfort."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.85
+
+Each morning, without fail, she engaged in the laborious task of churning curd with a traditional *madhani* to separate butter for the pure ghee used at the sthan temple — a task Gurudev was incredibly particular about. After the morning chores, she went to school to teach, and returned to a massive pile of work awaiting her. Hingori's verdict from this chapter: *"She was the Queen of Queens."*
 
 ## Spiritual Force in Her Own Right
 
@@ -83,3 +97,7 @@ She passed away in **May 2014.** On the hour of her death, the stars were auspic
 - [[stories/mataji-gopal-hingori]] — Mataji's role in other recorded accounts
 - [[stories/gurudev-illness-baba-balak-nath]] — her testimony about the turning-point illness
 - [[stories/augarh-har-ki-pauri]], [[stories/augarh-laxman-jhoola]]
+- [[stories/mataji-discovers-gurudev-in-paath]] — her first encounter with his inner life; paath mistaken for lifelessness
+- [[stories/gurudev-food-barkat-leftover-paratha]] — kitchen episode; Gurudev's teaching on barkat
+- [[stories/gurudev-drawing-room-fakirs]] — "we are fakirs"; communal space over private comfort
+- [[quotes/family-and-love]] — her own quotes on Gurudev's nature and their life together

@@ -40,7 +40,7 @@ updated: 2026-05-20
 | 3 | Impossible Is Possible | 33–48 | ✅ ingested 2026-05-20 |
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
-| 6 | Roots to Wings | — | ⬜ pending |
+| 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
 | 7 | Deception of Perception | — | ⬜ pending |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
@@ -55,6 +55,64 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
+
+- **Grihasth ashram as lived reality**: the chapter gives the most personal account of how Gurudev balanced his roles as mahaguru, husband, and father. His five children had to share him with hundreds of visitors; his wife ran the household and taught school while he was frequently on tour or in deep paath. The akashvani at Santoksar Lake — possibly orchestrated by Buddhe Baba — is retold, with Mataji and the children as primary witnesses.
+- **Mataji as spiritual force and household anchor**: Uma Prabhu ji's tribute — "Her quiet simplicity and spirituality strongly anchored his spiritual drive" — is the chapter's most precise statement on the Shiv-Shakti dynamic. Mataji's morning ghee-making (churning curd with a madhani), schoolteaching, and backend management of the sthan form a portrait of sustained, unglamorous devotion.
+- **Love as radiation**: Gurudev's response to Renu ji's confrontation — "One day you will realise, and then you will understand what true love is" — is glossed by the narrator as love-as-radiation: boundless, non-selective, permeating everything like a fragrance. This is the chapter's theological centrepiece.
+- **Ek vakyas for the household**: several of Gurudev's most compressed teachings were delivered to his children in ordinary domestic settings: on barkat and food, on healing oneself, on the cure in nature, on being fakirs. Each was understood only in hindsight — fully consistent with the ek vakya pedagogical pattern.
+- **Seva across all life forms**: Gurudev's love for farm animals (knowing each cow and buffalo by name at the Khandsa farm; asking Chacha ji for their welfare on expensive long-distance calls from America) extends the seva-across-species theme from Ch.5.
+- **Reincarnation within the family**: Gurudev identified each of his five children as reincarnated spirits of ancestors and spiritual connections. He called Nitu ji "Pandit ji" — his own father's title — and predicted Nitu ji's birth exactly one week before a family wedding, as he had told Mataji his father would return for.
+- **Women as Shakti**: Gurudev held women in the highest regard; Alka ji confirms there was no differentiation between sons and daughters. This is consonant with his Shiv-Shakti theology applied to Mataji.
+
+## Notable Quotes (Ch.6)
+
+> "I had no idea about his spiritual pursuits when we married. One day, I went to talk to him and found him lying motionless on the bed. He was not breathing."
+> — Mataji, *Witnessing Greatness*, Ch.6, p.75
+
+> "I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."
+> — Gurudev (to Renu ji), *Witnessing Greatness*, Ch.6, p.80
+
+> "Son, nature has a cure for everything. All you have to know is where to look for it."
+> — Gurudev (to Nitu ji), *Witnessing Greatness*, Ch.6, p.83
+
+> "Learn to respect food. This is barkat — those who have it, waste it."
+> — Gurudev, *Witnessing Greatness*, Ch.6, p.54
+
+> "We are fakirs."
+> — Gurudev (to Renu ji, on their home), *Witnessing Greatness*, Ch.6, p.85
+
+> "More than Gurudev, who was very driven, Mataji must have had a difficult life. Her quiet simplicity and spirituality strongly anchored his spiritual drive."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.6, p.85
+
+## Stories Extracted (Ch.6)
+
+- [[stories/mataji-discovers-gurudev-in-paath]] — Mataji's first encounter with Gurudev's inner life; paath mistaken for lifelessness; sister-in-law explains
+- [[stories/renu-gurudev-confrontation-on-love]] — Renu ji challenges Gurudev's absence from family life; his "true love" reply; understood only after his death
+- [[stories/gurudev-farm-animals-khandsa]] — Khandsa farm; cows and buffaloes named (Kali, Ganga, Jamuna); long-distance calls from America to check on farm animals ahead of family
+- [[stories/nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's composed investigation; cure from the plant's own roots; "nature has a cure for everything"
+- [[stories/gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha; teaching on barkat and food respect
+- [[stories/gurudev-drawing-room-fakirs]] — new floor built for the family; Gurudev declares it communal sleeping space; "We are fakirs"
+
+Short anecdotes kept inline:
+- Mataji's school reluctance (Renu ji / Ila ji) → inline in [[entities/mataji]]
+- Cooking challenge (Gurudev's vegetable dish with a week's tomatoes) → inline in [[entities/mataji]]
+- Nitu ji as reincarnation of Gurudev's father, born one week before Chacha ji's wedding → inline in [[entities/mataji]]
+- Alka ji healing her own arm pain through mantra → [[concepts/intent-as-healing]] (new section added)
+- Rudra ji's first impressions of Gurudev → inline in [[entities/mataji]]
+
+## New Concepts Introduced (Ch.6)
+
+- [[concepts/barkat]] — new concept page: abundance as divine favour requiring stewardship; wasting it is ingratitude; the teaching crystallised in the leftover-paratha episode
+- New ek vakyas added to [[concepts/ek-vakyas]]: "true love," "nature has a cure," "learn to heal yourself," "we are fakirs," "learn to respect food"
+- New analogies added to [[wiki/analogies/analogies]]: love as radiation; Bichoo Booti root (cure within the problem)
+
+## Contradictions / Tensions (Ch.6)
+
+None. The chapter is a biographical and anecdotal enrichment of existing material. The akashvani retelling specifies Santoksar Lake rather than Gurudwara Sri Santoksar Saheb — consistent with the existing note in the Ch.1 contradictions section (same location, slightly different description). No new tensions introduced.
+
+---
 
 ## Key Themes (Ch.5 — Seva, pp.59–72)
 

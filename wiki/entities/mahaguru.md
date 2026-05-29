@@ -104,7 +104,13 @@ A few weeks into marriage, Gurudev attempted *sanyaas* in the modern way, leavin
 
 Gurudev was not overly demonstrative of affection. His love expressed through wisdom, counsel, and presence. He made kites for sons on Basant Panchami; took the family on summer camp trips with video cassette players packed for evenings. When Renu ji once complained that he spent more time with visitors than his children, Mataji replied: *"Beta, if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"* This response inspired Renu ji to feed the poor and tutor migrant labourers' children.
 
-His children: sons **Parvesh ji** and **Puneet ji** (involved in seva); daughters **Renu ji**, **Ila ji**, and **Alka ji**. The four musketeers of the Gurgaon sthan — **Nikku, Pappu, Bittu, and Gaggu** — were a second ring of quasi-family who managed his daily needs and lectured him when he neglected his health.
+His children: sons **Parvesh ji**, **Nitu ji (Puneet ji)**, and daughters **Renu ji**, **Ila ji**, and **Alka ji**. Gurudev stated that each of his five children embodied reincarnated spirits of ancestors and spiritual connections; Nitu ji was believed to be the reincarnation of Gurudev's own father — born exactly one week before Chacha ji's wedding, as Gurudev had foretold to Mataji. He addressed Nitu ji as *"Pandit ji"* — his father's title.
+
+His love for animals was as intimate as his love for people. He knew every cow and buffalo at the Khandsa farm by name — Kali, Ganga, Jamuna — and during expensive long-distance calls from America, he would ask Chacha ji for farm-animal updates before speaking with his children. See [[stories/gurudev-farm-animals-khandsa]].
+
+Several of his key teachings were delivered to his children as compressed ek vakyas: "Nature has a cure for everything, all you have to know is where to look for it"; "Learn to heal yourself"; "We are fakirs"; "Learn to respect food — this is barkat." See [[concepts/barkat]] and [[concepts/ek-vakyas]].
+
+The four musketeers of the Gurgaon sthan — **Nikku, Pappu, Bittu, and Gaggu** — were a second ring of quasi-family who managed his daily needs and lectured him when he neglected his health.
 
 He was best described as a **master role-player** — inhabiting the roles of father, friend, guru, husband, son, and brother with equal fluency, "acting out emotions unemotionally." See [[concepts/role-play]].
 

@@ -1,10 +1,10 @@
 ---
 title: Ek Vakyas (Single-Sentence Teachings)
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/guru-disciple]]", "[[concepts/guru-tattva]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-28
 ---
 
 # Ek Vakyas (Single-Sentence Teachings)
@@ -26,6 +26,11 @@ Gurudev spoke sparsely on doctrine. He was a man of demonstration first — his 
 - *"If any member of my spiritual family anywhere in the world goes to bed hungry, I do not eat that night."* — the full scope of compassion without separation.
 - *"Vichaar vishay se aata hai."* — (Thought arises from the object of engagement.) A seed-sentence on the origin of thoughts that opens into four distinct observations: thoughts emerge from sensory interaction; from the guna mix; from the magnetic nature of the mind; and from samskars surfacing. Hingori needed multiple paragraphs to unpack it. See [[concepts/hygiene]] and [[concepts/citt-vritti-nirodh]].
 - *"As soon as I touch the briefcase, your headache will return. It is my duty to do seva, not my business."* — the entire teaching on commercial hygiene and the difference between seva and commerce in one response. See [[stories/sikh-headache-briefcase]].
+- *"I do not know how to convey affection like your mother. One day you will realise, and then you will understand what true love is."* — delivered to Renu ji after she confronted him about his absence from family life; understood by her only after his death. See [[stories/renu-gurudev-confrontation-on-love]].
+- *"Son, nature has a cure for everything. All you have to know is where to look for it."* — after treating Nitu ji's Bichoo Booti (Poison Ivy) injury using the plant's own roots. See [[stories/nitu-bichoo-booti-nature-cure]].
+- *"Learn to heal yourself."* — to Alka ji; germinated in her decades later when she cured arm pain through mantra and self-belief. See [[stories/nitu-bichoo-booti-nature-cure]].
+- *"We are fakirs."* — to Renu ji, on seeing the newly completed drawing room; declared it a communal sleeping space for twenty-five people. See [[stories/gurudev-drawing-room-fakirs]].
+- *"Learn to respect food. This is barkat."* — after eating a half-abandoned paratha himself rather than letting it go to waste. See [[stories/gurudev-food-barkat-leftover-paratha]] and [[concepts/barkat]].
 
 None of these were explained at length when spoken. The point was the seed, not the commentary.
 

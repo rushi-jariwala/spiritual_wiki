@@ -1,10 +1,10 @@
 ---
 title: Intent as Healing
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-28
 ---
 
 # Intent as Healing
@@ -62,6 +62,17 @@ The teaching received its most direct empirical test when Hingori accidentally g
 > — Hingori, *The Guru of Gurus*, p.228
 
 See [[stories/hingori-wrong-remedy-intention]].
+
+## Self-Healing: "Learn to Heal Yourself"
+
+A parallel teaching surfaces in Gurudev's family. When his daughter Alka ji was frequently ill as a child, he would bless cardamoms and cloves for her. One day he said simply: *"Learn to heal yourself."* She had no idea what he meant at the time.
+
+Years after his passing, she developed severe pain in her arm. His words rang in her ears:
+
+> "I focused on my arm for a minute or two while chanting my mantras. Though the pain subsided, I assumed it was temporary relief and that the pain would return. However, when the pain did not return for another 15 days, I was confident that I was completely healed. I realised what Daddy meant — if we have self-belief, we can heal ourselves."
+> — Alka ji, *Witnessing Greatness*, Ch.6, p.83
+
+This is intent-as-healing applied by the disciple rather than the guru: the same principle — consciousness as the operative agent — now activated through the individual's own belief and mantra practice. See also [[stories/nitu-bichoo-booti-nature-cure]].
 
 ## Related Teaching — Mantra Transfer
 

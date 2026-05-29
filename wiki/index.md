@@ -90,6 +90,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[maturity-of-a-guru]] — The guru's developmental arc: forgiveness, patience, humility, tactfulness, collaboration, role-play, succession by merit, disciple-to-guru transition, and counterbalances
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
+- [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
 
 ---
 
@@ -124,7 +125,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–5 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
 
 ---
 
@@ -149,6 +150,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/healing]] — Non-doership in healing, divine authority, intention over method, jal as elixir
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
+- [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
 
 ---
 
@@ -367,6 +369,12 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[bajrang-offspring-human-reincarnation]] — Bajrang's dead young one; Gurudev's paath and prayer for the monkey's offspring to receive a human birth
 - [[bharat-dalal-seva-never-stops]] — Bharat Dalal ji's dream in a different dimension; thousands assembled before Gurudev; "Seva never stops. It continues 24/7."
 - [[gautam-bhushan-grass-meditation]] — Meditation of becoming a blade of grass, leaf, tree trunk, and stone; Aham Brahmasmi as direct experience
+- [[mataji-discovers-gurudev-in-paath]] — Mataji's first encounter with Gurudev's inner life; paath mistaken for lifelessness; sister-in-law explains
+- [[renu-gurudev-confrontation-on-love]] — Renu ji challenges Gurudev's absence from family life; his "true love" reply understood only after his death
+- [[gurudev-farm-animals-khandsa]] — Khandsa farm; Gurudev names each cow and buffalo (Kali, Ganga, Jamuna); long-distance calls from America about farm animals
+- [[nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's unhurried investigation; cure from the plant's own roots; "nature has a cure for everything"
+- [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
+- [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
 
 ---
 

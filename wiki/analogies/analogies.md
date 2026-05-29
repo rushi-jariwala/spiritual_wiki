@@ -1376,6 +1376,28 @@ When colleagues added tea to Gurudev's tab without his knowledge, he rejected th
 
 ---
 
+## Roots to Wings — Witnessing Greatness (Ch.6)
+
+### Love as Radiation — Boundless, Not Selective
+*Illuminates: [[concepts/guru-kripa]], [[entities/mahaguru]], [[stories/renu-gurudev-confrontation-on-love]]*
+
+> Love is more than an emotion. It is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few.
+> — *Witnessing Greatness*, Ch.6, p.80
+
+Offered as the narrator's gloss after Gurudev's response to Renu ji — who confronted him about his absence from family life. Radiation is used precisely because it does not select: it propagates in all directions, penetrates barriers, and is not depleted by the act of spreading. A fragrance complements this: it does not choose whom it reaches. The analogy reframes Renu ji's grievance: Gurudev's love was not withheld from her — it was structurally incapable of exclusion. Understanding this distinction required Gurudev's passing. See [[stories/renu-gurudev-confrontation-on-love]].
+
+---
+
+### The Bichoo Booti Root — Cure Within the Problem
+*Illuminates: [[stories/nitu-bichoo-booti-nature-cure]], [[concepts/intent-as-healing]]*
+
+> "Son, nature has a cure for everything. All you have to know is where to look for it."
+> — Gurudev (to Nitu ji), *Witnessing Greatness*, Ch.6, p.83
+
+The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the remedy in its roots. The physical episode is also a teaching metaphor: the cure is not elsewhere, it is within the source of the wound itself. This maps onto Gurudev's broader healing teaching — the operative agent (consciousness, nature) is already present; discernment of *where to look* is the only requirement.
+
+---
+
 ### Vessel Consciousness in Healing
 *Illuminates: [[concepts/non-doership]], [[concepts/intent-as-healing]], [[practices/seva]]*
 

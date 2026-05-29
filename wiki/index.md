@@ -403,6 +403,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the paradox that giving up the wheel of body, wealth, and mind to the guru produces not subservience but a self that cannot be dominated
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
+- [[blog/2026-05-29-aura|2026-05-29 — The Currency You Cannot Count]] — Aura: the bioelectric shield that is also your only cross-lifetime currency
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 
 ---

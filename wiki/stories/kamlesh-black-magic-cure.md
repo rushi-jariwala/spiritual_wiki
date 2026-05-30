@@ -18,6 +18,17 @@ updated: 2026-04-17
 
 *Aatma Sutra*, Ch.IV, "Black Magic on Aura", pp.47–48.
 
+## Brief Mention — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 alludes to the same incident in two sentences, without the bangle or glass details:
+
+> A disturbing instance is the case of a young girl named Kamlesh from Gurgaon, who unknowingly drank sherbet mixed with a harmful taweez. The consequences could have been dire if the mahaguru had not intervened in a timely manner.
+> — *Witnessing Greatness*, Ch.7, p.93
+
+The WG account specifies sherbet as the medium (vs. rose milk in the *Aatma Sutra* version). The brevity here reflects the chapter's illustrative rather than narrative purpose — the chapter is focused on water as a spiritual medium, not on the healing episode itself.
+
+> [!warning] **Medium discrepancy**: WG says sherbet; *Aatma Sutra* says rose milk. These may be the same substance described differently, or two separate incidents involving Kamlesh. Unresolved.
+
 ## Cross-Source Variant — *The Guru of Gurus*
 
 *The Guru of Gurus* (Healing chapter, pp.224–225) contains a parallel account of the same episode, narrated by Hingori. Key differences:

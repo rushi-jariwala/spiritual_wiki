@@ -2,10 +2,10 @@
 title: Hingori's Arthritis Cure
 type: story
 tags: [hingori, mahaguru, healing, miracle, conversion]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]", "[[concepts/spiritual-attacks]]", "[[concepts/senses-management]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-05-30
 ---
 
 # Hingori's Arthritis Cure
@@ -23,6 +23,8 @@ Told in Hingori's own voice in the section "A Personal Tale" (*Karma Sutra*, Ch.
 *Karma Sutra*, Ch.1, "A Personal Tale," p.13.
 
 > [!tip] *Aatma Sutra* Ch.IV (p.47) reveals the origin: "I too was a victim of black magic, transmitted to me through a *peda* (an Indian sweetmeat). This led me to suffering from rheumatoid arthritis for several years, which was eventually cured by Gurudev." A disciple had a vision of the culprit and the method of the attack.
+
+> [!tip] *Witnessing Greatness* Ch.7 (p.92) adds specificity: white pedas (plural) were used as the medium, charged with negativity through specific rituals and reverse mantras. The chapter notes that light-coloured foods are particularly receptive to such energies — this episode is used as a practical warning to add turmeric or black pepper to white foods as a precaution. See [[concepts/spiritual-attacks]] and [[concepts/senses-management]].
 
 ## *Guru Sutra* Ch.5 — The Fuller Account (pp.35–37)
 

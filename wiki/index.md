@@ -404,6 +404,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
+- [[blog/2026-05-30-vairagya|2026-05-30 — Belonging to All, Owned by None]] — Vairagya: detachment as the knot beneath every bond; Gurudev's love-as-radiation that could not be parcelled; and what a cold sweater taught about false ego
 
 ---
 

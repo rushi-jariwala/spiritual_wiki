@@ -1,7 +1,7 @@
 ---
 title: Quotes on Healing
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
 updated: 2026-04-26
@@ -36,3 +36,17 @@ updated: 2026-04-26
 > "The disease that medicine could not cure was cured by him through touch or stare. A lifetime of suffering in an instant removed, by the intent of this healer extraordinaire."
 > — Hingori, *The Guru of Gurus*, p.219
 [[entities/mahaguru]] · [[concepts/spiritual-healing]] · [[concepts/intent-as-healing]]
+
+## *Witnessing Greatness* Ch.7 — Water and Healing
+
+> Water, often described as the planet's lifeblood, reflects the emotions and intentions of those interacting with it. Despite retaining its chemical composition, water's molecular structure can change, manifesting its dual potential to heal and harm.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+[[concepts/spiritual-healing]] · [[concepts/mantra-transfer]]
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (sharing sipped water with a disciple), *Witnessing Greatness*, Ch.7, p.93
+[[concepts/mantra-transfer]] · [[entities/mahaguru]]
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+[[entities/mahaguru]] · [[concepts/senses-management]]

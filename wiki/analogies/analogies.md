@@ -440,6 +440,19 @@ Worldly markers — elite education, social prestige, professional success — a
 
 ---
 
+### The Two Paths at Death — Plain vs. Attractive
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+Gurudev taught that at the moment of death, evolved spirits reach a crossway. One path looks enticing and beautiful; the other is simple and plain. Ordinary instinct would favour the attractive path. Gurudev advised the opposite: the simpler, plainer path leads to higher spiritual dimensions, while the attractive path misleads and keeps the spirit anchored in lower realms.
+
+> He often spoke of choices that await us in the afterlife. He talked about two paths: one that looks enticing and another that is simple and plain. Unlike what most believe, he advised us to choose the plain path.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+[[concepts/loks]] · [[concepts/senses-management]]
+
+Hingori's own visits to three realms confirmed this: the two higher realms were "bright yet sparsely inhabited" — understated, almost austere; the lower realm felt "like a dark, seedy nightclub" — vivid, crowded, and pulling. Sense-attraction, even at the threshold of death, is the snare.
+
+---
+
 ## Practice & Evolution
 
 ### Seva as Multilevel Marketing

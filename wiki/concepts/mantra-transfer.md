@@ -120,6 +120,7 @@ Mantras lower blood pressure, heart rate, and respiration rate; increase oxygen 
 ## Cross-references
 
 - [[concepts/intent-as-healing]] — the guru's intent as the active spiritual force; mantra transfer is an extension of the same principle
+- [[stories/gurudev-jal-mantra-transfer]] — Gurudev's sipped-water practice as a direct vehicle for mantra transfer; "I've transferred 10,000 recitations of this mantra to you"
 - [[concepts/guru-disciple]] — the framework within which transfer occurs; relationship precedes transfer; gurukul system (Ch.3) gives the broader educational context for mantra practice
 - [[concepts/tantra]] — mantra vidya as a discipline within tantra; asana requirements, macrocosmic/microcosmic principle, and diminished ancient efficacy treated in *Guru Sutra* Ch.3
 - [[concepts/ulta-guru]] — transfer is one expression of Gurudev serving disciples rather than the reverse

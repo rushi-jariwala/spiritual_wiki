@@ -36,8 +36,19 @@ This is the teaching embedded in the story. Gurudev did not explain it. He demon
 
 This story is narrated by Renu ji, Gurudev's daughter, who witnessed it on a trip to Mussoorie. She was also the one who had earlier complained to Mataji about her father spending more time with visitors than with his family — and received Mataji's famous response: *"if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"* This story is her subsequent lesson in the same principle, seen at table.
 
+## Cross-Source Note — Witnessing Greatness Ch.7
+
+*Witnessing Greatness* Ch.7 (p.92) reprises the same Punjabi teaching in a different domestic context. Here, Renu ji recounts that Indu Sharma ji — "a central figure in the Gurgaon kitchen who was as devoted as a daughter to Gurudev" — noticed Gurudev had not eaten his dinner the previous night and urged him to have a hearty lunch:
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev to Indu Sharma ji, *Witnessing Greatness*, Ch.7, p.92
+
+The setting in WG Ch.7 is Gurgaon (not Mussoorie), and the occasion is Indu ji's concern for Gurudev's missed dinner rather than the subzi-sharing episode. The core teaching — and the Punjabi formulation — is identical. The two tellings reinforce each other: the phrase was not a one-off remark but a consistent expression of a lived principle.
+
 ## Related Concepts
 
 - [[entities/mahaguru]] — the living teaching; service as the governing principle even at mealtime
 - [[concepts/seva]] — nisvarth seva extends to the smallest domestic act
+- [[concepts/senses-management]] — food as spiritual territory; mastery over taste as a dimension of seva
 - [[concepts/karmayoga]] — feeding as an act of karma; the pleasure of giving as a karmic instrument

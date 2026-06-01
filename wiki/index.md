@@ -125,7 +125,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 
@@ -375,6 +375,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's unhurried investigation; cure from the plant's own roots; "nature has a cure for everything"
 - [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
 - [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
+- [[white-pedas-arthritis-origin]] — White pedas charged through rituals and reverse mantras; the origin of Hingori's arthritis; light-coloured foods as receptive to subtle energy; turmeric/pepper as pre-empt
+- [[gurudev-jal-mantra-transfer]] — Gurudev sips water and passes the rest to transfer mantra recitations; Guru Purnima foot-washing water drunk as elixir; water's dual potential to heal and harm
 
 ---
 

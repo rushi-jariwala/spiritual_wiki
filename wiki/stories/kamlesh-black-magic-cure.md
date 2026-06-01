@@ -31,9 +31,18 @@ updated: 2026-04-17
 
 > [!warning] "Mohna" vs "Mohan Chira ji" — two first-person Hingori accounts give different names for the disciple who assembled the glass pieces. Do not resolve speculatively.
 
+## Cross-Source Brief Mention — Witnessing Greatness Ch.7
+
+*Witnessing Greatness* Ch.7 (p.87) references the same case in a single sentence within the chapter's broader discussion of water as a spiritual medium:
+
+> A disturbing instance is the case of a young girl named Kamlesh from Gurgaon, who unknowingly drank sherbet mixed with a harmful taweez. The consequences could have been dire if the mahaguru had not intervened in a timely manner.
+
+The WG Ch.7 account uses "sherbet" where *Aatma Sutra* specifies "rose milk"; both describe a liquid drink containing a taweez. The WG mention is illustrative rather than narrative — it appears as a supporting example for the principle that water/liquids can carry negative energies, and that Gurudev's intervention was timely and decisive.
+
 ## Related Concepts & Entities
 
 - [[concepts/aura]] — black magic as targeted aura attack; the *sthan*'s spiritual power as counter-force
 - [[concepts/spiritual-healing]] — expulsion of physical carriers of dark energy as a documented healing mode
+- [[concepts/tantra]] — taweez as a vehicle for negative tantric practice
 - [[entities/hingori]] — eyewitness narrator
 - [[entities/mahaguru]] — whose disciples treated Kamlesh and who personally extracted the *taveez*

@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-02 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,71 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Scientific framing for Maya**: the chapter opens with empirical facts about sensory limitation (electromagnetic spectrum, audible frequency range, atomic composition of matter) as the modern corroboration of the ancient maya concept. Human perception is approximately 0.00000000000035% of the electromagnetic spectrum. This positions sense mastery not as religious austerity but as rational epistemics.
+- **Gurudev's food journey in new testimonies**: Alka ji ("Daddy"), Puran ji, and Raji Sharma ji each provide fresh attestations of Gurudev's non-attachment to food — confirming that the detachment was total, not occasional. Alka ji's framing is theologically precise: *"For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."*
+- **Food as spiritual medium**: Indian philosophy holds that a cook's emotions and intentions transfer into their cooking. Temple cooks are selected for this reason. Hingori illustrates with two personal anecdotes: Sitaram the domestic helper (whose coarse language transferred into Hingori's speech via his cooking) and white pedas charged with negative energy that caused Hingori's arthritis (the backstory previously attributed only to "a peda" in other sources). Light-colored foods are especially receptive; turmeric/pepper can pre-empt negative energy in such foods.
+- **Water as spiritual medium**: water's molecular structure responds to intention without changing its chemical composition. Gurudev used sipped water to transmit shakti and even completed mantra recitations ("I've transferred 10,000 recitations of this mantra to you"). Guru Purnima feet-washing water was drunk by disciples as a blessing vehicle.
+- **Scanning before eating**: the WG version of the Bittu ji dialogue explicitly describes the scanning Gurudev performed before every meal — checking that every spiritual child was fed first — adding the *method* behind the principle already documented in *The Guru of Gurus*.
+- **Sensory sovereignty in sight**: Virender ji's testimony summarises Gurudev's mastery with precision: *"He wasn't attracted by money or women or praise. Nothing affected him."* The budiya/gudiya technique and Hingori's skeleton visualisation are given fuller context.
+- **Two afterlife paths**: Gurudev warned that sensory preference persists after death and can misroute the spirit — the attractive path leads to lower realms; the plain path leads to higher ones. Hingori's personal vision of three realms (two higher = bright/sparse, one lower = "dark, seedy nightclub") corroborates this.
+- **Gurudev's music journey**: from whistling and mouth organ (Binaca Geet Mala era) to hearing Hingori's argument from Chandigarh while in Gurgaon — the sense of hearing evolved from pleasure to a spiritual instrument.
+- **Influence over others' physical sensations**: the WG Mungaoli sweater account adds a crucial detail: Gurudev's single question stopped Hingori's uncontrollable shivering — demonstrating that his mastery of physical sensation extended outward to those around him.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji (Gurudev's daughter), *Witnessing Greatness*, Ch.7, p.90
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> [When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.]
+> — Gurudev (recalled by Renu ji, on Indu Sharma ji's prompting), *Witnessing Greatness*, Ch.7, p.92
+
+> "Water, often described as the planet's lifeblood, reflects the emotions and intentions of those interacting with it."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (on sharing sipped water), *Witnessing Greatness*, Ch.7, p.94
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.93
+
+> "This experience taught me that our senses, though strong, can be influenced in ways we might not realise."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.96
+
+## Stories Extracted (Ch.7)
+
+Enrichment passes on existing pages:
+- [[stories/gurudev-not-eating-hungry-disciples]] — WG Ch.7 adds the active scanning dialogue; updates source
+- [[stories/mungaoli-sweater-incident]] — WG Ch.7 adds "Why did you do that?" coda; updates source
+- [[stories/hingori-arthritis-cure]] — WG Ch.7 specifies white pedas + reverse mantras; turmeric/pepper remedy
+
+Short anecdotes kept inline in [[concepts/senses-management]] (WG Ch.7 section):
+- Sitaram cook energy transfer → inline
+- Renu ji / Indu Sharma ji anecdote → inline (quote block)
+- Chandigarh→Gurgaon road trip hearing → inline
+- Kamlesh/sherbet taweez (brief one-sentence reference) → inline in [[concepts/food-and-water-energy]]
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/food-and-water-energy]] — new concept page: food carries preparer's energy; light-colored foods susceptible to negative energy; water's molecular structure responds to intention; jal as healing medium; sipped water transmission
+
+Enrichments of existing concepts:
+- [[concepts/senses-management]] — major WG Ch.7 section added: scientific Maya framing, new testimonies on taste, Virender ji quote, music journey, road trip hearing, Mungaoli detail, two afterlife paths
+- [[concepts/maya]] — WG Ch.7 electromagnetic spectrum figure cross-referenced (distinct from Aatma Sutra's 0.00000000005% figure)
+- [[wiki/analogies/analogies]] — two new analogies added: electromagnetic spectrum framing, attractive/plain afterlife paths
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **Two different electromagnetic spectrum figures across sources**
+> *Aatma Sutra* Ch.VII (p.77) gives the visible light fraction as "less than 0.00000000005% of the entire electromagnetic spectrum." *Witnessing Greatness* Ch.7 gives the figure as "about 0.00000000000035%." Both numbers are orders of magnitude beyond what standard science cites (~0.0035% for the visible range), suggesting both are rhetorical approximations rather than precise citations. The direction of the argument — human perception captures an infinitesimally small fraction — is consistent across both. No theological contradiction; a numerical inconsistency in popularised science citations.
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

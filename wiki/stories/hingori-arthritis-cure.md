@@ -2,7 +2,7 @@
 title: Hingori's Arthritis Cure
 type: story
 tags: [hingori, mahaguru, healing, miracle, conversion]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]"]
 created: 2026-04-12
 updated: 2026-04-12
@@ -38,6 +38,15 @@ At the time Hingori viewed spiritualism as "meant for nerds," gurus as "escape a
 
 The deliberate partial cure — Gurudev curing only 95% — is Hingori's retrospective evidence that Gurudev could see the full line of Hingori's future and acted accordingly. Not a failure of healing but a calculated hook.
 
+## *Witnessing Greatness* Ch.7 — The Specific Vehicle
+
+The *Aatma Sutra* note identifies the vehicle as "a peda." *Witnessing Greatness* Ch.7 specifies it further: white pedas were charged with negative energy through specific rituals and **reverse mantras**, then delivered to Hingori as apparently innocent sweetmeats.
+
+> Before my life-changing experience with Gurudev, I fell victim to such negative influences. Someone used white pedas to channel harmful energy towards me. These innocent-looking sweetmeats were charged with negativity through specific rituals and reverse mantras, contributing to my development of severe arthritis.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.92
+
+The chapter also offers a preventive remedy: adding turmeric or black pepper to white or light-coloured foods changes their colour and pre-empts the impact of any potential negative energy. See [[concepts/food-and-water-energy]] for the broader principle.
+
 ## Related Concepts & Entities
 
 - [[entities/hingori]] — whose story this is
@@ -45,3 +54,5 @@ The deliberate partial cure — Gurudev curing only 95% — is Hingori's retrosp
 - [[concepts/guru-disciple]] — the relationship inaugurated by this event
 - [[practices/seva]] — the obligation the healing created
 - [[concepts/karma]] — the "karmically wealthier existence" he entered
+- [[concepts/food-and-water-energy]] — white pedas as a vehicle for black magic; the energetic vulnerability of light-coloured foods
+- [[concepts/tantra]] — reverse mantras used to charge the pedas with harmful intent

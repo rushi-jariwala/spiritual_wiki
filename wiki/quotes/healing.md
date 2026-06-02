@@ -1,7 +1,7 @@
 ---
 title: Quotes on Healing
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
 updated: 2026-04-26
@@ -36,3 +36,15 @@ updated: 2026-04-26
 > "The disease that medicine could not cure was cured by him through touch or stare. A lifetime of suffering in an instant removed, by the intent of this healer extraordinaire."
 > — Hingori, *The Guru of Gurus*, p.219
 [[entities/mahaguru]] · [[concepts/spiritual-healing]] · [[concepts/intent-as-healing]]
+
+---
+
+## Water and Jal (*Witnessing Greatness* Ch.7)
+
+> "Water, often described as the planet's lifeblood, reflects the emotions and intentions of those interacting with it. Despite retaining its chemical composition, water's molecular structure can change, manifesting its dual potential to heal and harm."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+[[concepts/food-and-water-energy]] · [[concepts/spiritual-healing]]
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (on passing sipped water to a disciple), *Witnessing Greatness*, Ch.7, p.94
+[[entities/mahaguru]] · [[concepts/mantra-transfer]] · [[concepts/food-and-water-energy]]

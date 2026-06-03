@@ -26,6 +26,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the three-fold offering of body, wealth, and mind; the paradox that total surrender produces not subservience but a self that cannot be dominated
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why the seers could read it, how the guru softens its impact, and why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-06-02-vairagya|2026-06-02 — We Are Fakirs]] — Vairagya: how detachment within the householder life works; the love that belonged to no one and therefore reached everyone
+- [[blog/2026-06-03-self-acceptance|2026-06-03 — You Are My Painting]] — Self-acceptance: refusing the verdict of the societal mirror, dissolving guilt through non-doership and destiny, and learning not to judge a life at its cross-section
 
 ---
 
@@ -68,3 +69,6 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `mungaoli-sweater-incident` — vairagya (2026-06-02)
 - `gurudev-drawing-room-fakirs` — vairagya (2026-06-02)
 - `renu-gurudev-confrontation-on-love` — vairagya (2026-06-02)
+- `rabia-of-basra-sufi-saint` — self-acceptance (2026-06-03)
+- `hingori-neena-two-guilts` — self-acceptance (2026-06-03)
+- `rajeev-alcoholic-to-saint` — self-acceptance (2026-06-03)

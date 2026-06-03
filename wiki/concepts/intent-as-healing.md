@@ -2,7 +2,7 @@
 title: Intent as Healing
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
+related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[concepts/food-and-water-as-medium]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
 created: 2026-04-26
 updated: 2026-05-28
 ---

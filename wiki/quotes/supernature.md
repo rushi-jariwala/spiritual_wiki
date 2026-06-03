@@ -2,9 +2,9 @@
 title: Quotes — Supernature
 type: quote-collection
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[concepts/senses-management]]", "[[entities/mahaguru]]"]
 created: 2026-04-27
-updated: 2026-05-20
+updated: 2026-06-03
 ---
 
 # Quotes — Supernature
@@ -150,3 +150,11 @@ Quotes from *The Guru of Gurus*, Chapter 07: Supernature (pp.231–248).
 > If one individual can manifest as Shiv, what might you, too, be capable of achieving?
 > — Hingori, *Witnessing Greatness*, Ch.3, p.48
 [[concepts/supernature]] · [[concepts/maya]] · [[entities/mahaguru]]
+
+---
+
+## *Witnessing Greatness* Ch.7 — Sensory Mastery and Self-Discipline
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+[[entities/mahaguru]] · [[concepts/senses-management]]

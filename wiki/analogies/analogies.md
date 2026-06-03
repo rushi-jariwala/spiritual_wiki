@@ -1406,3 +1406,25 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Lower Realm as Seedy Nightclub
+*Illuminates: [[concepts/loks]], [[concepts/maya]], [[concepts/senses-management]]*
+
+> My journeys through three distinct realms — two higher and one lower — brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Hingori's personal experience translates the abstract lok framework into immediate sensory terms. The nightclub — dim, loud, pleasure-seeking, crowded with people absorbed in sensation — maps precisely onto the lower lokas: darker, denser, dominated by rajas and tamas. The higher lokas are bright but thinly populated; they require a lightness of being that fewer souls manage. The analogy works in both directions: it makes the loks tangible, and it reframes the nightclub as a spiritual category, not just a social venue.
+
+---
+
+### The Reservation Manager for Higher Realms
+*Illuminates: [[concepts/loks]], [[entities/hingori]], [[concepts/guru-disciple]]*
+
+> Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Hingori's wry self-description — the spiritual teacher as *reservation manager* — illuminates the scarcity problem of the higher lokas: they are real, they are accessible, but very few souls qualify. The teacher's job is not to fill the lower levels (gravity does that) but to steer students toward the less-trafficked upper floors of the cosmic building. The humour in the image — a reservation desk for a place nobody is in a hurry to book — is the teaching itself.
+

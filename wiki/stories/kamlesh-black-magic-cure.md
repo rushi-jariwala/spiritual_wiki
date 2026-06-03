@@ -1,10 +1,10 @@
 ---
 title: Kamlesh's Black Magic Cure
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/aura]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/aura]]", "[[concepts/food-and-water-as-medium]]", "[[concepts/spiritual-attacks]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-06-03
 ---
 
 # Kamlesh's Black Magic Cure
@@ -31,9 +31,22 @@ updated: 2026-04-17
 
 > [!warning] "Mohna" vs "Mohan Chira ji" — two first-person Hingori accounts give different names for the disciple who assembled the glass pieces. Do not resolve speculatively.
 
+## Cross-Source Variant — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 references the same Kamlesh in the context of water and food as energy mediums:
+
+> A disturbing instance is the case of a young girl named Kamlesh from Gurgaon, who unknowingly drank sherbet mixed with a harmful taweez. The consequences could have been dire if the mahaguru had not intervened in a timely manner.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+
+This brief mention identifies the medium as sherbet — consistent with the rose milk described in *Aatma Sutra* — and frames the intervention as timely rather than prolonged. Whether this refers to the same episode described in *Aatma Sutra* (months of vomiting glass bangles) or a separate incident is not clear; the *Witnessing Greatness* account implies a more acute, swifter intervention.
+
+> [!warning] Cross-source ambiguity: *Aatma Sutra* describes a months-long process of vomiting glass bangles; *Witnessing Greatness* Ch.7 implies a timely intervention. These may be different incidents or different stages of the same case.
+
 ## Related Concepts & Entities
 
 - [[concepts/aura]] — black magic as targeted aura attack; the *sthan*'s spiritual power as counter-force
+- [[concepts/food-and-water-as-medium]] — sherbet/liquid as a vehicle for the taweez; water's receptivity to negative energy
+- [[concepts/spiritual-attacks]] — food/liquid as a conduit for dark energy directed at a target
 - [[concepts/spiritual-healing]] — expulsion of physical carriers of dark energy as a documented healing mode
 - [[entities/hingori]] — eyewitness narrator
 - [[entities/mahaguru]] — whose disciples treated Kamlesh and who personally extracted the *taveez*

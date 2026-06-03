@@ -1,10 +1,10 @@
 ---
 title: Loks
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-06-03
 ---
 
 # Loks
@@ -123,6 +123,15 @@ From Hingori's personal visits (see [[stories/hingori-lok-visits]]):
 - Evolved souls who descended to Earth with Gurudev wear a **slightly cream** toga.
 
 > [!question] The colour-coding is offered tentatively ("I suspect") and derives from a single set of visits. It is an observation, not a doctrine.
+
+## First-Person Account — Three Realms
+
+*Witnessing Greatness* Ch.7 adds Hingori's compact first-person description of his experiences across multiple realms:
+
+> My journeys through three distinct realms — two higher and one lower — brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub. Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+This account corroborates *Aatma Sutra*'s lok framework: upper loks are brighter but less densely populated; lower loks are darker and more crowded. The nightclub metaphor anchors the lower realm's quality in contemporary terms — dimly lit, sensory, dominated by the pleasures that trap the soul. Hingori's wry remark about being a *"reservation manager for the thinly populated higher realms"* is a recurring self-description of his role as a teacher steering disciples toward less-trafficked, higher destinations.
 
 ## Method of Ascent — Spiritual Ballooning
 

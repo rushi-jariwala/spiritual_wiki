@@ -2,10 +2,10 @@
 title: Hingori's Arthritis Cure
 type: story
 tags: [hingori, mahaguru, healing, miracle, conversion]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]", "[[concepts/food-and-water-as-medium]]", "[[concepts/spiritual-attacks]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-06-03
 ---
 
 # Hingori's Arthritis Cure
@@ -38,6 +38,22 @@ At the time Hingori viewed spiritualism as "meant for nerds," gurus as "escape a
 
 The deliberate partial cure — Gurudev curing only 95% — is Hingori's retrospective evidence that Gurudev could see the full line of Hingori's future and acted accordingly. Not a failure of healing but a calculated hook.
 
+## Cross-Source Enrichment — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 adds specific detail about the attack that caused the arthritis:
+
+> Before my life-changing experience with Gurudev, I fell victim to such negative influences. Someone used white pedas to channel harmful energy towards me. These innocent-looking sweetmeats were charged with negativity through specific rituals and reverse mantras, contributing to my development of severe arthritis.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.92
+
+The WG account specifies:
+- **The vehicle**: white pedas (a traditional Indian sweet)
+- **The method**: charged through rituals and reverse mantras
+- **Why white foods**: light-coloured foods are particularly receptive to subtle energies, making them effective carriers for both positive and negative intent
+
+This detail was not present in *Karma Sutra* or *Guru Sutra*, which refer only to "a peda" or "black magic performed by a temple priest." *Witnessing Greatness* adds the ritual charging methodology. Hingori drew a practical lesson from his own experience: he advises adding turmeric or black pepper to white or light-coloured foods to change their colour and pre-empt any potential negative energy.
+
+See [[concepts/food-and-water-as-medium]] for the full framework.
+
 ## Related Concepts & Entities
 
 - [[entities/hingori]] — whose story this is
@@ -45,3 +61,5 @@ The deliberate partial cure — Gurudev curing only 95% — is Hingori's retrosp
 - [[concepts/guru-disciple]] — the relationship inaugurated by this event
 - [[practices/seva]] — the obligation the healing created
 - [[concepts/karma]] — the "karmically wealthier existence" he entered
+- [[concepts/food-and-water-as-medium]] — white pedas as energy vehicle; food's receptivity to negative intent
+- [[concepts/spiritual-attacks]] — the peda attack as a documented method of harm

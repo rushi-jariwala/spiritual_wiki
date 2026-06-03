@@ -1,10 +1,10 @@
 ---
 title: Mantra Transfer
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[concepts/food-and-water-as-medium]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-03
 ---
 
 # Mantra Transfer
@@ -101,6 +101,21 @@ The Mahashivratri jal:
 - Can be stored for years without smelling bad
 - Retains potency even after being diluted three times
 - During Gurudev's time, people queued for hours for a bottle
+
+### Sipped Water as Transfer — *Witnessing Greatness* Account
+
+*Witnessing Greatness* Ch.7 describes Gurudev's use of sipped water in explicit terms:
+
+> He would sometimes sip from a glass of water and then pass the rest to someone else. This act was a way of sharing his spiritual energy and qualities with the other person, sometimes to cure and sometimes to help them on their spiritual journey. For example, he often gave his disciples mantras by sharing his sipped water with them, saying, "I've transferred 10,000 recitations of this mantra to you". Such statements signified that he was imparting some of his extensive spiritual practices, such as mantra chanting, to bolster their spiritual development.
+> — Hingori, *Witnessing Greatness*, Ch.7, pp.93–94
+
+The phrasing *"10,000 recitations"* makes the transfer explicit as a specific quantity of accumulated spiritual practice — not a generalised blessing but a discrete allocation from Gurudev's own account.
+
+### Guru Purnima Foot-Washing Tradition
+
+On special days such as Guru Purnima, a distinct tradition at the sthans involved disciples washing Gurudev's feet with water. The disciples would then drink this water, infused with his spiritual energy — a way to receive the mahaguru's blessings and deepen their bond with him.
+
+> [!tip] This is the reverse direction of ordinary mantra transfer: not the guru transmitting through his own sipped water, but the disciples receiving blessings through water that had touched the guru's body. The underlying principle — water as carrier of spiritual energy — is identical. See [[concepts/food-and-water-as-medium]].
 
 ### Water as a Healer
 

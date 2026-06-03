@@ -91,6 +91,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
+- [[food-and-water-as-medium]] — Food and water as energy conduits; preparer's consciousness transfers to food; white foods susceptible to black magic; sipped water as mantra vehicle; protective spices
 
 ---
 
@@ -374,6 +375,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[gurudev-farm-animals-khandsa]] — Khandsa farm; Gurudev names each cow and buffalo (Kali, Ganga, Jamuna); long-distance calls from America about farm animals
 - [[nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's unhurried investigation; cure from the plant's own roots; "nature has a cure for everything"
 - [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
+- [[gurudev-bittu-feeds-spiritual-children]] — Bittu ji questions Gurudev's reluctance to eat; the inner scan: "I shut my eyes and scan to ensure all my spiritual children have been fed"
 - [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
 
 ---

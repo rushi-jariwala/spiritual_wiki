@@ -2,10 +2,10 @@
 title: Bittu Ji
 type: entity
 tags: [disciple, inner-circle]
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/ulta-guru]]", "[[concepts/nisvarth-seva]]", "[[stories/elderly-couple-van-rescue]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[concepts/ulta-guru]]", "[[concepts/nisvarth-seva]]", "[[concepts/senses-management]]", "[[stories/elderly-couple-van-rescue]]", "[[stories/gurudev-bittu-feeds-spiritual-children]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-03
 ---
 
 # Bittu Ji
@@ -27,6 +27,8 @@ Bittu ji drove Gurudev to and from the office, managed logistics at Khandsa farm
 - **The farm blisters.** At Khandsa, when Bittu ji raised Gurudev's farm work as a health concern, Gurudev explained his reasoning in a phrase that became one of his clearest articulations of seva through the body.
 
 - **Khandsa road trip cold drinks.** Gurudev would stop road-trip cars at dhabas to buy cold drinks for his disciples, serving them while sitting in the vehicle rather than accepting service himself. Bittu ji is one of the witnesses to this inversion of convention.
+
+- **The scanning before eating.** *Witnessing Greatness* Ch.7 records Bittu ji noticing that Gurudev would repeatedly bring food to his mouth and set it down uneaten. Bittu ji questioned him, pointing out that Gurudev himself taught that food deserves respect. Gurudev explained: *"Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."* See [[stories/gurudev-bittu-feeds-spiritual-children]].
 
 - **Burns healed via dream.** After sustaining severe burns in a house fire, the mahaguru appeared in Bittu ji's dream, spoke to him, and offered him sipped water. Within a week, his scorched skin flaked off and he was able to walk. His vision was reportedly restored following third-degree burns. See [[stories/bittu-burns-healing-dream]].
 

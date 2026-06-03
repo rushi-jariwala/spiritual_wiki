@@ -1,10 +1,10 @@
 ---
 title: Senses Management
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[concepts/food-and-water-as-medium]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-03
 ---
 
 # Senses Management
@@ -31,6 +31,10 @@ The brain has no direct interface with the outside world. It interprets electroc
 
 The mahaguru's formula for dealing with the opposite gender: imagine every attractive woman simultaneously in her *gudiya* (child) and *budiya* (aged) forms to accurately evaluate attraction. Hingori went further, visualising every woman he met as a skeleton — insurance against untoward desire that also revealed *"beauty was literally in the mind of the beholder."*
 
+Gurudev taught that the eyes are not merely windows to the soul but can attract and emit energy. Excessive focus on the opposite gender, he cautioned, drains spiritual energy and weakens the aura. Virender ji's testimony encapsulates what those close to him observed: *"In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."*
+
+Gurudev never wore cologne. He felt that true spiritual growth meant not being swayed by life's dualities — not being overly drawn to beauty or repulsed by its absence.
+
 Gurudev stated that when evolved spiritualists die, their spirits arrive at a crossway — one path leads to lovely-looking lower lokas, the other to plainer-looking higher lokas. The pursuit of beauty can land a spirit in a lower realm.
 
 ### Smell
@@ -48,17 +52,29 @@ He also recommended fasting once a week as a detox that reduces bodily secretion
 
 An anecdote illustrates sensory management through taste: Gurudev once visited an associate's home with disciples. The associate and wife were absent; their eight-year-old daughter offered to make tea and brewed it on a kerosene stove. Upon leaving, the mahaguru gave his disciples a sharp mouthful for barely sipping the kerosene-smelling tea: *"Is it possible they lost a lot because they could not bear a little?"*
 
+*Witnessing Greatness* Ch.7 gives the most intimate picture of Gurudev's relationship with food. He accepted any vegetarian dish regardless of freshness, often picking up previous-day food when fresh options were available. Puran ji, who spent years in his company: *"Gurudev readily accepted any vegetarian food cooked for him, no matter how simple. He never demanded particular dishes. His spiritual path had overshadowed his physical needs."* Alka ji adds: *"For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."* See [[concepts/food-and-water-as-medium]].
+
+Gurudev would sometimes go days with only tea and no food. Raji Sharma ji recalls: *"Whether it was parathas, a slice of bread, or even mathi with tea, he gracefully accepted everything. While he had a soft spot for certain snacks such as gol-gappas, he was not driven by cravings."*
+
+Most strikingly, he would sometimes bring food to his mouth and then set it down uneaten. When Bittu ji challenged him on this apparent contradiction of his own teaching about respecting food, Gurudev explained: *"Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."* See [[stories/gurudev-bittu-feeds-spiritual-children]].
+
+Renu ji recalls the Punjabi phrase Gurudev offered Indu Sharma ji — the devoted woman who ran the Gurgaon kitchen — when she worried he had missed dinner: *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda"* — when one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.
+
 ### Hearing
 
 The sense of hearing connects us to others in ways no other sense can. Gurudev discouraged idle talk and gossip. His discipline: develop discernment — intuitively hear the unsaid, and be selective in responding to what is heard. *"Do not believe anything we hadn't seen or heard for ourselves."*
 
 A celebrated anecdote on discernment: when a disciple denied a mistake in front of Gurudev, the mahaguru had Bittu ji fetch a sealed set of blank cassettes from a bedside cabinet and play the third one. Those seated heard the verbatim first-person conversation of the disciple bragging about the same 'mistake' he had vehemently denied. See [[stories/blank-cassette-disciple]].
 
-Gurudev liked Mohammed Rafi and radio in the car; over time his interest in music waned to the point where he could appreciate it without being drawn into it or drowning in its melody.
+Gurudev liked Mohammed Rafi and radio in the car; over time his interest in music waned to the point where he could appreciate it without being drawn into it or drowning in its melody. *Witnessing Greatness* Ch.7 adds: in his youth Gurudev enjoyed popular Hindi songs — whistling tunes and playing them on a mouth organ, particularly loving the black-and-white era classics from the radio show *Binaca Geet Mala*. His relationship with music evolved from pleasure to spiritual tool as he progressed; he came to *hear thoughts and perceive spoken words from great distances*.
 
-### Touch / Anger
+This clairaudient capacity revealed itself on a road trip Hingori took with his father from Chandigarh to Gurgaon — a journey *"fraught with tension, as we argued most of the way."* Upon arrival, Gurudev gently yet promptly admonished Hingori for his behaviour, fully aware of the entire exchange. *"His vigilance was such that nothing went unnoticed."*
+
+### Touch / Physical Sensation
 
 High temper in powerful spiritualists is attributable to the uprisen fire element owing to intense tapasya. Gurudev's method in early years at IARI: he sat in the corridor outside his office abusing passersby. When they retaliated, he smiled back — deliberately inciting abuse to test his resilience. He erased a strong emotion by inducing it until it lost its grip. *Lesser the emotion, more the stability of the mind.*
+
+*Witnessing Greatness* Ch.7 adds a dimension: Gurudev's mastery over physical sensation extended beyond his own body to those around him. While everyone at the hill camps layered themselves in woollens, Gurudev remained comfortable in merely a sweater. At the Mungaoli, Madhya Pradesh camp, Hingori had been wearing only a T-shirt despite the cold; when Gurudev returned, Hingori quickly put on a sweater out of social apprehension — and immediately began shivering uncontrollably. Gurudev's simple question, *"Why did you do that?"* miraculously stopped the shivering. *"This experience taught me that our senses, though strong, can be influenced in ways we might not realise."* See [[stories/mungaoli-sweater-incident]].
 
 ### Managing Sight — The Young Devotee's Tea
 
@@ -97,5 +113,8 @@ Sensory management is ultimately the method by which the jivaatma strips away th
 - [[concepts/gunas]] — tamas and rajas are fuelled by unmanaged senses; sattva grows as senses are controlled
 - [[concepts/role-play]] — Gurudev's observer stance is identical in senses and emotional management
 - [[concepts/maya]] — the personalised worldview sustained by unmanaged senses is maya
+- [[concepts/food-and-water-as-medium]] — food as spiritual medium; preparer's energy; food as vehicle for harm or healing
 - [[entities/mahaguru]] — Gurudev's life trajectory from foodie and would-be movie star to total sensory mastery
 - [[stories/blank-cassette-disciple]] — Gurudev's demonstration of supernormal hearing/discernment
+- [[stories/gurudev-bittu-feeds-spiritual-children]] — scanning spiritual children before eating; the inner roll-call
+- [[stories/mungaoli-sweater-incident]] — command over physical sensation of others; question that stopped shivering

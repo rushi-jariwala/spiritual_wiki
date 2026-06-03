@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-03 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -111,6 +111,48 @@ Short anecdotes kept inline:
 ## Contradictions / Tensions (Ch.6)
 
 None. The chapter is a biographical and anecdotal enrichment of existing material. The akashvani retelling specifies Santoksar Lake rather than Gurudwara Sri Santoksar Saheb — consistent with the existing note in the Ch.1 contradictions section (same location, slightly different description). No new tensions introduced.
+
+---
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya as sensory deception**: the chapter opens with empirical facts about human perceptual limitations (detecting only ~0.00000000000035% of the electromagnetic spectrum) to ground the concept of Maya in observable science. This is a direct application of the existing [[concepts/maya]] framework.
+- **Gurudev's mastery over each sense**: the chapter moves through taste, sight, hearing, and touch/physical sensation, using witness testimony to demonstrate how the mahaguru transcended each sense progressively — not through suppression but through a shift from actor to observer. Enriches [[concepts/senses-management]] substantially.
+- **Food and water as spiritual media**: the chapter's most original contribution. Food carries the preparer's energy; light-coloured foods are especially receptive to subtle forces; water's molecular structure can be altered by intent. Both are vehicles for healing (mantra-charged jal, sipped-water transfer) and harm (black magic through white pedas, taweez in sherbet). New concept page: [[concepts/food-and-water-as-medium]].
+- **Gurudev scans spiritual children before eating**: the Bittu ji dialogue reveals that Gurudev conducted an inner roll-call before every meal — refusing to eat until satisfied that all his spiritual children were fed. Extends the seva-as-omnipresence theme.
+- **Clairaudience at distance**: Gurudev admonished Hingori for an argument with his father during a Chandigarh–Gurgaon road trip without being present — heard the entire exchange from Gurgaon. Extends the hearing/discernment material in [[concepts/senses-management]].
+- **Control over physical sensation of others**: at the Mungaoli camp, Gurudev's single question stopped Hingori's uncontrollable shivering. Not just personal mastery but influence over the physical sensations of those around him.
+- **First-person realm descriptions**: Hingori describes two higher (bright, sparsely inhabited) and one lower (dark, seedy nightclub) realm from personal experience — corroborating the lok framework in [[concepts/loks]].
+
+## Notable Quotes (Ch.7)
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+- [[stories/gurudev-bittu-feeds-spiritual-children]] — Bittu ji challenges Gurudev on skipping food; inner scan reveals mahaguru checks all disciples are fed before eating
+
+Short anecdotes kept inline:
+- Road trip clairaudience (Chandigarh–Gurgaon argument) → inline in [[concepts/senses-management]] (Hearing section)
+- Indu Sharma ji feeding joy quote → inline in [[concepts/senses-management]] (Taste section)
+- Author's food energy experience (Sitaram) → inline in [[concepts/food-and-water-as-medium]]
+- Kamlesh sherbet/taweez → cross-source note added to [[stories/kamlesh-black-magic-cure]]
+- Mungaoli sweater/shivering → cross-source note added to [[stories/mungaoli-sweater-incident]]
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/food-and-water-as-medium]] — new concept page: food and water as energy conduits; preparer's consciousness; black magic via food; Gurudev's sipped-water transfer; Guru Purnima foot-washing
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] The Mungaoli sweater story has a minor cross-source discrepancy: *The Guru of Gurus* describes Hingori putting on a sweater he didn't need to avoid appearing to brag; *Witnessing Greatness* Ch.7 describes him wearing only a T-shirt initially and putting on a sweater when Gurudev returned out of apprehension. Both converge on the same lesson (social pretence corrected by Gurudev), but the starting condition differs slightly.
 
 ---
 

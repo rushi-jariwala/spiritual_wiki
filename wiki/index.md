@@ -403,6 +403,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the paradox that giving up the wheel of body, wealth, and mind to the guru produces not subservience but a self that cannot be dominated
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
+- [[blog/2026-06-04-guru-kripa|2026-06-04 — The Grace That Bites]] — Guru Kripa: why grace operates across all three bodies; the battle of wits that produced everything; nine lifetimes of being found
 - [[blog/2026-06-02-vairagya|2026-06-02 — We Are Fakirs]] — Vairagya: how detachment within the householder life works; the love that belonged to no one and therefore reached everyone
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 

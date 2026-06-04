@@ -1,10 +1,10 @@
 ---
 title: Kamlesh's Black Magic Cure
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/aura]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/aura]]", "[[concepts/jal]]", "[[concepts/spiritual-attacks]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-06-04
 ---
 
 # Kamlesh's Black Magic Cure
@@ -31,9 +31,20 @@ updated: 2026-04-17
 
 > [!warning] "Mohna" vs "Mohan Chira ji" — two first-person Hingori accounts give different names for the disciple who assembled the glass pieces. Do not resolve speculatively.
 
+## Cross-Source Reference — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 (p.93) mentions the same case in passing, in the context of water's dual potential to heal and harm:
+
+> "A disturbing instance is the case of a young girl named Kamlesh from Gurgaon, who unknowingly drank sherbet mixed with a harmful taweez. The consequences could have been dire if the mahaguru had not intervened in a timely manner."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+
+This brief reference frames the Kamlesh case as an example of *jal* — water/drink — as a vehicle for harmful energy, consistent with the chapter's teaching on the receptivity of light-coloured liquids to subtle energies. The full account is documented in the Aatma Sutra and Guru of Gurus versions above.
+
 ## Related Concepts & Entities
 
 - [[concepts/aura]] — black magic as targeted aura attack; the *sthan*'s spiritual power as counter-force
+- [[concepts/jal]] — water/sherbet as medium for a taweez; the chapter's teaching on light-coloured liquids and subtle energy
+- [[concepts/spiritual-attacks]] — taweez in a drink as a documented method of negative energy attack
 - [[concepts/spiritual-healing]] — expulsion of physical carriers of dark energy as a documented healing mode
 - [[entities/hingori]] — eyewitness narrator
 - [[entities/mahaguru]] — whose disciples treated Kamlesh and who personally extracted the *taveez*

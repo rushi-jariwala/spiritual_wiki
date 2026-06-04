@@ -105,7 +105,7 @@ The guru evaluates his disciples' progress and assesses how to further their spi
 
 For Gurudev, Guru Purnima marked the celebration of a custom. He allowed disciples to offer a set of nine clothes or accessories (*nau vastr*); alternatively, writing "9 clothes" on a yellow handkerchief and offering it was accepted as fulfilling the custom. Each disciple also offered a coconut wrapped in a handkerchief — in spiritual practices, the coconut symbolises the head, so offering it implies the surrender of one's self. Gurudev blessed and returned the coconut.
 
-Some disciples were allowed to wash Gurudev's feet and then drink the water, which was very potent since it contained his energy. This served as an elixir for many disciples, raising their consciousness. Ancient texts record that a generous guru needs to have an excess of energy in order to allow this custom, since it is tantamount to a sacrifice by the guru in favour of his chosen disciples.
+Some disciples were allowed to wash Gurudev's feet and then drink the water, which was very potent since it contained his energy. This served as an elixir for many disciples, raising their consciousness. Ancient texts record that a generous guru needs to have an excess of energy in order to allow this custom, since it is tantamount to a sacrifice by the guru in favour of his chosen disciples. *Witnessing Greatness* Ch.7 confirms this practice: disciples washed Gurudev's feet, then drank the water as a way to receive his blessings and deepen the bond. See [[concepts/jal]] for the broader treatment of water as spiritual medium.
 
 > [!warning] Some gurus exploit Guru Purnima by using it to accept money and expensive gifts — counter to the spirit of the custom.
 

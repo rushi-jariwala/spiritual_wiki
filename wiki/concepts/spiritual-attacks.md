@@ -45,6 +45,11 @@ Spiritual attacks can occur during sleep — immobilisation, choking, assault by
 ### Temple Energy Reactions
 Smaller temples can react negatively to a powerful spiritualist walking through their doors, if the temple's energy considers them a threat to its influence. This is not personal malice but a territorial response of accumulated energy. See [[stories/sthan-hostile-temple]].
 
+### Food and Drink as Attack Vectors
+Light-coloured foods and drinks — white sweets (*pedas*, *barfi*), milk, sherbet — are particularly receptive to subtle energies and can be charged with harmful intent through specific rituals and reverse mantras. Hingori himself fell victim to this: before meeting Gurudev, someone used white *pedas* to channel harmful energy toward him, contributing to the development of severe arthritis. Kamlesh from Gurgaon unknowingly drank sherbet mixed with a *taweez*, with potentially dire consequences; Gurudev intervened in time. See [[stories/kamlesh-black-magic-cure]] and [[concepts/jal]].
+
+**Protective measure**: Adding spices such as turmeric or black pepper to white or light-coloured foods changes their colour and energy profile, pre-empting the impact of negative energy. See [[concepts/senses-management]].
+
 ---
 
 ## How to Defend

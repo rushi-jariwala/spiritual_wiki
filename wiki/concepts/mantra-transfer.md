@@ -117,6 +117,15 @@ Mantras lower blood pressure, heart rate, and respiration rate; increase oxygen 
 
 ---
 
+## Sipped Water as Transfer Medium
+
+*Witnessing Greatness* Ch.7 adds a third transfer mechanism: Gurudev shared sipped water with disciples as a carrier of mantra siddhis.
+
+> He often gave his disciples mantras by sharing his sipped water with them, saying, "I've transferred 10,000 recitations of this mantra to you."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.94
+
+The quantified phrasing — 10,000 recitations — treats mantra attainment as a measurable spiritual currency that can be transferred from one account to another, exactly as with the laung-siddhi and paath-hours mechanisms. The vehicle here is *jal* infused with the guru's spiritual energy; the principle is identical: tapasya creates a reserve, the guru's will allocates it. See [[concepts/jal]].
+
 ## Cross-references
 
 - [[concepts/intent-as-healing]] — the guru's intent as the active spiritual force; mantra transfer is an extension of the same principle

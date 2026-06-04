@@ -1406,3 +1406,26 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+
+
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Plain Path vs. the Enticing Path — Beauty as Maya's Snare
+*Illuminates: [[concepts/maya]], [[concepts/loks]], [[concepts/senses-management]], [[concepts/vairagya]]*
+
+> Unlike what most believe, he advised us to choose the plain path. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+At the afterlife crossroads, the spirit faces two paths: one enticing and beautiful, one plain and simple. The intuitive choice — the beautiful one — is precisely the trap. This is maya operating at the post-death level: the same mechanism that snares consciousness during life (attraction to pleasure and beauty over truth) extends into the spirit's journey between lives. Gurudev's counsel inverts ordinary logic: *choose what does not attract you.* The higher realms are bright but sparsely inhabited precisely because so few make this counter-intuitive choice. See [[concepts/loks]] and the lower-realm analogy below.
+
+---
+
+### The Dark Seedy Nightclub — The Lower Realm as Sensory-Pleasure Trap
+*Illuminates: [[concepts/loks]], [[concepts/maya]], [[concepts/senses-management]]*
+
+> My journeys through three distinct realms — two higher and one lower — brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+The nightclub is an apt analogy: darkness, sensory overstimulation, crowd, a setting designed to maximise attraction and keep spirits from moving on. The contrast with the higher realms — bright, sparse — is the contrast between the path of unmanaged desire and the path of vairagya. The lower realm is not a punishment chamber; it is a sensory comfort zone that spirits gravitate toward for the same reason they pursue pleasure in life. The density of its population confirms the point: the enticing path draws crowds; the plain path draws only those who have cultivated discernment.

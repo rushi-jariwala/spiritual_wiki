@@ -148,6 +148,15 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 
 *The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
 
+## The Two Afterlife Paths — Beauty as a Snare (*Witnessing Greatness* Ch.7)
+
+Gurudev extended the maya teaching into the post-death transition. He spoke of two paths that await spirits at the afterlife crossroads: one that looks enticing and another that is simple and plain. Against expectation, he advised choosing the plain path:
+
+> Unlike what most believe, he advised us to choose the plain path. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Hingori's own experience across three realms confirmed this: the higher realms were bright yet sparsely inhabited; the lower realm felt like a dark, seedy nightclub. This is the afterlife application of the same principle that governs sensory choices in life — the pursuit of beauty and attraction at the expense of truth is a mechanism of maya that does not stop operating at death. See [[concepts/loks]] and [[wiki/analogies/analogies]].
+
 ## Maya and the Perception of Miracles
 
 *Witnessing Greatness* Ch.3 applies the maya concept specifically to how people experience the mahaguru's supernature:

@@ -1,10 +1,10 @@
 ---
 title: Quotes on Healing
 type: quote-collection
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[concepts/mantra-transfer]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-05
 ---
 
 # Quotes on Healing
@@ -36,3 +36,16 @@ updated: 2026-04-26
 > "The disease that medicine could not cure was cured by him through touch or stare. A lifetime of suffering in an instant removed, by the intent of this healer extraordinaire."
 > — Hingori, *The Guru of Gurus*, p.219
 [[entities/mahaguru]] · [[concepts/spiritual-healing]] · [[concepts/intent-as-healing]]
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (sharing sipped water with a disciple), *Witnessing Greatness*, Ch.7, p.93
+[[concepts/spiritual-healing]] · [[concepts/mantra-transfer]]
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (to Indu Sharma ji), *Witnessing Greatness*, Ch.7, p.93
+[[entities/mahaguru]] · [[concepts/senses-management]] · [[practices/seva]]
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+[[entities/mahaguru]] · [[entities/bittu]] · [[concepts/empathy]] · [[concepts/senses-management]]

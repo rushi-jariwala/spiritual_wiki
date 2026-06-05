@@ -647,6 +647,30 @@ Brahma, the creator, is the *viraat* — the cosmic person, himself of pure cons
 
 ---
 
+### The Dark Seedy Nightclub (Lower Realm as Sensory Trap)
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+Gurudev taught that spirits after death arrive at a crossroads with two apparent paths: one enticing and attractive, the other plain and simple. Counterintuitively, the attractive path leads to lower realms; the plain path leads to higher. The unmanaged senses — conditioned by a lifetime of preferring beauty, novelty, and stimulation — are drawn toward the wrong door.
+
+Hingori verifies this from his own vision-state experience of three distinct realms: the two higher realms were bright yet sparsely inhabited; the lower realm felt *"like a dark, seedy nightclub"* — vivid, crowded, and energetically dense. The nightclub image is precise: it is maximally stimulating (lights, sound, crowd, sensation) and maximally far from the stillness of higher consciousness. Spirits who spent their physical lives enslaved to sensory excitement arrive where their senses are most at home. See [[concepts/loks]] for the cosmological map and [[concepts/senses-management]] for the practice that recalibrates this.
+
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+[[concepts/loks]] · [[concepts/senses-management]] · [[concepts/maya]]
+
+---
+
+### Eyes as Energy Antennae
+*Illuminates: [[concepts/senses-management]], [[concepts/aura]]*
+
+Gurudev's teaching on the sense of sight goes beyond the standard model (eyes as passive windows). He held that the eyes are not merely windows to the soul but actively *attract and emit* energy. Excessive focus on the opposite gender — particularly without the observational buffer of the gudiya/budiya technique — drains spiritual energy and weakens the aura.
+
+The analogy reframes the sense of sight as a two-directional instrument: every sustained gaze is an energetic transaction, not a passive observation. This is why Gurudev discouraged cologne (aura contamination via scent) and excessive beauty-seeking (aura depletion via sight) as a unified position: both are cases of sensory energy flowing outward without return.
+
+> — Hingori, *Witnessing Greatness*, Ch.7, pp.94–95
+[[concepts/senses-management]] · [[concepts/aura]]
+
+---
+
 ## Self-Acceptance & Guilt
 
 ### The Movie Already Made (Destiny and Guilt)

@@ -1,8 +1,8 @@
 ---
 title: Spiritual Healing
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/senses-management]]", "[[concepts/mantra-transfer]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -96,11 +96,25 @@ His healing abilities extended beyond physical proximity:
 ### Dreams and Visions
 Dreams and visions served as conduits for healing rays — not just while he was alive but especially after his passing. See [[stories/bittu-burns-healing-dream]].
 
-### Through Objects
+### Through Objects — Jal (Sanctified Water)
+
 Jal (sanctified water) retained its healing potency for years:
 
 > Be it water sipped by the guru or energised with mantras, the jal retains its freshness and does not smell for years. It is truly an elixir of life.
 > — *The Guru of Gurus*, p.229
+
+*Witnessing Greatness* Ch.7 gives the fullest treatment of water as a spiritual medium. Water, described as the planet's lifeblood, reflects the emotions and intentions of those interacting with it: though its chemical composition (H₂O) does not change, its molecular structure can change, manifesting its dual potential to heal and harm. At Gurudev's sthans, jal infused with powerful mantras served as the primary healing instrument — a medium for his spiritual energy.
+
+Gurudev's use of water went beyond standard mantra-energised jal. He would sometimes sip from a glass and then pass the remainder to someone else — a deliberate act of sharing his spiritual energy and qualities. He used this to cure and to accelerate disciples' spiritual journeys:
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev to a disciple (sharing sipped water), *Witnessing Greatness*, Ch.7, p.93
+
+This formulation — a stated number of paath hours allocated to another — is a form of [[concepts/mantra-transfer]]. The sipped-water was the carrier of the transferred siddhis.
+
+On Guru Purnima, a tradition involved disciples washing Gurudev's feet with water. The disciples then drank this water, infused with his spiritual energy, to receive his blessings and deepen their bond with him. See [[practices/significant-days]] for the full Guru Purnima observance.
+
+Water's susceptibility to subtle energies also makes it a medium for harm. A young girl named Kamlesh from Gurgaon unknowingly drank sherbet mixed with a harmful taweez; the consequences could have been dire had the mahaguru not intervened in time. See [[stories/kamlesh-black-magic-cure]] for the fuller account of Kamlesh and negative energy.
 
 ### Unconventional Methods
 He sometimes healed by doing precisely the opposite of what any logical mind would prescribe:

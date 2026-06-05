@@ -125,7 +125,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 

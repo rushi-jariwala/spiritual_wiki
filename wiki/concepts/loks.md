@@ -1,7 +1,7 @@
 ---
 title: Loks
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
 updated: 2026-04-22
@@ -115,6 +115,8 @@ Gurudev shared with Hingori in confidence that in the afterlife, the soul must f
 > — Hingori, *Aatma Sutra*, Ch.VIII, p.93
 
 The snare at death mirrors the snare on Earth: sense-perception mistaken for a guide to reality.
+
+> [!tip] *Witnessing Greatness* Ch.7 adds Hingori's personal corroboration: "My journeys through three distinct realms — two higher and one lower — brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub." The enticing path leads to the fuller, livelier-looking lower realms; the plain path leads to the quieter, brighter upper loks. The mahaguru's counsel: choose the plain path. See [[concepts/senses-management]] — the visual sense is the specific snare at this crossroads.
 
 ## Colour Codes of the Loks
 

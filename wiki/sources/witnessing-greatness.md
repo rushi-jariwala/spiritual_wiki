@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-06 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,62 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya as sensory limitation**: the chapter opens by anchoring maya in measurable fact — humans perceive only about 0.00000000000035% of the electromagnetic spectrum, cannot hear dog-whistle frequencies, and touch objects that are mostly atomic empty space. These are not rhetorical gestures but the operational basis for the chapter's claim: our senses, left unmanaged, manufacture a narrow slice of reality and mistake it for the whole.
+- **Taste mastery — testimonies and theology**: four disciples (Bittu ji, Puran ji, Alka ji, Raji Sharma ji) give distinct accounts of Gurudev's indifference to food — freshness, type, flavour all irrelevant. The common thread is Alka ji's summary: "the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation." This shifts taste from a sensory category to an energetic one.
+- **Food as an energy medium**: cook's emotions and intentions are transferred into food through the eyes and mental field. Temple cooks are selected accordingly. Light-coloured foods (white dishes, pedas, milk) are most susceptible to absorbing ambient energy — including negative energy from rituals and reverse mantras. Gurudev's instruction: mix a coloured spice into any white food before consuming.
+- **Scanning spiritual children before eating**: the chapter's most memorable dialogue — Bittu ji challenges Gurudev for "not respecting food," and Gurudev explains that he shuts his eyes before each bite and scans his global spiritual family. If one person is hungry, he cannot eat. This is not symbolism; it is the mahaguru's lived reality. See [[stories/gurudev-not-eating-hungry-disciples]].
+- **Water as energy conductor**: water's molecular structure can change with the emotions and intentions of those who interact with it, without altering its chemical composition. Gurudev used water as a primary healing medium at sthans (mantras infused); shared sipped water to transmit spiritual practices ("I've transferred 10,000 recitations of this mantra to you"); and on Guru Purnima, disciples drank water infused by washing his feet. The Kamlesh sherbet-and-taweez incident illustrates the harmful dimension of the same principle.
+- **Sight and vaasnas**: eyes attract and emit energy. Excessive focus on the opposite gender drains the aura and weakens spiritual well-being. The vaasnas — engrams accumulated across past lives — surface as impulses at this juncture. The budiya/gudiya technique and the skeleton visualisation pre-empt the vaasna before it converts into new karma.
+- **Hearing as a spiritual tool**: Gurudev's musical history (whistling, mouth organ, Binaca Geet Mala) gives way to something more powerful — the ability to hear thoughts and spoken words from great distances. The Chandigarh-to-Gurgaon road trip is the illustration: Gurudev admonished Hingori upon arrival, fully aware of an argument the entire journey long.
+- **Touch/temperature mastery**: Gurudev's physical sensation transcendence is vividly illustrated — comfortable in only a sweater while everyone else layered up; his single question stopping Hingori's shivering at Mungaoli. See [[stories/mungaoli-sweater-incident]].
+- **The plain vs. enticing path in the afterlife**: Gurudev's teaching on the two paths at the Dhruv Tara crossroads is confirmed by Hingori's personal visits — the higher realms were bright and sparsely inhabited; the lower realm felt like "a dark, seedy nightclub." Maya's visual deception does not stop at physical death.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> Gurudev: "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — *Witnessing Greatness*, Ch.7, p.92
+
+> *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."*
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+Enrichments of existing pages (no new story pages required — all anecdotes inline or captured via existing pages):
+- [[stories/gurudev-not-eating-hungry-disciples]] — enriched with WG Ch.7's Bittu ji eyes-shut dialogue; fuller scan-before-eating mechanism; Indu Sharma ji / "Jennu khellaan" closing quote
+- [[stories/mungaoli-sweater-incident]] — enriched with WG Ch.7 version: Gurudev in sweater while others in layers; T-shirt → sweater → shivering → "Why did you do that?"; WG foregrounds temperature mastery over the GoG version's surrender teaching
+
+Short anecdotes kept inline in [[concepts/senses-management]]:
+- Sitaram domestic helper — colourful language transferred via food → inline in Taste section
+- Kamlesh and sherbet with taweez — brief incident, 2 sentences → inline in Taste section
+- Chandigarh-to-Gurgaon road trip — Gurudev hearing the argument from distance → inline in Hearing section
+- White pedas black magic → cross-ref to [[stories/hingori-arthritis-cure]] and [[concepts/aura]]
+- Gurudev sharing sipped water / mantra transfer → cross-ref to [[concepts/mantra-transfer]] and [[concepts/guru-tattva]]
+- Guru Purnima foot-washing water → cross-ref to [[practices/significant-days]] and [[concepts/guru-vandana]]
+
+## New Concepts Introduced (Ch.7)
+
+No standalone new concept pages required. Ch.7 enriches existing concepts:
+- [[concepts/senses-management]] — massively enriched: food energy, karmic debt from food, scanning spiritual children, hearing evolution, temperature mastery, vaasnas/sight connection, cologne/smell
+- [[concepts/loks]] — Dhruv Tara section enriched with Hingori's personal "dark, seedy nightclub" testimony
+- [[wiki/analogies/analogies]] — new "Plain Path and Enticing Path" analogy in the Loks & Cosmology cluster
+- [[quotes/seva]] — new WG Ch.7 section: Bittu ji dialogue + "Jennu khellaan" quote
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **Water's molecular structure changing with intention**
+> The chapter states that water "reflects the emotions and intentions of those interacting with it" and that "water's molecular structure can change, manifesting its dual potential to heal and harm." This resonates with Masaru Emoto-style research but is not sourced to any specific scientific finding. As a metaphysical claim it is consistent with the broader corpus (aura transmission, intention as healing agent), but the specific mechanism (molecular structure change) is stated as fact, not as belief. No contradiction with other Hingori sources — this is additive — but worth noting as an unverified empirical claim.
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

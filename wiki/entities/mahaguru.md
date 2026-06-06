@@ -282,11 +282,16 @@ His connectivity to the elements was direct and documented:
 
 ### Body-Mind Capacities
 
-- Could live without food for days (Mahashivratri queues lasted two days; he ate nothing until he had met everyone)
-- Withstood extreme temperatures in a light cardigan while others wore layers of wool
+- Could live without food for days (Mahashivratri queues lasted two days; he ate nothing until he had met everyone). Before eating, he shut his eyes to scan whether all his spiritual children had been fed — refusing to eat if even one was hungry
+- Withstood extreme temperatures in a light cardigan while others wore layers of wool; at the Mungaoli camp his simple question stopped Hingori's cold-induced shivering mid-shiver. See [[stories/mungaoli-sweater-incident]]
 - Could put one brain hemisphere to sleep while the other operated — Pehalwan ji witnessed him riding a scooter with his eyes closed, doing *paath*
 - Never said NO to anyone who asked for help (Ashok Bhalla ji: *"The word NO does not exist in my dictionary"*)
 - Lived in constant awareness of past, present, and future of every person who came to him: *"Their past, present and future flashes on a screen in my mind"* (to Das Saheb)
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+See [[concepts/senses-management]] for the full account of his mastery of all five senses, sense by sense.
 
 ### Bilocation and Invisibility
 

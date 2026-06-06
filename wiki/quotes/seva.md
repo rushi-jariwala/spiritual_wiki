@@ -165,3 +165,21 @@ updated: 2026-05-24
 > "When I claim, 'I will heal you', the healing does not manifest. Yet, when I channel the blessings of Gurudev by invoking him, miraculous healings happen."
 > — Suresh Sharma ji, *Witnessing Greatness*, Ch.5, p.64
 [[practices/seva]] · [[concepts/non-doership]] · [[concepts/intent-as-healing]]
+
+## *Witnessing Greatness* Ch.7 — Deception of Perception
+
+> Bittu ji: "You have always emphasised the importance of respecting food. Today, you are not adhering to that principle."
+>
+> Gurudev: "When I am on the verge of eating, are my eyes shut or open?"
+>
+> Bittu ji: "They are shut."
+>
+> Gurudev: "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+>
+> — *Witnessing Greatness*, Ch.7, pp.91–92
+[[entities/mahaguru]] · [[entities/bittu]] · [[stories/gurudev-not-eating-hungry-disciples]] · [[concepts/senses-management]]
+
+> *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."*
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev to Indu Sharma ji at the Gurgaon sthan, recalled by Renu ji, *Witnessing Greatness*, Ch.7, p.92
+[[entities/mahaguru]] · [[practices/seva]] · [[stories/gurudev-not-eating-hungry-disciples]]

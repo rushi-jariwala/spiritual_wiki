@@ -440,6 +440,16 @@ Worldly markers — elite education, social prestige, professional success — a
 
 ---
 
+### The Plain Path and the Enticing Path
+*Illuminates: [[concepts/loks]], [[concepts/maya]], [[concepts/senses-management]]*
+
+> "He talked about two paths: one that looks enticing and another that is simple and plain. Unlike what most believe, he advised us to choose the plain path. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms."
+> — Hingori on Gurudev's teaching, *Witnessing Greatness*, Ch.7, p.95
+
+At the Dhruv Tara crossroads in the afterlife, the soul encounters two routes. The enticing-looking path leads to the livelier, more populated lower loks; the plain path leads to the brighter but sparsely inhabited upper loks. Hingori confirmed this through his own realm visits — the lower realm felt like "a dark, seedy nightclub," while the higher realms were "bright yet sparsely inhabited." Maya does not stop at physical death: the visual sense continues to deceive. The same principle applies in life — beauty and excitement tend toward lower registers of consciousness; simplicity and quietness toward higher ones.
+
+---
+
 ## Practice & Evolution
 
 ### Seva as Multilevel Marketing

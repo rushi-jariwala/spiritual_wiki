@@ -2,7 +2,7 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
 created: 2026-04-12
 updated: 2026-04-22
@@ -147,6 +147,16 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 ## Maya and Ek Se Anek
 
 *The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
+
+## Maya and Sensory Deception at Every Scale
+
+*Witnessing Greatness* Ch.7 ("Deception of Perception") extends the maya teaching across three levels simultaneously:
+
+1. **Biological** — humans detect only ~0.00000000000035% of the electromagnetic spectrum; dog whistles are inaudible; solid objects are mostly atomic empty space. The senses create an internal model, not a readout of reality.
+2. **Dietary/energetic** — food and water absorb the emotions and intentions of those who prepare or charge them; white foods are especially susceptible; negative mantras can weaponise even an innocent peda or a glass of sherbet.
+3. **Post-mortem** — at the Dhruv Tara crossroads in the afterlife, the soul encounters two paths; the enticing-looking one leads to lower realms; the plain one leads to higher ones. Maya's visual deception does not stop at physical death.
+
+> [!tip] The chapter's title ("Deception of Perception") condenses the three-scale pattern: maya is not just a philosophical postulate about Brahman's dream — it is an operational principle that deceives at the physical, subtle, and post-mortem levels simultaneously. Managing the senses is thus the practitioner's front-line response to maya at all three scales. See [[concepts/senses-management]] and [[concepts/loks]].
 
 ## Maya and the Perception of Miracles
 

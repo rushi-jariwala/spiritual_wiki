@@ -124,6 +124,15 @@ From Hingori's personal visits (see [[stories/hingori-lok-visits]]):
 
 > [!question] The colour-coding is offered tentatively ("I suspect") and derives from a single set of visits. It is an observation, not a doctrine.
 
+## The Afterlife Crossway — Two Paths, One Choice
+
+*Witnessing Greatness* Ch.7 adds Gurudev's direct teaching on what happens when an evolved spiritualist's spirit departs:
+
+> He talked about two paths: one that looks enticing and another that is simple and plain. Unlike what most believe, he advised us to choose the plain path. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.96
+
+Hingori's personal corroboration: during vision-state visits to three distinct realms — two higher, one lower — the higher realms were *"bright yet sparsely inhabited"* while the lower realm felt like *"a dark, seedy nightclub"* (p.96). The attractive realm is well-populated; the plain one is not. The crossway choice is in fact a test of how completely the spirit has transcended sensory craving in its physical lifetime — the spirit drawn to beauty will choose the enticing path automatically. See [[concepts/senses-management]] and [[analogies]] ("The Lower Realm as Dark Seedy Nightclub").
+
 ## Method of Ascent — Spiritual Ballooning
 
 One cannot climb to higher loks — one must float up. The process is lightening the load of samskars and karmic debts and moving from grosser to subtler mind-set. The guna mix is the primary instrument. See [[concepts/gunas]] for the self-assessment tool.

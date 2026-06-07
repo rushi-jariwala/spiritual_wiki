@@ -1,10 +1,10 @@
 ---
 title: The Mungaoli Sweater
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/vairagya]]", "[[concepts/guru-disciple]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[concepts/vairagya]]", "[[concepts/guru-disciple]]", "[[concepts/senses-management]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-07
 ---
 
 # The Mungaoli Sweater
@@ -24,12 +24,17 @@ updated: 2026-04-26
 
 ## Context
 
-This episode occurred at one of Gurudev's biannual offsite seva camps. Hingori wore a sweater partly out of social vanity — not wanting to appear as if he was showing off by going without. Gurudev read the pretence and made the cold real, stripping away the affectation and leaving Hingori shivering in his sweater. The teaching landed immediately: surrender includes surrendering the small social performances that prop up the ego. The episode closes with Gurudev's ek vakya: *"Grihasth mein bhi vairagya hai"* — there is renunciation within the householder life too.
+This episode occurred at one of Gurudev's biannual offsite seva camps at Mungaoli, Madhya Pradesh. *Witnessing Greatness* Ch.7 supplies the backstory: Hingori had initially been wearing only a T-shirt in the cold, without difficulty. When Gurudev returned, Hingori felt apprehensive and quickly put on a sweater — not for warmth but to avoid the appearance of showing off. Gurudev read the pretence and made it real: Hingori immediately began shivering uncontrollably. Gurudev's simple question — *"Why did you do that?"* — instantly stopped the shivering.
+
+The *Guru of Gurus* version notes: *"I didn't want him to think I was bragging about not being cold when almost everyone else was snug in their cardigans. By turning my pretence into reality, he demonstrated his control not only over my mind and body but also over nature."* The *Witnessing Greatness* version adds the complementary teaching: *"our senses, though strong, can be influenced in ways we might not realise"* — and the deeper lesson on the pitfalls of pretence over genuineness.
+
+The episode closes with Gurudev's ek vakya: *"Grihasth mein bhi vairagya hai"* — there is renunciation within the householder life too.
 
 ## Related Concepts / Entities
 
-- [[entities/mahaguru]] — reads Hingori's pretence; makes it real as a teaching
+- [[entities/mahaguru]] — reads Hingori's pretence; makes it real; his question stops the shivering
 - [[concepts/vairagya]] — surrender includes letting go of social graces and false ego
 - [[concepts/grihasth-ashram]] — "Grihasth mein bhi vairagya hai": renunciation within the householder path
 - [[concepts/guru-disciple]] — the camp as classroom; teaching delivered through direct experience
+- [[concepts/senses-management]] — mastery over physical sensation demonstrated; genuineness vs. pretence
 - [[concepts/ek-vakyas]] — "Grihasth mein bhi vairagya hai" as a seed teaching

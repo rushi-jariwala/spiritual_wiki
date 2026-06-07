@@ -33,6 +33,13 @@ See [[stories/guru-sutra-ch13-poem2]].
 ### Black Magic via Personal Objects
 A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis.
 
+### Black Magic via Food
+Light-coloured and white foods are particularly receptive to external energies, making them effective conduits for harmful intent. The mechanism: specific rituals and reverse mantras charge the food with negative energy, which the target then ingests.
+
+Hingori recounts being harmed through white pedas — innocent-looking sweetmeats charged with negativity through rituals and reverse mantras — contributing to his development of severe arthritis. A young girl named Kamlesh from Gurgaon unknowingly drank sherbet mixed with a harmful taweez; the consequences could have been dire had Gurudev not intervened in time. See [[concepts/food-and-water-as-media]].
+
+**Protective measure:** Adding spices such as turmeric or black pepper to white or light-coloured food changes its colour and pre-empts the absorption of negative environmental energies.
+
 ### Death Yantra by Post
 A yantra — a geometrically charged occult diagram — can be embedded in a letter. Gurudev received such a letter; knowing its contents before opening it, he asked Hingori to leave the room, then tore the letter and reassembled it to expose and neutralise the yantra. The attempt on his life failed. See [[stories/inland-letter-yantra]].
 

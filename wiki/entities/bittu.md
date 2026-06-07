@@ -40,3 +40,5 @@ Bittu ji drove Gurudev to and from the office, managed logistics at Khandsa farm
 - [[entities/mahaguru]] — Gurudev, the guru Bittu ji served
 - [[concepts/ulta-guru]] — the pattern of Gurudev serving disciples, illustrated repeatedly in Bittu ji's accounts
 - [[stories/elderly-couple-van-rescue]] — the most narratively substantial story in which Bittu ji is central
+- [[stories/gurudev-not-eating-hungry-disciples]] — *Witnessing Greatness* Ch.7 gives the full scanning dialogue; Bittu ji's challenge unlocked Gurudev's most intimate explanation of why he didn't eat
+- [[concepts/senses-management]] — Bittu ji's repeated observations of Gurudev's food indifference (WG Ch.7)

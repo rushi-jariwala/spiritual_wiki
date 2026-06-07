@@ -100,9 +100,9 @@ In this frame, Brahma (the creator, the *viraat* or cosmic person) is himself of
 
 ## Limitations of Perception — The Scientific Case
 
-Hingori supplements the Vedantic argument with empirical facts, citing the narrowness of human sense-perception as modern corroboration of ancient maya teaching:
+Hingori supplements the Vedantic argument with empirical facts, citing the narrowness of human sense-perception as modern corroboration of ancient maya teaching. *Witnessing Greatness* Ch.7 opens with the same scientific frame, using a slightly sharper figure: *"we only detect a tiny slice — about 0.00000000000035% — of the electromagnetic spectrum, leaving us blind to infrared and ultraviolet light."* Both figures point in the same direction; the WG Ch.7 framing deploys sensory limitation not as philosophical backdrop but as the opening premise for a chapter on sense mastery — making the scientific case the lived starting point for practice. See [[concepts/senses-management]].
 
-- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye.
+- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye (*Aatma Sutra*; WG Ch.7 uses 0.00000000000035%).
 - **Hearing**: less than 1% of all sounds on Earth are within human auditory range.
 - **Motion**: you are travelling at 220 km/second across the Milky Way — imperceptible to every sense.
 - **Matter**: atoms in the body are 99.9999999999999999% empty space. The "solid body" is almost entirely void.

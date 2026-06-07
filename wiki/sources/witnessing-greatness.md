@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-07 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,63 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Sensory limitation as the gateway to Maya**: the chapter opens with the scientific frame — humans detect ~0.00000000000035% of the electromagnetic spectrum; sounds at dog-whistle frequencies are inaudible; "solid" matter is almost entirely empty space. This is offered not as philosophy but as the practical starting point for sense mastery.
+- **Gurudev's sense-by-sense mastery across all five modalities**: taste (indifferent to freshness or flavour; scanning before eating; going days on tea), sight (cologne-free; two paths in the afterlife), hearing (hearing thoughts and distant conversations; Binaca Geet Mala → spiritual tool), smell (cologne-free), touch/temperature (comfortable in a sweater at sub-zero temperatures; stopping Hingori's shivering with a question at Mungaoli).
+- **Food as spiritual medium**: the cook's emotions and intentions transfer into the dish; temple cook selection; light-coloured foods as receptive to both positive and negative energies; Hingori's own arthritis traced to black magic via white pedas; protective measure: add turmeric or black pepper to change colour.
+- **Water as spiritual medium**: molecular structure responds to emotion/intention; jal at sthans as mantra-charged healing medium; Gurudev's sipped water as vehicle for transferring mantra recitations; Guru Purnima foot-washing ritual.
+- **The two paths in the afterlife**: the attractive path leads to lower realms (described as "dark, seedy nightclub"); the plain path leads to the bright, sparsely inhabited higher realms. Gurudev's advice: choose the plain.
+- **Virender ji's capsule testimony**: Gurudev *"wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him."* — the most comprehensive single-sentence portrait of total sensory mastery.
+
+## Notable Quotes (Ch.7)
+
+> "To him, the type of dish or its freshness was not a priority. He often picked food from the previous day, even with fresh options."
+> — Bittu ji, *Witnessing Greatness*, Ch.7, p.89
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev to Bittu ji, *Witnessing Greatness*, Ch.7, pp.91–92
+
+> *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."*
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji), *Witnessing Greatness*, Ch.7, p.93
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+All anecdotes in this chapter are single-paragraph or short — none reach the threshold for a standalone story page. They are filed inline in the relevant concept pages:
+
+- **Bittu ji scanning dialogue** (Gurudev's eyes-shut scan before eating) → enriched in [[stories/gurudev-not-eating-hungry-disciples]]
+- **Mungaoli sweater/T-shirt/shivering** → enriched in [[stories/mungaoli-sweater-incident]] (WG version adds backstory and the question stopping shivering)
+- **Indu Sharma ji / Renu ji** (missed dinner, Punjabi quote) → inline in [[concepts/senses-management]] (Taste section)
+- **White pedas / author's arthritis** → inline in [[concepts/food-and-water-as-media]] and [[concepts/spiritual-attacks]]
+- **Sitaram domestic helper / food-speech transfer** → inline in [[concepts/food-and-water-as-media]]
+- **Kamlesh taweez-in-sherbet** → inline mention in [[concepts/food-and-water-as-media]]
+- **Road trip Chandigarh-Gurgaon** (Gurudev heard the argument) → inline in [[concepts/senses-management]] (Hearing section)
+- **Binaca Geet Mala / music evolution** → inline in [[concepts/senses-management]] (Hearing section)
+- **Author's three realm visits** → inline in [[concepts/senses-management]] and [[concepts/loks]] (brief mention)
+- **Gurudev's sipped water / mantra recitation transfer** → inline in [[concepts/food-and-water-as-media]]
+- **Guru Purnima foot-washing** → inline in [[concepts/food-and-water-as-media]]
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/food-and-water-as-media]] — new concept page: food and water as spiritual energy carriers; the cook's consciousness in the dish; white foods as receptive to black magic; jal as mantra vehicle
+- [[concepts/senses-management]] — massively enriched with WG Ch.7 material across all five senses
+- [[concepts/maya]] — minor enrichment: WG Ch.7 electromagnetic spectrum figure added; WG framing noted
+- [[concepts/spiritual-attacks]] — new "Black Magic via Food" section added
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **Electromagnetic spectrum percentage — WG Ch.7 vs. Aatma Sutra**
+> *Aatma Sutra* Ch.VII states *"less than 0.00000000005%"* of the EM spectrum is visible. *Witnessing Greatness* Ch.7 gives *"about 0.00000000000035%"* — four orders of magnitude smaller. Both are making the same qualitative point (the visible spectrum is a tiny fraction of reality), but the figures differ significantly. This may reflect different source statistics, different definitions (visible vs. detectable), or simply a scribal difference between editions. Noted in [[concepts/maya]].
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

@@ -116,6 +116,17 @@ updated: 2026-05-24
 > — Virender ji (recalling Gurudev's teaching), *The Guru of Gurus*, p.212
 [[practices/seva]] · [[concepts/hygiene]] · [[concepts/non-doership]]
 
+## *Witnessing Greatness* Ch.7 — Gurudev on Food and Feeding
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev to Bittu ji, *Witnessing Greatness*, Ch.7, pp.91–92
+[[entities/mahaguru]] · [[entities/bittu]] · [[stories/gurudev-not-eating-hungry-disciples]] · [[concepts/senses-management]]
+
+> *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."*
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji in WG Ch.7, also recalled in *The Guru of Gurus*, p.35), *Witnessing Greatness*, Ch.7, p.93
+[[entities/mahaguru]] · [[stories/gurudev-indu-subzi-mussoorie]]
+
 ## Mataji on Priorities
 
 > "Beta, if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"

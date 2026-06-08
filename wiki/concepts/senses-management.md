@@ -1,10 +1,10 @@
 ---
 title: Senses Management
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[concepts/food-as-energy]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-08
 ---
 
 # Senses Management
@@ -48,17 +48,54 @@ He also recommended fasting once a week as a detox that reduces bodily secretion
 
 An anecdote illustrates sensory management through taste: Gurudev once visited an associate's home with disciples. The associate and wife were absent; their eight-year-old daughter offered to make tea and brewed it on a kerosene stove. Upon leaving, the mahaguru gave his disciples a sharp mouthful for barely sipping the kerosene-smelling tea: *"Is it possible they lost a lot because they could not bear a little?"*
 
+*Witnessing Greatness* Ch.7 offers the fullest account of Gurudev's triumph over taste. Multiple witnesses confirm:
+
+> "To him, the type of dish or its freshness was not a priority. He often picked food from the previous day, even with fresh options."
+> — Bittu ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Gurudev readily accepted any vegetarian food cooked for him, no matter how simple. He never demanded particular dishes. His spiritual path had overshadowed his physical needs."
+> — Puran ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+Gurudev often went days with just tea and no food. Raji Sharma ji observes that while he had a soft spot for certain snacks — *gol-gappas*, parathas — he was not driven by cravings. When he held back from eating, the reason was empathy, not austerity. He would close his eyes before taking a bite and scan to see whether all his spiritual children had been fed. If even one remained hungry, he could not eat. See [[stories/gurudev-not-eating-hungry-disciples]] for the full Bittu ji dialogue.
+
+The teaching that crystallises his philosophy on food came through Renu ji's memory of Indu Sharma ji — a central figure in the Gurgaon kitchen who was devoted to Gurudev as a daughter. When Indu ji noticed that Daddy had not eaten dinner the previous night and urged a hearty lunch, he replied:
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev, recalled by Renu ji, *Witnessing Greatness*, Ch.7, p.91
+
+This compressed utterance — one of his finest *ek vakyas* on food — places the mastery of taste within the framework of seva: the sense is not suppressed but transcended by a higher pleasure. See [[concepts/food-as-energy]] for the additional teaching that food carries the cook's energy.
+
 ### Hearing
 
 The sense of hearing connects us to others in ways no other sense can. Gurudev discouraged idle talk and gossip. His discipline: develop discernment — intuitively hear the unsaid, and be selective in responding to what is heard. *"Do not believe anything we hadn't seen or heard for ourselves."*
 
 A celebrated anecdote on discernment: when a disciple denied a mistake in front of Gurudev, the mahaguru had Bittu ji fetch a sealed set of blank cassettes from a bedside cabinet and play the third one. Those seated heard the verbatim first-person conversation of the disciple bragging about the same 'mistake' he had vehemently denied. See [[stories/blank-cassette-disciple]].
 
-Gurudev liked Mohammed Rafi and radio in the car; over time his interest in music waned to the point where he could appreciate it without being drawn into it or drowning in its melody.
+Gurudev liked Mohammed Rafi and radio in the car; over time his interest in music waned to the point where he could appreciate it without being drawn into it or drowning in its melody. When he was younger, he enjoyed popular tunes — often whistling them or playing them on a mouth organ — with a particular affection for the classic songs from the black-and-white era featured on *Binaca Geet Mala*. But as he progressed spiritually, the relationship with sound changed direction: rather than enjoying sound, he used the sense of hearing as a spiritual tool.
+
+> He would hear our thoughts and perceive spoken words from great distances.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.92
+
+The range of this faculty was startling. On a road trip Hingori took with his father from Chandigarh to Gurgaon — during which the two argued most of the way — Gurudev promptly and gently admonished Hingori upon his arrival in Gurgaon, fully aware of the entire exchange. *"His vigilance was such that nothing went unnoticed."*
 
 ### Touch / Anger
 
 High temper in powerful spiritualists is attributable to the uprisen fire element owing to intense tapasya. Gurudev's method in early years at IARI: he sat in the corridor outside his office abusing passersby. When they retaliated, he smiled back — deliberately inciting abuse to test his resilience. He erased a strong emotion by inducing it until it lost its grip. *Lesser the emotion, more the stability of the mind.*
+
+### Touch / Temperature
+
+*Witnessing Greatness* Ch.7 gives the fullest example of Gurudev's mastery over physical sensation:
+
+> The mahaguru exemplified remarkable control over his physical sensations. While we layered ourselves to stay warm in the cold winters of the hills, Gurudev's comfort in merely a sweater illustrated his mastery.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+
+At the camp in Mungaoli, Madhya Pradesh, Hingori initially wore only a T-shirt in the cold. Apprehensive of Gurudev's reaction upon his return, he quickly put on a sweater — only to find himself shivering uncontrollably. Gurudev's simple question, *"Why did you do that?"* miraculously stopped the shivering. This demonstrated not just his control over his own physical sensations but his influence over the physical sensations of those around him. See [[stories/mungaoli-sweater-incident]].
+
+The teaching landed: *"Our senses, though strong, can be influenced in ways we might not realise."* And, more pointedly: the pretence of adjustment is its own trap. Gurudev's method was not to escape discomfort but to reveal the authenticity the social performance obscures.
 
 ### Managing Sight — The Young Devotee's Tea
 
@@ -90,6 +127,15 @@ To change the state of your consciousness, you must change the level of your min
 
 Sensory management is ultimately the method by which the jivaatma strips away the personalised worldview and begins to perceive its own nature.
 
+## Self-Control as the Broader Frame
+
+*Witnessing Greatness* Ch.7 closes with Virender ji's summary of the mahaguru's sensory freedom:
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.91
+
+This is not suppression — it is the natural state of a being for whom the senses have been completely repurposed. Gurudev did not fight temptation; he had simply outgrown the territory in which temptation operates.
+
 ## Cross-references
 
 - [[concepts/constant-awareness]] — the state reached when senses are mastered; awareness beyond sensory input
@@ -97,5 +143,8 @@ Sensory management is ultimately the method by which the jivaatma strips away th
 - [[concepts/gunas]] — tamas and rajas are fuelled by unmanaged senses; sattva grows as senses are controlled
 - [[concepts/role-play]] — Gurudev's observer stance is identical in senses and emotional management
 - [[concepts/maya]] — the personalised worldview sustained by unmanaged senses is maya
+- [[concepts/food-as-energy]] — food and water as subtle energy vehicles; the cook's energy in food; white foods and negative energy
 - [[entities/mahaguru]] — Gurudev's life trajectory from foodie and would-be movie star to total sensory mastery
 - [[stories/blank-cassette-disciple]] — Gurudev's demonstration of supernormal hearing/discernment
+- [[stories/gurudev-not-eating-hungry-disciples]] — scanning before eating; Bittu ji dialogue; feeding others first
+- [[stories/mungaoli-sweater-incident]] — temperature mastery; pretence made real; "Why did you do that?"

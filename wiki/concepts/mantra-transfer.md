@@ -33,6 +33,15 @@ Gurudev also transferred the spiritual benefit of his own daily practice directl
 
 In this form, Gurudev performed the discipline on the disciple's behalf and credited the spiritual points to the disciple's account — while asking nothing in return except that the disciple make their own parallel effort.
 
+### Transfer via Sipped Water
+
+*Witnessing Greatness* Ch.7 introduces a third form of transfer, more intimate and spontaneous than the laung declaration or the paath-hours allocation:
+
+> He often gave his disciples mantras by sharing his sipped water with them, saying, "I've transferred 10,000 recitations of this mantra to you."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.91
+
+Gurudev would sip from a glass of water and pass the remainder to a disciple — sometimes to cure, sometimes to advance their spiritual journey. The statement that followed specified the mantra count transferred, making explicit what the action encoded: accumulated practice rendered as a transferable spiritual asset, delivered through a medium (water) that carries the energy of whoever handles it. See [[concepts/food-as-energy]] for the teaching on water as an energy medium. See [[concepts/guru-vandana]] for the Guru Purnima version of this (feet washing, disciples drinking the jal).
+
 ### The Limit of Magnanimity
 
 This generosity had a stated boundary. When Bittu ji and Pappu ji repeatedly neglected their own mantra practice while Gurudev continued covering for them, he said:

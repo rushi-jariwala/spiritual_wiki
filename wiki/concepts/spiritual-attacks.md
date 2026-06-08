@@ -33,6 +33,15 @@ See [[stories/guru-sutra-ch13-poem2]].
 ### Black Magic via Personal Objects
 A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis.
 
+### Black Magic via Food or Water
+Light-coloured foods — white sweets, white dishes — are particularly receptive to subtle energies. *Witnessing Greatness* Ch.7 records Hingori's personal testimony: before his encounter with Gurudev, white *pedas* were charged with negativity through specific rituals and reverse mantras and directed at him, contributing to his development of severe arthritis.
+
+> [!warning] The *Guru of Gurus* attributes Hingori's arthritis to a "black magic performed by a temple priest" while *Witnessing Greatness* Ch.7 describes white pedas charged through reverse mantras by an unnamed party. These may refer to different facets of the same incident or to separate attacks at different times. Both accounts agree on the outcome: severe arthritis, cured in a minute by Gurudev at their first significant encounter. See [[stories/hingori-arthritis-cure]].
+
+Water is similarly susceptible. A young girl named Kamlesh from Gurgaon unknowingly drank sherbet mixed with a harmful *taweez* — with potentially dire consequences averted only by the mahaguru's timely intervention. See [[stories/kamlesh-black-magic-cure]].
+
+**Protective measure**: adding spices such as turmeric or black pepper to white or light-coloured foods changes their colour and pre-empts the impact of potential negative energy in one's environment. See [[concepts/food-as-energy]] for the full teaching on food as an energy medium.
+
 ### Death Yantra by Post
 A yantra — a geometrically charged occult diagram — can be embedded in a letter. Gurudev received such a letter; knowing its contents before opening it, he asked Hingori to leave the room, then tore the letter and reassembled it to expose and neutralise the yantra. The attempt on his life failed. See [[stories/inland-letter-yantra]].
 
@@ -91,5 +100,6 @@ This connects to the karma framework: a negative wish that fructifies becomes ne
 - [[concepts/gaddi]] — the gaddi attracts both healing energy and hostile attention
 - [[concepts/aura]] — the aura is the target of most spiritual attacks
 - [[concepts/tantra]] — tamasic mantra siddhis are the primary tools of attack
+- [[concepts/food-as-energy]] — food and water as attack media; light-coloured foods and their vulnerability; protective spices
 - [[entities/chacha]] — foiled two tamasic tantrik attacks with casual ease
 - [[entities/hingori]] — personally victimised by black magic (rheumatoid arthritis); later trained in self-preservation

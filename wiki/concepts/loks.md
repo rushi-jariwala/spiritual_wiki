@@ -116,6 +116,19 @@ Gurudev shared with Hingori in confidence that in the afterlife, the soul must f
 
 The snare at death mirrors the snare on Earth: sense-perception mistaken for a guide to reality.
 
+## Witnessing Greatness Ch.7 — The Two Paths and the Personal Visits
+
+*Witnessing Greatness* Ch.7 reinforces and personalises the Dhruv Tara teaching. Gurudev described two paths available to the spirit after death: one that looks enticing, another that is simple and plain. He advised choosing the plain path — the simpler route leading to higher spiritual dimensions — and warned that the attractive path could mislead and keep the spirit stuck in lower realms.
+
+Hingori's own three visits to distinct realms confirm the pattern at first hand:
+
+> My journeys through three distinct realms — two higher and one lower — brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.91
+
+The higher realms' sparse population is consistent with the lok framework: relatively few souls qualify for Jana lok, Tapa lok, or Satya lok, while the gravitational pull of unresolved karma keeps the majority near Earth-equivalent densities. The lower realm's "dark, seedy nightclub" quality is consistent with the description in *Aatma Sutra* Ch.8 of the lower tals as domains of gratification and limited light.
+
+> [!tip] Hingori adds a wry observation: *"Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!"* The lightness of tone is characteristic; the content is not diminished by it.
+
 ## Colour Codes of the Loks
 
 From Hingori's personal visits (see [[stories/hingori-lok-visits]]):

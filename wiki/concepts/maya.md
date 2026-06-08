@@ -2,10 +2,10 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]", "[[concepts/senses-management]]", "[[concepts/loks]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-06-08
 ---
 
 # Maya
@@ -156,6 +156,24 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 > — Hingori, *Witnessing Greatness*, Ch.3, p.43
 
 This is a precise application of the maya framework: the same event (Gurudev walking through a crowded gate unseen, or Sudhir being visited in a waking vision by a 7-8 foot luminous figure) has different ontological status depending on the observer's consciousness. For the crowd, the gate is empty. For Rajpal Sekhri ji, it is a demonstration of yogic physics. For Gurudev, it is unremarkable. Maya is not just the general veil of delusion — it calibrates *how much of reality each observer can receive*. The chapter's closing call is thus not wonder but aspiration: *"If one individual can manifest as Shiv, what might you, too, be capable of achieving?"* The answer depends on how much of the veil has been thinned. See [[concepts/supernature]].
+
+## Maya and the Deception of Perception (*Witnessing Greatness* Ch.7)
+
+*Witnessing Greatness* Ch.7 opens with a tighter empirical framing of the senses-as-maya argument: human beings detect only about **0.00000000000035%** of the electromagnetic spectrum, leaving infrared and ultraviolet light entirely invisible. Dog-whistle frequencies are inaudible to us; the objects we touch are almost entirely empty space at the atomic level; scents and flavour complexities that other animals perceive easily escape our notice entirely.
+
+> Despite these limitations, our senses form the foundation of our perceptions, which then mould our beliefs, thoughts, and actions. Consequently, our limited perceptions often make us mistake our narrow slice of experience for the entire scope of reality — a concept referred to as Maya in Eastern philosophy.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+
+Maya, in this frame, is not a philosophical abstraction but the structural consequence of species-specific hardware. We cannot perceive what our instruments do not pick up; and we cannot know what we cannot perceive. The chapter's practical response: challenge perceptions, question the accuracy of what the senses reveal, and strive to transcend sensory limitations — not through denial but through the kind of deliberate mastery Gurudev embodied sense by sense. See [[concepts/senses-management]].
+
+### Afterlife as the Ultimate Sense-Trap
+
+The chapter extends the maya argument from the physical life into the afterlife. Gurudev warned of two paths that await the spirit at death: one that looks enticing, another that is simple and plain. The instinct shaped by a lifetime of sense-attraction — preferring beauty, pleasure, and stimulation — becomes a trap at this exact threshold.
+
+> He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.91
+
+This is the maya teaching applied to the post-mortem crossing. See [[concepts/loks]] for the Dhruv Tara crossroads mechanism, and [[concepts/senses-management]] for how mastery of the senses in this life prepares the spirit for the right choice at death.
 
 ## Open Questions
 

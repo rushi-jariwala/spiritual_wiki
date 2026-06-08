@@ -1366,6 +1366,32 @@ A concise metaphor for the non-doership shift in the context of seva. The "I do"
 
 ---
 
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Cook's Emotions as Food Ingredients
+*Illuminates: [[concepts/food-as-energy]], [[concepts/senses-management]]*
+
+Indian philosophy holds that a dish prepared by two different cooks carries distinct energies — the cook's emotional state and intention transfer into the cooking and reach those who eat it. Temple cooks are therefore meticulously selected for positive inner qualities. The anecdote that crystallises this: Hingori noticed that eating meals prepared by Sitaram — a domestic helper who frequently used colourful language — caused his own speech to begin mirroring Sitaram's style. The cook's frequency entered through the food.
+
+> A dish prepared by two different individuals will carry distinct energies, affecting those who consume it. This belief hinges on the idea that a cook's emotions and intentions are transferred into their cooking.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.90
+
+The analogy is not limited to strong characters like Sitaram. Every emotional state the cook carries — anxiety, love, distraction, devotion — colours the dish to some degree. It implies that cooking is an act of energy transfer, not just of nutrition. See [[concepts/food-as-energy]], [[concepts/barkat]].
+
+---
+
+### The Enticing Path vs. The Plain Path — Sense-Seduction Beyond Death
+*Illuminates: [[concepts/maya]], [[concepts/loks]], [[concepts/senses-management]]*
+
+Gurudev warned that at death the spirit encounters two paths: one that looks enticing, another that is simple and plain. The same mechanism of sense-seduction that traps human beings in lower experiences during life — preferring beauty over depth, stimulation over stillness — operates at the afterlife crossroads too. The enticing path leads to lower realms; the plain path leads to the higher.
+
+> He advised us to choose the plain path. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.91
+
+Hingori verified this through personal visits: the higher realms were bright yet sparsely inhabited — beautiful in a different register from the enticing lower realm, which felt like a dark, seedy nightclub. The seductive packaging belongs to the lower. The analogy reveals that maya's gravity does not end with the body — it operates at the very moment of transition. Managing the senses in this life is therefore not merely a spiritual exercise; it is preparation for the crossroads. See [[concepts/loks]] (Dhruv Tara crossroads), [[concepts/maya]], [[concepts/senses-management]].
+
+---
+
 ### The Tea-Stall Fate — Giving and Receiving as Destiny
 *Illuminates: [[practices/seva]], [[concepts/karma]], [[concepts/doer-ship]]*
 

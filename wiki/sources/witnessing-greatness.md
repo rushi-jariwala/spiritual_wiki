@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-08 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,76 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya as a sensory science**: the chapter opens by placing the ancient Vedantic concept of maya on an empirical footing — human beings detect only 0.00000000000035% of the electromagnetic spectrum; dogs whistle at inaudible frequencies; matter is almost entirely empty space at the atomic level. The narrow slice of sensory data on which we base all beliefs, thoughts, and actions is presented as the root cause of maya. The teaching call: challenge perceptions, transcend sensory limitations.
+- **Gurudev's full sensory transcendence**: the chapter surveys all five senses. Taste: Bittu ji, Puran ji, Alka ji, and Raji Sharma ji all confirm that he accepted any food without preference, ate leftovers over fresh, and went days without food — not from austerity but from mastery. Sight: budiya/gudiya and skeleton visualisation techniques for managing attraction. Hearing: Gurudev transcended enjoyment of music to using hearing as a spiritual tool — perceiving thoughts and spoken words from great distances. Touch: Mungaoli camp incident, where Gurudev stopped Hingori's shivering with a single question. Smell: no cologne; indifference to pleasantness and unpleasantness alike.
+- **Food as an energy vehicle**: Indian philosophy holds that a cook's emotions and intentions transfer into the cooking and reach those who eat it. Temple cooks are meticulously selected. Hingori's personal testimony: eating Sitaram's food caused his own speech to adopt Sitaram's style. White/light-coloured foods are particularly receptive to subtle energies — positive and negative.
+- **Water as a spiritual medium**: water's molecular structure changes with the emotions and intentions of those who interact with it. Jal at Gurudev's sthans is infused with mantras for healing. Gurudev shared sipped water to transfer spiritual energy and mantra counts ("I've transferred 10,000 recitations of this mantra to you"). Guru Purnima feet-washing and drinking of jal.
+- **Black magic via food and water**: Kamlesh's sherbet mixed with a harmful taweez. Hingori's own white pedas charged with reverse mantras, contributing to severe arthritis. Protective measure: adding turmeric or black pepper to white foods to change their colour.
+- **The afterlife as the ultimate sensory test**: two paths await the spirit at death — one enticing, one plain. Gurudev warned to choose the plain path (higher realms) and avoid the attractive path (lower realms). Hingori confirmed through personal visits: higher realms bright but sparsely inhabited; lower realm like a dark, seedy nightclub.
+- **Self-control as Gurudev's defining quality**: Virender ji's summary — "He wasn't attracted by money or women or praise. Nothing affected him." — establishes sensory mastery not as an achievement but as Gurudev's natural state.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Gurudev readily accepted any vegetarian food cooked for him, no matter how simple. He never demanded particular dishes. His spiritual path had overshadowed his physical needs."
+> — Puran ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji), *Witnessing Greatness*, Ch.7, p.91
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev, *Witnessing Greatness*, Ch.7, p.91
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.91
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.91
+
+> "Why did you do that?"
+> — Gurudev (to Hingori at Mungaoli, stopping the shivering), *Witnessing Greatness*, Ch.7, p.93
+
+## Stories Extracted (Ch.7)
+
+Enrichments of existing pages:
+- [[stories/gurudev-not-eating-hungry-disciples]] — WG Ch.7 adds the Bittu ji dialogue with the specific scanning-before-eating mechanism (eyes closed, checking if all spiritual children are fed)
+- [[stories/mungaoli-sweater-incident]] — WG Ch.7 adds the direct quote ("Why did you do that?") and makes explicit that Gurudev's question stopped the shivering, demonstrating control over Hingori's physical sensations as well as his own
+
+Short anecdotes kept inline (not given own pages):
+- Renu ji / Indu Sharma ji memory with Punjabi quote → inline in [[concepts/senses-management]] (taste section) and [[concepts/food-as-energy]]
+- Sitaram domestic helper (speech adopting Sitaram's style after eating his food) → inline in [[concepts/food-as-energy]]
+- Kamlesh sherbet + taweez → enrichment note in [[concepts/spiritual-attacks]]; cross-referenced to existing story [[stories/kamlesh-black-magic-cure]]
+- White pedas / Hingori's arthritis via food-based black magic → inline in [[concepts/spiritual-attacks]] with [!warning] noting discrepancy between accounts
+- Gurudev's music evolution (Binaca Geet Mala → hearing thoughts from great distances) → inline in [[concepts/senses-management]] (hearing section)
+- Chandigarh–Gurgaon road trip argument, Gurudev admonishing Hingori upon arrival → inline in [[concepts/senses-management]] (hearing section)
+- Author's three realm visits (higher bright/sparse, lower dark/seedy) → inline in [[concepts/loks]] and [[concepts/maya]]
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/food-as-energy]] — new concept page: food and water as subtle energy vehicles carrying the cook's emotional imprint; white foods and vulnerability to negative energy; protective spices; sipped water as mantra transfer medium
+
+Enrichments:
+- [[concepts/senses-management]] — major expansion: new WG Ch.7 material for all five senses; Virender ji quote; food-energy connection; Chandigarh–Gurgaon hearing story; music-to-spiritual-hearing evolution
+- [[concepts/maya]] — WG Ch.7 electromagnetic spectrum framing (0.00000000000035%); afterlife paths as the ultimate sense-seduction trap
+- [[concepts/spiritual-attacks]] — new method: black magic via white foods; white pedas incident; protective spice measure; Kamlesh sherbet-taweez variant
+- [[concepts/loks]] — author's personal realm descriptions: higher realms bright/sparse, lower realm dark/seedy nightclub
+- [[concepts/mantra-transfer]] — third form of transfer: sipped water as mantra transfer vehicle
+- [[concepts/barkat]] — linked to new food-as-energy concept
+- [[concepts/guru-vandana]] — Guru Purnima feet-washing jal consumption already documented; WG Ch.7 confirms and amplifies
+- [[wiki/analogies/analogies]] — two new analogies: Cook's Emotions as Food Ingredients; Enticing Path vs. Plain Path
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **White pedas incident — two accounts of Hingori's arthritis**
+> *Spiritual Attacks* (from *Guru Sutra*) attributes Hingori's arthritis to "black magic performed by a temple priest." *Witnessing Greatness* Ch.7 describes white pedas charged with negativity through reverse mantras, by an unnamed party. These may be two separate attacks — both contributing to the arthritis — or different framings of the same incident at different levels of detail. The chapter does not resolve the discrepancy. Flagged in [[concepts/spiritual-attacks]].
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

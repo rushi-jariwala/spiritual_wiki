@@ -1406,3 +1406,35 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Seedy Nightclub — Lower Realms vs. Higher Realms
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+> The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Hingori's first-person journeys through two higher and one lower realm give sensory form to the abstract cosmological teaching. The higher loks are luminous but thinly populated; the lower realm has the aesthetic of a crowded, seductive venue. This directly illustrates Gurudev's teaching that the enticing path in the afterlife leads to lower dimensions, while the plain path leads upward — the same preference for surface attractiveness that binds us to maya on Earth governs which realm a soul is drawn toward after death. The "dark, seedy nightclub" is a striking modern image for tamasic loks that have nothing elevated about them despite their sensory appeal. See [[concepts/loks]] and [[concepts/senses-management]] (Sight section — the crossroads teaching).
+
+---
+
+### The Reservation Manager — Higher Realms and Witnessing
+*Illuminates: [[entities/hingori]], [[concepts/loks]], [[concepts/astral-travel]]*
+
+> Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+A characteristically wry Hingori self-description: his out-of-body journeys to higher loks are reframed as a kind of advance orientation for a management role — ensuring people make it to the quieter, better-quality floors of the cosmic building. The "14-storey building" analogy from elsewhere in the tradition makes this landing especially precise. The image carries genuine content: the rarity of higher-realm residents is not a theological abstraction but something Hingori experienced as empty brightness.
+
+---
+
+### Eyes as Energy Conduits — Not Merely Windows
+*Illuminates: [[concepts/senses-management]], [[concepts/aura]], [[concepts/vasna]]*
+
+> Our eyes are not merely windows to our souls but can attract and emit energy. Excessive focus on the opposite gender, he cautioned, could adversely affect our spiritual well-being, draining our spiritual energy and weakening our aura.
+> — Hingori (summarising Gurudev's teaching), *Witnessing Greatness*, Ch.7, p.94
+
+The standard metaphor ("eyes are windows to the soul") is extended and made energetically precise: the window does not merely reveal — it conducts energy in both directions. Prolonged visual focus sends energy outward and invites energy in. This is the mechanism behind the sight-management teaching: the issue is not aesthetic preference but the actual energetic cost of sustained vaasna-driven looking. The teaching frames the eyes as an interface in the aura's protective layer, not a passive observer.
+

@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-09 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,58 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya as the frame**: the chapter opens with the scientific case for humanity's perceptual limits (we see ~0.00000000000035% of the EM spectrum; solid matter is mostly empty space) and frames this as the empirical basis for Maya. This is the most direct application of the Maya-science parallel across the *Witnessing Greatness* chapters — consistent with *Aatma Sutra* Ch.VII's treatment.
+- **Gurudev's triumph over each sense, in sequence**: the chapter proceeds methodically through taste (multiple disciple testimonies), sight (vaasna technique; not wearing cologne), hearing (road trip argument heard from Gurgaon), and touch (the Mungaoli shivering episode). Each sense is illustrated with personal testimony, making Ch.7 the most comprehensive single account of the mahaguru's sensory mastery.
+- **Energy in food**: Indian philosophy's teaching that the cook's emotions and intentions are transmitted into food is explored through Alka ji's summary ("the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness"), the Mataji/sthan meals, and Hingori's account of adopting Sitaram's speech patterns after eating his food. Black magic via white pedas is also documented here — food as a vector for both positive and harmful energy.
+- **Energy in water**: jal charged with mantras as healing medium; Gurudev sharing sipped water to transfer mantra recitations; Guru Purnima foot-washing tradition; the Kamlesh-taweez-in-sherbet incident as the cautionary example.
+- **Feeding others before feeding oneself**: the chapter contains the most explicit statement of this teaching — Gurudev scanning his spiritual children before allowing himself to eat, and the Punjabi ek vakya on the superior pleasure of feeding others.
+- **Two paths in the afterlife**: Gurudev describes the choice awaiting evolved souls — an attractive path (lower realms) vs. a plain path (higher realms). Hingori's first-person journeys through three distinct realms confirm this: bright but sparsely inhabited higher realms vs. a "dark, seedy nightclub" lower realm.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.89
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "*Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda.*"
+> ("When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.")
+> — Gurudev (recalled by Renu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (when sharing sipped water), *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+- [[stories/gurudev-scanning-disciples-before-eating]] — Bittu ji observes Gurudev's reluctance to eat; Gurudev reveals he scans all disciples before eating; Renu ji adds the Punjabi ek vakya on the joy of feeding
+- [[stories/gurudev-mungaoli-shivering]] — Hingori's shivering caused by pretence; Gurudev's question stops it at once; double teaching on sensory mastery and authenticity
+
+Short anecdotes kept inline (in [[concepts/energy-in-food]] and [[concepts/senses-management]]):
+- Hingori adopting Sitaram's speech patterns after eating his food → inline in [[concepts/energy-in-food]]
+- Hingori's arthritis from white pedas charged via black magic → inline in [[concepts/energy-in-food]]
+- Mataji's food at the Gurgaon sthan carrying distinctive essence → inline in [[concepts/energy-in-food]]
+- Road trip argument (Chandigarh to Gurgaon) overheard by Gurudev in Gurgaon → inline in [[concepts/senses-management]]
+- Kamlesh's taweez in sherbet → brief note in [[concepts/energy-in-water]] (full story already at [[stories/kamlesh-black-magic-cure]])
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/energy-in-food]] — new concept page: food as carrier of the cook's energetic intention; light-coloured foods as particularly receptive; spices as protection; karmic debt from others' food
+- [[concepts/energy-in-water]] — new concept page: water's molecular structure responds to consciousness; jal as mantra-charged healing medium; sipped water as vehicle for mantra transfer
+
+## Contradictions / Tensions (Ch.7)
+
+Gaggu ji's early tales show young Gurudev enjoying flavourful Indian meals, which contrasts with his later total indifference to taste. The chapter explicitly resolves this: between the 1970s and 1980s there was a conscious shift — not from pleasure to aversion, but toward mastery over the senses. No genuine contradiction; the developmental arc is acknowledged and incorporated.
+
+> [!tip] The Mungaoli shivering episode implies Gurudev's control over others' physical sensations — an extension of his supernature capacity documented in Ch.3. No contradiction, but a deepening of the supernature theme in an unexpected (sensory mastery) register.
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

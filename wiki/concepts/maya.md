@@ -140,6 +140,9 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 - [[concepts/self-acceptance]] — beyond maya = beyond guilt; Ram as the advanced case
 - [[entities/guru-vashisht]] — source of the Yog Vasishta teachings on Brahman and maya
 - [[concepts/loks]] — maya is the "background music" on Bhu lok; sense-attraction is the snare at the Dhruv Tara crossroads in the afterlife
+- [[concepts/energy-in-food]] — food carries the cook's energetic state; a practical dimension of how maya operates through the sense of taste
+- [[concepts/energy-in-water]] — water's molecular structure responds to human intention; another face of maya in the material world
+- [[concepts/senses-management]] — the systematic path through which the mahaguru thinned the veil sense by sense
 - [[stories/ram-kills-bali-behind-tree]] — maya teaching applied: killing Bali without guilt
 - [[stories/ram-banishes-sita]] — maya teaching applied: banishing Sita without malice
 - [[stories/ram-speech-to-guru-vashisht]] — Ram's own account of his state

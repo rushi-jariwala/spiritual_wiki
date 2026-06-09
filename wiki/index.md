@@ -91,6 +91,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
+- [[energy-in-food]] — Food carries the cook's emotional energy and intentions; light-coloured foods as receptive to harmful energy; karmic debt from others' food
+- [[energy-in-water]] — Water's molecular structure responds to human consciousness; jal charged with mantras as healing medium; sipped water as vehicle for mantra transfer
 
 ---
 
@@ -125,7 +127,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 
@@ -151,6 +153,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
+- [[quotes/senses-and-perception]] — Disciple testimonies on Gurudev's mastery over taste, sight, and hearing; feeding others before self; mantra transfer via sipped water
 
 ---
 
@@ -375,6 +378,8 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's unhurried investigation; cure from the plant's own roots; "nature has a cure for everything"
 - [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
 - [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
+- [[gurudev-scanning-disciples-before-eating]] — Bittu ji questions Gurudev's reluctance to eat; Gurudev reveals he scans all disciples first; Punjabi ek vakya on feeding others
+- [[gurudev-mungaoli-shivering]] — Hingori's pretence causes uncontrollable shivering in the cold; Gurudev's question stops it at once; teaching on authenticity and sensory mastery
 
 ---
 

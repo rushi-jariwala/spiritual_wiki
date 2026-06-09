@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Witnessing Greatness** (`raw/witnessing-greatness-chapters/`)
 
 ## Next
-- [ ] ch-07-deception-of-perception.md       (321 lines)
+- [ ] ch-08-cosmic-collaborators.md          (771 lines)
 
 ## Remaining — Witnessing Greatness
-- [ ] ch-08-cosmic-collaborators.md          (771 lines)
 - [ ] ch-09-sage-of-solace.md               (927 lines)
 - [ ] ch-10-peerless-mentorship.md           (298 lines)
 - [ ] ch-11-sacred-syllables.md              (543 lines)
@@ -32,6 +31,7 @@ a large chapter (≥ 500 lines) is hit.
 - [ ] ch-20-sculpting-divinity.md            (526 lines)
 
 ## Completed — Witnessing Greatness
+- [x] ch-07-deception-of-perception.md
 - [x] ch-01-back-to-the-future.md
 - [x] ch-02-invisibly-yours-buddhe-baba.md
 - [x] ch-03-impossible-is-possible.md

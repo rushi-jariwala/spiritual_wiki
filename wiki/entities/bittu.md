@@ -30,6 +30,8 @@ Bittu ji drove Gurudev to and from the office, managed logistics at Khandsa farm
 
 - **Burns healed via dream.** After sustaining severe burns in a house fire, the mahaguru appeared in Bittu ji's dream, spoke to him, and offered him sipped water. Within a week, his scorched skin flaked off and he was able to walk. His vision was reportedly restored following third-degree burns. See [[stories/bittu-burns-healing-dream]].
 
+- **The food-scanning dialogue.** Noticing Gurudev's reluctance to eat, Bittu ji questioned him for seemingly not respecting food. Gurudev explained that before each meal he shuts his eyes and scans to ensure all his spiritual children have been fed — and if even one remains hungry, he cannot eat. See [[stories/gurudev-scanning-disciples-before-eating]].
+
 ## Quotes
 
 > "I am a man of moderate means. My financial capacity to assist people is limited. I will use my body to serve regardless of how physically demanding the work is."
@@ -40,3 +42,4 @@ Bittu ji drove Gurudev to and from the office, managed logistics at Khandsa farm
 - [[entities/mahaguru]] — Gurudev, the guru Bittu ji served
 - [[concepts/ulta-guru]] — the pattern of Gurudev serving disciples, illustrated repeatedly in Bittu ji's accounts
 - [[stories/elderly-couple-van-rescue]] — the most narratively substantial story in which Bittu ji is central
+- [[stories/gurudev-scanning-disciples-before-eating]] — Bittu ji's challenge to Gurudev; the food-scanning revelation

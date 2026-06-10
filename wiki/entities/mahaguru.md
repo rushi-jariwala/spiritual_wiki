@@ -494,6 +494,14 @@ See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his o
 - [[stories/hingori-augarh-mataji-town]] — Augarh chants Hingori's mental mantra; guards house all night
 - [[stories/hingori-augarh-tea]] — Augarh guides Hingori telepathically to make perfect tea
 
+**Senses and Perception (*Witnessing Greatness*, Ch.7)**
+- [[stories/indu-sharma-gurudev-joy-of-feeding]] — Renu ji recalls Indu didi's concern; Gurudev's Punjabi teaching on the joy of feeding others
+- [[stories/gurudev-sipped-water-mantra-transfer]] — sharing sipped water to transfer "10,000 mantra recitations"; water as spiritual transmission medium
+- [[stories/guru-purnima-feet-washing]] — Guru Purnima: disciples wash his feet, then drink the charged water
+- [[stories/hingori-road-trip-chandigarh]] — hears a 260 km argument and admonishes Hingori the moment he arrives in Gurgaon
+- [[stories/gurudev-mungaoli-shivering]] — Hingori's pretence triggers uncontrollable shivering; Gurudev's one question stops it
+- [[stories/gurudev-afterlife-two-paths]] — the plain path leads to higher realms; the enticing one to lower; Hingori's three-realm verification
+
 **From *Karma Sutra* and *Aatma Sutra***
 - [[stories/hingori-arthritis-cure]] — cured Hingori's rheumatoid arthritis in a minute
 - [[stories/gurus-umbrella-wife-delivery]] — vision of Hingori's wife in danger, averted at the moment of delivery
@@ -523,6 +531,7 @@ See [[quotes/guru]].
 - [[concepts/loks]] — Gurudev's afterlife HQ at Najafgarh; descended with hundreds of beings from higher loks
 - [[concepts/supernature]] — the full taxonomy of his transcendent capacities; the destiny-supernature inversion
 - [[concepts/power-symbols]] — the Shiv-parivaar symbols on his body; meanings and transfer
+- [[concepts/food-as-energy-medium]] — food and water as energy carriers; his teaching on karmic debt through food; sipped water as transmission method
 - [[entities/mataji]] — his wife; the Shakti to his Shiv; carried forward his legacy; the only one who could bring him back from astral travel
 - [[entities/chacha]] — his younger brother; a casualist spiritualist; died on Gurudev's implied instruction
 - [[entities/buddhe-baba]] — his mysterious mentor; received all credit for Gurudev's seva

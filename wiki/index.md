@@ -91,6 +91,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
+- [[food-as-energy-medium]] — Food and water carry the emotional and intentional energy of their preparers; light-coloured foods absorb negative energy; Gurudev's jal as healing medium; sipped water as mantra transfer
 
 ---
 
@@ -151,6 +152,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
+- [[quotes/senses-and-perception]] — Mastery over the five senses, food and its preparer's energy, water as mantra medium, sight and self-control; testimonies from *Witnessing Greatness* Ch.7
 
 ---
 
@@ -375,6 +377,13 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's unhurried investigation; cure from the plant's own roots; "nature has a cure for everything"
 - [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
 - [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
+- [[indu-sharma-gurudev-joy-of-feeding]] — Renu ji recalls Indu didi's concern that Gurudev skipped dinner; Gurudev's Punjabi teaching on the joy of feeding others
+- [[hingori-white-pedas-black-magic]] — White pedas charged with reverse mantras used to channel harmful energy; Hingori's arthritis; light-coloured foods as energy receptors
+- [[gurudev-sipped-water-mantra-transfer]] — Gurudev shares sipped water with disciples: "I've transferred 10,000 recitations of this mantra to you"; water as mantra medium
+- [[guru-purnima-feet-washing]] — Guru Purnima tradition: disciples wash Gurudev's feet and drink the water infused with his spiritual energy
+- [[hingori-road-trip-chandigarh]] — Hingori and his father argue throughout a Chandigarh-to-Gurgaon drive; Gurudev admonishes Hingori upon arrival, having heard everything
+- [[gurudev-mungaoli-shivering]] — At Mungaoli camp, Hingori puts on a sweater as pretence; shivering begins; Gurudev's question stops it instantly
+- [[gurudev-afterlife-two-paths]] — Gurudev's teaching: in the afterlife, choose the plain-looking path, not the enticing one; it leads to the higher realms; Hingori's direct verification
 
 ---
 

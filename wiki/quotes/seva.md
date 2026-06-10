@@ -69,6 +69,11 @@ updated: 2026-05-24
 > — Gurudev (recalled by Renu ji), *The Guru of Gurus*, p.35
 [[entities/mahaguru]] · [[stories/gurudev-indu-subzi-mussoorie]]
 
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> [When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.]
+> — Gurudev (recalled by Renu ji, in context of Indu didi's concern that Gurudev had not eaten dinner), *Witnessing Greatness*, Ch.7, p.92
+[[entities/mahaguru]] · [[stories/indu-sharma-gurudev-joy-of-feeding]]
+
 ## Gurudev on Spiritual Enterprise (Entrepreneur Extraordinaire)
 
 > "He came on earth to help and heal and change the ethos of generations. / He willed ordinary men into mighty saints; / the forebearer of spiritual transformations."

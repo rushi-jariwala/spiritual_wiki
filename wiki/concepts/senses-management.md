@@ -1,10 +1,10 @@
 ---
 title: Senses Management
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[concepts/food-as-energy-medium]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-10
 ---
 
 # Senses Management
@@ -90,6 +90,44 @@ To change the state of your consciousness, you must change the level of your min
 
 Sensory management is ultimately the method by which the jivaatma strips away the personalised worldview and begins to perceive its own nature.
 
+## Witnessing Greatness Ch.7 Enrichments
+
+*Witnessing Greatness* Ch.7 enriches the sense-by-sense portrait of Gurudev's mastery with specific testimonies and new anecdotes.
+
+### Taste — Food as Energy Carrier
+
+Bittu ji recalls: *"Gurudev saw food as sacred and worthy of respect. He would sometimes bring food to his mouth but then decide against eating."* On being questioned, Gurudev explained that before taking a bite, he shut his eyes and scanned to ensure all his spiritual children had been fed. If even one remained hungry, he could not eat. See [[stories/gurudev-not-eating-hungry-disciples]].
+
+Beyond self-restraint, Gurudev taught that food carries the energy of its preparer — the cook's emotions and intentions transfer into what is cooked. He advised against eating food paid for by others to avoid incurring karmic debt, and not selecting food based on flavour alone. See [[concepts/food-as-energy-medium]].
+
+Alka ji (Gurudev's daughter): *"For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."*
+
+### Sight — The Budiya-Gudiya Technique
+
+Virender ji attests to the depth of Gurudev's mastery: *"In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."*
+
+Gurudev also taught a practical technique for transcending impulses toward the opposite gender (*vaasnas*): first visualise the person as an elderly woman (*budiya*), then as a young girl (*gudiya*). This accurate evaluation dissolves immediate attraction. Hingori developed his own variant — visualising every person as a skeleton — which he found equally effective.
+
+### Smell — No Cologne
+
+Gurudev never wore cologne. He believed that true spiritual growth meant not being swayed by life's dualities — including what we find pleasant or unpleasant. A practitioner should not be overly drawn to beauty or repulsed by a lack of it.
+
+### Hearing — Perceiving Thoughts from Great Distances
+
+Gurudev's sense of hearing evolved from enjoying popular music (Binaca Geet Mala on radio; whistling tunes; playing the mouth organ in his youth) to using hearing as a supernormal tool — perceiving spoken words and even thoughts from vast distances.
+
+During a road trip from Chandigarh to Gurgaon, Hingori and his father argued throughout the journey. Upon arriving in Gurgaon, Gurudev promptly yet gently admonished Hingori for his behaviour, having been aware of the entire exchange. *"His vigilance was such that nothing went unnoticed."* See [[stories/hingori-road-trip-chandigarh]].
+
+### Touch / Temperature — Mungaoli Camp
+
+The mahaguru remained comfortable in only a sweater during cold winters in the hills, while disciples layered themselves heavily. At his camp in Mungaoli, Madhya Pradesh, Hingori initially wore only a T-shirt in the cold. When Gurudev returned, Hingori put on a sweater out of self-consciousness, whereupon he began shivering uncontrollably. Gurudev's simple question — "Why did you do that?" — immediately stopped the shivering. See [[stories/gurudev-mungaoli-shivering]].
+
+The lesson Hingori drew: the senses can be influenced in ways we do not realise; pretence before the guru produces its own physical consequences.
+
+### Afterlife — The Plain Path to Higher Realms
+
+Gurudev taught that unmanaged sensory preference has consequences beyond death. At the afterlife crossroads, one path looks enticing and another plain. He warned to choose the plain path: it leads to higher spiritual dimensions, while the attractive path leads to lower realms. Hingori's direct journeys through three realms confirmed this — the higher realms were bright and sparsely populated, while the lower realm resembled a dark, crowded nightclub. See [[stories/gurudev-afterlife-two-paths]].
+
 ## Cross-references
 
 - [[concepts/constant-awareness]] — the state reached when senses are mastered; awareness beyond sensory input
@@ -97,5 +135,11 @@ Sensory management is ultimately the method by which the jivaatma strips away th
 - [[concepts/gunas]] — tamas and rajas are fuelled by unmanaged senses; sattva grows as senses are controlled
 - [[concepts/role-play]] — Gurudev's observer stance is identical in senses and emotional management
 - [[concepts/maya]] — the personalised worldview sustained by unmanaged senses is maya
+- [[concepts/food-as-energy-medium]] — taste management extends into the principle that food carries the preparer's energy
+- [[concepts/loks]] — the afterlife two-path teaching: sensory training in life determines realm-selection after death
 - [[entities/mahaguru]] — Gurudev's life trajectory from foodie and would-be movie star to total sensory mastery
 - [[stories/blank-cassette-disciple]] — Gurudev's demonstration of supernormal hearing/discernment
+- [[stories/hingori-road-trip-chandigarh]] — hearing the argument from Chandigarh while seated in Gurgaon
+- [[stories/gurudev-mungaoli-shivering]] — temperature mastery and influence over others' physical sensations
+- [[stories/gurudev-afterlife-two-paths]] — the practical consequences of unmanaged sight-preference after death
+- [[quotes/senses-and-perception]] — key testimonies from WG Ch.7

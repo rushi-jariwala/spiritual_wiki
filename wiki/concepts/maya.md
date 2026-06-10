@@ -2,10 +2,10 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-06-10
 ---
 
 # Maya
@@ -156,6 +156,21 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 > — Hingori, *Witnessing Greatness*, Ch.3, p.43
 
 This is a precise application of the maya framework: the same event (Gurudev walking through a crowded gate unseen, or Sudhir being visited in a waking vision by a 7-8 foot luminous figure) has different ontological status depending on the observer's consciousness. For the crowd, the gate is empty. For Rajpal Sekhri ji, it is a demonstration of yogic physics. For Gurudev, it is unremarkable. Maya is not just the general veil of delusion — it calibrates *how much of reality each observer can receive*. The chapter's closing call is thus not wonder but aspiration: *"If one individual can manifest as Shiv, what might you, too, be capable of achieving?"* The answer depends on how much of the veil has been thinned. See [[concepts/supernature]].
+
+## Maya and Sensory Deception — Witnessing Greatness Ch.7
+
+*Witnessing Greatness* Ch.7 opens with the most specific empirical statement across the corpus on human sensory limitation:
+
+> Human sensory perception is fundamentally flawed. We only detect a tiny slice — about 0.00000000000035% — of the electromagnetic spectrum, leaving us blind to infrared and ultraviolet light. Sounds at frequencies used in dog whistles are inaudible to us, and even the solid objects we touch consist primarily of empty space at an atomic level.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+
+This figure (0.00000000000035% of the EM spectrum) is more specific than the *Aatma Sutra* figure (less than 0.00000000005%) already documented. The chapter extends the argument to smell (scent molecules dogs detect that humans miss) and taste (flavours animals perceive that humans cannot), making the sensory-limitation case comprehensive across all five senses.
+
+The practical consequence the chapter draws is direct: *"our limited perceptions often make us mistake our narrow slice of experience for the entire scope of reality."* This is maya in its most accessible formulation — not a metaphysical assertion but an empirically verifiable fact about the species. Beyond the sensory limits lies a *"realm of expansive possibilities."* To access it, one must challenge perceptions, question the accuracy of sensory data, and strive to transcend sensory limitations.
+
+The chapter then narrates how Gurudev embodied this transcendence — progressively mastering all five senses until they became instruments of spiritual perception rather than constraints. See [[concepts/senses-management]] for the full sense-by-sense account.
+
+> [!tip] The WG Ch.7 approach is pragmatic rather than philosophical: it grounds the maya teaching in concrete physiological fact, then immediately shows a living demonstration of what lies beyond those limits. The argument is: *you cannot see 99.99%+ of reality — here is a person who can.*
 
 ## Open Questions
 

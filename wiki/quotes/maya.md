@@ -4,7 +4,7 @@ type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
 related: ["[[concepts/maya]]", "[[concepts/moksha]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[entities/guru-vashisht]]"]
 created: 2026-04-12
-updated: 2026-04-18
+updated: 2026-06-10
 ---
 
 # Quotes on Maya and Moksha
@@ -102,6 +102,18 @@ Quotes related to [[concepts/maya]], [[concepts/moksha]], and the nature of the 
 > "Like a frog in the blind well, foolish and ignorant people base their understanding on the experience of the moment and, on account of their perverse understanding, they are deluded into thinking that the body alone is the source of experience or awareness."
 > — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
 [[concepts/maya]] · [[entities/guru-vashisht]]
+
+---
+
+## On Perception and Maya (Witnessing Greatness Ch.7)
+
+> "Human sensory perception is fundamentally flawed. We only detect a tiny slice — about 0.00000000000035% — of the electromagnetic spectrum, leaving us blind to infrared and ultraviolet light."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+[[concepts/maya]] · [[concepts/senses-management]]
+
+> Despite these limitations, our senses form the foundation of our perceptions, which then mould our beliefs, thoughts, and actions. Our limited perceptions often make us mistake our narrow slice of experience for the entire scope of reality — a concept referred to as Maya in Eastern philosophy.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+[[concepts/maya]]
 
 ---
 

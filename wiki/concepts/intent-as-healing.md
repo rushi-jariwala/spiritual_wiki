@@ -87,3 +87,4 @@ This is intent-as-healing applied by the disciple rather than the guru: the same
 - [[practices/seva]] — healing through seva operates by the same principle: it is the intent of nisvarth service, not the method, that transforms
 - [[concepts/spiritual-healing]] — the full treatment of healing modes, sources of negativity, and how intent-as-healing operates in practice
 - [[stories/hingori-wrong-remedy-intention]] — empirical proof: wrong remedy, right result
+- [[concepts/food-as-energy-medium]] — the principle that a cook's intention transfers into food is the food-preparation parallel of intent-as-healing; the cook's intent is the invisible ingredient

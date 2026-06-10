@@ -116,6 +116,8 @@ Gurudev shared with Hingori in confidence that in the afterlife, the soul must f
 
 The snare at death mirrors the snare on Earth: sense-perception mistaken for a guide to reality.
 
+*Witnessing Greatness* Ch.7 restates this teaching in direct terms: Gurudev described two paths — one enticing, one plain — and explicitly advised choosing the plain one. *"He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms."* Hingori's direct visits to two higher realms (bright, sparsely inhabited) and one lower realm (dark, crowded, described as resembling a seedy nightclub) confirmed the description. See [[stories/gurudev-afterlife-two-paths]].
+
 ## Colour Codes of the Loks
 
 From Hingori's personal visits (see [[stories/hingori-lok-visits]]):

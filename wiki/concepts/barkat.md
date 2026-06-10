@@ -39,4 +39,5 @@ Gurudev's household had an unwritten rule: no food left unfinished on plates. Ma
 - [[stories/gurudev-food-barkat-leftover-paratha]] — the episode that crystallised the teaching
 - [[practices/seva]] — feeding visitors generously is the positive expression of barkat; wasting food is its negation
 - [[concepts/vairagya]] — non-attachment to surplus; the fakir who has enough but clings to nothing
+- [[concepts/food-as-energy-medium]] — a complementary lens: barkat is about the *quantity* and stewardship of food; food-as-energy-medium is about its invisible *quality* — who prepared it and with what intention
 - [[entities/mahaguru]] — the source and primary demonstrator of this teaching

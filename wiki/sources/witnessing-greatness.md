@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-10 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,61 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya as a sensory phenomenon**: the chapter opens with empirical data on the narrowness of human sense-perception (0.00000000000035% of the electromagnetic spectrum; dog-whistle frequencies; atomic empty space). The argument: our limited perceptions make us mistake a tiny slice of experience for all of reality — the definition of maya in operational form. Transcending this requires challenging perceptions, not merely accepting them.
+- **Sense mastery, sense by sense**: Gurudev's progression across all five senses is documented through disciple testimonies — from food and taste (accepting any food; not eating to honour hungry disciples; karmic debt through food) to water (healing jal; sipped water as mantra medium) to sight (budiya-gudiya technique; Virender ji's testimony on Gurudev's self-control) to smell (no cologne) to hearing (the Chandigarh road trip) to touch and temperature (the Mungaoli camp).
+- **Food and water as energy mediums**: a new dimension introduced in this chapter — food carries the cook's emotions and intentions; light-coloured foods absorb ambient and directed negative energy (Hingori's white pedas / arthritis incident); water's molecular structure changes based on emotional context. This grounds the Indian traditions of temple food preparation and prasad in a metaphysical principle, not merely cultural custom.
+- **Water as transmission vehicle**: Gurudev used sipped water to transfer mantra recitations to disciples ("I've transferred 10,000 recitations to you"). On Guru Purnima, disciples washed his feet and drank the charged water. These are documented as deliberate transmission practices, not merely symbolic gestures.
+- **Karmic debt through food**: Gurudev explicitly taught that accepting food paid for by others creates karmic debt; one should not eat based on obligation or flavour alone.
+- **Hearing as supernature**: Gurudev heard the full argument between Hingori and his father on a 260 km road trip, admonishing Hingori the moment he arrived. This extends the hearing-mastery arc from the blank-cassette incident (documented in *The Guru of Gurus*) with a new field demonstration.
+- **The afterlife two-path teaching**: Gurudev described two paths at death — one enticing, one plain. The plain path leads to higher realms; the attractive one to lower. Hingori's direct visits to two higher and one lower realm confirmed the description experientially. The teaching is a direct application of senses management to the post-death state.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji (Gurudev's daughter), *Witnessing Greatness*, Ch.7, p.90
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, pp.91–92
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji via Indu Sharma ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (on sharing sipped water with disciples), *Witnessing Greatness*, Ch.7, p.93
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+- [[stories/indu-sharma-gurudev-joy-of-feeding]] — Renu ji's memory of Indu didi's concern about Gurudev's missed dinner; the Punjabi joy-of-feeding teaching in a distinct Gurgaon context
+- [[stories/hingori-white-pedas-black-magic]] — White pedas charged with negative rituals and reverse mantras used to harm Hingori; caused severe arthritis; the pre-Gurudev period
+- [[stories/gurudev-sipped-water-mantra-transfer]] — Sipped water as mantra transfer vehicle; "10,000 recitations"; Kamlesh's sherbet-taweez incident also noted
+- [[stories/guru-purnima-feet-washing]] — Guru Purnima tradition: disciples wash feet and drink the energy-infused water
+- [[stories/hingori-road-trip-chandigarh]] — Full argument heard by Gurudev from 260 km away; admonishment upon arrival
+- [[stories/gurudev-mungaoli-shivering]] — Cold camp; Hingori's pretence causes uncontrollable shivering; Gurudev's question stops it
+- [[stories/gurudev-afterlife-two-paths]] — Teaching on the two paths in the afterlife; Hingori's three-realm verification
+
+Enrichments of existing pages:
+- [[stories/gurudev-not-eating-hungry-disciples]] — WG Ch.7 adds the specific dialogue (eyes shut, inner scan) and Bittu ji's direct challenge about food respect
+- [[concepts/senses-management]] — Major enrichment: new testimonies for all five senses; afterlife application
+- [[concepts/maya]] — WG Ch.7 adds the most specific EM-spectrum figure (0.00000000000035%) and the sense-by-sense empirical case
+- [[concepts/barkat]] — Cross-reference to [[concepts/food-as-energy-medium]] added
+- [[concepts/karmic-debt]] — Food-carmic-debt nuance from Gurudev's WG Ch.7 teaching added
+
+## New Concepts Introduced (Ch.7)
+
+- [[concepts/food-as-energy-medium]] — New concept page: food and water as carriers of emotional/spiritual energy; cook's emotions transfer; light-coloured foods absorb negativity; karmic debt through food; healing jal; sipped water as mantra medium
+
+## Contradictions / Tensions (Ch.7)
+
+None. The chapter is a biographical and anecdotal enrichment of existing concepts. The electromagnetic spectrum figure (0.00000000000035%) is more precise than the earlier *Aatma Sutra* figure (less than 0.00000000005%); both are illustrative rather than scientifically precise, and no contradiction arises. All food/water teachings are consistent with the broader karmic-debt and spiritual-healing frameworks.
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

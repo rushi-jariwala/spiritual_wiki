@@ -1406,3 +1406,35 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Cook's Invisible Ingredient
+*Illuminates: [[concepts/food-as-energy-medium]], [[concepts/intent-as-healing]]*
+
+> Indian philosophy suggests that a dish prepared by two different individuals will carry distinct energies, affecting those who consume it. This belief hinges on the idea that a cook's emotions and intentions are transferred into their cooking.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.90
+
+The cook's emotional state is an invisible ingredient — as present in the dish as the spices, but undetectable by the senses of taste or smell. Temple cooks are selected with care precisely because this ingredient cannot be extracted once cooked in. The analogy illuminates why *who* prepares food matters as much as *what* they prepare, and why the Indian tradition of prasad (food first offered to the divine) is more than ritual form. See [[concepts/food-as-energy-medium]].
+
+---
+
+### Water as Molecular Mirror
+*Illuminates: [[concepts/food-as-energy-medium]], [[concepts/intent-as-healing]], [[concepts/spiritual-healing]]*
+
+> Water, often described as the planet's lifeblood, reflects the emotions and intentions of those interacting with it. Despite retaining its chemical composition, water's molecular structure can change, manifesting its dual potential to heal and harm.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.92
+
+Water's chemical formula remains H₂O; its molecular arrangement does not. Emotion and intent reorganise the structure without changing the substance — making it a mirror of the inner state of whoever interacts with it. This is why *jal* infused with mantras heals, and *jal* mixed with a harmful taweez harms. The healing or the harm is not chemical; it is structural. See [[concepts/food-as-energy-medium]].
+
+---
+
+### The Two Afterlife Paths — Plain vs. Enticing
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]], [[concepts/vairagya]]*
+
+> Gurudev talked about two paths: one that looks enticing and another that is simple and plain. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+The afterlife crossroads is a test of how well the senses have been managed in life. The enticing path activates the same visual pull — beauty, stimulation, entertainment — that maya deployed throughout the incarnation. A jivaatma that has trained the sense of sight to not be drawn by beauty will find the plain path navigable; one that hasn't will choose the wrong door. The higher realms are bright but sparse; the lower realm dark but crowded. Sensory management in life is the preparation for the navigational choice at death. See [[stories/gurudev-afterlife-two-paths]] and [[concepts/loks]].
+

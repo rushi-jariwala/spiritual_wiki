@@ -33,6 +33,9 @@ See [[stories/guru-sutra-ch13-poem2]].
 ### Black Magic via Personal Objects
 A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis.
 
+### Black Magic via Food
+Light-coloured foods — particularly white sweetmeats — are particularly receptive to subtle energies and can be charged with negative intent through specific rituals and reverse mantras. Hingori describes being given white *pedas* charged in this way before his encounter with Gurudev, which contributed to his developing severe arthritis. Similarly, a young girl named Kamlesh from Gurgaon unknowingly drank sherbet mixed with a harmful *taweez*; only Gurudev's timely intervention prevented serious harm. See [[concepts/food-as-energy-medium]] and [[stories/hingori-white-pedas-black-magic]].
+
 ### Death Yantra by Post
 A yantra — a geometrically charged occult diagram — can be embedded in a letter. Gurudev received such a letter; knowing its contents before opening it, he asked Hingori to leave the room, then tore the letter and reassembled it to expose and neutralise the yantra. The attempt on his life failed. See [[stories/inland-letter-yantra]].
 
@@ -82,6 +85,7 @@ This connects to the karma framework: a negative wish that fructifies becomes ne
 - [[stories/sthan-hostile-temple]] — hostile temple near a new sthan; sweetmeats resolve the tension
 - [[stories/hingori-deity-attack-sleep]] — bizarre nocturnal attack by neighbourhood temple deity
 - [[stories/kamlesh-black-magic-cure]] — months of vomiting glass bangles; taveez extracted by Gurudev; foiled attempt to kill (*The Guru of Gurus*)
+- [[stories/hingori-white-pedas-black-magic]] — white pedas charged with negative rituals and reverse mantras; Hingori's arthritis; light-coloured foods as energy receptors (*Witnessing Greatness* Ch.7)
 
 ---
 

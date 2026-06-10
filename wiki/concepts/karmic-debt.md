@@ -95,6 +95,8 @@ Any favour received — a glass of water when thirsty, a laugh, a helpful gestur
 
 Food, shelter, clothing, gifts, business items — all are karmic debts. Salt and cereal carry particular weight; in ancient times people avoided eating others' food for exactly this reason.
 
+Gurudev extended this principle in *Witnessing Greatness* Ch.7: he explicitly taught that one should not feel compelled to consume food financed by others to avoid incurring karmic debt, nor select food based on flavour alone. See [[concepts/food-as-energy-medium]] for the further dimension: food carries the emotional energy of its preparer, adding a second reason to be discriminating about whose food one accepts.
+
 **Repayment:** Counter-gifting (a token coin, silver); paying for food; offering equivalent value.
 
 ## In Practice

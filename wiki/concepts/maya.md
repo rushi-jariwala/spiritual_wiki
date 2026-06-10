@@ -157,6 +157,15 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 
 This is a precise application of the maya framework: the same event (Gurudev walking through a crowded gate unseen, or Sudhir being visited in a waking vision by a 7-8 foot luminous figure) has different ontological status depending on the observer's consciousness. For the crowd, the gate is empty. For Rajpal Sekhri ji, it is a demonstration of yogic physics. For Gurudev, it is unremarkable. Maya is not just the general veil of delusion — it calibrates *how much of reality each observer can receive*. The chapter's closing call is thus not wonder but aspiration: *"If one individual can manifest as Shiv, what might you, too, be capable of achieving?"* The answer depends on how much of the veil has been thinned. See [[concepts/supernature]].
 
+## Maya in Witnessing Greatness (Ch.7)
+
+Ch.7 opens with an extended empirical framing of maya as *sensory limitation* — we detect only about 0.00000000000035% of the electromagnetic spectrum; solid objects are primarily empty space at the atomic level; inaudible frequencies (dog whistles) fill the air around us. Our limited perceptions make us mistake a narrow slice of experience for the whole of reality.
+
+> [!warning] **Electromagnetic spectrum figure — two different percentages in Hingori's own texts**
+> *Aatma Sutra* Ch.VII states humans detect "less than 0.00000000005% of the electromagnetic spectrum." *Witnessing Greatness* Ch.7 states "about 0.00000000000035%." Both figures appear in Hingori's authorial voice; the difference is three orders of magnitude. The rhetorical point is identical across both sources. Do not reconcile speculatively.
+
+The chapter further deepens the maya/senses-management connection: Gurudev's teaching that the two afterlife paths (one attractive, one plain) test whether the soul's habitual sensory pull will hold sway even after death. The lower realms are experientially vivid but spiritually lower; the higher realms are plainer but spiritually higher. See [[concepts/senses-management]] for the full treatment.
+
 ## Open Questions
 
 > [!question] Is maya neutral or obstructive?

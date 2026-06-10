@@ -96,11 +96,19 @@ His healing abilities extended beyond physical proximity:
 ### Dreams and Visions
 Dreams and visions served as conduits for healing rays — not just while he was alive but especially after his passing. See [[stories/bittu-burns-healing-dream]].
 
-### Through Objects
+### Through Objects — Jal as Spiritual Medium
+
 Jal (sanctified water) retained its healing potency for years:
 
 > Be it water sipped by the guru or energised with mantras, the jal retains its freshness and does not smell for years. It is truly an elixir of life.
 > — *The Guru of Gurus*, p.229
+
+*Witnessing Greatness* Ch.7 elaborates the mechanics: water's molecular structure can change in response to the emotions and intentions directed at it, even while its chemical composition remains constant. Gurudev used this in two specific practices:
+
+1. **Sipped water sharing**: he would sip from a glass and pass the remainder to someone — as a mode of spiritual energy transfer, sometimes for healing, sometimes for spiritual development. He gave disciples mantras this way: *"I've transferred 10,000 recitations of this mantra to you."*
+2. **Guru Purnima foot-washing**: disciples washed Gurudev's feet; the water — infused with his spiritual energy — was then drunk, deepening the bond and conveying his blessings.
+
+The dual potential of water is illustrated across the same chapter: Kamlesh's sherbet mixed with a harmful taweez is the negative pole; the mantra-infused jal at the sthans is the positive. See [[stories/gurudev-jal-mantra-transfer]].
 
 ### Unconventional Methods
 He sometimes healed by doing precisely the opposite of what any logical mind would prescribe:
@@ -160,6 +168,7 @@ Spiritual healing was a significant part of Gurudev's seva. He did it without ac
 - [[stories/sore-throat-gol-gappas]] — counterintuitive cure
 - [[stories/kamlesh-black-magic-cure]] — glass bangles and taweez extracted
 - [[stories/hingori-arthritis-cure]] — the founding healing; ten years, one minute
+- [[stories/gurudev-jal-mantra-transfer]] — sipped water as mantra-transfer medium; Guru Purnima foot-washing
 
 ## Cross-references
 

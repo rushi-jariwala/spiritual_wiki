@@ -22,7 +22,7 @@ Told in Hingori's own voice in the section "A Personal Tale" (*Karma Sutra*, Ch.
 
 *Karma Sutra*, Ch.1, "A Personal Tale," p.13.
 
-> [!tip] *Aatma Sutra* Ch.IV (p.47) reveals the origin: "I too was a victim of black magic, transmitted to me through a *peda* (an Indian sweetmeat). This led me to suffering from rheumatoid arthritis for several years, which was eventually cured by Gurudev." A disciple had a vision of the culprit and the method of the attack.
+> [!tip] *Aatma Sutra* Ch.IV (p.47) reveals the origin: "I too was a victim of black magic, transmitted to me through a *peda* (an Indian sweetmeat). This led me to suffering from rheumatoid arthritis for several years, which was eventually cured by Gurudev." A disciple had a vision of the culprit and the method of the attack. *Witnessing Greatness* Ch.7 gives the fuller account of how the white pedas were charged — see [[stories/white-pedas-arthritis-origin]].
 
 ## *Guru Sutra* Ch.5 — The Fuller Account (pp.35–37)
 

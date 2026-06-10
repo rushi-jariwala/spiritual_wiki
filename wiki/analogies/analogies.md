@@ -1406,3 +1406,35 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Lower Realm as a Dark, Seedy Nightclub
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+> My journeys through three distinct realms — two higher and one lower — brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Gurudev had warned that the attractive path at the afterlife crossroads leads to lower realms and the plain path to higher ones. Hingori's three-realm experience gives the image its experiential grounding: the lower realm's aesthetic — dimly lit, dense, seedy — is the full flowering of the soul that chased allure in embodied life. The higher realms are bright and sparsely populated because the sensory restraint required to enter them is rare. The analogy reverses the ordinary assumption: the plain is the desirable; the glamorous is the trap. See [[concepts/loks]] and [[concepts/senses-management]].
+
+---
+
+### Eyes as Emitters, Not Just Windows
+*Illuminates: [[concepts/aura]], [[concepts/senses-management]]*
+
+Gurudev emphasised that the eyes are not merely windows to the soul but can attract and emit energy. Excessive focus on the opposite gender drains spiritual energy and weakens the aura. This reframes the sense of sight as a bidirectional energy exchange, not a passive receptor. What one looks at, one is touched by; what one looks at with desire, one transfers energy toward. The implication: managing the gaze is managing spiritual currency. See [[concepts/aura]] and [[concepts/senses-management]].
+
+*Witnessing Greatness*, Ch.7, pp.93–94.
+
+---
+
+### Food as Energetic Carrier — The Cook's Signature
+*Illuminates: [[concepts/senses-management]], [[concepts/tantra]], [[concepts/karma]]*
+
+Indian philosophy holds that two different people cooking the same dish produce two distinct dishes — because a cook's emotions and intentions are transferred into the food. This is why temple cooks are screened for their inner life, not only their culinary skill. Hingori's personal experience of absorbing Sitaram's colourful speech patterns through his meals (and the extreme case of white pedas charged with negative mantras triggering arthritis) grounds this as a lived principle rather than a theoretical one.
+
+The analogy illuminates the karmic dimension of food: every meal is a transfer of the maker's samskaric state to the eater. Gurudev's instruction that food should be judged not by flavour but by the "intention and thoughtfulness behind its preparation" (Alka ji's formulation) is the practical consequence. See [[stories/white-pedas-arthritis-origin]] and [[concepts/senses-management]].
+
+*Witnessing Greatness*, Ch.7, pp.88–90.
+

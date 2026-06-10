@@ -26,6 +26,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-09-surrender|2026-05-09 — An Earning for Eternity]] — Surrender: the three-fold offering of body, wealth, and mind; the paradox that total surrender produces not subservience but a self that cannot be dominated
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why the seers could read it, how the guru softens its impact, and why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-06-02-vairagya|2026-06-02 — We Are Fakirs]] — Vairagya: how detachment within the householder life works; the love that belonged to no one and therefore reached everyone
+- [[blog/2026-06-10-karmayoga|2026-06-10 — Dirty Hands, Clean Balance Sheet]] — Karmayoga: sustained good karma as a cross-lifetime discipline; Gurudev's blistered hands at Mohammedpur, the sleepless night over Renu's milk, and the guru who kept healing long after his death
 
 ---
 
@@ -68,3 +69,7 @@ Stories that have already appeared in a blog post. Do not retell these in future
 - `mungaoli-sweater-incident` — vairagya (2026-06-02)
 - `gurudev-drawing-room-fakirs` — vairagya (2026-06-02)
 - `renu-gurudev-confrontation-on-love` — vairagya (2026-06-02)
+- `gurudev-mohammedpur-greening` — karmayoga (2026-06-10)
+- `renu-milk-market-visit` — karmayoga (2026-06-10)
+- `marchant-planchette-healing` — karmayoga (2026-06-10)
+- `ashoka-kalinga-transformation` — karmayoga (2026-06-10)

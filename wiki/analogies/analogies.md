@@ -430,6 +430,13 @@ Climbing implies grip, effort, upward force — all metaphors of will. Balloonin
 
 ---
 
+### The Plain Path and the Seedy Nightclub — Afterlife Crossroads
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+Gurudev taught that when evolved spiritualists die, their spirits arrive at a crossway — one path looks enticing and attractive, the other is simple and plain. Against instinct, the plain path leads to the higher spiritual dimensions; the attractive path leads to lower realms. Hingori's own journeys through three distinct realms confirmed this: *"The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub."* (*Witnessing Greatness*, Ch.7, p.95) The analogy makes the maya teaching experiential: a nightclub is designed for sensory seduction — exactly the quality that keeps a spirit in the lower loks. The sparsely inhabited higher realms carry no such enticements. The same pattern that governs earthly sensory management (not being swayed by what is attractive) determines which realm you move toward in the afterlife.
+
+---
+
 ### "H for Harvard Is Not H for Heaven"
 *Illuminates: [[concepts/loks]], [[concepts/gunas]]*
 
@@ -631,6 +638,17 @@ From *Yog Vasishta*: foolish people base their entire understanding of reality o
 > "Like a frog in the blind well, foolish and ignorant people base their understanding on the experience of the moment and, on account of their perverse understanding, they are deluded into thinking that the body alone is the source of experience or awareness."
 > — Guru Vashisht, *Yog Vasishta* (quoted in *Aatma Sutra*, Ch.VII, p.74)
 [[concepts/maya]] · [[entities/guru-vashisht]]
+
+---
+
+### The Cook's Emotion in the Food — Food as Spiritual Conductor
+*Illuminates: [[concepts/senses-management]], [[concepts/intent-as-healing]], [[concepts/spiritual-attacks]]*
+
+Indian philosophy holds that a dish prepared by two different individuals carries distinct energies affecting those who consume it. The cook's emotions and intentions are transferred into their cooking — the meal is not merely physical sustenance but a carrier of the cook's interior state. *Witnessing Greatness* Ch.7 uses two illustrations: Mataji's cooking at the Gurgaon sthan carried *"a distinctive essence"* that those attuned to subtle energies felt; and Sitaram (a domestic helper who used colourful language) transferred his speech-patterns into the food he cooked — Hingori found his own manner of speaking beginning to reflect Sitaram's style. The analogy illuminates why temple cooks are meticulously selected: the food people eat at a temple becomes a medium of the temple's spiritual quality. It also explains the vulnerability of light-coloured foods to negative energies, and the logic behind protective spices.
+
+*(Witnessing Greatness, Ch.7, pp.84–88 — paraphrase; no single condensed quote)*
+
+---
 
 ---
 

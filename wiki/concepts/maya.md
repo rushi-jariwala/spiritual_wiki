@@ -2,10 +2,10 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]", "[[concepts/senses-management]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-06-11
 ---
 
 # Maya
@@ -102,7 +102,9 @@ In this frame, Brahma (the creator, the *viraat* or cosmic person) is himself of
 
 Hingori supplements the Vedantic argument with empirical facts, citing the narrowness of human sense-perception as modern corroboration of ancient maya teaching:
 
-- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye.
+- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye. (*Aatma Sutra*, Ch.VII, p.77; *Witnessing Greatness* Ch.7 gives the figure as approximately 0.00000000000035%.)
+
+> [!warning] The two Hingori books cite slightly different figures for the visible portion of the electromagnetic spectrum: *Aatma Sutra* Ch.VII gives 0.00000000005%; *Witnessing Greatness* Ch.7 gives 0.00000000000035%. Both are attempting to capture the same point — that visible light is a vanishingly small fraction of the full spectrum — but the specific numbers differ across publications. Neither figure is reconciled in the text.
 - **Hearing**: less than 1% of all sounds on Earth are within human auditory range.
 - **Motion**: you are travelling at 220 km/second across the Milky Way — imperceptible to every sense.
 - **Matter**: atoms in the body are 99.9999999999999999% empty space. The "solid body" is almost entirely void.
@@ -147,6 +149,10 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 ## Maya and Ek Se Anek
 
 *The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
+
+## Maya as Sensory Trap — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 opens with the most scientifically grounded statement of the maya teaching across the corpus: *"Maya spins an illusory yet convincing narrative that feels real and persuasive. We become trapped in its complex web, mistaking these illusions for the ultimate truth. These misconceptions bind us within self-imposed boundaries that curtail our true potential."* The chapter then anchors this claim in empirical data — our inability to detect most of the electromagnetic spectrum, inaudibility of ultrasonic frequencies, the near-empty nature of solid matter at the atomic level, the scent and taste ranges we cannot reach. The conclusion: *"our limited perceptions often make us mistake our narrow slice of experience for the entire scope of reality."* The antidote named is the same as across all the sources: challenge perceptions, question what the senses reveal, and strive to transcend sensory limitations. See [[concepts/senses-management]].
 
 ## Maya and the Perception of Miracles
 

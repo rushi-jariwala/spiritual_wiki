@@ -156,6 +156,20 @@ updated: 2026-05-24
 > — Gurudev (recalled by Pehalwanji), *Witnessing Greatness*, Ch.5, p.70
 [[entities/mahaguru]] · [[stories/bajrang-offspring-human-reincarnation]]
 
+## *Witnessing Greatness* Ch.7 — On Feeding Others and Self-Mastery
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+[[entities/mahaguru]] · [[concepts/senses-management]]
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev to Bittu ji, *Witnessing Greatness*, Ch.7, p.92
+[[entities/mahaguru]] · [[entities/bittu]] · [[stories/gurudev-not-eating-hungry-disciples]] · [[concepts/senses-management]]
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+[[entities/mahaguru]] · [[concepts/senses-management]]
+
 ## Disciples on Vessel Consciousness and Seva's Fruit
 
 > "The purest reward of seva lies in the heartfelt blessings we receive. Such blessings are priceless and impossible to force or buy. They emanate from the soul, echoing 'Bhagwan tumhara bhala karein (May the divine favour you)'."

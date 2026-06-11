@@ -53,3 +53,4 @@ The use of will power to resist — or of non-doership to act without emotional 
 - [[concepts/non-doership]] — not taking ownership of a vasna-driven act prevents the loop from closing
 - [[concepts/doer-ship]] — doer-ship is exactly the emotional ownership that converts vasna into new samskar
 - [[concepts/kleshas]] — the kleshas (especially asmita) provide the 'I'-charge that colours vasna into desire
+- [[concepts/senses-management]] — the sight section: vaasnas (engrams that surface as sensory attractions) are the target of the budiya/gudiya and skeleton visualisation techniques; mastering the sight sense means intercepting the vasna before it surfaces as desire

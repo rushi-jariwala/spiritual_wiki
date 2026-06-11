@@ -2,10 +2,10 @@
 title: Hingori's Arthritis Cure
 type: story
 tags: [hingori, mahaguru, healing, miracle, conversion]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]", "[[concepts/spiritual-attacks]]", "[[concepts/senses-management]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-06-11
 ---
 
 # Hingori's Arthritis Cure
@@ -23,6 +23,8 @@ Told in Hingori's own voice in the section "A Personal Tale" (*Karma Sutra*, Ch.
 *Karma Sutra*, Ch.1, "A Personal Tale," p.13.
 
 > [!tip] *Aatma Sutra* Ch.IV (p.47) reveals the origin: "I too was a victim of black magic, transmitted to me through a *peda* (an Indian sweetmeat). This led me to suffering from rheumatoid arthritis for several years, which was eventually cured by Gurudev." A disciple had a vision of the culprit and the method of the attack.
+
+*Witnessing Greatness* Ch.7 provides the fullest account of the mechanism: *"Before my life-changing experience with Gurudev, I fell victim to such negative influences. Someone used white pedas to channel harmful energy towards me. These innocent-looking sweetmeats were charged with negativity through specific rituals and reverse mantras, contributing to my development of severe arthritis."* (p.98) This adds the specific modality — white pedas charged via reverse mantras — to the *Aatma Sutra*'s general mention of "a peda." The chapter also links this experience to a broader teaching: light-coloured foods are particularly receptive to subtle energies, which is why protective spices (turmeric, black pepper) should be added to change their colour. See [[concepts/spiritual-attacks]] and [[concepts/senses-management]].
 
 ## *Guru Sutra* Ch.5 — The Fuller Account (pp.35–37)
 

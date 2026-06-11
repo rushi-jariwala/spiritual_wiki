@@ -1,10 +1,10 @@
 ---
 title: Quotes on Maya and Moksha
 type: quote-collection
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/maya]]", "[[concepts/moksha]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[entities/guru-vashisht]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/maya]]", "[[concepts/moksha]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[concepts/senses-management]]", "[[entities/guru-vashisht]]"]
 created: 2026-04-12
-updated: 2026-04-18
+updated: 2026-06-11
 ---
 
 # Quotes on Maya and Moksha
@@ -117,3 +117,11 @@ Quotes related to [[concepts/maya]], [[concepts/moksha]], and the nature of the 
 > "The more you get into understanding your true nature, the more you will be able to understand the nature of 'what is' and 'who you really are.'"
 > — Hingori, *Aatma Sutra*, Ch.VII, p.80
 [[concepts/maya]] · [[concepts/aatma]]
+
+---
+
+## On Maya as Sensory Trap — *Witnessing Greatness* Ch.7
+
+> "Maya spins an illusory yet convincing narrative that feels real and persuasive. We become trapped in its complex web, mistaking these illusions for the ultimate truth. These misconceptions bind us within self-imposed boundaries that curtail our true potential."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+[[concepts/maya]] · [[concepts/senses-management]]

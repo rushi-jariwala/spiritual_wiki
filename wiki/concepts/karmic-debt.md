@@ -97,6 +97,8 @@ Food, shelter, clothing, gifts, business items — all are karmic debts. Salt an
 
 **Repayment:** Counter-gifting (a token coin, silver); paying for food; offering equivalent value.
 
+*Witnessing Greatness* Ch.7 adds Gurudev's direct teaching on food and karmic debt: one should not feel compelled to consume food financed by others to avoid incurring a karmic debt, and should not select food solely based on its flavour. *"To him, food was not merely sustenance; it carried spiritual significance, reflecting our emotions and intentions."* This frames food choices as a site of both karmic and energetic consequence — the same meal can entangle us in obligation (if accepted out of social pressure) or nourish us cleanly (if accepted with awareness). See [[concepts/senses-management]] (Taste section).
+
 ## In Practice
 
 - Track what you consume and receive as a *running ledger*, not a moral catalogue.

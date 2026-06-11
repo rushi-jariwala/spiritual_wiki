@@ -1,10 +1,10 @@
 ---
 title: Loks
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[concepts/senses-management]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-06-11
 ---
 
 # Loks
@@ -151,6 +151,7 @@ Hingori explicitly acknowledges this chapter blends personal vision-state visits
 - [[concepts/mukti]] — substantially reduced karmashaya → extended stay in higher loks (1,000–2,000 years)
 - [[concepts/moksha]] — lies beyond all loks, including Satya lok
 - [[concepts/maya]] — the "background music" on Bhu lok; the trap at the Dhruv Tara crossroads
+- [[concepts/senses-management]] — afterlife paths (plain vs. attractive) as the lok system in miniature: unmanaged attraction to beauty sends the spirit to a lower lok; Hingori's first-person description of the lower realm as "a dark, seedy nightclub" (*Witnessing Greatness*, Ch.7, p.95)
 - [[concepts/samskars]] — the load that must be lightened for spiritual ballooning
 - [[entities/mahaguru]] — karma bhumi: Gurgaon; afterlife HQ: Najafgarh; descended with hundreds of beings from higher loks
 - [[stories/hingori-lok-visits]] — Hingori's personal visits to three or four loks

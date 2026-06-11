@@ -1,10 +1,10 @@
 ---
 title: Spiritual Attacks
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[concepts/senses-management]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-11
 ---
 
 # Spiritual Attacks
@@ -31,7 +31,15 @@ See [[stories/guru-sutra-ch13-poem2]].
 ## Methods of Attack
 
 ### Black Magic via Personal Objects
-A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis.
+A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of such an attack that led to his contracting rheumatoid arthritis.
+
+### Black Magic via Food and Water (*Witnessing Greatness* Ch.7)
+
+Food can absorb subtle energies from its environment — light-coloured foods (white dishes) are particularly receptive. This makes them potential vehicles for attacks. *Witnessing Greatness* Ch.7 gives the mechanism: white pedas charged with negativity through *specific rituals and reverse mantras* can be used to channel harmful energy towards a target. Hingori himself was a victim of this before his encounter with Gurudev: *"Someone used white pedas to channel harmful energy towards me. These innocent-looking sweetmeats were charged with negativity through specific rituals and reverse mantras, contributing to my development of severe arthritis."* (*Witnessing Greatness*, Ch.7, p.98) — corroborating the *Aatma Sutra*'s brief note that he was "a victim of black magic, transmitted to me through a peda." See [[stories/hingori-arthritis-cure]].
+
+Water can similarly be weaponised. A young girl named Kamlesh from Gurgaon unknowingly drank sherbet mixed with a harmful taweez (amulet); Gurudev intervened in time to prevent worse consequences. See [[stories/kamlesh-black-magic-cure]].
+
+**Protective measure**: add spices such as turmeric or black pepper to white or light-coloured foods — changing their colour pre-empts the impact of potential negative energies. See [[concepts/senses-management]] (Taste section) for the broader food-energy context.
 
 ### Death Yantra by Post
 A yantra — a geometrically charged occult diagram — can be embedded in a letter. Gurudev received such a letter; knowing its contents before opening it, he asked Hingori to leave the room, then tore the letter and reassembled it to expose and neutralise the yantra. The attempt on his life failed. See [[stories/inland-letter-yantra]].

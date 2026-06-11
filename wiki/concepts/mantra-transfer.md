@@ -1,10 +1,10 @@
 ---
 title: Mantra Transfer
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/senses-management]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-11
 ---
 
 # Mantra Transfer
@@ -39,6 +39,12 @@ This generosity had a stated boundary. When Bittu ji and Pappu ji repeatedly neg
 
 > "I cannot keep allocating a share of my mantra count to you if you don't make an effort to earn some spiritual points of your own!"
 > — Gurudev, *The Guru of Gurus*, p.85
+
+## Sipped Water as Transfer Vehicle (*Witnessing Greatness* Ch.7)
+
+*Witnessing Greatness* Ch.7 introduces a form of mantra transfer not described in *The Guru of Gurus*: Gurudev would sometimes sip from a glass of water and then pass the rest to a disciple. This act transferred his spiritual energy and qualities to the recipient — sometimes as a cure, sometimes to advance their spiritual journey. While sharing his sipped water, he might say: *"I've transferred 10,000 recitations of this mantra to you"* — signifying that the accumulated benefit of his own extensive practice was being imparted through the water. The mechanism is consistent with the chapter's broader teaching that water's molecular structure can change to reflect the emotions and intentions of those interacting with it; Gurudev's charged mantra recitation was held within the water and passed on through drinking.
+
+On special days such as Guru Purnima, a complementary ritual applied in the other direction: disciples would wash Gurudev's feet with water, then drink that water infused with his spiritual energy. This was a way to receive the mahaguru's blessings and deepen the guru-disciple bond — the energised foot-wash water functioning as a vehicle of darshan in liquid form.
 
 ## Time-Specific Mantra Recitation — The Guru-Paher
 

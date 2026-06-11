@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-06-11 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,72 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Maya grounded in empirical science**: the chapter opens with a scientific framing of sensory limitation — we detect only approximately 0.00000000000035% of the electromagnetic spectrum, cannot hear frequencies used in dog whistles, touch solid objects that are mostly empty space at the atomic level. The conclusion mirrors the Eastern teaching: limited perceptions make us mistake our narrow slice of experience for the whole of reality. This is named as Maya. The chapter's unique contribution is presenting scientific evidence for maya as the lived problem, then showing Gurudev's sensory mastery as the solution.
+- **Taste mastery across five sources**: a chorus of disciple voices — Bittu ji, Puran ji, Alka ji, Raji Sharma ji — all converge on the same portrait: Gurudev's relationship with food was indifferent to flavour, freshness, or variety. The chapter layers a youth-to-ministry progression (chole bhature in youth → complete mastery in seva years) with multiple perspectives on what that mastery looked like from the outside.
+- **Food as a spiritual carrier**: Indian philosophy holds that a cook's emotions and intentions are transferred into their cooking. Gurudev taught that one should not feel compelled to consume food financed by others (karmic debt) and not to choose food by flavour alone. Light-coloured foods are especially receptive to subtle energies — including negative ones channelled through rituals and reverse mantras. Protective measure: add turmeric or black pepper to change the colour.
+- **Gurudev's abstaining as compassion**: the Bittu ji scanning-dialogue is this chapter's centrepiece — before each meal Gurudev shut his eyes and scanned to ensure all his spiritual children had been fed. If even one was hungry, he could not eat. The "Jennu khellaan che mazaa aa gaya na" phrase crystallises the teaching.
+- **Water as sensory-spiritual medium**: alongside food, water's dual potential (to heal and harm) is treated in depth. Gurudev's healing jal at sthans was infused with mantras; he also shared sipped water to transfer mantra siddhi ("I've transferred 10,000 recitations to you"). The Guru Purnima foot-washing tradition also used water as a medium of blessing.
+- **Sight mastery and spiritual energy**: excessive focus on the opposite gender drains spiritual energy and weakens the aura. The budiya/gudiya technique (already in *The Guru of Gurus*) is confirmed; the skeleton visualisation and the afterlife crossroads (plain path → higher loks; attractive path → lower loks) are also confirmed. Hingori's first-person testimony of the lower realm as a *"dark, seedy nightclub"* is the chapter's most vivid image.
+- **Hearing mastery and supernormal perception**: Gurudev's music journey is sketched — childhood enjoyment of mouth organ and *Binaca Geet Mala* → using hearing as a spiritual tool (telepathic awareness of conversations at great distances). The Chandigarh–Gurgaon road trip illustrates this: Gurudev admonished Hingori upon arrival for an argument held far away, having heard the entire exchange.
+- **Touch/Temperature mastery and influence over others**: Gurudev's comfort in a sweater during hill winters; the Mungaoli sweater story in its WG framing — Hingori's shivering stopped instantly at Gurudev's question, demonstrating mastery not only over his own physical sensations but over those around him.
+
+## Notable Quotes (Ch.7)
+
+> "Maya spins an illusory yet convincing narrative that feels real and persuasive. We become trapped in its complex web, mistaking these illusions for the ultimate truth."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+
+> "To him, the type of dish or its freshness was not a priority. He often picked food from the previous day, even with fresh options."
+> — Bittu ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev to Bittu ji, *Witnessing Greatness*, Ch.7, p.92
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji about Indu Sharma ji's encounter), *Witnessing Greatness*, Ch.7, p.93
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (sharing sipped water with a disciple), *Witnessing Greatness*, Ch.7, p.95
+
+## Stories Extracted (Ch.7)
+
+No standalone new story pages — all major episodes are cross-source enrichments of existing pages:
+- [[stories/gurudev-not-eating-hungry-disciples]] — WG Ch.7 adds the Bittu ji scanning-dialogue variant and the Indu Sharma ji / "Jennu khellaan" anecdote
+- [[stories/mungaoli-sweater-incident]] — WG Ch.7 adds the phenomenological emphasis: mastery over others' physical sensations, not only over ego
+
+Short anecdotes kept inline in [[concepts/senses-management]]:
+- Sitaram domestic helper story (food carrying speech-energy)
+- Chandigarh–Gurgaon road trip (Gurudev's supernormal hearing)
+- Mataji's sthan cooking carrying "distinctive essence"
+- Narrator's personal experience of three realms (two higher, one lower as "dark, seedy nightclub")
+
+The Kamlesh sherbet-taweez episode is mentioned briefly (in context of water as black magic vehicle) — cross-referenced to the existing [[stories/kamlesh-black-magic-cure]] for full detail.
+
+## New Concepts Introduced (Ch.7)
+
+No standalone new concept pages. Ch.7 enriches existing concepts:
+- [[concepts/senses-management]] — massively enriched: new WG subsections on Taste, Smell, Sight, Hearing, Touch/Temperature, and a new Water section; WG Ch.7 opening scientific frame
+- [[concepts/maya]] — added cross-source note on electromagnetic spectrum figures; new "Maya as Sensory Trap" section
+- [[concepts/mantra-transfer]] — new section on sipped water as transfer vehicle; Guru Purnima foot-washing tradition
+- [[concepts/spiritual-attacks]] — new Black Magic via Food section; white pedas mechanism; Kamlesh water/taweez confirmation
+- [[concepts/karmic-debt]] — added food-karmic-debt nuance from Gurudev's teaching
+- Two new analogies added to [[wiki/analogies/analogies]]: *The Cook's Emotion in the Food* and *The Plain Path and the Seedy Nightclub*
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **Electromagnetic spectrum figures across sources**
+> *Aatma Sutra* Ch.VII (p.77) cites the visible portion of the electromagnetic spectrum as "less than 0.00000000005%." *Witnessing Greatness* Ch.7 cites approximately 0.00000000000035%. Both are making the same qualitative point (human vision covers a vanishingly small fraction of the full spectrum) but the specific figures differ across Hingori's own books. Neither number is reconciled in the text.
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

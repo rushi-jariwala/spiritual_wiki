@@ -404,6 +404,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-05-05-faith|2026-05-05 — The Bridge You Cannot Engineer]] — Faith: how genuine trust obligates the guru; the property test; five wasted years; the Europe trip; faith as wonder drug and bridge
 - [[blog/2026-06-02-vairagya|2026-06-02 — We Are Fakirs]] — Vairagya: how detachment within the householder life works; the love that belonged to no one and therefore reached everyone
+- [[blog/2026-06-12-aura|2026-06-12 — Cosmic Currency]] — Aura: the bioelectric shield and cosmic currency you carry beyond death; how it is built, how it drains, and why it is the one investment that survives the body
 - [[blog/2026-04-26-non-doership|2026-04-26 — You Are My Painting]] — Non-doership: removing the 'I' from deeds
 
 ---

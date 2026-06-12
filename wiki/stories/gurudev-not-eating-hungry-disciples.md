@@ -20,6 +20,10 @@ updated: 2026-04-26
 
 *The Guru of Gurus*, "The Spiritual Compass," pp.106–107
 
+## Cross-Source Variant — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 (p.91–92) contains a parallel dialogue between Bittu ji and Gurudev on the same theme of food abstinence. In that version, Bittu ji accuses Gurudev of disrespecting food by bringing it to his mouth but not eating. Gurudev responds by asking whether his eyes are open or shut before he eats — and explaining that he performs an inward scan to check if all spiritual children have been fed before allowing himself to eat. The *Guru of Gurus* version presents the teaching in a single statement; the *Witnessing Greatness* version reveals the **mechanism** — the closed-eye scan — and the physical gesture that preceded every meal. See [[stories/gurudev-bittu-scan-before-eating-wg]].
+
 ## Related Concepts / Entities
 
 - [[entities/mahaguru]] — whose absence of appetite was not neglect but the reverse of hunger: he could not eat while others were hungry

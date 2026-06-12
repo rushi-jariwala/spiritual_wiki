@@ -36,6 +36,10 @@ This is the teaching embedded in the story. Gurudev did not explain it. He demon
 
 This story is narrated by Renu ji, Gurudev's daughter, who witnessed it on a trip to Mussoorie. She was also the one who had earlier complained to Mataji about her father spending more time with visitors than with his family — and received Mataji's famous response: *"if a few minutes of your father's time can bring relief to someone in pain, should we not prioritise that?"* This story is her subsequent lesson in the same principle, seen at table.
 
+## Cross-Source Variant — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 (p.92) contains a parallel account from Renu ji: *"One day, when Indu didi noticed that Daddy had not had his dinner the previous night, she expressed concern and emphasised that he should have a hearty lunch. With a kind smile, Daddy responded, 'Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda'."* Renu ji frames the quote as Gurudev's reply to Indu didi's concern — a different setting from the Mussoorie kitchen incident (where he says it after dividing the last serving) but carrying the same teaching. Gurudev appears to have offered this same Punjabi line on at least two occasions, both involving Indu Sharma ji and both witnessed by Renu ji.
+
 ## Related Concepts
 
 - [[entities/mahaguru]] — the living teaching; service as the governing principle even at mealtime

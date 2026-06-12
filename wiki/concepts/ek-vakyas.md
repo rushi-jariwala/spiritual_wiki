@@ -31,6 +31,7 @@ Gurudev spoke sparsely on doctrine. He was a man of demonstration first — his 
 - *"Learn to heal yourself."* — to Alka ji; germinated in her decades later when she cured arm pain through mantra and self-belief. See [[stories/nitu-bichoo-booti-nature-cure]].
 - *"We are fakirs."* — to Renu ji, on seeing the newly completed drawing room; declared it a communal sleeping space for twenty-five people. See [[stories/gurudev-drawing-room-fakirs]].
 - *"Learn to respect food. This is barkat."* — after eating a half-abandoned paratha himself rather than letting it go to waste. See [[stories/gurudev-food-barkat-leftover-paratha]] and [[concepts/barkat]].
+- *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."* — (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.) Spoken to Renu ji in two documented instances: once after dividing the last serving with Indu ji in Mussoorie (*The Guru of Gurus*, p.35) and once in response to Indu didi's concern that he had missed dinner (*Witnessing Greatness*, Ch.7, p.92). See [[stories/gurudev-indu-subzi-mussoorie]] and [[stories/gurudev-bittu-scan-before-eating-wg]].
 
 None of these were explained at length when spoken. The point was the seed, not the commentary.
 

@@ -2,7 +2,7 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters/ch-07-deception-of-perception.md]
 related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
 created: 2026-04-12
 updated: 2026-04-22
@@ -100,9 +100,11 @@ In this frame, Brahma (the creator, the *viraat* or cosmic person) is himself of
 
 ## Limitations of Perception — The Scientific Case
 
-Hingori supplements the Vedantic argument with empirical facts, citing the narrowness of human sense-perception as modern corroboration of ancient maya teaching:
+Hingori supplements the Vedantic argument with empirical facts, citing the narrowness of human sense-perception as modern corroboration of ancient maya teaching. *Witnessing Greatness* Ch.7 opens with the same argument: *"Human sensory perception is fundamentally flawed. For example, we only detect a tiny slice—about 0.00000000000035%—of the electromagnetic spectrum, leaving us blind to infrared and ultraviolet light."*
 
-- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye.
+> [!warning] The electromagnetic-spectrum figure varies across sources: *Aatma Sutra* states "less than 0.00000000005%" while *Witnessing Greatness* Ch.7 states "about 0.00000000000035%." Both are orders-of-magnitude estimates for the same point; the discrepancy is not resolvable from the texts and may reflect different ways of measuring the visible-to-total ratio.
+
+- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye (*Aatma Sutra*; WG Ch.7 gives 0.00000000000035%).
 - **Hearing**: less than 1% of all sounds on Earth are within human auditory range.
 - **Motion**: you are travelling at 220 km/second across the Milky Way — imperceptible to every sense.
 - **Matter**: atoms in the body are 99.9999999999999999% empty space. The "solid body" is almost entirely void.

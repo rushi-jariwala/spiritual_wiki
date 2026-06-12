@@ -31,7 +31,14 @@ See [[stories/guru-sutra-ch13-poem2]].
 ## Methods of Attack
 
 ### Black Magic via Personal Objects
-A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis.
+A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis. See [[stories/hingori-white-pedas-arthritis]] for the food-based delivery method.
+
+### Black Magic via Food
+Light-coloured foods — particularly white dishes — are especially receptive to subtle energies. This makes food a documented attack medium: negative energy can be channelled into food through specific rituals and reverse mantras, then transmitted to whoever consumes it.
+
+Hingori's own severe arthritis was caused by white *pedas* (a traditional Indian sweet) charged with negativity before his meeting with Gurudev. A young girl named Kamlesh was harmed through sherbet mixed with a harmful *taweez*. See [[stories/kamlesh-black-magic-cure]].
+
+Practical countermeasure: adding spices such as turmeric or black pepper to white or light-coloured foods changes their colour and reduces susceptibility to negative energy absorption. — *Witnessing Greatness*, Ch.7, p.92
 
 ### Death Yantra by Post
 A yantra — a geometrically charged occult diagram — can be embedded in a letter. Gurudev received such a letter; knowing its contents before opening it, he asked Hingori to leave the room, then tore the letter and reassembled it to expose and neutralise the yantra. The attempt on his life failed. See [[stories/inland-letter-yantra]].
@@ -92,4 +99,5 @@ This connects to the karma framework: a negative wish that fructifies becomes ne
 - [[concepts/aura]] — the aura is the target of most spiritual attacks
 - [[concepts/tantra]] — tamasic mantra siddhis are the primary tools of attack
 - [[entities/chacha]] — foiled two tamasic tantrik attacks with casual ease
-- [[entities/hingori]] — personally victimised by black magic (rheumatoid arthritis); later trained in self-preservation
+- [[entities/hingori]] — personally victimised by black magic (rheumatoid arthritis via white pedas; later trained in self-preservation)
+- [[stories/hingori-white-pedas-arthritis]] — WG Ch.7 account: white pedas as the delivery medium for Hingori's arthritis

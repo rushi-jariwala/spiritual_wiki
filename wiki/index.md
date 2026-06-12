@@ -125,7 +125,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 
@@ -151,6 +151,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
+- [[quotes/food]] — Food as spiritual medium; Gurudev on taste; intention in preparation; the pre-meal scan; Virender ji on self-control
 
 ---
 
@@ -286,6 +287,11 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[bittu-tea-correction]] — 3am tea; Bittu revels for 3 days; earful on day 4; now makes tea and washes cups
 - [[elderly-couple-van-rescue]] — Gurudev in concentration 30 min; redirects van; couple had been heading to railway tracks
 - [[gurudev-not-eating-hungry-disciples]] — "If any member of my spiritual family goes to bed hungry, I do not eat that night"
+- [[gurudev-bittu-scan-before-eating-wg]] — Bittu ji's dialogue; Gurudev's closed-eye scan before eating to check if all spiritual children are fed (*WG* Ch.7)
+- [[gurudev-water-mantra-sipped]] — Gurudev shares sipped water to transfer mantra recitations; "I've transferred 10,000 recitations"; Guru Purnima foot-washing
+- [[hingori-chandigarh-gurgaon-argument]] — Gurudev hears an entire road-trip argument from Chandigarh; admonishes Hingori on arrival in Gurgaon
+- [[hingori-mungaoli-shivering]] — Hingori's pretence triggers shivering; Gurudev's question "Why did you do that?" stops it instantly
+- [[hingori-white-pedas-arthritis]] — White pedas charged with negative energy through reverse mantras cause Hingori's severe arthritis
 - [[gurudev-mohammedpur-greening]] — 1988; Giri ji's arid plot; Gurudev tills, sows, plants; other farmers return; village revived
 - [[ashok-bhalla-anger-invisible-force]] — 3 months of controlled anger; invisible force stops the blow; attitude permanently changed
 - [[giri-broken-hand]] — Slaps a worker; Gurudev phones that evening; three days later the exact hand is fractured

@@ -31,6 +31,10 @@ updated: 2026-04-17
 
 > [!warning] "Mohna" vs "Mohan Chira ji" — two first-person Hingori accounts give different names for the disciple who assembled the glass pieces. Do not resolve speculatively.
 
+## Cross-Source Reference — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 (p.93) contains a brief reference to Kamlesh in the context of water as a medium for harmful energy: *"A disturbing instance is the case of a young girl named Kamlesh from Gurgaon, who unknowingly drank sherbet mixed with a harmful taweez. The consequences could have been dire if the mahaguru had not intervened in a timely manner."* The chapter does not name the sherbet-taweez incident as the same glass-bangles episode. The *Aatma Sutra* and *Guru of Gurus* accounts describe rose milk / milk with taweez — the WG version specifies sherbet. This may be a different incident involving the same person, or a simplified retelling; the chapter does not provide additional details.
+
 ## Related Concepts & Entities
 
 - [[concepts/aura]] — black magic as targeted aura attack; the *sthan*'s spiritual power as counter-force

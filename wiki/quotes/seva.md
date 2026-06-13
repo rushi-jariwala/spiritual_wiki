@@ -156,6 +156,17 @@ updated: 2026-05-24
 > — Gurudev (recalled by Pehalwanji), *Witnessing Greatness*, Ch.5, p.70
 [[entities/mahaguru]] · [[stories/bajrang-offspring-human-reincarnation]]
 
+## *Witnessing Greatness* Ch.7 — Food and Empathy as Seva
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev to Bittu ji, *Witnessing Greatness*, Ch.7, p.92
+[[entities/mahaguru]] · [[entities/bittu]] · [[stories/gurudev-bittu-food-scanning]] · [[concepts/empathy]]
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji, via Indu Sharma ji's account), *Witnessing Greatness*, Ch.7, p.93
+[[entities/mahaguru]] · [[concepts/senses-management]] · [[concepts/empathy]]
+
 ## Disciples on Vessel Consciousness and Seva's Fruit
 
 > "The purest reward of seva lies in the heartfelt blessings we receive. Such blessings are priceless and impossible to force or buy. They emanate from the soul, echoing 'Bhagwan tumhara bhala karein (May the divine favour you)'."

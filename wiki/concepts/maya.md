@@ -2,10 +2,10 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-05-31
 ---
 
 # Maya
@@ -147,6 +147,20 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 ## Maya and Ek Se Anek
 
 *The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
+
+## Maya as Sensory Deception — *Witnessing Greatness* Ch.7
+
+*Witnessing Greatness* Ch.7 opens by anchoring the maya teaching in hard empirical data about the five senses: humans detect only about 0.00000000000035% of the electromagnetic spectrum; dog-whistle frequencies are inaudible to us; even seemingly solid objects are primarily empty space at the atomic level; scent molecules perceptible to animals escape us; our taste range is narrow compared to other species.
+
+The chapter's thesis: *"Despite these limitations, our senses form the foundation of our perceptions, which then mould our beliefs, thoughts, and actions. Consequently, our limited perceptions often make us mistake our narrow slice of experience for the entire scope of reality — a concept referred to as Maya in Eastern philosophy."*
+
+> Maya spins an illusory yet convincing narrative that feels real and persuasive. We become trapped in its complex web, mistaking these illusions for the ultimate truth. These misconceptions bind us within self-imposed boundaries that curtail our true potential.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+
+Ch.7's resolution is experiential rather than philosophical: Gurudev's life trajectory — from youthful engagement with taste, music, and sensation to complete sensory mastery — is the living demonstration that the boundaries imposed by maya can be dissolved from within. See [[concepts/senses-management]].
+
+> [!question] The electromagnetic-spectrum fraction
+> *Aatma Sutra* gives the figure as "less than 0.00000000005% of the electromagnetic spectrum." *Witnessing Greatness* Ch.7 gives "0.00000000000035%." The figures differ but both illustrate the same point: human vision covers an infinitesimal slice of available reality. Likely different sources cited across books; neither figure undermines the core argument.
 
 ## Maya and the Perception of Miracles
 

@@ -1,7 +1,7 @@
 ---
 title: Mantra Transfer
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
 created: 2026-04-26
 updated: 2026-04-26
@@ -32,6 +32,17 @@ Gurudev also transferred the spiritual benefit of his own daily practice directl
 > — Ravi ji, recalled in *The Guru of Gurus*, p.85
 
 In this form, Gurudev performed the discipline on the disciple's behalf and credited the spiritual points to the disciple's account — while asking nothing in return except that the disciple make their own parallel effort.
+
+### Sipped Water — Direct Energy Transmission
+
+*Witnessing Greatness* Ch.7 introduces a third form: Gurudev would sip from a glass of water and pass the remainder to a disciple. The act transmitted his spiritual energy and qualities — sometimes to cure, sometimes to advance the disciple's spiritual development:
+
+> He often gave his disciples mantras by sharing his sipped water with them, saying, "I've transferred 10,000 recitations of this mantra to you." Such statements signified that he was imparting some of his extensive spiritual practices, such as mantra chanting, to bolster their spiritual development.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+
+On special days such as Guru Purnima, the practice took a ritual form: disciples washed Gurudev's feet with water, then drank that water — infused with his spiritual energy — as a way of deepening their bond and receiving his blessings.
+
+The mechanism is consistent with the broader teaching on water as a molecular resonance field (*The Guru of Gurus*, pp.162–165): water magnetises and retains the electromagnetic signature of what acts upon it. Sipped water carries the combined imprint of the mahaguru's mantra frequency and intent. See [[concepts/spiritual-healing]] and [[concepts/guru-vandana]] for the ritual context.
 
 ### The Limit of Magnanimity
 

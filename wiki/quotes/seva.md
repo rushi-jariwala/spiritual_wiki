@@ -69,6 +69,8 @@ updated: 2026-05-24
 > — Gurudev (recalled by Renu ji), *The Guru of Gurus*, p.35
 [[entities/mahaguru]] · [[stories/gurudev-indu-subzi-mussoorie]]
 
+*Witnessed again in WG Ch.7*: Renu ji recalled Indu Sharma ji (a central figure in the Gurgaon kitchen) noticing Gurudev had missed dinner and urging him to eat heartily. Gurudev replied with the same Punjabi phrase — "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda" — in a different context: not after sharing the last serving, but after being asked why he had gone hungry overnight. The saying surfaces naturally across situations, not as a composed teaching but as a lived truth (*Witnessing Greatness*, Ch.7, p.92).
+
 ## Gurudev on Spiritual Enterprise (Entrepreneur Extraordinaire)
 
 > "He came on earth to help and heal and change the ethos of generations. / He willed ordinary men into mighty saints; / the forebearer of spiritual transformations."

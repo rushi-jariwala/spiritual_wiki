@@ -1406,3 +1406,27 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Electromagnetic Spectrum — How Narrow the Slice
+*Illuminates: [[concepts/maya]], [[concepts/senses-management]]*
+
+Human sensory perception covers approximately 0.00000000000035% of the electromagnetic spectrum. Dogs detect scent molecules we miss entirely; animals hear frequencies inaudible to us; the "solid" objects we touch are primarily empty space at the atomic level. This battery of empirical facts functions as the scientific argument for maya: what our senses present as the total of reality is a vanishingly thin slice. Our personal world is not the cosmic world; it is a highly filtered construction. The chapter uses this scientific framing as the opening move before tracing Gurudev's path to transcending each sense in turn.
+
+*(Witnessing Greatness, Ch.7, pp.88–89)*
+[[concepts/maya]] · [[concepts/senses-management]]
+
+---
+
+### The Attractive Path and the Plain Path — Afterlife Navigation
+*Illuminates: [[concepts/senses-management]], [[concepts/loks]], [[concepts/maya]]*
+
+At the afterlife crossroads, two paths present themselves: one enticing and attractive, one plain and simple. Counterintuitively, the plain path leads to the higher spiritual dimensions; the attractive path misleads the spirit into lower realms. The very sensory preferences that trap a being in maya in life — the gravitational pull toward beauty, pleasure, and excitement — persist after death as an orientation that can misroute the spirit.
+
+Hingori corroborates from personal vision-state experience: the two higher realms he visited were bright but sparsely inhabited; a lower realm felt like a *"dark, seedy nightclub."* The seedy nightclub's pull is the plain-path problem made vivid.
+
+*(Witnessing Greatness, Ch.7, pp.94–95)*
+[[concepts/senses-management]] · [[concepts/loks]] · [[concepts/maya]]
+

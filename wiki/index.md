@@ -91,6 +91,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
+- [[food-and-water-energy]] — Food absorbs the preparer's energy and intentions; white foods susceptible to negative energy; water's molecular structure responds to intention; jal as healing and transmission medium
 
 ---
 
@@ -125,7 +126,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 

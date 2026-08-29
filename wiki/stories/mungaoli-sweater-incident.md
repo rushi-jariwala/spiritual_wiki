@@ -1,10 +1,10 @@
 ---
 title: The Mungaoli Sweater
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/vairagya]]", "[[concepts/guru-disciple]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[concepts/vairagya]]", "[[concepts/guru-disciple]]", "[[concepts/senses-management]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-06-02
 ---
 
 # The Mungaoli Sweater
@@ -26,10 +26,18 @@ updated: 2026-04-26
 
 This episode occurred at one of Gurudev's biannual offsite seva camps. Hingori wore a sweater partly out of social vanity — not wanting to appear as if he was showing off by going without. Gurudev read the pretence and made the cold real, stripping away the affectation and leaving Hingori shivering in his sweater. The teaching landed immediately: surrender includes surrendering the small social performances that prop up the ego. The episode closes with Gurudev's ek vakya: *"Grihasth mein bhi vairagya hai"* — there is renunciation within the householder life too.
 
+## *Witnessing Greatness* Ch.7 — New Detail
+
+The WG account adds a coda the GOG version omits: after Hingori put on the sweater out of social anxiety, he began shivering uncontrollably. Gurudev's simple question — *"Why did you do that?"* — miraculously stopped the shivering. This single detail transforms the story from a teaching about surrender into also a demonstration of Gurudev's influence over the physical sensations of those around him, not just his own.
+
+> This experience taught me that our senses, though strong, can be influenced in ways we might not realise.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.96
+
 ## Related Concepts / Entities
 
-- [[entities/mahaguru]] — reads Hingori's pretence; makes it real as a teaching
+- [[entities/mahaguru]] — reads Hingori's pretence; makes it real as a teaching; stops the shivering with a word
 - [[concepts/vairagya]] — surrender includes letting go of social graces and false ego
 - [[concepts/grihasth-ashram]] — "Grihasth mein bhi vairagya hai": renunciation within the householder path
 - [[concepts/guru-disciple]] — the camp as classroom; teaching delivered through direct experience
 - [[concepts/ek-vakyas]] — "Grihasth mein bhi vairagya hai" as a seed teaching
+- [[concepts/senses-management]] — Gurudev's mastery extends to influencing the physical sensations of others

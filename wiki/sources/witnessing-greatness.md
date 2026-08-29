@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-05-30 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,65 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **Sensory limitation as embodied Maya**: The chapter opens with an empirical grounding — humans detect only about 0.00000000000035% of the electromagnetic spectrum, cannot hear dog-whistle frequencies, and touch objects that are mostly empty space. This is not a theoretical lecture but a concrete application of the Maya framework to lived sensation. The invitation is to "challenge our perceptions, question the accuracy of what our senses reveal, and strive to transcend our sensory limitations."
+- **Gurudev's mastery over taste**: From a childhood fondness for chole bhature and pinnis, Gurudev moved to complete detachment from flavour. He ate day-old food when fresh food was available; he went days on just tea; he accepted whatever was cooked without preference. Testimonies from Bittu ji, Puran ji, Alka ji, and Raji Sharma ji all converge on the same picture: taste had ceased to be a driver.
+- **Food as energy medium**: Indian philosophy holds that a cook's emotions and intentions are transferred into food. This is why temple cooks are meticulously selected. The chapter provides three personal case studies: Mataji's food at the Gurgaon sthan carrying a "distinctive essence"; Sitaram (a domestic helper at Hingori's parents' house) whose colourful language transferred through the food he cooked; and Hingori's own experience of developing severe arthritis after eating white pedas charged with harmful energy through black magic. Practical corollary: add turmeric or black pepper to white or light-coloured foods to neutralise any absorbed negative energy.
+- **Water as spiritual medium**: Water can reflect emotions and intentions, changing its molecular structure without altering its chemical composition. The chapter describes three applications at Gurudev's sthans: (1) jal infused with mantras used for healing; (2) Gurudev sharing sipped water with disciples to transfer spiritual energy and mantra recitations ("I've transferred 10,000 recitations of this mantra to you"); (3) the Guru Purnima tradition in which disciples washed Gurudev's feet and drank the infused water.
+- **Sight and the management of vaasnas**: Gurudev taught that eyes attract and emit energy, and excessive focus on the opposite gender drains spiritual energy. His practical technique: visualise a woman first as an elderly woman (budiya) and then as a young child (gudiya) to transcend the immediate vaasna. Hingori developed his own variant: visualising everyone as a skeleton, which proved "equally effective." Gurudev also never wore cologne — consistent with his refusal to be swayed by the pleasant or repulsed by the unpleasant.
+- **Two paths in the afterlife**: Gurudev described a choice awaiting spirits after death — one path that looks enticing, another plain and simple. He advised choosing the plain one, which leads to higher spiritual dimensions. The attractive path risks keeping the spirit in lower realms. Hingori's own visits to three distinct realms corroborate this: the two higher realms were bright but sparsely inhabited; the lower realm felt like a "dark, seedy nightclub."
+- **Hearing as a developed spiritual tool**: In youth, Gurudev enjoyed popular songs on the radio show Binaca Geet Mala and played them on a mouth organ. As he evolved spiritually, his relationship with sound changed: he developed the capacity to hear thoughts and perceive spoken words from great distances. The chapter's illustration: Gurudev admonished Hingori upon his arrival from Chandigarh — fully aware of an argument between Hingori and his father that occurred during their journey hours earlier.
+- **Mastery over physical sensation (touch)**: Gurudev was comfortable in merely a sweater while others were heavily layered in the cold hills. At the Mungaoli camp, when Hingori hastily put on a sweater upon Gurudev's return (out of social apprehension), he began shivering uncontrollably. Gurudev's single question — "Why did you do that?" — miraculously stopped the shivering. The lesson was dual: the senses can be influenced in ways we do not realise, and pretence has an immediate cost.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev to Bittu ji, *Witnessing Greatness*, Ch.7, p.92
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+> — Gurudev (recalled by Renu ji about Indu Sharma ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev (sharing sipped water with disciples), *Witnessing Greatness*, Ch.7, p.94
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+- WG variant added to [[stories/gurudev-not-eating-hungry-disciples]] — Bittu ji's question about not eating; Gurudev's description of closing eyes and scanning all his spiritual children before eating; Renu ji's anecdote about Indu Sharma ji
+- WG variant added to [[stories/mungaoli-sweater-incident]] — T-shirt in the cold → sweater on Gurudev's return → uncontrollable shivering → "Why did you do that?" → shivering stops; lesson on genuineness vs. pretence
+- WG brief mention added to [[stories/kamlesh-black-magic-cure]] — sherbet mixed with a taweez; consequences averted by Gurudev's timely intervention (two-sentence WG account)
+
+Short anecdotes kept inline:
+- Sitaram's language transferred through food → inline in [[concepts/senses-management]]
+- White pedas charged with negative energy → Hingori's arthritis → inline in [[concepts/senses-management]]
+- Mataji's food at Gurgaon sthan with distinctive essence → inline in [[concepts/senses-management]]
+- Chandigarh-to-Gurgaon road argument overheard by Gurudev → inline in [[concepts/senses-management]]
+- Narrator's personal experience of three realms (bright higher, dark nightclub lower) → inline in [[concepts/loks]]
+- Gurudev's sipped water and Guru Purnima foot-washing tradition → added section in [[concepts/mantra-transfer]]
+
+## New Concepts Introduced (Ch.7)
+
+No standalone new concept pages. Ch.7 enriches existing concepts:
+- [[concepts/senses-management]] — major additions to Taste, Sight, Hearing, and Touch sections; new "Food Energy" subsection
+- [[concepts/maya]] — WG Ch.7's empirical sensory-limitation framing added
+- [[concepts/mantra-transfer]] — water-as-mantra-transfer-medium section; Guru Purnima foot-washing tradition
+- [[concepts/loks]] — WG Ch.7 description of afterlife crossroads (plain vs. enticing path); narrator's three-realm personal testimony
+- [[concepts/spiritual-attacks]] — white pedas/black magic personal testimony added
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] **Electromagnetic spectrum percentage — different figures across books**
+> *Aatma Sutra* Ch.VII (p.77) gives the visible spectrum figure as "less than 0.00000000005%." *Witnessing Greatness* Ch.7 gives it as "about 0.00000000000035%." Both passages are by Hingori and make the same argument about sensory limitation. The specific numbers differ by approximately three orders of magnitude. Likely a variation in the scientific source cited or a transcription difference across publications rather than a substantive disagreement.
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

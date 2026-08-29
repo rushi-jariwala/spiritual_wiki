@@ -69,6 +69,8 @@ updated: 2026-05-24
 > — Gurudev (recalled by Renu ji), *The Guru of Gurus*, p.35
 [[entities/mahaguru]] · [[stories/gurudev-indu-subzi-mussoorie]]
 
+> [!tip] *Witnessing Greatness* Ch.7 (p.92) records the same Punjabi phrase in a different context: Renu ji recalls Indu Sharma ji — a devoted figure in the Gurgaon kitchen — expressing concern that Gurudev had not had dinner the previous night and urging him to have a hearty lunch. Gurudev's response was this same phrase. Two independent testimonies from Renu ji confirm this as a recurring ek vakya. See [[stories/gurudev-not-eating-hungry-disciples]].
+
 ## Gurudev on Spiritual Enterprise (Entrepreneur Extraordinaire)
 
 > "He came on earth to help and heal and change the ethos of generations. / He willed ordinary men into mighty saints; / the forebearer of spiritual transformations."

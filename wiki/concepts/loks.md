@@ -116,6 +116,13 @@ Gurudev shared with Hingori in confidence that in the afterlife, the soul must f
 
 The snare at death mirrors the snare on Earth: sense-perception mistaken for a guide to reality.
 
+*Witnessing Greatness* Ch.7 gives Gurudev's own direct framing of this choice:
+
+> He talked about two paths: one that looks enticing and another that is simple and plain. Unlike what most believe, he advised us to choose the plain path. He said the simpler route led to the higher spiritual dimensions, while the attractive path could mislead us and keep us stuck in lower realms.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Hingori's personal visits to three distinct realms corroborate the description: *"The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub."* This matches the Aatma Sutra account of upper loks being bright but not crowded, and lower tals being darker, without being uniformly ugly.
+
 ## Colour Codes of the Loks
 
 From Hingori's personal visits (see [[stories/hingori-lok-visits]]):

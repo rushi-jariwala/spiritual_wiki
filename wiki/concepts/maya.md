@@ -148,6 +148,17 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 
 *The Guru of Gurus* (Philosophy & Practices) gives the clearest account of how maya is generated. As the jivaatma breaks away from the consciousness supreme and begins thinking of itself as separate, it becomes trapped in maya — *"the web of its own creation."* The process is not imposed from outside but self-generated: unable to look beyond itself, the jivaatma sinks deeper into a personalised world of its own making. The reverse path — back to the consciousness supreme — is what [[concepts/senses-management]] and [[concepts/constant-awareness]] structurally address.
 
+## Maya Applied — Gurudev as a Living Demonstration (*Witnessing Greatness* Ch.7)
+
+*Witnessing Greatness* Ch.7 opens with the empirical case in a slightly updated form — humans detect only about 0.00000000000035% of the electromagnetic spectrum; sounds in dog-whistle frequencies are inaudible; solid objects are mostly empty space at the atomic level — and frames Gurudev's life as the practical proof that the sensory world is not the whole of reality. His mastery over taste, sight, hearing, smell, and touch is presented not as asceticism but as a systematic demonstration that the senses are tools, not rulers.
+
+> *Maya spins an illusory yet convincing narrative that feels real and persuasive. We become trapped in its complex web, mistaking these illusions for the ultimate truth. These misconceptions bind us within self-imposed boundaries that curtail our true potential.*
+> — Hingori, *Witnessing Greatness*, Ch.7, p.89
+
+The chapter's structural argument: Gurudev's sensory mastery is the lived version of the philosophical claim that a "realm of expansive possibilities" exists beyond sensory constraints. Every testimony about his indifference to flavour, his ability to hear a conversation from hundreds of kilometres away, his comfort in cold that drove others to layers, or his ability to stop another person's shivering with a single question — all of these are presented as the empirical face of the Maya doctrine. See [[concepts/senses-management]] for the full account sense by sense.
+
+> [!warning] The electromagnetic spectrum figure: *Aatma Sutra* Ch.VII cites "less than 0.00000000005%" while *Witnessing Greatness* Ch.7 gives "about 0.00000000000035%." Both are by Hingori and make the same point. The numbers differ by roughly three orders of magnitude — a likely variation in the scientific source cited or transcription across editions. The substantive argument is unchanged.
+
 ## Maya and the Perception of Miracles
 
 *Witnessing Greatness* Ch.3 applies the maya concept specifically to how people experience the mahaguru's supernature:

@@ -1,10 +1,10 @@
 ---
 title: Mantra Transfer
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-30
 ---
 
 # Mantra Transfer
@@ -47,6 +47,21 @@ Beyond transferring siddhi, Gurudev also taught *when* to recite mantras for max
 Gurudev himself used this band: he would go to bed around 1:30 am, do his paath for an hour or two, then catch a few winks before waking between 5 and 6 am. Mataji observed: *"I felt he had gained mastery over sleep because he hardly slept. When he did sleep, it was because he wished to and not because sleep had overcome him."*
 
 His words on this practice: *"No one will ever know where I go. But I watch over people and guide them."* — indicating that his guru-paher paath was not simply recitation but astral work carried out while the world slept.
+
+### Transfer via Sipped Water
+
+*Witnessing Greatness* Ch.7 adds a third mode of transfer: sharing a sipped glass of water. Gurudev would sometimes take a sip from a glass and pass the rest to a disciple — sharing his spiritual energy and qualities in that act, sometimes to cure and sometimes to advance the disciple's spiritual journey. He explicitly quantified these transfers:
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev, *Witnessing Greatness*, Ch.7, p.94
+
+This is structurally identical to the *laung* and paath-hours transfer modes: the accumulated count (tapasya reserve) is passed to the disciple through a physical medium. In this case, water — which *The Guru of Gurus* separately describes as having its own consciousness and the ability to absorb mantra energy — serves as the carrier.
+
+### The Guru Purnima Tradition — Paduka Jal
+
+On Guru Purnima, a tradition at Gurudev's sthans involved disciples washing his feet with water (*paduka jal*). The disciples would then drink this water, infused with his spiritual energy — receiving the mahaguru's blessings and deepening their bond with him. (*Witnessing Greatness*, Ch.7, p.94)
+
+This practice is an expression of the same principle as the sipped-water transfer: the guru's accumulated spiritual energy passes into water through physical contact, and the disciple receives it through drinking.
 
 ## What It Reveals
 

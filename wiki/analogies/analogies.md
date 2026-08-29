@@ -1406,3 +1406,25 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Dark, Seedy Nightclub — The Lower Realm's True Nature
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+> The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+Hingori's personal experience of three distinct realms — two higher, one lower — grounds the lok doctrine in visceral sensory memory. The nightclub comparison is precise in its desolation: loud, dark, crowded with seeking rather than being, appearance substituting for depth. The upper loks were bright but thinly inhabited — beauty without congestion, consciousness without craving. The contrast supports Gurudev's teaching on the two afterlife paths: the visually enticing route leads to spaces like the nightclub; the plain route opens into the uncrowded brightness. See [[concepts/loks]], [[stories/hingori-lok-visits]].
+
+---
+
+### The Cook's Character in the Dish — Energy in Food
+*Illuminates: [[concepts/senses-management]], [[concepts/spiritual-attacks]]*
+
+> Indian philosophy suggests that a dish prepared by two different individuals will carry distinct energies, affecting those who consume it. This belief hinges on the idea that a cook's emotions and intentions are transferred into their cooking.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.90
+
+Temple cooks are selected for their spiritual qualities, not their culinary skill. Hingori's case study: Sitaram's colourful language transferred through his food into Hingori's own manner of speaking. The cook's emotional field is an invisible ingredient. The analogy cuts in both directions — positive intention charges food with healing quality (Mataji's cooking at the Gurgaon sthan); negative ritual charges food as a weapon (white pedas as black magic medium). The dish is neutral; what passes through the cook's hands is not. See [[concepts/senses-management]].
+

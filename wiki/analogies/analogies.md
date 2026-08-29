@@ -1406,3 +1406,25 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Lower Realm as a Nightclub
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]], [[concepts/maya]]*
+
+> "The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub."
+> — Hingori, *Witnessing Greatness*, Ch.7, pp.94–95
+
+Hingori's personal testimony from vision-state journeys through three realms. The nightclub image is precisely chosen: a nightclub is loud, crowded, dark except for artificial light, and organised entirely around sensory gratification. The sparsely inhabited brightness of the higher realms is the inverse — less stimulation, fewer inhabitants, more light. The analogy confirms Gurudev's teaching on the Dhruv Tara crossroads: the enticing path is lower, the plain path is higher. Sense-attraction is not just a trap in life; it is the sorting mechanism in the afterlife.
+
+---
+
+### The Cook as Flavour-Vessel
+*Illuminates: [[concepts/food-energy]], [[concepts/senses-management]], [[concepts/tantra]]*
+
+> "A dish prepared by two different individuals will carry distinct energies, affecting those who consume it. This belief hinges on the idea that a cook's emotions and intentions are transferred into their cooking."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.90
+
+Food is not chemically neutral — it is energetically shaped by who prepares it. The cook's inner state becomes the invisible flavouring. This is why temple cooks are vetted, and why eating food financed by someone with negative intentions or emotions creates a karmic exposure. The analogy runs in both directions: a devotional cook charges the food with blessing; a troubled or malicious one may unknowingly (or knowingly) charge it with harm.
+

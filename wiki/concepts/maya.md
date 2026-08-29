@@ -2,7 +2,7 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
 created: 2026-04-12
 updated: 2026-04-22
@@ -102,7 +102,7 @@ In this frame, Brahma (the creator, the *viraat* or cosmic person) is himself of
 
 Hingori supplements the Vedantic argument with empirical facts, citing the narrowness of human sense-perception as modern corroboration of ancient maya teaching:
 
-- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye.
+- **Sight**: less than 0.00000000005% of the electromagnetic spectrum is visible to the naked human eye. *Witnessing Greatness* Ch.7 gives the more precise figure of about 0.00000000000035% — a number so small it underscores the cosmological point about Maya more starkly.
 - **Hearing**: less than 1% of all sounds on Earth are within human auditory range.
 - **Motion**: you are travelling at 220 km/second across the Milky Way — imperceptible to every sense.
 - **Matter**: atoms in the body are 99.9999999999999999% empty space. The "solid body" is almost entirely void.

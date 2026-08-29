@@ -4,7 +4,7 @@ type: quote-collection
 sources: [witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/grihasth-ashram]]", "[[concepts/barkat]]", "[[concepts/guru-kripa]]"]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 ---
 
 # Quotes on Family Life and Love
@@ -49,4 +49,9 @@ updated: 2026-05-28
 >
 > — Renu ji, *Witnessing Greatness*, Ch.6, p.63
 
-[[entities/mahaguru]] · [[entities/mataji]] · [[concepts/grihasth-ashram]] · [[concepts/barkat]] · [[concepts/guru-kripa]] · [[concepts/ek-vakyas]]
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> (When one experiences the joy of feeding others, the pleasure of feeding oneself pales in comparison.)
+>
+> — Gurudev (to Indu Sharma ji, recalled by Renu ji), *Witnessing Greatness*, Ch.7, p.92
+
+[[entities/mahaguru]] · [[entities/mataji]] · [[concepts/grihasth-ashram]] · [[concepts/barkat]] · [[concepts/guru-kripa]] · [[concepts/ek-vakyas]] · [[concepts/senses-management]]

@@ -1,10 +1,10 @@
 ---
 title: Loks
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[concepts/senses-management]]", "[[entities/mahaguru]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-05-29
 ---
 
 # Loks
@@ -115,6 +115,13 @@ Gurudev shared with Hingori in confidence that in the afterlife, the soul must f
 > — Hingori, *Aatma Sutra*, Ch.VIII, p.93
 
 The snare at death mirrors the snare on Earth: sense-perception mistaken for a guide to reality.
+
+*Witnessing Greatness* Ch.7 adds personal testimony. After Gurudev gave Hingori this teaching, Hingori journeyed through three distinct realms — two higher, one lower — that confirmed it directly:
+
+> "The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub. Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!"
+> — Hingori, *Witnessing Greatness*, Ch.7, pp.94–95
+
+The contrast — sparsely populated brightness above, crowded sensory seduction below — is the Dhruv Tara teaching made experiential. See [[concepts/senses-management]] for the living application of this principle.
 
 ## Colour Codes of the Loks
 

@@ -1,10 +1,10 @@
 ---
 title: Spiritual Attacks
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[concepts/food-energy]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-29
 ---
 
 # Spiritual Attacks
@@ -32,6 +32,10 @@ See [[stories/guru-sutra-ch13-poem2]].
 
 ### Black Magic via Personal Objects
 A personal object — clothing, belonging — can be used as a **conduit** for directing negative energy. Hingori cites a young boy whose swimming trunks were stolen from a clubhouse and used as a conduit for black magic, causing paralysis of his legs. Hingori himself was a victim of black magic performed by a temple priest, which led to his contracting rheumatoid arthritis.
+
+### Black Magic via Food
+
+Light-coloured or white foods are particularly energy-receptive and can be charged with harmful intent through specific rituals and reverse mantras. *Witnessing Greatness* Ch.7 records that before his encounter with Gurudev, Hingori fell victim to this: white *pedas* (a milk-based sweet) were charged with negative energy and directed towards him, contributing to the development of severe arthritis. See [[concepts/food-energy]] for the principle and the protective counter-measures.
 
 ### Death Yantra by Post
 A yantra — a geometrically charged occult diagram — can be embedded in a letter. Gurudev received such a letter; knowing its contents before opening it, he asked Hingori to leave the room, then tore the letter and reassembled it to expose and neutralise the yantra. The attempt on his life failed. See [[stories/inland-letter-yantra]].

@@ -1,10 +1,10 @@
 ---
 title: Mantra Transfer
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[concepts/food-energy]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-05-29
 ---
 
 # Mantra Transfer
@@ -32,6 +32,17 @@ Gurudev also transferred the spiritual benefit of his own daily practice directl
 > — Ravi ji, recalled in *The Guru of Gurus*, p.85
 
 In this form, Gurudev performed the discipline on the disciple's behalf and credited the spiritual points to the disciple's account — while asking nothing in return except that the disciple make their own parallel effort.
+
+### Sipped Water as Mantra and Shakti Transfer
+
+*Witnessing Greatness* Ch.7 documents a third form: Gurudev would sip from a glass of water and pass the remainder to a disciple. This shared sip was simultaneously a transmission of spiritual energy and, in specific cases, a transfer of mantra recitations:
+
+> "He often gave his disciples mantras by sharing his sipped water with them, saying, 'I've transferred 10,000 recitations of this mantra to you.' Such statements signified that he was imparting some of his extensive spiritual practices, such as mantra chanting, to bolster their spiritual development."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.93
+
+The vehicle here is *jal* charged by the guru's own practice and physical contact — distinct from the laung form (where a physical object is swallowed) and from the paath-hours form (where time and effort are credited). See [[concepts/food-energy]] for water's energetic properties as a medium.
+
+On auspicious days such as **Guru Purnima**, disciples washed Gurudev's feet and then drank the water infused with his spiritual energy. This practice deepened the guru-disciple bond through direct transmission, and was an extension of the same principle: the guru's body and touch infuse jal with shakti. See [[concepts/guru-vandana]].
 
 ### The Limit of Magnanimity
 

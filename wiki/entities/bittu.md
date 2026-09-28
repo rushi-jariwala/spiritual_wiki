@@ -3,7 +3,7 @@ title: Bittu Ji
 type: entity
 tags: [disciple, inner-circle]
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/ulta-guru]]", "[[practices/seva]]", "[[stories/elderly-couple-van-rescue]]", "[[stories/gurudev-eyes-shut-before-eating]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/ulta-guru]]", "[[practices/seva]]", "[[stories/elderly-couple-van-rescue]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[stories/gurudev-khandsa-renuka-water]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -33,6 +33,9 @@ Bittu ji drove Gurudev to and from the office, managed logistics at Khandsa farm
 - **The eyes-shut question.** Noticing Gurudev bring food to his mouth and then not eat, Bittu ji challenged him with his own teaching on respecting food. Gurudev's answer: before each bite he shut his eyes to scan whether all his spiritual children had been fed. Bittu ji also notes that "he often picked food from the previous day, even with fresh options." See [[stories/gurudev-eyes-shut-before-eating]] (*Witnessing Greatness*, Ch.7).
 
 - **The Four Musketeers — Pappu ji's finger.** Hingori names the group of Pappu ji, Nikku ji, Gaggu ji and Bittu ji "the 'Four Musketeers'" who "were indispensable to the mahaguru, attending to his daily needs and handling the administrative duties at the sthan." Pappu ji's severed finger regenerated after Gurudev held it for half a minute; Nikku ji, "Mataji's nephew," witnessed the spirit Hari Ram. See [[stories/pappu-finger-regeneration]], [[stories/hari-ram-spirit-nigambhod]] (*Witnessing Greatness*, Ch.9).
+
+
+- **The Renuka canal.** On the descent from a mountain near the Renuka camp, Gurudev had Bittu ji trace his path with a stick; a labourer dug along the line and water surged into a canal to the campsite (*WG* Ch.12, p.163). See [[stories/gurudev-khandsa-renuka-water]].
 
 ## Quotes
 

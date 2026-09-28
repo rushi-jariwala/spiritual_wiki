@@ -2,9 +2,9 @@
 title: Rashmi Ji's Grief and Buddhe Baba's Apparition
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/buddhe-baba]]", "[[entities/mahaguru]]"]
+related: ["[[entities/buddhe-baba]]", "[[entities/mahaguru]]", "[[stories/gurudev-boiling-lemon-tea]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Rashmi Ji's Grief and Buddhe Baba's Apparition
@@ -34,3 +34,7 @@ updated: 2026-05-20
 > [!tip] Buddhe Baba's role here is pastoral rather than disciplinary — he appears spontaneously to comfort a distressed family member without any invocation. The access to Gurudev's private life (knowing he is going on a soil survey tour, not departing permanently) suggests the guide operates with full knowledge of the mahaguru's plans.
 
 > [!tip] Rashmi ji's misunderstanding is itself significant: Gurudev said his *teachings* would only be understood after he was gone. The ambiguity between physical departure and metaphysical departure runs through the chapter as a leitmotif — his presence outlasts his body.
+
+## See Also
+
+- [[stories/gurudev-boiling-lemon-tea]] — Rashmi ji sees Gurudev put his hands in boiling lemon tea thrice (*WG* Ch.12)

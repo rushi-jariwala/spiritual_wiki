@@ -2,9 +2,9 @@
 title: The Overnight Queue at Renuka — Seventeen Hours of Seva
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[practices/tapasya]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[stories/gurudev-khandsa-renuka-water]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # The Overnight Queue at Renuka — Seventeen Hours of Seva
@@ -33,3 +33,4 @@ updated: 2026-04-26
 - [[practices/seva|nisvarth seva]] — the cornerstone; seventeen hours of continuous service without regard for comfort
 - [[practices/seva]] — the event as a total demonstration of what large-scale nisvarth seva looks like
 - [[practices/tapasya]] — the disciples' endurance across seventeen hours qualifies as the tapasya of service
+- [[stories/gurudev-khandsa-renuka-water]] — the canal Gurudev drew at the Renuka camp, which receded when the camp left (*WG* Ch.12)

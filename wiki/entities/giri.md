@@ -3,7 +3,7 @@ title: Giri Ji
 type: entity
 tags: [disciple]
 sources: [The-Guru-of-Gurus-Eng.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/karmayoga]]", "[[stories/giri-broken-hand]]", "[[stories/gurudev-mohammedpur-greening]]", "[[stories/giri-blister-healing]]", "[[stories/giri-embarrassing-dream]]", "[[stories/giri-sister-fungal-ghee]]", "[[concepts/spiritual-alliances]]", "[[stories/giri-haath-ki-safaai-healing]]", "[[stories/giri-mother-uterine-cancer]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/karmayoga]]", "[[stories/giri-broken-hand]]", "[[stories/gurudev-mohammedpur-greening]]", "[[stories/giri-blister-healing]]", "[[stories/giri-embarrassing-dream]]", "[[stories/giri-sister-fungal-ghee]]", "[[concepts/spiritual-alliances]]", "[[stories/giri-haath-ki-safaai-healing]]", "[[stories/giri-mother-uterine-cancer]]", "[[concepts/supernature]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -45,6 +45,11 @@ Two earlier stories from *Aatma Sutra* also feature Giri ji: a mantra-water heal
 ### The Prime Minister and the Ministries (*Witnessing Greatness*, Ch.8)
 
 Giri Lalwani ji records Gurudev explaining his spiritual capacities: "Imagine the prime minister coordinating various ministries—be it finance or defence—to advance the nation's prosperity. Similarly, when you or your sister longed for children, I contacted Brahma to give you children. I seek Vishnu or Laxmi's intervention for those facing economic hardships. When the life of someone like your mother-in-law needs an extension, I appeal to Shankar to grant additional years and, after that, ask Vishnu to ensure their well-being. For protection, I ask powers such as Chamunda or Mahakali to help. All these divine entities are in harmony with my intentions." (p.98). See [[concepts/spiritual-alliances]].
+
+
+### Khandsa and "Same to Same" (*Witnessing Greatness*, Ch.12)
+
+"Gurudev was a true embodiment of his teachings, demonstrating through his actions the significance of planting trees and engaging with agriculture" (p.167) — ploughing, picking vegetables, milking cows, separating the chaff. With Hingori he witnessed the sea behave as it had for Santlal ji at Juhu, and the two "coin[ed] the term 'same to same'" (p.166). See [[concepts/supernature]] (Ch.12).
 
 ## Cross-references
 

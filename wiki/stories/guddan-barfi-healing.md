@@ -2,7 +2,7 @@
 title: Guddan Ji — The Barfi and the Long-Term Illness
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/spiritual-healing]]", "[[concepts/aura]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/spiritual-healing]]", "[[concepts/aura]]", "[[stories/guddan-astral-visit-dying-mother]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -29,3 +29,4 @@ The story is given as an example of victimisation by black magic or negative spi
 - [[entities/mahaguru]] — healer
 - [[concepts/spiritual-healing]] — physical expulsion of carriers of dark energy as a mode of healing
 - [[concepts/aura]] — weakened aura as the entry point for negative spirits and black magic
+- [[stories/guddan-astral-visit-dying-mother]] — Guddan ji's astral visit to her dying mother (*WG* Ch.12)

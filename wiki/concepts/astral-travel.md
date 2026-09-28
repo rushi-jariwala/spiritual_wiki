@@ -2,7 +2,7 @@
 title: Astral Travel
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/spiritual-alliances]]", "[[stories/pradeep-sai-baba-chautha-and-seva]]"]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/spiritual-alliances]]", "[[stories/pradeep-sai-baba-chautha-and-seva]]", "[[synthesis/missed-astral-invitations]]", "[[stories/santlal-astral-journey-home]]", "[[stories/guddan-astral-visit-dying-mother]]", "[[stories/ravi-trehan-guru-lok-assembly]]"]
 created: 2026-04-18
 updated: 2026-09-28
 ---
@@ -198,6 +198,38 @@ Bharat Dalal ji's dream is consistent: in a different dimension, thousands were 
 
 Narinder ji remembers Gurudev saying: "When I travel astrally from Gurgaon to Mumbai, I always pause at two places—Ajmer Sharif and Shirdi. My bond with Shirdi Sai runs deep." (p.104). At Gurudev's chautha, Pradeep ji saw hundreds of ancient sages with Sai Baba at their centre — see [[stories/pradeep-sai-baba-chautha-and-seva]] and [[concepts/spiritual-alliances]].
 
+
+## *Witnessing Greatness* Ch.12 — Paath, the Guru Paher, and Journeys Shared
+
+> The vast expanse of space often set the stage for many of the mahaguru's spiritual journeys, with astral travel being a prominent foray. Gurudev's mastery of out-of-the-body experiences was akin to that of a legendary escape artist, effortlessly moving between the physical and ethereal realms. This practice, known to him as paath, was a vital part of his daily spiritual discipline.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.170
+
+On these voyages "he could visit the various sthans he had established across the globe and extend his guidance and support to those in need," and meet "spiritual luminaries such as Guru Nanak, Guru Angad, Shirdi Sai Baba, and deities such as Parshuram ji" (p.170). Mataji quotes him: *"No one will ever know where I go. But I watch over people and guide them."*
+
+**Bringing him back.** Mataji's anecdote: friends "freshly initiated as disciples" disturbed him during paath; he told them to seek her help to awaken him.
+
+> "Sometimes, even a firm nudge would not stir him, perhaps because his spirit had travelled far across the cosmos, and his return was not instantaneous," she recalls. "He explained that re-entering the physical realm from his travels could take time, depending on the distance he had to cover to return, so patience was required."
+> — Mataji, *Witnessing Greatness*, Ch.12, p.170
+
+"Being married to a man who ventured beyond his physical form so regularly was no small task" — over time she "mastered the art of managing them with grace and efficacy" (p.171).
+
+**The guru paher.** In Rajpal ji's telling of the Hariana night, Gurudev revives at "3:30 am sharp" with "OM" — the end of the *guru paher*, "a specific time period between 2:15 am and 3:30 am that is considered especially conducive for spiritual practices, such as mantra recitation" (p.171). His rebuke: *"My legs were in your hands. If only you had pressed that point, you would have come with me."* See [[stories/gurudev-sarson-saag-astral]].
+
+**Invitations missed and taken.** Sitaram ji released his grip at Haridwar ([[stories/sitaram-taki-haridwar-astral]]); Hingori did the same in Gurgaon:
+
+> Once, as Gurudev prepared for paath in Gurgaon, he beckoned me to hold his feet, promising a celestial tour of the planets. Yet, as he started to convulse, signalling the onset of his astral departure, my nerves betrayed me. I, too, let go, forfeiting the opportunity to journey the cosmos alongside the mahaguru.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.173
+
+> Fortunately, some disciples did not falter. Surender Kaushal ji from Chicago was graced with a remarkable vision that bridged the divide between the astral and the astrological. "Gurudev took me on an astral journey through the Milky Way, where the planets were in such proximity that they were within reach," he recalls. "The highlight of this journey was when Gurudev made me touch the rings of the majestic Saturn!"
+> — *Witnessing Greatness*, Ch.12, p.173
+
+Santlal ji's journey home through the grills, with Bakshi ji and Amichand ji ([[stories/santlal-astral-journey-home]]); Ravi Trehan ji's assembly of mahagurus in Guru Lok ([[stories/ravi-trehan-guru-lok-assembly]]); Guddan ji sent to her dying mother in Kanpur — "You did visit her. I sent you" ([[stories/guddan-astral-visit-dying-mother]]). The pattern across sources: [[synthesis/missed-astral-invitations]].
+
+**The caution.** "He highlighted the risks associated with astral travel, cautioning against leaving the physical body unprotected. He explained that it could become vulnerable to takeover by powerful and malevolent entities" (p.175). See [[concepts/spiritual-attacks]].
+
+> [!warning] How often did he travel?
+> *Aatma Sutra* (p.67): "at least thrice a week." *The Guru of Gurus* (Supernature): four to five days a week, two to seven hours. *WG* Ch.12 (p.170): paath "was a vital part of his daily spiritual discipline." Paath and astral travel are not necessarily the same thing — Ch.5 describes paath as the meditation that "facilitated" astral travel.
+
 ## Cross-references
 
 - [[concepts/sukshma-sharir]] — the spirit body that performs astral travel
@@ -213,3 +245,5 @@ Narinder ji remembers Gurudev saying: "When I travel astrally from Gurgaon to Mu
 - [[stories/uddhav-ji-black-triangles]] — Gurudev acts astrally at a distance to protect a disciple from a dangerous spirit apparition
 - [[stories/hingori-puranji-missed-astral-tour]] — Brahmaand offer; Hingori physically wakes instead of going astrally
 - [[concepts/constant-awareness]] — constant awareness is the standing state within which astral travel occurs; documented in the same incidents (flight to Hyderabad, Bathri yogi, inland letter)
+- [[synthesis/missed-astral-invitations]] — the offer through the guru's legs, and the hands that let go (*WG* Ch.12 + *Guru of Gurus* + *Aatma Sutra*)
+- [[stories/santlal-astral-journey-home]] · [[stories/guddan-astral-visit-dying-mother]] · [[stories/ravi-trehan-guru-lok-assembly]] — *WG* Ch.12 journeys

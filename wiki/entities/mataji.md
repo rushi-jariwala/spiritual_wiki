@@ -2,9 +2,9 @@
 title: Mataji (Sudesh Sharma)
 type: entity
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[practices/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]"]
+related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[practices/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]", "[[concepts/astral-travel]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-25
-updated: 2026-05-28
+updated: 2026-09-28
 ---
 
 # Mataji (Sudesh Sharma)
@@ -84,6 +84,11 @@ She passed away in **May 2014.** On the hour of her death, the stars were auspic
 
 - **Buddhe Baba:** On one night she awoke to find Gurudev conversing with someone he addressed as Baba. Gurudev ended the conversation abruptly; the next day he revealed Buddhe Baba had told him she was overhearing them. See [[entities/buddhe-baba]].
 - **Augarh at Har ki Pauri:** Augarh bent to touch her feet as a mark of respect at the Haridwar aarti, though she had no recollection — the cacophony of conch shells and chants had distracted her at the moment. See [[stories/augarh-har-ki-pauri]].
+
+
+## Bringing Him Back from Paath (*Witnessing Greatness*, Ch.12)
+
+When newly initiated friends disturbed Gurudev during paath, he sent them to Mataji to wake him. "Sometimes, even a firm nudge would not stir him … He explained that re-entering the physical realm from his travels could take time, depending on the distance he had to cover to return, so patience was required" (pp.170–171). She quotes him: *"No one will ever know where I go. But I watch over people and guide them."* Hingori: "Being married to a man who ventured beyond his physical form so regularly was no small task" — she "mastered the art of managing them with grace and efficacy." See [[concepts/astral-travel]], [[synthesis/missed-astral-invitations]].
 
 ## Cross-references
 

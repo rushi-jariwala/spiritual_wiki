@@ -1,10 +1,10 @@
 ---
 title: Malhotra Ji's Initiation — The Ganges Stands Still
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/rc-malhotra]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/rc-malhotra]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/supernature]]", "[[concepts/surrender]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Malhotra Ji's Initiation — The Ganges Stands Still
@@ -19,6 +19,18 @@ updated: 2026-04-26
 >
 > Malhotra ji's generosity went beyond the realm of dreams. On numerous occasions, he advocated for his gurubhais in front of the mahaguru. However, there were times when we were on the receiving end of his naughty streak. His harmless antics were designed to arouse Gurudev's wrath because he knew blessings lay hidden even in the mahaguru's harshness.
 > — Hingori, *The Guru of Gurus*, pp.61–63
+
+
+## *Witnessing Greatness* Version (Ch.12, pp.163–164)
+
+Ch.12 retells the initiation, through Ravi ji, as the first display of Gurudev's "mastery over this element" — water, "a key medium for sharing his spiritual energy":
+
+> Ravi ji, narrating Malhotra ji's experience, describes the scene: "Standing in the Ganges, amidst a strong current, Gurudev instructed Malhotra ji to lie horizontally in the water, positioning his head at his feet in a gesture of complete surrender, a dandvat pranaam. Malhotra ji initially hesitated, citing the fierce current and his inability to swim. Gurudev urged him to follow his instructions. To Malhotra ji's astonishment, the moment he complied, the raging waters of the Ganges became still!"
+>
+> Overwhelmed by this experience, Malhotra ji later questioned Gurudev about the miraculous stilling of the river's waters. The mahaguru's response was understated: "The elements of nature are under my control."
+> — *Witnessing Greatness*, Ch.12, pp.163–164
+
+The new detail: the posture is named a *dandvat pranaam* ("a traditional gesture of reverence, where one prostrates fully on the ground, face down, with arms outstretched … a mark of surrender," p.164, footnote), and the river stills "the moment he complied." See [[concepts/surrender]], [[concepts/supernature]].
 
 ## Source
 

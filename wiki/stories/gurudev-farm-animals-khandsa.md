@@ -2,9 +2,9 @@
 title: Gurudev and the Farm Animals at Khandsa
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[entities/chacha]]", "[[practices/seva]]"]
+related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[entities/chacha]]", "[[practices/seva]]", "[[stories/gurudev-khandsa-renuka-water]]"]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-28
 ---
 
 # Gurudev and the Farm Animals at Khandsa
@@ -41,3 +41,7 @@ When Gurudev and Mataji travelled to America, the children's distance from their
 - [[entities/mataji]] — on the America trip with Gurudev; children's longing for her voice
 
 > [!tip] The same quality that made Gurudev's children feel overlooked — his attention distributed to everyone — was the quality that kept him engaged with individual cows and buffaloes by name while travelling across the world. His was not divided attention; it was boundless attention.
+
+## See Also
+
+- [[stories/gurudev-khandsa-renuka-water]] — freshwater found under the saline Khandsa farm (*WG* Ch.12)

@@ -2,7 +2,7 @@
 title: Barkat (Abundance and Its Stewardship)
 type: concept
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/vairagya]]", "[[stories/gurudev-food-barkat-leftover-paratha]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[synthesis/feeding-others-before-self]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/vairagya]]", "[[stories/gurudev-food-barkat-leftover-paratha]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/supernature]]", "[[stories/mataji-food-miracle-engagement]]"]
 created: 2026-05-28
 updated: 2026-09-28
 ---
@@ -33,6 +33,14 @@ Gurudev delivered this after a half-eaten paratha was left in the kitchen sink b
 ## In Practice
 
 Gurudev's household had an unwritten rule: no food left unfinished on plates. Mataji frequently ate her children's leftovers to honour this. The rule was not stated — it was modelled.
+
+
+### *Witnessing Greatness* Ch.12 — Sweets That Did Not Run Out
+
+> Gupta ji of Parwanoo witnessed an event that seemed to bend the laws of physics: "This incident unfolded in the Shilai region near Paonta Sahib in Himachal Pradesh. Gurudev had brought some kheer and a box of gulab jamuns from Gurgaon in the trunk of his car. He instructed us to distribute the sweetmeats to everyone present. Seeing the large crowd gathered, we were concerned that the kheer and gulab jamuns would not suffice for everyone. Yet, even after serving everyone generously, the supply of both sweetmeats never seemed to diminish. It was his barkat at work."
+> — *Witnessing Greatness*, Ch.12, p.176
+
+Here *barkat* is the abundance itself, multiplied — compare Mataji's food for 150 that fed 250 ([[stories/mataji-food-miracle-engagement]]). See [[concepts/supernature]] (Ch.12).
 
 ## Cross-references
 

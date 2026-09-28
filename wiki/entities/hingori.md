@@ -3,7 +3,7 @@ title: Hingori
 type: entity
 tags: [hingori, author, disciple]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]", "[[stories/hingori-mahagayatri-fire-and-water]]", "[[concepts/mantra-vidya]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]", "[[stories/hingori-mahagayatri-fire-and-water]]", "[[concepts/mantra-vidya]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -108,7 +108,7 @@ Hingori documents a progressive sequence of astral travel experiences under Guru
 3. **Lonavala temple journey** — Gurudev took him in dream-state to a temple in Lonavala; seen in grey and black. Months later physically visited the same temple and recognised it exactly. See [[stories/hingori-lonavala-temple-vision]].
 4. **Attaining gati** — In a vision, [[entities/rc-malhotra|R.C. Malhotra]] (sent by Gurudev) taught him superfast astral travel. Spirit body moved like a rocket with a buzzing sound. See [[stories/hingori-gati-malhotra]].
 5. **The fan ankle** — Flew through a ceiling fan; ankle caught in the rotating energy field; limped for 15 days. See [[stories/hingori-fan-ankle]].
-
+6. **Letting go in Gurgaon** (*WG* Ch.12, p.173) — asked to hold Gurudev's feet for "a celestial tour of the planets"; at the convulsion "my nerves betrayed me. I, too, let go." See [[synthesis/missed-astral-invitations]].
 ## Notable Stories
 
 - [[stories/hingori-arthritis-cure]]

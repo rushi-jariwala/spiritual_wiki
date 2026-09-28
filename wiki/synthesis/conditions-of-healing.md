@@ -2,7 +2,7 @@
 title: Conditions of Healing — What the Seeker Brings, and Where Grace Ignores It
 type: synthesis
 sources: [witnessing-greatness-chapters, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/spiritual-healing]]", "[[concepts/faith]]", "[[concepts/non-doership]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]", "[[concepts/self-acceptance]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/spiritual-healing]]", "[[concepts/faith]]", "[[concepts/non-doership]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]", "[[concepts/self-acceptance]]", "[[entities/mahaguru]]", "[[stories/roshini-tea-burn-conviction]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -28,6 +28,10 @@ updated: 2026-09-28
 | **Selflessness** | [[stories/devraj-khare-mothers-choice]] | "Her selfless choice unleashed a flow of blessings." |
 | **Resolve** (tested) | [[stories/yash-sethi-dermatomyositis]] | "Gurudev initially refused to meet him and made him wait … He was possibly testing my uncle's resolve." |
 | **A disciple's bond** | [[stories/giri-mother-uterine-cancer]] | "Your mother has borne my disciple and I am indebted to her." |
+
+
+> [!tip] Conviction without the guru present — *Witnessing Greatness* Ch.12 (p.169)
+> Roshini ji's scalded hand healed "within moments" of the thought "I am Gurudev's daughter. He mastered control over fire, so my hand will be fine" — Hingori calls it "the healing that followed her conviction." Faith as the condition, with no request made and the guru not present. See [[stories/roshini-tea-burn-conviction]].
 
 ## The Inversion: Grace That Ignores the Conditions
 

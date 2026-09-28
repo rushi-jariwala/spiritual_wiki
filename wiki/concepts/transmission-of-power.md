@@ -133,6 +133,7 @@ Testimonies: [[stories/ravi-ji-us-brain-tumour]], [[stories/rishabh-gopiganj-vis
 
 ## Cross-references
 
+- [[quotes/power]] — quote collection on power, its transmission and its misuse
 - [[concepts/power-symbols]] — the specific symbols that manifest as a consequence of attained power
 - [[concepts/gaddi]] — the Guru's Seat of Power; how energy accumulates and transfers through place
 - [[concepts/spiritual-attacks]] — envy-driven attacks; how to defend against them

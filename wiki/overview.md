@@ -5,7 +5,7 @@ tags: [hingori, mahaguru, overview]
 sources: []
 related: []
 created: 2026-04-12
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Overview — Hingori Sutras Tradition

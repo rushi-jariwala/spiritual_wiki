@@ -217,3 +217,12 @@ Gurudev's mentorship through his disciples' testimony: no sermons, customised in
 
 ## [2026-09-28] update | Broken-link fix
 Pointed 47 dangling links at existing pages: concepts/seva and concepts/nisvarth-seva → practices/seva; concepts/avidya → concepts/kleshas; concepts/karm-mukt → concepts/non-doership; concepts/aatmic-equality → concepts/jivaatma. Left forward links to sources/dream-sutra (book pending) and entities/puranji (possible future page).
+
+## [2026-09-28] lint | Health check
+394 pages scanned; no orphans, no frontmatter errors, all stories carry verbatim block quotes. Fixed 10 ambiguous index short-links (`[[karma]]` etc. collided with `quotes/` filenames and would not resolve in Quartz), backlinked 8 quote collections and 2 embedded-text pages that were reachable only from the index, and refreshed stale "pending" statuses in `sources/karma-sutra` and the `overview` date.
+- **Remaining forward-links (intentional):** `[[sources/dream-sutra]]` (maya, hingori, karma-sutra); `[[entities/puranji]]` (guru-of-gurus).
+- **Missing raw files:** frontmatter `sources:` cites PDFs and `guru_sutra_book.md` that live in the git-ignored `raw/ingested_sources/`; Guru Sutra ch.1–5 not split into `raw/guru-sutra-chapters/`.
+- **Entity-page candidates** (substantial coverage, no page): Puranji (29 pages), Ashish ji (34 pages, 3 stories), Virender ji (22), Pappu (16), Shambhuji (15).
+- **Concept-page candidates:** *sthan* (referenced on ~110 pages; currently only a section in `entities/mahaguru`), *ego* (21 concept pages). Hold *mantra* and *Shiv* until WG Ch.11 (Sacred Syllables) and Ch.17 (Shiv) are ingested.
+- **Gaps / new sources:** *The Guru of Gurus* Glossary; *Dream Sutra* not yet in `raw/`; WG Ch.11–20 queued.
+- **Questions to explore:** How do the Ch.9 conditions of healing relate to karmic-debt repayment? Does the "guru who points beyond himself" (WG Ch.10) sit in tension with *Guru Sutra*'s surrender teaching?

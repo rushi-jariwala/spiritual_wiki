@@ -50,3 +50,4 @@ Through these visions, Ravi ji understood that his connection with the mahaguru 
 - [[concepts/astral-travel]] — the Mahaguru mantra as a vehicle for accessing past-life memory states
 - [[concepts/faith]] — multi-lifetime bonds as the foundation of unshakeable faith
 - [[entities/rc-malhotra]] — Malhotra ji's verification trip to Shahjahanpur is part of this account
+- [[stories/ravi-ji-us-brain-tumour]] — Ravi ji as healer: the US woman's brain tumour (*Witnessing Greatness*, Ch.9)

@@ -1,10 +1,10 @@
 ---
 title: Mr Marchant and the Planchette — Post-Death Karma in Action
 type: story
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
 related: ["[[entities/hingori]]", "[[concepts/positive-karma]]", "[[concepts/non-doership]]", "[[stories/hingori-arthritis-cure]]"]
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-09-28
 ---
 
 # Mr Marchant and the Planchette — Post-Death Karma in Action
@@ -39,3 +39,11 @@ Hingori, *Karma Sutra*, Ch.5, pp.85–87
 - [[concepts/positive-karma]] — Mr Marchant's late guru accumulates positive karma post-death through continued healing service
 - [[stories/hingori-arthritis-cure]] — the arthritis cure that the planchette independently confirms ("jungle man, jungle medicine"; 95%)
 - [[concepts/non-doership]] — the late guru instructs no fees to be charged; keeps his healing free of personal encashment; service without ownership
+
+## *Witnessing Greatness* Ch.9 Version (pp.118–119)
+
+> Previously, I had been undergoing homoeopathic therapy with Mr Marshal, a spiritualist who used a planchette and pendulum in choosing treatments, claiming guidance from his late guru. After my encounter with Gurudev, during a follow-up visit, Mr Marshal's pendulum swung erratically. Bewildered, he exclaimed, "I don't believe this! How can this be? You are already 95% healed!"
+> — Hingori, *Witnessing Greatness*, Ch.9, pp.118–119
+
+> [!warning] Marchant / Marshal
+> *Karma Sutra* spells the healer **Marchant**; *Witnessing Greatness* Ch.9 spells him **Marshal**. In *Karma Sutra* the pendulum asks "He is saying, you are alright, is it true?"; in Ch.9 it reads "already 95% healed". Full Ch.9 context: [[stories/hingori-arthritis-cure]].

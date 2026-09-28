@@ -2,7 +2,7 @@
 title: Witnessing Greatness
 type: source
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]"]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]", "[[concepts/spiritual-healing]]", "[[synthesis/conditions-of-healing]]"]
 created: 2026-05-20
 updated: 2026-09-28
 ---
@@ -43,7 +43,7 @@ updated: 2026-09-28
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
 | 7 | Deception of Perception | 89–96 | ✅ ingested 2026-09-28 |
 | 8 | Cosmic Collaborators | 97–116 | ✅ ingested 2026-09-28 |
-| 9 | Sage of Solace | — | ⬜ pending |
+| 9 | Sage of Solace | 117–140 | ✅ ingested 2026-09-28 |
 | 10 | Peerless Mentorship | — | ⬜ pending |
 | 11 | Sacred Syllables | — | ⬜ pending |
 | 12 | Elemental Symphony | — | ⬜ pending |
@@ -55,6 +55,91 @@ updated: 2026-09-28
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.9 — Sage of Solace, pp.117–140)
+
+- **The healing chapter**: a sequence of testimonies moving from Gurudev's own healings (Hingori, Yash Sethi, Nitin Gadekar, Pappu ji, Giri ji, Guddan ji, Vaishali, Giri ji's mother, Virender ji's wife), to healings beyond his physical form (Ruchi's tooth, Remanika's dream, Pooja Seth ji's coconut flower), to healings by his disciples and their downlines (Ravi ji, Rishabh ji, Gajendra ji, Kanika ji, Devraj ji), to remote healing today (Deepak Nagpal ji, Aditya Manaktala ji, Vipan Seth ji).
+- **Healing costs energy**: replenished "through seva and mantra chanting" and the cooperation of spiritual allies.
+- **The ethereal screen**: every visitor's past, present and future displayed to Gurudev; "remember the first and last person you met."
+- **Faith and its companions**: faith, compliance, seva, acceptance, selflessness and resolve all named as conditions; a counter-case heals regardless. New synthesis: [[synthesis/conditions-of-healing]].
+- **Physical form vs. guru form**: the physical form irritated by non-compliance; the guru form heals unconditionally.
+- **Spirits**: a malevolent spirit behind illness; Hari Ram bargaining for rebirth; a doctor's conversion from "folklore."
+- **Scale**: 8,000–10,000 photographs under the mattress; "Roughly 70 to 80% of visitors find either complete or partial relief"; "The power decides the pace of healing."
+- **Reconfiguring fate**: the dialogue with Rajpal ji — "it delights God immensely"; "I am in control here."
+
+## Notable Quotes (Ch.9)
+
+> "There is an ethereal screen before me, visible only to my eyes."
+> — Gurudev to Das Saheb, *Witnessing Greatness*, Ch.9, p.121
+
+> "Your mother has borne my disciple and I am indebted to her."
+> — Gurudev to Giri ji, *Witnessing Greatness*, Ch.9, p.125
+
+> "Help a hundred people find relief from their headache, and your migraines will go away."
+> — Gurudev to Punchoo ji, *Witnessing Greatness*, Ch.9, p.129
+
+> "The power decides the pace of healing. Our intention to heal is usually acknowledged and respected by the power. That is the grace bestowed upon us."
+> — Hingori, *Witnessing Greatness*, Ch.9, p.133
+
+> "I reconfigure their fate; I relieve their suffering, for I am their guru."
+> — Gurudev to Rajpal ji, *Witnessing Greatness*, Ch.9, p.139
+
+Full collection: [[quotes/healing]].
+
+## Stories Extracted (Ch.9)
+
+- [[stories/yash-sethi-dermatomyositis]] — new
+- [[stories/pappu-finger-regeneration]] — new
+- [[stories/giri-haath-ki-safaai-healing]] — new
+- [[stories/guddan-kanpur-arthritis-healing]] — new
+- [[stories/giri-mother-uterine-cancer]] — new
+- [[stories/virender-wife-malevolent-spirit]] — new
+- [[stories/hari-ram-spirit-nigambhod]] — new
+- [[stories/sahani-london-photo-mattress]] — new
+- [[stories/punchoo-migraine-hundred-people]] — new
+- [[stories/remanika-dream-kada-healing]] — new
+- [[stories/pooja-seth-coconut-flower]] — new
+- [[stories/ravi-ji-us-brain-tumour]] — new
+- [[stories/rishabh-gopiganj-vision-gratitude]] — new
+- [[stories/gajendra-lonavala-paralysed-twins]] — new
+- [[stories/kanika-bhalla-clot-vanished]] — new
+- [[stories/devraj-khare-mothers-choice]] — new
+- [[stories/dr-vacchani-spirits-angiogram]] — new
+- [[stories/hingori-arthritis-cure]] — enriched: Sethi residence; kada; 75% → 95%; Mr Marshal; relapse; "Son, start doing seva"; healed by a glance
+- [[stories/marchant-planchette-healing]] — enriched: Ch.9 version of the pendulum
+- [[stories/giri-sister-fungal-ghee]] — enriched: Giri ji's telling; 11 days of langar seva
+- [[stories/shankarnarayan-vaishali-healing]] — enriched: Mr Datta's father; the doctor–patient quote
+- [[stories/rajpal-heathrow-bhagwan-authority]] — enriched: full dialogue verbatim
+
+Short anecdotes kept inline in [[concepts/spiritual-healing]]: Nitin Gadekar ji's kidney stones; Das Saheb's ethereal screen; Randhir ji's sister and Ruchi's tooth (dhoop ash); Deepak Nagpal ji on remote-healing methods; Aditya Manaktala ji's aura and brain-fold visions; Vipan Seth ji's phone healing on Bada Guruvar. Urinating under trees → [[concepts/hygiene]]; Guru Purnima coconuts → [[practices/significant-days]]; Four Musketeers → [[entities/bittu]].
+
+## New Concepts Introduced (Ch.9)
+
+- No new concept page (healing already covered by [[concepts/spiritual-healing]], which gained a full Ch.9 section)
+- New synthesis: [[synthesis/conditions-of-healing]]
+- New analogies: the ethereal screen; the two ends (first and last person); magic in the fingers; physical form and guru form; soothing the divine within. Ch.9 citation added to "Doctor and Patient."
+
+## Contradictions / Tensions (Ch.9)
+
+> [!warning] Hingori's arthritis cure — three tellings
+> *Karma Sutra*: cured "in a minute"; Gurudev's disciple splashed holy water into his eyes. *Guru Sutra* Ch.5: 1977, the Gurgaon queue; Gurudev "deliberately cured only 95%"; returned **five years** later. Ch.9: first meeting at the Sethi residence in Mumbai; 75% raised to 95% at Hingori's request; relapse a year later after skipped sthan visits and Thursday alcohol; returned **four years** later seeking grace; healed by a glance while serving food. See [[stories/hingori-arthritis-cure]].
+
+> [!warning] Faith as the essence of healing vs. faith not a prerequisite
+> *The Guru of Gurus* (p.223): "the mahaguru did not believe in binding people to faith." Ch.9 (p.122): "the essence of healing lay not in his interventions but in the deep faith of the individuals." Ch.9 itself records the London young man healed despite non-compliance. See [[synthesis/conditions-of-healing]].
+
+> [!warning] "I am in control here" vs. "I am not the doer"
+> *The Guru of Gurus* (p.227): "I am not the doer." Ch.9 (p.139): "God does not meddle in my work; I am in control here." Also, *The Guru of Gurus* places the exchange at Heathrow; Ch.9 names no location. See [[stories/rajpal-heathrow-bhagwan-authority]], [[concepts/non-doership]].
+
+> [!warning] Giri ji's sister
+> *The Guru of Gurus*: fungal growth on the hands; cleared by the twelfth day. Ch.9: pus and shedding skin on hands and feet; gone by the end of 11 days of langar seva. See [[stories/giri-sister-fungal-ghee]].
+
+> [!warning] Veer ji / Kulbir Sethi ji; Yash's recovery
+> *The Guru of Gurus* names Kulbir Sethi ji (Papaji) as head of the first Mumbai sthan and says Yash recovered "eighty per cent of his strength." Ch.9 names Pradeep ji's father Veer ji as sthan sanchalak and says Yash walked "with a slight limp." See [[stories/yash-sethi-dermatomyositis]].
+
+> [!question] Name spellings and identities
+> Marchant (*Karma Sutra*) / Marshal (Ch.9); Vachhani (*Guru Sutra*) / Vacchani (Ch.9); Guddan ji of Kanpur vs. Guddan ji of the barfi story; Virender ji the judge vs. Virender ji of Ch.9; Mr Datta (Ch.9) vs. Dutta Saheb (Ch.1).
+
+---
 
 ## Key Themes (Ch.8 — Cosmic Collaborators, pp.97–116)
 

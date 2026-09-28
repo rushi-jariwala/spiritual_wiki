@@ -72,7 +72,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[senses-management]] — Observer stance toward the five senses; Gurudev's specific techniques per sense; neuroplasticity; dissolution of the experiencer
 - [[constant-awareness]] — Multi-planar perpetual awareness; one-point concentration; OM/Ajna architecture; manifesting visualisation; probability reduction
 - [[hygiene]] — Gurudev's four-part framework: Social, Commercial, Mental, Spiritual hygiene; habit-grade practices for amplifying spiritual efforts
-- [[spiritual-healing]] — Sources of negativity, dispassionate approach, spirit possession mechanics, life extension, modes of healing, non-doership as the frame
+- [[spiritual-healing]] — Sources of negativity, dispassionate approach, spirit possession mechanics, life extension, modes of healing, non-doership as the frame; *WG* Ch.9 healing testimonies and remote healing
 - [[supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, post-mortem appearances, spiritual mastery
 - [[statue-consciousness]] — Consecrated statues as live extensions of the mahaguru's consciousness; pran pratishtha mechanism; Asthal temple testimonies
 - [[power-symbols]] — Shiv-parivaar symbols on Gurudev's body (OM, Trishul, Shivling-gileri, Ganpati, Nandi, Jyot); their meanings and transfer to disciples
@@ -126,7 +126,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–8 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–9 ingested.*
 
 ---
 
@@ -148,7 +148,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/destiny]] — Planetary mechanism, duality pendulum, astrology, acceptance
 - [[quotes/loks]] — Death-consciousness, tapo raj/rajo narak, the invested life
 - [[quotes/seva]] — Precursor to self-esteem, Golden Rules, multilevel propagation, Gurudev's seva in verse
-- [[quotes/healing]] — Non-doership in healing, divine authority, intention over method, jal as elixir
+- [[quotes/healing]] — Non-doership in healing, divine authority, intention over method, jal as elixir; *WG* Ch.9: ethereal screen, reconfiguring fate, guru form
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
@@ -386,6 +386,23 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[surinder-gurudev-namaaz-vision]] — Gurudev performs namaaz facing north in a Chicago kitchen; Guru Gobind Singh "embodies the essence of Shiv"
 - [[geeta-nagpal-augarh-bhaiya]] — Geeta ji's sketch of Augarh; asthma relief; leg pain ended by an unkempt man at the Shani temple
 - [[humsa-augarh-tests]] — Augarh as beggar: "Khaana de" at Najagarh (passed); the banana and the biscuits at the Mumbai sthan
+- [[yash-sethi-dermatomyositis]] — Dermatomyositis; the healer from Nagpur tests the family's resolve; seva begins at the Sethi residence, Mumbai
+- [[pappu-finger-regeneration]] — Severed finger held for half a minute; regenerated with full mobility
+- [[giri-haath-ki-safaai-healing]] — Sceptic's unspoken "sleight of hand" read aloud at Mahashivratri 1983; cloves and cardamoms heal within six months
+- [[guddan-kanpur-arthritis-healing]] — Fourteen years of deformative arthritis; a gaze and a touch; Kanpur becomes the first sthan outside Gurgaon
+- [[giri-mother-uterine-cancer]] — "Your mother has borne my disciple"; tea bhog and nine sips over the phone; tests show no cancer
+- [[virender-wife-malevolent-spirit]] — "Heal her or let her die"; RP Sharma ji removes the pain of a malevolent spirit
+- [[hari-ram-spirit-nigambhod]] — Spirit taken at Nigambhod Ghat bargains for rebirth; "We will see"
+- [[sahani-london-photo-mattress]] — Photo under the mattress that could not be found; physical form vs. guru form
+- [[punchoo-migraine-hundred-people]] — "Help a hundred people find relief from their headache, and your migraines will go away"
+- [[remanika-dream-kada-healing]] — Baroda sthan; dream of Gurudev's feet and a copper kada on the gaddi; healed on waking
+- [[pooja-seth-coconut-flower]] — Guru Purnima coconut blooms; the flower given to a woman who could not conceive
+- [[ravi-ji-us-brain-tumour]] — Three to four months to live; return in 40 days; declared cancer-free
+- [[rishabh-gopiganj-vision-gratitude]] — "At least I will have another chance to see you" — acceptance extends the healing
+- [[gajendra-lonavala-paralysed-twins]] — Lonavala 1997: the first 108 patients; paralysed twin sisters walk a week apart
+- [[kanika-bhalla-clot-vanished]] — Post-caesarean clot in the occipital lobe gone overnight after Guruji saw her photo
+- [[devraj-khare-mothers-choice]] — "Guruji could heal only one of us"; the mother chooses her son and lives 18 more years
+- [[dr-vacchani-spirits-angiogram]] — A doctor learns that spirits behind psychosomatic illness are not folklore
 
 ---
 
@@ -428,3 +445,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[reverse-engineered-destiny]] — Destiny read backward from the final form; Gurudev's early life as a life retrofitted to the dimensions of the mahaguru *(Witnessing Greatness Ch.1 + Guru of Gurus + Aatma Sutra)*
 - [[feeding-others-before-self]] — Gurudev's food discipline across sources: the other is fed first; taste outgrown, not suppressed *(Guru of Gurus + Witnessing Greatness Ch.6–7)*
 - [[tests-in-disguise]] — Augarh and the guru's unannounced examinations; food as the recurring medium; protector and examiner as one *(Witnessing Greatness Ch.8 + Guru Sutra + Guru of Gurus)*
+- [[conditions-of-healing]] — What the seeker brings (faith, compliance, seva, acceptance, selflessness) and where grace heals regardless; physical form vs. guru form *(Witnessing Greatness Ch.9 + Guru of Gurus)*

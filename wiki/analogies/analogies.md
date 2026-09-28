@@ -839,6 +839,8 @@ In the Hygiene chapter, Hingori extends this: *"every lifetime becomes an opport
 
 Faith is not a supplement to the spiritual work — it is the mechanism that determines how much of the guru's transmission actually reaches the disciple. The medication (grace, healing, initiation) is already there; receptivity determines the dose absorbed.
 
+*Witnessing Greatness* Ch.9 (p.124) repeats it in the healing context: "Though a doctor can prescribe a course of treatment, it is ultimately the patient's belief in the doctor's proficiency that significantly enhances the treatment's efficacy." See [[concepts/faith]], [[synthesis/conditions-of-healing]].
+
 ---
 
 ### Mind as Warehouse — Declutter to Preserve Energy
@@ -1507,3 +1509,56 @@ A meter reads without warning and reports to whoever installed it: "Augarh tells
 > — Hingori, *Witnessing Greatness*, Ch.8, p.108
 
 Aatmic equality put in political terms: the deity at Badrinath and the "mere mortal" share one status at the level of the aatma.
+
+---
+
+## Sage of Solace — Witnessing Greatness (Ch.9)
+
+### The Ethereal Screen
+*Illuminates: [[concepts/supernature]], [[concepts/constant-awareness]], [[concepts/spiritual-healing]]*
+
+> "There is an ethereal screen before me, visible only to my eyes. Every detail about everyone in the queue—their past, present and future, problems, faith, devotion, and even their casual curiosity—all manifest on that screen. I know the help they seek within moments and can determine the appropriate guidance."
+> — Gurudev to Das Saheb, *Witnessing Greatness*, Ch.9, p.121
+
+How Gurudev could help tens of thousands of people in brief moments: each person's case was displayed to him, whole, as on a screen.
+
+---
+
+### The Two Ends — First and Last Person
+*Illuminates: [[concepts/spiritual-healing]], [[practices/seva]]*
+
+> "After seva, simply remember the first and last person you met, and all those in between will naturally settle in your thoughts". He explained that the entire spectrum comes alive by focusing on the two ends, guiding the healer to reflect on each person during meditation.
+> — Hingori, *Witnessing Greatness*, Ch.9, p.121
+
+Hold the two ends and the whole line of people follows — a healer's method for carrying the day's visitors into meditation.
+
+---
+
+### Magic in the Fingers — The Healed as Channel
+*Illuminates: [[concepts/transmission-of-power]], [[practices/seva]]*
+
+> "It felt as though there was magic in my fingers!" … The magic in Punchoo ji's fingers was more than just a remedy; it symbolised the mahaguru's ability to transform individuals into channels of his healing grace.
+> — *Witnessing Greatness*, Ch.9, p.129
+
+See [[stories/punchoo-migraine-hundred-people]].
+
+---
+
+### Physical Form and Guru Form
+*Illuminates: [[concepts/spiritual-healing]], [[concepts/guru-tattva]], [[synthesis/conditions-of-healing]]*
+
+> While Gurudev's physical form reacted to the young man's non-compliance, his guru form, operating on a higher plane, offered unconditional healing regardless of whether his advice was heeded.
+> — Hingori, *Witnessing Greatness*, Ch.9, p.128
+
+One healer on two planes: the person can be disappointed; the guru heals anyway. See [[stories/sahani-london-photo-mattress]].
+
+---
+
+### Soothing the Divine Within — Healing as Relieving God's Distress
+*Illuminates: [[concepts/spiritual-healing]], [[concepts/destiny]]*
+
+> "By healing someone, I am soothing the divine presence within them. In this way, I am also alleviating God's own distress."
+> — Gurudev to Rajpal ji, *Witnessing Greatness*, Ch.9, p.139
+
+Altering fate does not oppose God's plan; because God lives in the sufferer, healing the sufferer comforts God. See [[stories/rajpal-heathrow-bhagwan-authority]].
+

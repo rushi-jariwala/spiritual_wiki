@@ -33,3 +33,4 @@ updated: 2026-05-24
 - [[concepts/intent-as-healing]] — the inner voice's declaration preceded the physical method; intention opened the channel before technique was applied
 - [[concepts/spiritual-healing]] — neurological condition healed after three years of no progress; the breakthrough came via alignment with the guru's method
 - [[entities/mahaguru]] — his audio biography provided the specific method; he was the guiding force acting through Dhruv ji
+- [[stories/kanika-bhalla-clot-vanished]] — Kanika ji's own healing, the ordeal that first connected her to the sthan (*Witnessing Greatness*, Ch.9)

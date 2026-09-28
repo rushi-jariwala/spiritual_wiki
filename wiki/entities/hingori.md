@@ -2,10 +2,10 @@
 title: Hingori
 type: entity
 tags: [hingori, author, disciple]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Hingori
@@ -49,7 +49,7 @@ Hingori suffered from **rheumatoid arthritis for 10 years** before meeting Gurud
 > I thank my stars for my suffering from arthritis for 10 years, as it became the reason for my turn around from a one-way ticket to hell (metaphorically speaking) to a flexi-pass that could take me everywhere.
 > — *Karma Sutra*, Ch.1, p.13
 
-He describes the experience as his **initiation into the spiritual realm** and into a "karmically wealthier existence." See [[stories/hingori-arthritis-cure]].
+He describes the experience as his **initiation into the spiritual realm** and into a "karmically wealthier existence." See [[stories/hingori-arthritis-cure]]. *Witnessing Greatness* Ch.9 tells it at length: drawn by [[stories/yash-sethi-dermatomyositis|Yash Sethi's recovery]], he bargained Gurudev up from 75% to 95% relief, relapsed after skipping the sthan and drinking on Thursdays, and was finally healed by a glance while serving food at Gurgaon after being told, "Son, start doing seva."
 
 ### Before Gurudev — A Self-Described "Disbeliever"
 

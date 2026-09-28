@@ -4,7 +4,7 @@ type: concept
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/doer-ship]]", "[[concepts/karma]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/sanchit-karma]]", "[[concepts/vairagya]]", "[[concepts/samskars]]", "[[concepts/vasna]]", "[[entities/adi-shankaracharya]]", "[[concepts/self-acceptance]]", "[[concepts/spiritual-healing]]", "[[practices/seva]]"]
 created: 2026-04-14
-updated: 2026-05-24
+updated: 2026-09-28
 ---
 
 # Non-Doership
@@ -173,6 +173,9 @@ His relationship with [[entities/buddhe-baba]] was the ground of this stance. Gu
 
 He practised and recommended non-doership in all healing — only those *meant* to get cured came to him; he was merely the facilitator. No one meant to receive healing was turned away; no one not meant to be healed could be forced to recover. The outcome was not in the doer's hands. See [[concepts/spiritual-healing]].
 
+> [!warning] "I am in control here" (*Witnessing Greatness*, Ch.9, p.139)
+> To Rajpal ji: "This same divine force has given me the title of Guru and endowed me with the power to heal. God does not meddle in my work; I am in control here. Who will provide solace to those suffering if I do not step in?" — set against "I am not the doer" (*The Guru of Gurus*, p.227). Healers in the same chapter keep the non-doer frame: "We are merely vessels. It is the sthan that is guiding all our healing endeavours" (Aditya Manaktala ji, p.137). See [[stories/rajpal-heathrow-bhagwan-authority]] and [[synthesis/conditions-of-healing]].
+
 ## Cross-references
 
 - [[concepts/doer-ship]] — the binding mechanism that non-doership dissolves
@@ -189,3 +192,4 @@ He practised and recommended non-doership in all healing — only those *meant* 
 - [[entities/adi-shankaracharya]] — *Nirvana Shatakam* as the fullest expression of karm-mukt
 - [[concepts/spiritual-healing]] — Gurudev's "I am not the doer" as non-doership applied in the healing context
 - [[entities/buddhe-baba]] — "He does. I don't": Gurudev's attribution of all seva to Buddhe Baba as the living enactment of non-doership at the mahaguru level
+- [[synthesis/conditions-of-healing]] — the non-doer healer and the guru "in control" (*WG* Ch.9)

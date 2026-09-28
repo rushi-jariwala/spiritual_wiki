@@ -1,10 +1,10 @@
 ---
 title: Faith
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[concepts/stages-of-spiritual-transformation]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/maya]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[concepts/stages-of-spiritual-transformation]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/maya]]", "[[synthesis/conditions-of-healing]]"]
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-09-28
 ---
 
 # Faith
@@ -116,6 +116,18 @@ The scepticism of Mumbaikars, including Hingori himself (five years of delay aft
 
 See [[stories/santlal-ji-journey-to-gurudev]], [[stories/lal-saheb-half-cup-tea]], and [[stories/ravi-ji-mansion-cave-visions]] for specific cases.
 
+## Faith and Healing (*Witnessing Greatness*, Ch.9)
+
+> Gurudev consistently highlighted that the essence of healing lay not in his interventions but in the deep faith of the individuals seeking his aid.
+> — Hingori, *Witnessing Greatness*, Ch.9, pp.122–123
+
+> "Though a doctor can prescribe a course of treatment, it is ultimately the patient's belief in the doctor's proficiency that significantly enhances the treatment's efficacy."
+> — Gurudev, *Witnessing Greatness*, Ch.9, p.124
+
+Ch.9's cases: Guddan ji discontinued her medications "confident that the guru she was about to meet would heal her" ([[stories/guddan-kanpur-arthritis-healing]]); Shankarnarayan ji: "My unshakeable faith in Gurudev was the catalyst for Vaishali's miraculous recovery" ([[stories/shankarnarayan-vaishali-healing]]); Giri ji, the sceptic: "This time, I decided to trust him" ([[stories/giri-haath-ki-safaai-healing]]). Hingori's own relapse followed scepticism: "The figure was precisely what Gurudev had promised, yet my scepticism held firm" ([[stories/hingori-arthritis-cure]]).
+
+> [!tip] Faith is not the only condition Ch.9 names — compliance, acceptance, selflessness and seva also appear, and one case heals despite non-compliance. See [[synthesis/conditions-of-healing]].
+
 ## Cross-references
 
 - [[concepts/guru-disciple]] — The parent concept; faith is the binding force of the guru-disciple relationship
@@ -127,3 +139,4 @@ See [[stories/santlal-ji-journey-to-gurudev]], [[stories/lal-saheb-half-cup-tea]
 - [[stories/guru-sutra-ch8-property-test]] — Faith tested through a negotiation no other disciple could close
 - [[stories/guru-sutra-ch8-poem]] — "Exit the land of delusion… let the bridge of faith take you places where your caged soul can take wing"
 - [[stories/hingori-faith-development]] — 1977 first visit; arthritis returns; 1982 actual spiritual entry; the full timeline of faith's development
+- [[synthesis/conditions-of-healing]] — faith as one of several conditions of healing in *Witnessing Greatness* Ch.9

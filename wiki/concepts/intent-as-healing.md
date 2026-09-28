@@ -4,7 +4,7 @@ type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
 created: 2026-04-26
-updated: 2026-05-28
+updated: 2026-09-28
 ---
 
 # Intent as Healing
@@ -87,3 +87,4 @@ This is intent-as-healing applied by the disciple rather than the guru: the same
 - [[practices/seva]] — healing through seva operates by the same principle: it is the intent of nisvarth service, not the method, that transforms
 - [[concepts/spiritual-healing]] — the full treatment of healing modes, sources of negativity, and how intent-as-healing operates in practice
 - [[stories/hingori-wrong-remedy-intention]] — empirical proof: wrong remedy, right result
+- [[synthesis/conditions-of-healing]] — "Our intention to heal is usually acknowledged and respected by the power" (*WG* Ch.9, p.133); what the seeker brings

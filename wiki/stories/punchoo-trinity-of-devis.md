@@ -32,3 +32,4 @@ updated: 2026-09-28
 
 > [!question] Spelling
 > *The Guru of Gurus* Who's Who spells her name **Pooncho ji**; *Witnessing Greatness* Ch.8 has **Punchoo ji**. Same person (Rajpal ji's daughter, Pradeep Sethi ji's wife).
+- [[stories/punchoo-migraine-hundred-people]] — Punchoo ji's migraines cured by helping a hundred people (*Witnessing Greatness*, Ch.9)

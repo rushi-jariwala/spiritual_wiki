@@ -1,10 +1,10 @@
 ---
 title: Hygiene (Social, Commercial, Mental, Spiritual)
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/aura]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/seva]]", "[[concepts/gunas]]", "[[practices/seva]]", "[[concepts/role-play]]", "[[concepts/empathy]]", "[[concepts/ek-vakyas]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Hygiene (Social, Commercial, Mental, Spiritual)
@@ -183,6 +183,13 @@ There is also an auric implication to disposing of body parts: *there is some au
 - Opt for vegetarianism: eliminating meat keeps the aura free from lower-order animal energies, and meat-eating is a tamasic practice that contradicts the sattvic qualities of Jupiter's rays.
 - Alcohol is a downer: after an initial rajasic high, tamasic effects (sloppiness, inertia, drowsiness, irritability) take over, and sattva reduces.
 
+### Where Not to Urinate
+
+> Gurudev often advised against urinating under the trees or when facing the sun, warning of the spiritual risks involved.
+> — *Witnessing Greatness*, Ch.9, p.127
+
+The spirit Hari Ram admitted taking hold of a man "one evening at Nigambhod Ghat when he was urinating under a tree." See [[stories/hari-ram-spirit-nigambhod]]. Hingori's own arthritis returned after he "indulged in alcohol on Thursdays, something he had advised me against" ([[stories/hingori-arthritis-cure]], Ch.9).
+
 ### Sthan Energy Storage
 
 Gurudev could channel and root his energy wherever he desired. When he opened sthans, he stored some of his energies there. Over time these energies multiplied due to the collective energy deposits of the sevadaars and the sthan's visitors. He also carried his own photograph on critical assignments — a gesture Hingori understood as taking the nirman kaya along. See [[concepts/astral-travel]].
@@ -219,3 +226,4 @@ The spirit needs its energy to exist, travel, and protect itself. It can attain 
 - [[stories/sikh-headache-briefcase]] — "it is my duty to do seva, not my business"
 - [[stories/srinagar-dehradun-kada-mission]] — the price of failing to offer one's kada
 - [[stories/hingori-sees-thought]] — the direct vision of a thought that confirmed Gurudev's ek vakya
+- [[stories/hari-ram-spirit-nigambhod]] — possession taken while urinating under a tree (*WG* Ch.9)

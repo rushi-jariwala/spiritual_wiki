@@ -37,3 +37,5 @@ Across three books, Gurudev's tests share one structure: **the examiner arrives 
 ## Cross-refs
 
 - [[entities/augarh]] · [[entities/mahaguru]] · [[concepts/faith]] · [[quotes/spiritual-alliances]]
+
+> [!tip] *Witnessing Greatness* Ch.9: Gurudev "initially refused to meet" Yash Sethi's brother in Nagpur and made him wait, though he had told colleagues a week earlier of the Mumbai trip — "He was possibly testing my uncle's resolve." See [[stories/yash-sethi-dermatomyositis]] and [[synthesis/conditions-of-healing]].

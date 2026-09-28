@@ -943,6 +943,49 @@ The choice of asana (seat) for mantra recitation is not ritual — it is energet
 
 ---
 
+### Three Halves Are Better Than One Whole — Mantras While Working
+*Illuminates: [[concepts/mantra-vidya]], [[concepts/constant-awareness]]*
+
+> As a businessman, I believe three halves are better than one whole; I, therefore, advise people to do their mantras while performing daily tasks such as walking, cooking, driving, etc.
+> — Hingori, *Witnessing Greatness*, Ch.11, p.161
+
+A businessman's arithmetic for practice: many partial recitations layered over the day's tasks yield more than one undivided session. Cf. ajapa japa ([[concepts/mantra-transfer]]).
+
+---
+
+### The Mantra Becomes One's Breath — Anchor for the Mind
+*Illuminates: [[concepts/mantra-vidya]], [[concepts/constant-awareness]]*
+
+> "From that moment, every mantra Gurudev gave me seamlessly blended into my daily routine and, eventually, became my breath."
+> — Raji ji, *Witnessing Greatness*, Ch.11, p.161
+
+> Mantra chanting transcends mere repetition. It serves as an anchor for the mind, steering it away from its tendency to drift, eventually becoming an integral part of one's essence.
+> — *Witnessing Greatness*, Ch.11, p.161
+
+Two images of one progression: the anchor holds a drifting mind in place; the breath is what the mantra becomes when it no longer needs holding.
+
+---
+
+### Mantra as Armour
+*Illuminates: [[concepts/mantra-vidya]], [[concepts/spiritual-attacks]]*
+
+> "These negative energies are sensed as intense pressure around the head. However, specific mantras, such as the Chamunda mantra, act as armour against these unsettling energies."
+> — Ridhim ji, *Witnessing Greatness*, Ch.11, p.150
+
+The Chamunda does not attack the spirit; it is worn. "As we start chanting the mantra internally, the heaviness begins to fade."
+
+---
+
+### The Mahagayatri as Conduit — Bridging the Tangible and the Subtle
+*Illuminates: [[concepts/mantra-vidya]], [[concepts/mukti]]*
+
+> The Mahagayatri mantra serves as a potent conduit, bridging the tangible realm of our physical existence with the subtle expanses of spiritual dimensions. It plays a pivotal role in channelling energies from the lower chakras to the higher ones, facilitating spiritual ascent.
+> — *Witnessing Greatness*, Ch.11, p.154
+
+A channel, not a destination: the mantra carries energy upward, purging samskaras on the way toward mukti and moksha.
+
+---
+
 ### The Pendulum — Emotions of the Follower
 *Illuminates: [[concepts/guru-disciple]]*
 

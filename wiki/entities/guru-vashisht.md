@@ -1,10 +1,10 @@
 ---
 title: Guru Vashisht
 type: entity
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/maya]]", "[[concepts/aatma]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/maya]]", "[[concepts/aatma]]", "[[stories/vashisht-fragments-mahagayatri]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-18
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Guru Vashisht
@@ -47,10 +47,15 @@ Ram's summarised understanding of this teaching is preserved verbatim at [[stori
 
 > [!tip] Hingori reconciles Guru Vashisht's extreme non-dualism ("there is no god") with the graduated temple-worship approach: temples work and are real within *maya*, but they are "for students of spiritualism who were still at the level of high school and college." The Advait position is the PhD level.
 
+## The Fragmenting of the Mahagayatri (*Witnessing Greatness* Ch.11)
+
+When demons misused the Mahagayatri to desecrate the deities' fire rituals, the deities — sent from Brahma to Vishnu to Shankar — were advised to seek Guru Vashisht. He found their arrival foretold on the page of the Vedas he was reading, fragmented the mantra into the Gayatri and eight words "discreetly dispersed throughout the four Vedas," and decreed that "only a siddh guru could impart the full and original Mahagayatri mantra to the disciple, and this transmission would occur in utmost secrecy" (Ravi Trehan ji, pp.153–154). See [[stories/vashisht-fragments-mahagayatri]], [[concepts/mantra-vidya]].
+
 ## Sources
 
 - *Yog Vasishta, the Supreme Yoga* (tr. Swami Venkateshananda) — quoted in *Aatma Sutra*, Ch.VII, pp.73–75; Ch.XI, pp.138–139; Ch.XIV, p.183
 - [[sources/aatma-sutra]]
+- *Witnessing Greatness*, Ch.11, pp.153–154 — [[sources/witnessing-greatness]]
 
 ## Related
 
@@ -61,3 +66,4 @@ Ram's summarised understanding of this teaching is preserved verbatim at [[stori
 - **Vishvamitra** — once an arrogant king who sought revenge on Guru Vashisht; through repeated penance eventually reached the title of *brahmarishi*; the rivalry that produced a spiritual giant (*Aatma Sutra*, Ch.XII, p.153)
 - [[stories/ram-speech-ch14-consciousness-alone]] — Ram's Ch.XIV summary from Supreme Yoga
 - [[stories/ram-speech-to-guru-vashisht]] — Ram's Ch.XI summary from Supreme Yoga
+- [[stories/vashisht-fragments-mahagayatri]] — the fragmenting of the Mahagayatri

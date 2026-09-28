@@ -2,7 +2,7 @@
 title: Spiritual Attacks
 type: concept
 sources: [guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]", "[[stories/virender-wife-malevolent-spirit]]", "[[stories/dr-vacchani-spirits-angiogram]]"]
+related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]", "[[stories/virender-wife-malevolent-spirit]]", "[[stories/dr-vacchani-spirits-angiogram]]", "[[concepts/mantra-vidya]]", "[[stories/kapill-keels-delhi-dehradun]]", "[[stories/kapil-mahtani-london-hotel-attack]]", "[[stories/malhotra-chamunda-forest-spirits]]"]
 created: 2026-05-10
 updated: 2026-09-28
 ---
@@ -61,6 +61,11 @@ This principle also applies to hostile temple energies. Rather than retaliating,
 ### The Keel
 A **keel** is a circle of spiritual protection drawn mentally with directed energy around a person or object, preventing negative spirits or energies from entering. See [[stories/hingori-magician-keel]].
 
+*Witnessing Greatness* Ch.11 (p.158) defines it more widely: "Energy boundaries to contain or neutralise negative energies within a given space. Additionally, they function as protective barriers, efficiently shielding areas, individuals, and objects from negative influences within a specified radius." Keels are created with mantras such as the Mahagayatri, and are used to **trap** a spirit so it can be cleared — Hingori's keel around Nandlal's shop, which drew out the spirit of Nandlal's uncle ([[stories/nandlal-shakti-ball]]); Kapill ji's keels in a Delhi hotel and a Dehradun room ([[stories/kapill-keels-delhi-dehradun]]).
+
+### The Chamunda Mantra
+The sthans' usual mantra for spirits: "used for defence and protection" (Darius Moos ji); "armour" against the "intense pressure around the head" of negative energies (Ridhim ji); "especially powerful" against hostile spirits disguised as "revered entities like Shiv" or using flattery (Rajeev Hazarat ji) — *WG* Ch.11, pp.150–151. See [[concepts/mantra-vidya]], [[stories/malhotra-chamunda-forest-spirits]].
+
 ---
 
 ## Gurudev's Warning on Misuse
@@ -82,6 +87,10 @@ This connects to the karma framework: a negative wish that fructifies becomes ne
 - [[stories/sthan-hostile-temple]] — hostile temple near a new sthan; sweetmeats resolve the tension
 - [[stories/hingori-deity-attack-sleep]] — bizarre nocturnal attack by neighbourhood temple deity
 - [[stories/kamlesh-black-magic-cure]] — months of vomiting glass bangles; taveez extracted by Gurudev; foiled attempt to kill (*The Guru of Gurus*)
+- [[stories/malhotra-chamunda-forest-spirits]] — Gurudev hides behind a tree; the Chamunda drives back ethereal beings (*WG* Ch.11)
+- [[stories/kapil-mahtani-london-hotel-attack]] — a force pressing down at night; lifted by the Mahagayatri (*WG* Ch.11)
+- [[stories/kapill-mahagayatri-spirit-shrinks]] — a spirit shrinks from five feet to one before two disciples (*WG* Ch.11)
+- [[stories/kapill-keels-delhi-dehradun]] — spirits trapped in keels (*WG* Ch.11)
 
 ---
 

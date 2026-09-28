@@ -3,7 +3,7 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[concepts/mantra-vidya]]", "[[quotes/mantras]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -479,6 +479,10 @@ Gurudev as coordinator of the devi-devtas — "Imagine the prime minister coordi
 ## Peerless Mentorship (*Witnessing Greatness*, Ch.10)
 
 "The mahaguru defied convention. Clad in his simple lungi, he would sit on his bed in his modest bedroom, engaging those around him with life lessons drawn directly from his own experiences" (p.141). No sermons or hymns (Mrs Jolly); customised insight in place of discourses (Pradeep ji); bhakti that was *sahaj* — "Detachment within attachment" (Bindu ji); "Merely reciting mantras is not enough… transform your gunas" (Uma Prabhu ji). He asked untrained people to heal (Surender ji, Kishanmohan ji), opened a gurubhai's fourth eye in Kapill ji's dream and often closed disciples' third eyes. He expected "Total surrender" (Puran ji), yet said "our true accomplishment would be us surpassing his achievements" (Santlal ji), "refrain from idolising me" (Renu ji) and "You can become Shiv yourself" (Dr Shankarnarayan ji). Uma ji on the way forward: "Life is a relay race, and we must pass on the baton." See [[quotes/mentorship]], [[synthesis/guru-who-points-beyond-himself]], [[stories/kapill-dream-fourth-eye-gurubhai]], [[concepts/customised-guidance]].
+
+## Sacred Syllables — Mantra Vidya (*Witnessing Greatness*, Ch.11)
+
+Mantra vidya was one of his three pillars, with seva and the refinement of gunas. "His mantras were siddh, distinct from those found in traditional scriptures or online resources," and he bestowed them so that disciples reached siddhi "in remarkably short durations" (p.149). He demonstrated the Chamunda by hiding behind a tree while RC Malhotra ji faced ethereal beings alone ([[stories/malhotra-chamunda-forest-spirits]]); read Hingori's vision of a swimming woman as Mahagayatri siddhi ([[stories/hingori-mahagayatri-fire-and-water]]); advised Kishanmohan ji to ring the Durgapur mines with mantra-charged mustard seeds ([[stories/kishanmohan-durgapur-mines]]); told Raji ji to recite continuously, assuring "he would acknowledge each recitation" (p.161). "Mahagayatri is more than just a mantra; it embodies the spirit of the four Vedas" (to Ravi Trehan ji, p.154). See [[concepts/mantra-vidya]], [[quotes/mantras]], [[synthesis/mantra-and-water]].
 
 ## Notable Stories
 

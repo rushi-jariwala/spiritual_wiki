@@ -3,7 +3,7 @@ title: R.C. Malhotra (Ramesh Chand Malhotra)
 type: entity
 tags: [disciple, senior-disciple, first-disciple]
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]", "[[concepts/spiritual-alliances]]"]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]", "[[concepts/spiritual-alliances]]", "[[stories/malhotra-chamunda-forest-spirits]]"]
 created: 2026-04-18
 updated: 2026-09-28
 ---
@@ -82,6 +82,7 @@ FC Sharma ji: "In the early days, Gurudev would instruct Malhotra ji on the spir
 - [[stories/malhotraji-luggage-resignation]] — posthumous orchestration; luggage moved to the meeting; theatrical reinstatement as chief trustee
 - [[stories/malhotra-buddhe-baba-yog-dand]] — astral meeting with Gurudev and Buddhe Baba; opinions upset Buddhe Baba; physical yog dand imprint on back upon waking (*Witnessing Greatness*, Ch.2)
 - [[stories/ravi-ji-mansion-cave-visions]] — Malhotra ji travels to Shahjahanpur to verify Ravi ji's past-life dream sketch; the courtyard confirmed, now cement instead of mud (*Witnessing Greatness*, Ch.4)
+- [[stories/malhotra-chamunda-forest-spirits]] — early 1970s: left alone by Gurudev among ethereal beings in a forest; drives them back by mentally chanting the Chamunda mantra (*Witnessing Greatness*, Ch.11)
 
 ## Cross-references
 

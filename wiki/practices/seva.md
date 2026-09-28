@@ -3,9 +3,9 @@ title: Seva
 type: practice
 tags: [seva, service, practice, karmayoga]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/karma]]", "[[concepts/karmayoga]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[concepts/vairagya]]", "[[concepts/grihasth-ashram]]", "[[entities/mahaguru]]", "[[entities/mataji]]", "[[entities/buddhe-baba]]", "[[entities/guru-vashisht]]"]
+related: ["[[concepts/karma]]", "[[concepts/karmayoga]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[concepts/vairagya]]", "[[concepts/grihasth-ashram]]", "[[entities/mahaguru]]", "[[entities/mataji]]", "[[entities/buddhe-baba]]", "[[entities/guru-vashisht]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-12
-updated: 2026-05-24
+updated: 2026-09-28
 ---
 
 # Seva
@@ -39,6 +39,9 @@ Seva sits at the structural centre of the tradition for four reasons given in Ch
 2. **It is Gurudev's one-point programme.** *"He felt seva was the most important aspect and needed the maximum focus."* Seva was the central practice not of his teaching alone but of his own daily life — 12 hours a day of good karma.
 3. **It is the stage that connects belief to knowledge.** In the five-stage evolution (shraddha → vishwas → **seva** → gyan → bhakti), seva sits between the beginning stages of belief/realisation and the later stages of knowledge/devotion. It is the practical hinge.
 4. **It is what the disciple owes in exchange for the guru's grace.** When a sadguru manipulates a disciple's karma, the currency the disciple pays in is seva (and [[practices/tapasya|tapasya]]).
+
+> [!tip] Seva, mantra vidya, gunas
+> *Witnessing Greatness* Ch.11 (p.149) sets seva beside mantra vidya and the refinement of gunas as Gurudev's three pillars. Mantras are used in "our seva of offering spiritual relief" to houses infested with spirits (Ridhim ji, p.150). See [[concepts/mantra-vidya]].
 
 ## Sources
 

@@ -2,9 +2,9 @@
 title: Ravi Trehan Ji Sees Gurudev in Shiv's Form
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[concepts/supernature]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]"]
+related: ["[[concepts/supernature]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[stories/vashisht-fragments-mahagayatri]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Ravi Trehan Ji Sees Gurudev in Shiv's Form
@@ -29,3 +29,4 @@ A strikingly similar dream was reported by Raj Laxmi ji (Guddan ji) of Kanpur, w
 - [[concepts/supernature]] — Gurudev's true form glimpsed through the dream state as Lord Shankar; the silencing gesture as further evidence of his omniscience
 - [[entities/mahaguru]] — the Shiv-ansh identity confirmed in dream form; tiger skin, snake, ash, and trishul as the iconographic markers
 - [[concepts/guru-disciple]] — the mahaguru granting the disciple's sincere request through the dream channel without any public display
+- [[stories/vashisht-fragments-mahagayatri]] — Ravi Trehan ji narrates how Guru Vashisht fragmented the Mahagayatri; on the Mahaguru mantra see [[concepts/mantra-vidya]] (*WG* Ch.11)

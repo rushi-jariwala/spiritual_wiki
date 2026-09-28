@@ -2,7 +2,7 @@
 title: Spiritual Healing
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/faith]]", "[[concepts/spiritual-attacks]]", "[[synthesis/conditions-of-healing]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/faith]]", "[[concepts/spiritual-attacks]]", "[[synthesis/conditions-of-healing]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]", "[[concepts/mantra-vidya]]", "[[stories/kishanmohan-durgapur-mines]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -277,6 +277,15 @@ Full dialogue: [[stories/rajpal-heathrow-bhagwan-authority]]. Healing is framed 
 > — *Witnessing Greatness*, Ch.10, p.144
 
 Hingori's explanation: the disciples were "like 'pre-cooked meals' awaiting microwaving. Gurudev pressed the right buttons to awaken our dormant capabilities linked to our past lives" (p.144). The obstacle, he says, was self-evaluation: "Our inability to acknowledge and accept our worth became a stumbling block in our journey of self-discovery" (p.144; see [[concepts/self-acceptance]]). The chapter opens with the same lesson given to Hingori — trust yourself more than the herbs ([[stories/gurudev-diary-guru-not-doctor]]). See [[synthesis/guru-who-points-beyond-himself]], [[quotes/mentorship]].
+
+## *Witnessing Greatness* Ch.11 — Healing with Mantras
+
+- **Chamunda** — "Upon integrating it into patient care, we have discovered its remarkable efficacy in treating skeletal, muscular, and neurological pain. Moreover, it has shown significant potential in alleviating stress and tension." (Darius Moos ji, p.151)
+- **Intention** — "The power of a mantra is greatly amplified when aligned with the healer's focused intention" (p.151; see [[concepts/intent-as-healing]]).
+- **Mahamrityunjay** — "When we infuse cloves and cardamoms with the Mahamrityunjay mantra, they become charged with a powerful healing energy" (Babloo ji, a disciple of Santosh ji from Nadaun, p.160), with "remarkable healing results, particularly in cases where the medical prognosis was uncertain or inclined towards a long-term or seemingly impossible recovery."
+- **Clearing homes** — [[stories/kapill-mahagayatri-spirit-shrinks]]; Kishanmohan ji of Durgapur (Ch.10 above) protecting miners with Mahagayatri-charged mustard seeds, cloves and cardamoms — [[stories/kishanmohan-durgapur-mines]].
+
+See [[concepts/mantra-vidya]].
 
 ## Notable Stories
 

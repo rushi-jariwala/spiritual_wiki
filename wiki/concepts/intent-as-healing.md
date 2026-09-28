@@ -2,7 +2,7 @@
 title: Intent as Healing
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
+related: ["[[concepts/mantra-transfer]]", "[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -77,6 +77,13 @@ This is intent-as-healing applied by the disciple rather than the guru: the same
 ## Related Teaching — Mantra Transfer
 
 [[concepts/mantra-transfer|Mantra transfer]] operates by the same logic. When Gurudev declared Hingori *siddh* in a mantra before Hingori had chanted it, the siddhi resided in Gurudev's intent, not in the syllables. The mantra words were given *after*, as a formal structure to house what had already been transmitted.
+
+### Intention amplifies the mantra (*Witnessing Greatness* Ch.11)
+
+> At this stage, it is crucial to highlight another key aspect of the healing process—intention. The power of a mantra is greatly amplified when aligned with the healer's focused intention. This synergy explains how a single mantra can be effectively applied to achieve success across diverse spiritual endeavours.
+> — *Witnessing Greatness*, Ch.11, p.151
+
+See [[concepts/mantra-vidya]].
 
 ## Cross-references
 

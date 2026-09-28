@@ -92,6 +92,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
 - [[concepts/spiritual-alliances]] — Cosmic collaboration: Gurudev's alliances with deities, rishis and saints; the PM-and-ministries model; Parshuram's consent at Renuka; fingers of one hand; alliances outliving the body
+- [[mantra-vidya]] — The science of mantras, one of Gurudev's three pillars; Chamunda (protection), Mahagayatri (fire, water, liberation), Mahamrityunjay (continuity), Mahaguru mantra (where all merge); intention; dream mantras; keels
 
 ---
 
@@ -126,7 +127,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–10 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–11 ingested.*
 
 ---
 
@@ -155,6 +156,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/senses-and-perception]] — Maya of the senses; Gurudev on food, intention, and feeding others first; Virender ji on self-control; sipped-water mantra transfer
 - [[quotes/mentorship]] — Gurudev's mentorship style (*WG* Ch.10): no sermons, sahaj, transform your gunas, ordinary people made healers, surpass me, refrain from idolising me, total surrender, the relay race
 - [[quotes/spiritual-alliances]] — Siddh gurus' collaboration; PM and ministries; Ravan as gurubhai; doctors at a doctor's funeral; spiritual communist; Augarh as test-o-meter
+- [[quotes/mantras]] — Siddh mantras (*WG* Ch.11): Chamunda as armour, intention, Mahagayatri and the four Vedas, the life in water, the final infinite mantra, three halves better than one whole
 
 ---
 
@@ -405,6 +407,14 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[devraj-khare-mothers-choice]] — "Guruji could heal only one of us"; the mother chooses her son and lives 18 more years
 - [[dr-vacchani-spirits-angiogram]] — A doctor learns that spirits behind psychosomatic illness are not folklore
 - [[kapill-dream-fourth-eye-gurubhai]] — Kapill ji's dream: Gurudev's hand on a gurubhai's talvi — "Maine iska kaam kar diya hai"; the fourth eye; Gurudev often closing third eyes
+- [[malhotra-chamunda-forest-spirits]] — Gurudev hides behind a tree; RC Malhotra ji drives back ethereal beings with the Chamunda mantra
+- [[vashisht-fragments-mahagayatri]] — Deities and demons both chant it; Guru Vashisht divides it; only a siddh guru may impart it whole
+- [[hingori-mahagayatri-fire-and-water]] — The mantra's heat as temper with Khemchand; a swimming woman read by Gurudev as siddhi
+- [[ashish-khanna-gopiganj-water-mustard]] — Mahagayatri and mustard seeds; water surfaces on land with no underground source
+- [[kapill-mahagayatri-spirit-shrinks]] — Two gurubhais see the same spirit shrink from five feet to one
+- [[kapil-mahtani-london-hotel-attack]] — A force pressing down in a London hotel lifts with the Mahagayatri
+- [[kishanmohan-durgapur-mines]] — Mantra-charged mustard seeds, cloves and cardamoms protect Durgapur's miners
+- [[kapill-keels-delhi-dehradun]] — Spirits trapped in keels in a Delhi hotel and a Dehradun room
 
 ---
 
@@ -448,4 +458,5 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[feeding-others-before-self]] — Gurudev's food discipline across sources: the other is fed first; taste outgrown, not suppressed *(Guru of Gurus + Witnessing Greatness Ch.6–7)*
 - [[tests-in-disguise]] — Augarh and the guru's unannounced examinations; food as the recurring medium; protector and examiner as one *(Witnessing Greatness Ch.8 + Guru Sutra + Guru of Gurus)*
 - [[conditions-of-healing]] — What the seeker brings (faith, compliance, seva, acceptance, selflessness) and where grace heals regardless; physical form vs. guru form *(Witnessing Greatness Ch.9 + Guru of Gurus)*
+- [[mantra-and-water]] — Water as asana, jal, heat-offset, vessel and sign of siddhi; the Mahagayatri's fire beside it *(Witnessing Greatness Ch.11 + Guru of Gurus + Guru Sutra)*
 - [[guru-who-points-beyond-himself]] — Surpass me, don't idolise me, become Shiv yourself, trust yourself more than the herbs — the guru whose success is his becoming unnecessary; held against "Total surrender" *(Witnessing Greatness Ch.10 + Guru Sutra + Guru of Gurus + Aatma Sutra)*

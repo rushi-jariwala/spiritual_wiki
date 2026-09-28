@@ -2,9 +2,9 @@
 title: Ashish Khanna Ji's Guru Appears in Goa
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[concepts/supernature]]", "[[concepts/astral-travel]]", "[[concepts/surrender]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/supernature]]", "[[concepts/astral-travel]]", "[[concepts/surrender]]", "[[entities/mahaguru]]", "[[stories/ashish-khanna-gopiganj-water-mustard]]", "[[synthesis/mantra-and-water]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Ashish Khanna Ji's Guru Appears in Goa
@@ -30,3 +30,5 @@ The instruction about seafood had been given on the sthan's first visit — a si
 - [[concepts/astral-travel]] — the nirman kaya mechanism: the guru's energy body present in two cities simultaneously
 - [[concepts/surrender]] — the sighting's immediate result: unconditional surrender to the guru
 - [[entities/mahaguru]] — the chapter demonstrates that his powers were transmitted to and expressed through his disciples
+- [[stories/ashish-khanna-gopiganj-water-mustard]] — Ashish ji's Mahagayatri and mustard seeds bring water to a barren field (*WG* Ch.11)
+- [[synthesis/mantra-and-water]] — "Perhaps this connection with water is why Gurudev consistently advised against eating fish or seafood" (Raji ji, *WG* Ch.11)

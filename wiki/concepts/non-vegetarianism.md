@@ -2,10 +2,10 @@
 title: Non-Vegetarianism
 type: concept
 tags: [karma, diet, debt, strategy, animal-kingdom]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/karmic-debt]]", "[[concepts/karma]]", "[[concepts/sanchit-karma]]", "[[practices/seva]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/karmic-debt]]", "[[concepts/karma]]", "[[concepts/sanchit-karma]]", "[[practices/seva]]", "[[synthesis/mantra-and-water]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-09-28
 ---
 
 # Non-Vegetarianism
@@ -64,6 +64,9 @@ This reframes vegetarianism as **rational karmic accounting**, not piety.
 - **Intent is still the primary karmic variable** (see [[concepts/karma]]). However, in the case of dietary karma, the *act itself* — consuming animal life — generates debt regardless of intent, because a life was taken.
 - The debt is not about *killing* the animal personally. It accrues to the consumer.
 - The higher the animal's evolution, the more valuable the life consumed, and the greater the repayment required.
+
+> [!tip] Fish, seafood and the Mahagayatri
+> "The essence of Gayatri is the life in water… Perhaps this connection with water is why Gurudev consistently advised against eating fish or seafood." — Raji ji, *Witnessing Greatness*, Ch.11, p.155. See [[synthesis/mantra-and-water]].
 
 ## Cross-references
 

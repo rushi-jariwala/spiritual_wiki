@@ -91,6 +91,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
+- [[spiritual-alliances]] — Cosmic collaboration: Gurudev's alliances with deities, rishis and saints; the PM-and-ministries model; Parshuram's consent at Renuka; fingers of one hand; alliances outliving the body
 
 ---
 
@@ -125,7 +126,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–8 ingested.*
 
 ---
 
@@ -152,6 +153,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
 - [[quotes/senses-and-perception]] — Maya of the senses; Gurudev on food, intention, and feeding others first; Virender ji on self-control; sipped-water mantra transfer
+- [[quotes/spiritual-alliances]] — Siddh gurus' collaboration; PM and ministries; Ravan as gurubhai; doctors at a doctor's funeral; spiritual communist; Augarh as test-o-meter
 
 ---
 
@@ -377,6 +379,13 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
 - [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
 - [[gurudev-eyes-shut-before-eating]] — Bittu ji questions Gurudev's not eating; eyes shut to scan that all his spiritual children are fed; "Jennu khellaan che mazaa aa gaya na…"
+- [[pradeep-dattatreya-hill-temple]] — Pradeep ji's Dattatreya vision; failed land deal revived ten minutes after Mrs Kapoor's dream; the Audumbar tree on the site
+- [[punchoo-trinity-of-devis]] — Punchoo ji's dream: Gurudev in jeans introduces her to Laxmi, Parvati and Saraswati
+- [[pradeep-sai-baba-chautha-and-seva]] — Ancient sages and Sai Baba at Gurudev's chautha; "doctors gather for a doctor"; Sai Baba promises undisturbed seva
+- [[gurudev-ravan-gurubhai]] — Gurudev sleeps on the floor on Dussehra eve for his "brother" Ravan, fellow disciple of Shiv
+- [[surinder-gurudev-namaaz-vision]] — Gurudev performs namaaz facing north in a Chicago kitchen; Guru Gobind Singh "embodies the essence of Shiv"
+- [[geeta-nagpal-augarh-bhaiya]] — Geeta ji's sketch of Augarh; asthma relief; leg pain ended by an unkempt man at the Shani temple
+- [[humsa-augarh-tests]] — Augarh as beggar: "Khaana de" at Najagarh (passed); the banana and the biscuits at the Mumbai sthan
 
 ---
 
@@ -418,3 +427,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[guru-sutra-arc]] — The complete Guru Sutra arc: from finding the guru (treasure hunt) to recognising the guru within (self as guru); Phase 1: Hunt; Phase 2: Bond; Phase 3: Recognition *(Guru Sutra)*
 - [[reverse-engineered-destiny]] — Destiny read backward from the final form; Gurudev's early life as a life retrofitted to the dimensions of the mahaguru *(Witnessing Greatness Ch.1 + Guru of Gurus + Aatma Sutra)*
 - [[feeding-others-before-self]] — Gurudev's food discipline across sources: the other is fed first; taste outgrown, not suppressed *(Guru of Gurus + Witnessing Greatness Ch.6–7)*
+- [[tests-in-disguise]] — Augarh and the guru's unannounced examinations; food as the recurring medium; protector and examiner as one *(Witnessing Greatness Ch.8 + Guru Sutra + Guru of Gurus)*

@@ -16,7 +16,7 @@ updated: 2026-05-20
 
 ## Status
 
-*Karma Sutra* fully ingested — Ch.1–9 + Glossary (2026-04-12 to 2026-04-15). *Aatma Sutra* fully ingested — Introduction + Ch.I–XIV + Life Scorecard (2026-04-15 to 2026-04-22). *The Guru of Gurus* substantially ingested — all main chapters through Supernature + Who's Who (pp.1–262); Glossary pending. *Guru Sutra* fully ingested — Introduction + Ch.1–19 + Queries Answered + Glossary (2026-04-28 to 2026-05-15). *Witnessing Greatness* in progress — Ch.1 (Back To The Future) ingested 2026-05-20. Dream Sutra pending.
+*Karma Sutra* fully ingested — Ch.1–9 + Glossary (2026-04-12 to 2026-04-15). *Aatma Sutra* fully ingested — Introduction + Ch.I–XIV + Life Scorecard (2026-04-15 to 2026-04-22). *The Guru of Gurus* substantially ingested — all main chapters through Supernature + Who's Who (pp.1–262); Glossary pending. *Guru Sutra* fully ingested — Introduction + Ch.1–19 + Queries Answered + Glossary (2026-04-28 to 2026-05-15). *Witnessing Greatness* in progress — Ch.1–8 ingested (2026-05-20 to 2026-09-28); Ch.8 (Cosmic Collaborators) adds [[concepts/spiritual-alliances]] and [[synthesis/tests-in-disguise]]. Dream Sutra pending.
 
 ---
 
@@ -28,7 +28,7 @@ updated: 2026-05-20
 | Dream Sutra | Hingori & Hannah | 2016 | Pending |
 | Guru Sutra | Hingori | 2019 | Fully ingested (Intro + Ch.1–19) |
 | Aatma Sutra | Hingori | 2022 | Fully ingested (Intro + Ch.I–XIV) |
-| Witnessing Greatness | Hingori | — | In progress — Ch.1 ingested (2026-05-20) |
+| Witnessing Greatness | Hingori | — | In progress — Ch.1–8 ingested (to 2026-09-28) |
 | The Guru of Gurus | Hingori | — | Substantially ingested — His Life + Entrepreneur Extraordinaire + Philosophy & Practices + Hygiene + Healing + Supernature + Who's Who (pp.1–262); Glossary pending |
 
 ---

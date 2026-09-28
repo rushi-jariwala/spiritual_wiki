@@ -1,10 +1,10 @@
 ---
 title: Aghor (The Philosophy of Non-Duality)
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/augarh]]", "[[entities/mahaguru]]", "[[concepts/maya]]", "[[concepts/non-doership]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/augarh]]", "[[entities/mahaguru]]", "[[concepts/maya]]", "[[concepts/non-doership]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-09-28
 ---
 
 # Aghor (The Philosophy of Non-Duality)
@@ -38,6 +38,10 @@ By practising non-duality — treating the beautiful and the repulsive, the sacr
 ## The Aghor Sect and Augarh
 
 The Aghor sect's head, as known in the Gurudev lineage, is [[entities/augarh]] — a realised manifestation of the singular form of Shiv (Shiv minus Shakti). His spiritual domain spans Haridwar and its adjoining areas. While Augarh was a disciple of Gurudev, his own followers are not Gurudev's disciples — a distinct boundary noted explicitly by Hingori.
+
+### *Witnessing Greatness* Ch.8
+
+FC Sharma ji traces Augarh to the Shiv Puran: when Lord Shankar lost his divine energies, "he transformed into Augarh and lived in graveyards to regain his powers." Augarh "lives and performs his rituals on cremation grounds, surviving on whatever he finds there." Aghoris are glossed as "Shaiva sadhus… Rooted in the Tantric tradition… transcending the dualities of life, such as purity and impurity." Imagery shows Augarh's trishul in the **left** hand, against the Grihasth Shiv's right; "advanced and enlightened Aghoris strive to embody his attributes" — yet "not all Aghoris are followers of the mahaguru" (pp.108–109). See [[entities/augarh]].
 
 ## Cross-references
 

@@ -3,9 +3,9 @@ title: R.C. Malhotra (Ramesh Chand Malhotra)
 type: entity
 tags: [disciple, senior-disciple, first-disciple]
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]"]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[concepts/mantra-transfer]]", "[[concepts/maturity-of-a-guru]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-18
-updated: 2026-05-23
+updated: 2026-09-28
 ---
 
 # R.C. Malhotra (Ramesh Chand Malhotra)
@@ -68,6 +68,10 @@ Choosing a life of **celibacy**, he devoted over half his life to seva and manag
 After Gurudev's passing, Malhotraji was treated as the most senior figure in the institution, addressed by some as *Chote Guruji* or *Junior Guruji*. He initially decided to resign as chief trustee of the trust established to carry on Gurudev's seva. Hingori persuaded him to stay overnight, but the next day Malhotraji resigned anyway — with Gurudev's posthumous orchestration engineering the scene (Hingori's luggage moved to the meeting centre by an unseen hand) so that Hingori was compelled to intervene theatrically and reinstate him. See [[stories/malhotraji-luggage-resignation]].
 
 Gurudev had subtly predicted that after his demise his disciples would operate independently, yet in collaboration. No single designated successor was named beyond Malhotraji as the senior.
+
+## *Witnessing Greatness* Ch.8 — Mentored Towards Hanuman
+
+FC Sharma ji: "In the early days, Gurudev would instruct Malhotra ji on the spiritual rituals to undertake at night. By dawn, Malhotra ji would relay his experiences and insights from the previous night to Gurudev. It became clear over time that Gurudev was mentoring him, imparting powerful mantras, and leading him to divine encounters with deities like Hanuman ji. Gurudev aimed to elevate Malhotra ji's spiritual stature to the level of Hanuman ji himself." (*Witnessing Greatness*, Ch.8, p.103). See [[concepts/spiritual-alliances]].
 
 ## Notable Stories
 

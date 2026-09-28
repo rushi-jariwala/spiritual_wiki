@@ -2,9 +2,9 @@
 title: Supernature
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-27
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Supernature
@@ -150,3 +150,4 @@ Hingori notes that the chapter deliberately underplays the supernature accounts 
 - [[stories/virenderji-uninvited-guests]] — Gurudev creating two of Virender ji; disciple bilocation
 - [[stories/asha-sekhri-daughter-ring-oslo]] — post-mortem wedding appearance; Oslo protection
 - [[stories/asthal-temple-statue-miracles]] — temple establishment and statue consciousness in action
+- [[concepts/spiritual-alliances]] — *Witnessing Greatness* Ch.8: the alliances as a working system ("cosmic collaborators"), with eyewitness visions

@@ -1,10 +1,10 @@
 ---
 title: Hingori's Vision of Ram — Offering Good Wishes
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/aatma]]", "[[concepts/jivaatma]]", "[[entities/hingori]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/self-worship]]", "[[concepts/aatma]]", "[[concepts/jivaatma]]", "[[entities/hingori]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Hingori's Vision of Ram — Offering Good Wishes
@@ -29,3 +29,5 @@ The wry grins of Ram and Lakshman suggest gentle approval — they recognise the
 - [[concepts/aatma]] — "I was a part of the divine, which in reality, existed within me"
 - [[concepts/jivaatma]] — identification with the divine fragment rather than the physical identity
 - [[entities/hingori]] — narrator and dreamer
+
+*Witnessing Greatness* Ch.8 (p.102) lists Hingori's "vision of Ram, Laxman, and Sita" among the encounters that "challenge these boundaries" of sensory perception. See [[concepts/spiritual-alliances]].

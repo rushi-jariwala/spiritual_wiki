@@ -1,10 +1,10 @@
 ---
 title: Hingori at Renuka — Attacked by the Son, Saved by the Mother
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/aura]]", "[[entities/hingori]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/aura]]", "[[entities/hingori]]", "[[concepts/spiritual-alliances]]", "[[stories/gurudev-renuka-parshuram-alliance]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Hingori at Renuka — Attacked by the Son, Saved by the Mother
@@ -19,6 +19,13 @@ updated: 2026-04-22
 >
 > When I returned to Gurudev's camp, I sat like a mouse at the rear. He walked upto me and confirmed that I had been punished by Parshuramji because I had erred.
 > — Hingori, *Aatma Sutra*, Ch.X, pp.119–120
+
+## *Witnessing Greatness* Version (Ch.8, p.101)
+
+> Here is an anecdote from my personal experiences that is fascinating and, frankly, a bit embarrassing. Gurudev had sent Subhash Sabbharwal ji and me to Renuka. Despite my awareness of our spiritual link with Parshuram ji, I acted impulsively, which led to a spiritual reprimand from the immortal deity. Relief came after I appealed to his benevolent mother, Devi Renuka. Upon reflection, it was clear that Gurudev's connection with Parshuram ji mitigated my punishment to a spiritual rebuke rather than something more severe.
+> — Hingori, *Witnessing Greatness*, Ch.8, p.101
+
+New details: Gurudev had sent Hingori with **Subhash Sabbharwal ji**; the punishment was softened *because of* the Gurudev–Parshuram alliance (see [[concepts/spiritual-alliances]], [[stories/gurudev-renuka-parshuram-alliance]]). The chapter sets it "in stark contrast" to Pradeep ji's respectful approach and vision of Parshuram ji.
 
 ## Source
 

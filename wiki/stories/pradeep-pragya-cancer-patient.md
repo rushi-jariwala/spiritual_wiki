@@ -2,9 +2,9 @@
 title: Pradeep ji — Service Before Self, Daughter Healed After
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[practices/seva]]", "[[concepts/faith]]", "[[concepts/guru-disciple]]", "[[entities/mahaguru]]"]
+related: ["[[practices/seva]]", "[[concepts/faith]]", "[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[stories/pradeep-sai-baba-chautha-and-seva]]", "[[stories/pradeep-dattatreya-hill-temple]]"]
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-09-28
 ---
 
 # Pradeep ji — Service Before Self, Daughter Healed After
@@ -30,3 +30,5 @@ updated: 2026-05-24
 - [[concepts/faith]] — Pradeep ji's trust that Gurudev would see to Pragya once the prior commitment was honoured
 - [[concepts/guru-disciple]] — Gurudev's "knowing smile" on arrival — omniscient, approving, and ready; the relationship as one of complete transparency
 - [[entities/mahaguru]] — who blessed and healed Pragya, honouring the implicit contract: "Serve my purpose, and I will fulfil yours"
+
+*See also (Ch.8):* [[stories/pradeep-dattatreya-hill-temple]] · [[stories/pradeep-sai-baba-chautha-and-seva]] · [[stories/punchoo-trinity-of-devis]] (his wife's dream).

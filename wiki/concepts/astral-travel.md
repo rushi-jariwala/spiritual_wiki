@@ -2,9 +2,9 @@
 title: Astral Travel
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]", "[[practices/seva]]"]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/spiritual-alliances]]", "[[stories/pradeep-sai-baba-chautha-and-seva]]"]
 created: 2026-04-18
-updated: 2026-05-24
+updated: 2026-09-28
 ---
 
 # Astral Travel
@@ -193,6 +193,10 @@ His daily rhythm: seva until 2–3 am, rising by 5 am. Close disciples were perp
 The mechanism: Gurudev had developed the ability to let one half of his body rest in sleep while keeping the other half awake and alert — a state of partial dissociation that enabled continuous astral seva across the global sthan network.
 
 Bharat Dalal ji's dream is consistent: in a different dimension, thousands were assembled before Gurudev who moved among them offering blessings. His message — *"Seva never stops. It continues 24/7"* — describes the astral-seva programme as much as the waking one. See [[stories/bharat-dalal-seva-never-stops]].
+
+## *Witnessing Greatness* Ch.8 — Stops on the Astral Route
+
+Narinder ji remembers Gurudev saying: "When I travel astrally from Gurgaon to Mumbai, I always pause at two places—Ajmer Sharif and Shirdi. My bond with Shirdi Sai runs deep." (p.104). At Gurudev's chautha, Pradeep ji saw hundreds of ancient sages with Sai Baba at their centre — see [[stories/pradeep-sai-baba-chautha-and-seva]] and [[concepts/spiritual-alliances]].
 
 ## Cross-references
 

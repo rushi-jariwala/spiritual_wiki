@@ -2,7 +2,7 @@
 title: Significant Days
 type: practice
 sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/mantra-transfer]]", "[[practices/tapasya]]", "[[practices/seva]]", "[[concepts/gunas]]", "[[concepts/constant-awareness]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/mantra-transfer]]", "[[practices/tapasya]]", "[[practices/seva]]", "[[concepts/gunas]]", "[[concepts/constant-awareness]]", "[[stories/gurudev-ravan-gurubhai]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -95,6 +95,12 @@ Thousands of devotees came to have their coconuts blessed; some fasted on fruits
 7. Home
 
 *Diyas are lit to appease specific energies at each location.* Gurudev also suggested staying awake on Diwali night doing paath.
+
+**Dussehra eve — for Ravan (*Witnessing Greatness*, Ch.8):** Rajpal ji recalls Gurudev sleeping on the floor the night before Dussehra because "it was the day his brother had passed away" — Ravan, his gurubhai as a fellow disciple of Shiv. See [[stories/gurudev-ravan-gurubhai]].
+
+## Kartik Purnima and Janmashtami (*Witnessing Greatness*, Ch.8, p.106)
+
+"During Kartik Purnima, which marks the birth anniversary of Guru Nanak Dev, he would engage in deep introspection and dedicate himself to his paath, minimising contact with the outside world. Similarly, on Janmashtami, the day honouring Krishna's birth, he would spend time with only a few chosen individuals, delegating them to distribute prasad. Following this, he would withdraw to his room to meditate." These are the days of saints with whom he "shared alliances" — see [[concepts/spiritual-alliances]].
 
 ## Other Important Days
 

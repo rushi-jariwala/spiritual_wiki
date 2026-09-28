@@ -2,10 +2,10 @@
 title: The Guru-Disciple Relationship
 type: concept
 tags: [guru, disciple, sadguru, grace, seva]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/prarabdh-karma]]", "[[concepts/sanchit-karma]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/faith]]", "[[concepts/role-play]]", "[[concepts/diksha]]", "[[concepts/surrender]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
 created: 2026-04-12
-updated: 2026-05-13
+updated: 2026-09-28
 ---
 
 # The Guru-Disciple Relationship
@@ -457,6 +457,13 @@ A younger person with the right spiritual antecedent — one who may have alread
 
 > Golden Principle: "In spiritualism, one should compete only with oneself and not with others."
 > — Dr. Shankar Narayan to Hingori, *Guru Sutra*, Ch.5, p.40
+
+**Gurudev's own words, per *Witnessing Greatness* Ch.10:**
+
+> Santlal ji recalls, "Gurudev would assess our spiritual growth using his metrics. His goal was always to encourage our self-improvement and spiritual transformation. He used to say that our true accomplishment would be us surpassing his achievements." For someone as influential as Gurudev to encourage his followers to surpass him was not just ambitious but a testament to his humility. He believed in the equality of all yet acknowledged that some may rise faster on the spiritual ladder than others.
+> — *Witnessing Greatness*, Ch.10, p.146
+
+Hingori on the same theme: "Our only competition was with ourselves; it was our spirits that he was endeavouring to refine" (p.142). See [[synthesis/guru-who-points-beyond-himself]], [[entities/santlal-ji]].
 
 This principle was given to Hingori so often by Dr. Shankarnarayan that it became part of his psyche. Shankarnarayan ji — who was Gurudev's senior at work — would bow at Gurudev's feet regardless of colleagues' reactions. When Gurudev asked his first disciple Malhotraji to give Shankarnarayan the first mantra, Shankarnarayan bowed to and touched the feet of a man who was younger and less senior than him in every conventional domain. See [[entities/dr-shankarnarayan]].
 

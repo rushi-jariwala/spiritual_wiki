@@ -2,7 +2,7 @@
 title: Aura
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/isthul-sharir]]", "[[concepts/gunas]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/kaarna-sharir]]", "[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/pratipakshbhavana]]", "[[concepts/hygiene]]", "[[concepts/senses-management]]", "[[quotes/senses-and-perception]]"]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/isthul-sharir]]", "[[concepts/gunas]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/kaarna-sharir]]", "[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/pratipakshbhavana]]", "[[concepts/hygiene]]", "[[concepts/senses-management]]", "[[quotes/senses-and-perception]]", "[[stories/gurudev-diary-guru-not-doctor]]"]
 created: 2026-04-17
 updated: 2026-09-28
 ---
@@ -266,6 +266,15 @@ Ch.19 introduces the concept of a **spiritually weak person** — one whose aura
 The two prescribed remedies are **seva** and **mantra vidya** — both for replenishing the aura and for building a solid karmic balance sheet. Without adding to positive karmas, such a person will die karmically poorer than when born.
 
 Hingori also notes that most people do not ponder the afterlife — despite the period between death and the next birth often being far longer than the 60-80 years lived in physical form. Investing in karmic profit while alive, with an eye on afterlife comfort, is the practical argument for spiritual strengthening.
+
+## *Witnessing Greatness* Ch.10 — Aura Through a Focused Mind
+
+Hingori's reading of Gurudev's "kaagaz" correction:
+
+> These 15 words became a lesson for life, leading me to realise the immense power of the human aura. When channelled through a focused mind, it can unleash capabilities beyond one's wildest imagination.
+> — Hingori, *Witnessing Greatness*, Ch.10, p.141
+
+See [[stories/gurudev-diary-guru-not-doctor]].
 
 ## Cross-references
 

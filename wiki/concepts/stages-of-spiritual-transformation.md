@@ -1,10 +1,10 @@
 ---
 title: Stages of Spiritual Transformation
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/jivaatma]]", "[[concepts/gunas]]", "[[concepts/karmayoga]]", "[[concepts/mantra-transfer]]", "[[concepts/constant-awareness]]", "[[concepts/senses-management]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[concepts/faith]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/jivaatma]]", "[[concepts/gunas]]", "[[concepts/karmayoga]]", "[[concepts/mantra-transfer]]", "[[concepts/constant-awareness]]", "[[concepts/senses-management]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[concepts/faith]]", "[[stories/kapill-dream-fourth-eye-gurubhai]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Stages of Spiritual Transformation
@@ -82,6 +82,8 @@ Gurudev defined bhakti not as emotional devotion to an external god, but as **un
 > "To conquer happiness, you must conquer sorrow."
 > — Gurudev to Hingori, *The Guru of Gurus*, p.151
 
+> [!warning] The order is reversed elsewhere. *Guru Sutra* Ch.9 (pp.89–91): "if I desired to conquer sorrow, I had to conquer happiness." *Witnessing Greatness* Ch.10 (p.143): "If you want to conquer sorrow, first learn to conquer joy." Two sources put joy first; *The Guru of Gurus* puts sorrow first. See [[stories/hingori-mind-training-non-duality]].
+
 This set off Hingori's four-year bhakti tryst. He went from being a flamboyant, popular, gift-of-the-gab personality to a social recluse — reciting mantras for six hours daily, powers of the Shiv-parivaar appearing as symbols on his hands. At the end, Gurudev gave him the responsibility of opening and running the Mumbai sthan. See [[stories/hingori-bhakti-journey]].
 
 ### Divya Gyan
@@ -89,6 +91,8 @@ This set off Hingori's four-year bhakti tryst. He went from being a flamboyant, 
 Intense bhakti can open the **Ajna chakra** (third eye). At the stage of divya gyan, a person's consciousness oscillates at will. When Gurudev's consciousness shifted to his Shiv roop, the colour of his eyes lightened, his expressions changed, his voice became heavy as if from deep within. Disciples felt an odd sense of awe and apprehension.
 
 Hingori had his Ajna opened by Gurudev; Gurudev then lowered his kundalini to prevent him from getting stuck at that level before reaching Sahasrara. Years later, while meditating, Hingori experienced transcendence to the seventh chakra — "something like a thin paper tore at the back of my head… I could suddenly see what was behind me" — what he calls the opening of the **fourth eye**, for a couple of minutes, most likely Gurudev's way of giving him a preview of higher consciousness.
+
+*Witnessing Greatness* Ch.10 (pp.145–146) describes the same faculty: "Unlike the third eye located on the forehead, the fourth eye is said to be at the back of the head. Its activation is likened to the gentle tearing of thin tissue paper, bestowing the unique ability to perceive from behind." Kapill ji dreamt of Gurudev placing his right hand on a gurubhai's *talvi* — "the location of the crown or Sahasrara chakra" — and saying, "Maine iska kaam kar diya hai." See [[stories/kapill-dream-fourth-eye-gurubhai]].
 
 > "Whenever you see an image of me, remind yourself that you have discovered god."
 > — Gurudev to Suresh Kohli ji, *The Guru of Gurus*, p.153

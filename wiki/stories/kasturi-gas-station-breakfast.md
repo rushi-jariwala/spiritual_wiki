@@ -2,7 +2,7 @@
 title: Kasturi's Gas Station — Honouring Devotion Over Obligation
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/hygiene]]", "[[concepts/seva]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[entities/bittu]]"]
+related: ["[[concepts/hygiene]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[entities/bittu]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---

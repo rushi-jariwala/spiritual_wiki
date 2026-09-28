@@ -1,10 +1,10 @@
 ---
 title: Gurudev Opens and Closes Hingori's Third Eye
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
-related: ["[[concepts/loks]]", "[[concepts/customised-guidance]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/loks]]", "[[concepts/customised-guidance]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[stories/kapill-dream-fourth-eye-gurubhai]]"]
 created: 2026-04-22
-updated: 2026-05-07
+updated: 2026-09-28
 ---
 
 # Gurudev Opens and Closes Hingori's Third Eye
@@ -26,6 +26,13 @@ updated: 2026-05-07
 >
 > I realise that in spiritual evolution, you should not get stuck at a particular level of attainment. You must transcend and go beyond it.
 > — Hingori, *Guru Sutra*, Ch.11, pp.111–112
+
+### *Witnessing Greatness* Ch.10 — The Wider Pattern
+
+> Gurudev, interestingly, often opted to close the third eye of individuals, a measure intended to protect them from the overwhelming distractions associated with glimpsing into the past, present or future.
+> — *Witnessing Greatness*, Ch.10, pp.145–146
+
+The same passage records the opposite act — Gurudev opening a gurubhai's fourth eye, in Kapill ji's dream. See [[stories/kapill-dream-fourth-eye-gurubhai]].
 
 ## Related Concepts and Entities
 

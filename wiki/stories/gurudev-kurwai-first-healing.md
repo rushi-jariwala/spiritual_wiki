@@ -2,7 +2,7 @@
 title: Gurudev's First Public Healing at Kurwai
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/buddhe-baba]]", "[[concepts/nisvarth-seva]]", "[[concepts/intent-as-healing]]"]
+related: ["[[entities/mahaguru]]", "[[entities/buddhe-baba]]", "[[practices/seva]]", "[[concepts/intent-as-healing]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -30,5 +30,5 @@ updated: 2026-04-26
 
 - [[entities/mahaguru]] — Gurudev at the exact age of thirty-five; the prophecy fulfilled
 - [[entities/buddhe-baba]] — commanded the healing; instructed: serve without prejudice
-- [[concepts/nisvarth-seva]] — stated explicitly as the command behind the first public seva
+- [[practices/seva|nisvarth seva]] — stated explicitly as the command behind the first public seva
 - [[concepts/intent-as-healing]] — jal and a hand on the forehead; the vehicle is simple, the intent is the act

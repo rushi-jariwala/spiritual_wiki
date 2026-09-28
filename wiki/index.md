@@ -126,7 +126,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–9 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–10 ingested.*
 
 ---
 
@@ -153,6 +153,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
 - [[quotes/senses-and-perception]] — Maya of the senses; Gurudev on food, intention, and feeding others first; Virender ji on self-control; sipped-water mantra transfer
+- [[quotes/mentorship]] — Gurudev's mentorship style (*WG* Ch.10): no sermons, sahaj, transform your gunas, ordinary people made healers, surpass me, refrain from idolising me, total surrender, the relay race
 - [[quotes/spiritual-alliances]] — Siddh gurus' collaboration; PM and ministries; Ravan as gurubhai; doctors at a doctor's funeral; spiritual communist; Augarh as test-o-meter
 
 ---
@@ -403,6 +404,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[kanika-bhalla-clot-vanished]] — Post-caesarean clot in the occipital lobe gone overnight after Guruji saw her photo
 - [[devraj-khare-mothers-choice]] — "Guruji could heal only one of us"; the mother chooses her son and lives 18 more years
 - [[dr-vacchani-spirits-angiogram]] — A doctor learns that spirits behind psychosomatic illness are not folklore
+- [[kapill-dream-fourth-eye-gurubhai]] — Kapill ji's dream: Gurudev's hand on a gurubhai's talvi — "Maine iska kaam kar diya hai"; the fourth eye; Gurudev often closing third eyes
 
 ---
 
@@ -446,3 +448,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[feeding-others-before-self]] — Gurudev's food discipline across sources: the other is fed first; taste outgrown, not suppressed *(Guru of Gurus + Witnessing Greatness Ch.6–7)*
 - [[tests-in-disguise]] — Augarh and the guru's unannounced examinations; food as the recurring medium; protector and examiner as one *(Witnessing Greatness Ch.8 + Guru Sutra + Guru of Gurus)*
 - [[conditions-of-healing]] — What the seeker brings (faith, compliance, seva, acceptance, selflessness) and where grace heals regardless; physical form vs. guru form *(Witnessing Greatness Ch.9 + Guru of Gurus)*
+- [[guru-who-points-beyond-himself]] — Surpass me, don't idolise me, become Shiv yourself, trust yourself more than the herbs — the guru whose success is his becoming unnecessary; held against "Total surrender" *(Witnessing Greatness Ch.10 + Guru Sutra + Guru of Gurus + Aatma Sutra)*

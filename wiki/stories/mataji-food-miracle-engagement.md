@@ -2,7 +2,7 @@
 title: Mataji and the Annapurna Miracle
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mataji]]", "[[entities/mahaguru]]", "[[concepts/seva]]"]
+related: ["[[entities/mataji]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
 created: 2026-04-25
 updated: 2026-04-25
 ---
@@ -22,5 +22,5 @@ updated: 2026-04-25
 ## Related Concepts
 
 - [[entities/mataji]] — the miracle is an expression of her power as a spiritual force in her own right
-- [[concepts/seva]] — nisvarth service extended even to ensuring guests do not go hungry
+- [[practices/seva|seva]] — nisvarth service extended even to ensuring guests do not go hungry
 - [[entities/mahaguru]] — Gurudev's title for her: "Annapurna," the Hindu goddess of food and nourishment

@@ -2,7 +2,7 @@
 title: "If Any Member of My Spiritual Family Goes Hungry, I Do Not Eat"
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/bittu]]", "[[concepts/nisvarth-seva]]", "[[concepts/empathy]]", "[[concepts/vairagya]]"]
+related: ["[[entities/mahaguru]]", "[[entities/bittu]]", "[[practices/seva]]", "[[concepts/empathy]]", "[[concepts/vairagya]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -24,6 +24,6 @@ updated: 2026-04-26
 
 - [[entities/mahaguru]] — whose absence of appetite was not neglect but the reverse of hunger: he could not eat while others were hungry
 - [[entities/bittu]] — the concerned disciple who finally received this explanation
-- [[concepts/nisvarth-seva]] — taken to its logical extreme: the guru's body registered the hunger of his global spiritual family
+- [[practices/seva|nisvarth seva]] — taken to its logical extreme: the guru's body registered the hunger of his global spiritual family
 - [[concepts/empathy]] — not emotion, but a form of direct cosmic connectivity: what happened to them, happened in him
 - [[concepts/vairagya]] — no boundary between himself and his disciples; belonging to all means their hunger was his hunger

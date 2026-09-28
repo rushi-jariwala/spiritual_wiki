@@ -1,10 +1,10 @@
 ---
 title: Gunas
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]", "[[concepts/tantra]]", "[[concepts/guru-disciple]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]", "[[concepts/tantra]]", "[[concepts/guru-disciple]]", "[[quotes/mentorship]]"]
 created: 2026-04-14
-updated: 2026-05-02
+updated: 2026-09-28
 ---
 
 # Gunas
@@ -179,6 +179,13 @@ Ch.19 extends the tamas treatment by naming one of its constructive expressions:
 Earlier chapters describe tamas as detachment and unemotional living on its positive side. Ch.19 makes this more specific: boredom (tamasic inertia applied inward) becomes a mechanism for **aura conservation** and **preparation for an emptier mind**. People who mistake extended boredom for depression miss its function — it is the spirit's own strategy for pulling attention away from pleasure-seeking and toward thoughtlessness.
 
 See [[concepts/boredom]] for the full treatment.
+
+## *Witnessing Greatness* Ch.10 — Chanting Is Not Enough
+
+> "He advised, 'Merely reciting mantras is not enough. It is crucial not only to chant but to actively transform your gunas. There is immense value in introspecting and recognising your flaws, then diligently working to rectify them'. And I have been consistently striving to do just that."
+> — Uma Prabhu ji, *Witnessing Greatness*, Ch.10, pp.142–143
+
+Hingori: "For him, spiritual progress was a path marked by introspection, self-correction, and perpetual self-enhancement. Our only competition was with ourselves" (p.142). The chapter's footnote defines the aim of practice as cultivating Sattva "while managing and transcending the influences of Rajas and Tamas." See [[quotes/mentorship]].
 
 ## Cross-references
 

@@ -1,10 +1,10 @@
 ---
 title: The Wrong Remedy — Healing Is Intention, Not Method
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[concepts/spiritual-healing]]", "[[concepts/non-doership]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[concepts/spiritual-healing]]", "[[concepts/non-doership]]", "[[stories/gurudev-diary-guru-not-doctor]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # The Wrong Remedy — Healing Is Intention, Not Method
@@ -30,4 +30,5 @@ The story also illustrates how Gurudev transmitted healing authority to his disc
 - [[entities/mahaguru]] — whose empowerment made even a wrong remedy efficacious
 - [[concepts/intent-as-healing]] — the central teaching: intent, not method, is the cause
 - [[concepts/spiritual-healing]] — structural proof that the healing medium is incidental
+- [[stories/gurudev-diary-guru-not-doctor]] — *Witnessing Greatness* Ch.10 folds this observation into the diary story: "there was a positive outcome even when my weak memory led me to suggest incorrect remedies sometimes!"
 - [[concepts/non-doership]] — Hingori was not the doer; the correct intent worked through him despite his error

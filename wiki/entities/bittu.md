@@ -3,7 +3,7 @@ title: Bittu Ji
 type: entity
 tags: [disciple, inner-circle]
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/ulta-guru]]", "[[concepts/nisvarth-seva]]", "[[stories/elderly-couple-van-rescue]]", "[[stories/gurudev-eyes-shut-before-eating]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/ulta-guru]]", "[[practices/seva]]", "[[stories/elderly-couple-van-rescue]]", "[[stories/gurudev-eyes-shut-before-eating]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---

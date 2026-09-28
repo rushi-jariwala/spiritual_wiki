@@ -2,7 +2,7 @@
 title: "Guru Sutra — Chapter 1 Closing Poem"
 type: story
 sources: [guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/maya]]", "[[concepts/avidya]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/maya]]", "[[concepts/kleshas]]"]
 created: 2026-04-28
 updated: 2026-04-28
 ---

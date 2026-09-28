@@ -1,10 +1,10 @@
 ---
 title: Self-Acceptance
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
-related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[concepts/guru-disciple]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[concepts/guru-disciple]]", "[[concepts/spiritual-healing]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Self-Acceptance
@@ -124,6 +124,8 @@ Self-acceptance generates self-like; self-like generates self-love; self-love th
 
 > "Why judge yourself at the cross-section today? If you have embarked on the voyage of self-discovery, then give yourself a fair chance."
 > — Hingori, *Aatma Sutra*, Ch.XI, p.154
+
+> [!tip] *Witnessing Greatness* Ch.10 — the disciples' own self-doubt: "We often wondered why Gurudev chose to mentor us; perhaps, we reasoned, there was some inherent value in us that we could not yet recognise. Our inability to acknowledge and accept our worth became a stumbling block in our journey of self-discovery" (p.144). See [[concepts/spiritual-healing]] (Ch.10).
 
 ## Cross-references
 

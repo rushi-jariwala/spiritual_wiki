@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Witnessing Greatness** (`raw/witnessing-greatness-chapters/`)
 
 ## Next
-- [ ] ch-10-peerless-mentorship.md           (298 lines)
+- [ ] ch-11-sacred-syllables.md              (543 lines)
 
 ## Remaining — Witnessing Greatness
-- [ ] ch-11-sacred-syllables.md              (543 lines)
 - [ ] ch-12-elemental-symphony.md            (584 lines)
 - [ ] ch-13-training-trails.md               (456 lines)
 - [ ] ch-14-master-of-moods.md               (370 lines)
@@ -38,6 +37,7 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-07-deception-of-perception.md
 - [x] ch-08-cosmic-collaborators.md
 - [x] ch-09-sage-of-solace.md
+- [x] ch-10-peerless-mentorship.md
 
 ## Completed — Guru Sutra
 - [x] Introduction + ch-01-concepts-of-guruism.md

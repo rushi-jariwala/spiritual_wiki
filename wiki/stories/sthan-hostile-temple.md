@@ -2,7 +2,7 @@
 title: Hostile Temple Near the New Sthan — Resolved with Sweetmeats
 type: story
 sources: [guru_sutra_book.md]
-related: ["[[concepts/spiritual-attacks]]", "[[concepts/seva]]", "[[entities/hingori]]"]
+related: ["[[concepts/spiritual-attacks]]", "[[practices/seva]]", "[[entities/hingori]]"]
 created: 2026-05-10
 updated: 2026-05-10
 ---
@@ -21,5 +21,5 @@ Contrast with [[stories/hingori-deity-attack-sleep]], where a different hostile 
 
 **Related:**
 - [[concepts/spiritual-attacks]] — temple energy as a territorial spiritual force; the diplomatic resolution
-- [[concepts/seva]] — the seva at the sthan was the reason the temple felt threatened; seva-first framing resolves the conflict
+- [[practices/seva|seva]] — the seva at the sthan was the reason the temple felt threatened; seva-first framing resolves the conflict
 - [[entities/hingori]] — the diagnostician; chose goodwill over confrontation

@@ -2,7 +2,7 @@
 title: Hygiene (Social, Commercial, Mental, Spiritual)
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/aura]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/seva]]", "[[concepts/gunas]]", "[[practices/seva]]", "[[concepts/role-play]]", "[[concepts/empathy]]", "[[concepts/ek-vakyas]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/aura]]", "[[concepts/citt-vritti-nirodh]]", "[[practices/seva]]", "[[concepts/gunas]]", "[[concepts/role-play]]", "[[concepts/empathy]]", "[[concepts/ek-vakyas]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -216,7 +216,7 @@ The spirit needs its energy to exist, travel, and protect itself. It can attain 
 - [[concepts/samskars]] — the emotion→memory→samskar loop that mental hygiene aims to interrupt
 - [[concepts/constant-awareness]] — the goal of a decluttered mind; mirror metaphor
 - [[concepts/ek-vakyas]] — "Vichaar vishay se aata hai" is the key ek vakya of the mental hygiene section
-- [[concepts/seva]] — commercial hygiene positions money spent in service as spiritual credit; 10–20% recommendation
+- [[practices/seva|seva]] — commercial hygiene positions money spent in service as spiritual credit; 10–20% recommendation
 - [[practices/seva]] — four-level seva framework; the commercial hygiene section enriches the financial dimensions
 - [[concepts/gunas]] — Thursday restrictions, vegetarianism, and alcohol avoidance are all guna-management practices
 - [[concepts/role-play]] — social hygiene section shows Gurudev's role-play flexibility in action (child/elder modes)

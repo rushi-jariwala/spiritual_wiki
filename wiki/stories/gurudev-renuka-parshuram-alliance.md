@@ -2,7 +2,7 @@
 title: Gurudev and Parshuram Ji Form a Spiritual Alliance at Renuka
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/nisvarth-seva]]", "[[concepts/spiritual-alliances]]", "[[stories/hingori-renuka-temple-attack]]", "[[stories/pradeep-dattatreya-hill-temple]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/spiritual-alliances]]", "[[stories/hingori-renuka-temple-attack]]", "[[stories/pradeep-dattatreya-hill-temple]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -46,4 +46,4 @@ New in this version: the 27 → 18 → 9-foot diminishing forms; the rule of con
 
 - [[entities/mahaguru]] — who arrived ten years later than planned; who formed alliances across sectarian and spiritual boundaries
 - **Devi Renuka** — Hindu deity, mother of Parshuram ji; the presiding deity of the Renuka domain whose territory the seva entered
-- [[concepts/nisvarth-seva]] — the alliances are all in service of seva; no spiritual domain refused collaboration
+- [[practices/seva|nisvarth seva]] — the alliances are all in service of seva; no spiritual domain refused collaboration

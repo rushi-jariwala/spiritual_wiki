@@ -1,10 +1,10 @@
 ---
 title: Guru Vandana
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/transmission-of-power]]", "[[concepts/surrender]]", "[[concepts/faith]]", "[[concepts/vairagya]]", "[[entities/mahaguru]]", "[[practices/significant-days]]", "[[stories/gurudev-blessing-variations]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/transmission-of-power]]", "[[concepts/surrender]]", "[[concepts/faith]]", "[[concepts/vairagya]]", "[[entities/mahaguru]]", "[[practices/significant-days]]", "[[stories/gurudev-blessing-variations]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
 created: 2026-05-12
-updated: 2026-05-14
+updated: 2026-09-28
 ---
 
 # Guru Vandana
@@ -163,12 +163,23 @@ The rationale for the exercise:
 
 > [!tip] This exercise is structurally related to [[concepts/self-worship]]: both involve identifying with the divine rather than grovelling before it. The "switch sides" technique is a practical application of the aatmic equality principle — if guru and disciple share the same essence, imagining the guru's perspective from the inside is not presumptuous but illuminating. See also [[concepts/maturity-of-a-guru]] for the guru's preference for disciples who evolve their gunas over those who perform theatrical devotion.
 
+### "Refrain From Idolising Me" (*Witnessing Greatness* Ch.10)
+
+> Renu ji conveys a unique and seldom-heard philosophy imparted by her father, one that diverges from the common pursuit of recognition. He advised her, "As you advance in your spiritual journey, refrain from idolising me. Focus instead on transcending the act of worship."
+>
+> This perspective is revolutionary. It is rare to encounter an individual who deliberately avoids seeking a place of importance in the lives of others. However, a person in complete alignment with their divine nature, as Gurudev was, has no necessity for external validation.
+> — *Witnessing Greatness*, Ch.10, p.147
+
+> [!warning] Transcending worship vs. image-based devotion to the guru. *The Guru of Gurus* (p.153) records Gurudev telling Suresh Kohli ji, "Whenever you see an image of me, remind yourself that you have discovered god," and *Guru Sutra* Ch.14 teaches meditation on the guru. Ch.10's instruction is framed as a stage — "As you advance" — but Hingori does not reconcile the two. See [[synthesis/guru-who-points-beyond-himself]].
+
 > [!warning] Ch.16 notes that "a few theophysicists suggest a good disciple must never visualise himself as a guru." Ch.17 directly contradicts this by inviting the disciple to do exactly that — and adding: "This kind of limited thinking stumps me." Hingori explicitly rejects the prohibition as spiritually immature.
 
 ---
 
 ## Cross-references
 
+- [[synthesis/guru-who-points-beyond-himself]] — Gurudev's sayings that turn the disciple away from the guru (*WG* Ch.10 + *Guru Sutra*)
+- [[quotes/mentorship]] — Renu ji's "refrain from idolising me"
 - [[concepts/guru-disciple]] — polarity protocol (Ch.7); the guru-disciple relationship in full
 - [[concepts/transmission-of-power]] — touching feet as a transmission channel
 - [[concepts/surrender]] — the coconut as a gesture of surrender; the continuity of surrender post-death

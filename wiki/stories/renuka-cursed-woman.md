@@ -2,7 +2,7 @@
 title: The Cursed Woman at the Sthan — A Guru's Word Is Worth Its Weight in Gold
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/nisvarth-seva]]", "[[concepts/karma]]", "[[concepts/guru-disciple]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/karma]]", "[[concepts/guru-disciple]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -27,6 +27,6 @@ updated: 2026-04-26
 ## Related Concepts / Entities
 
 - [[entities/mahaguru]] — who extinguished the fire in the sthan, held his ground with the spirit, and relayed the path to resolution
-- [[concepts/nisvarth-seva]] — Gurudev could not refuse a person who came of their own will; this principle governed even confrontations with hostile spirits
+- [[practices/seva|nisvarth seva]] — Gurudev could not refuse a person who came of their own will; this principle governed even confrontations with hostile spirits
 - [[concepts/karma]] — the woman's refusal to pay bus fare set off a karmic chain; her disregard of Gurudev's caution about the taweez completed it
 - [[concepts/guru-disciple]] — the teaching cuts both ways: the cursing guru's word had enormous power; so did Gurudev's instruction, which the woman ignored

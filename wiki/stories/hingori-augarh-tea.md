@@ -1,10 +1,10 @@
 ---
 title: Augarh Teaches Hingori to Make Tea
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/augarh]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/augarh]]", "[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-09-28
 ---
 
 # Augarh Teaches Hingori to Make Tea
@@ -35,3 +35,5 @@ The story works because it is verifiable (the tea was praised), low-stakes (no o
 - [[entities/augarh]] — answers a mental request with telepathic thought-wave instructions
 - [[entities/hingori]] — the accidental tea-maker; calls Augarh "my older brother"
 - [[entities/mahaguru]] — Gurudev; the one who praises the tea, indirectly confirming the guidance worked
+
+> *Witnessing Greatness* Ch.8 recalls it in one line: "Gurudev also assured me that Augarh was like a brother to me, someone I could call upon whenever needed—and I have. He even guided me in brewing the perfect kettle of tea!" (p.111). See [[entities/augarh]], [[concepts/spiritual-alliances]].

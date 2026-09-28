@@ -2,9 +2,9 @@
 title: Humsa Dhir Ji Healed by a Being of Orange-Golden Light
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[concepts/supernature]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[concepts/destiny]]"]
+related: ["[[concepts/supernature]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[concepts/destiny]]", "[[stories/humsa-augarh-tests]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Humsa Dhir Ji Healed by a Being of Orange-Golden Light
@@ -34,3 +34,5 @@ The "orange-golden light" form mirrors the blinding luminous forms reported in o
 - [[concepts/spiritual-healing]] — nocturnal healing via the mahaguru's astral form; physical evidence confirms the event the following morning
 - [[entities/mahaguru]] — the orange-golden light form; post-recognition healing without any reported physical meeting
 - [[concepts/destiny]] — acceptance of one's condition as the pivot point that precedes intervention
+
+*See also:* [[stories/humsa-augarh-tests]] — Humsa ji's two encounters with Augarh (*Witnessing Greatness*, Ch.8).

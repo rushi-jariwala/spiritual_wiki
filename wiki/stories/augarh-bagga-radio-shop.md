@@ -1,10 +1,10 @@
 ---
 title: Augarh at Mr Bagga's Radio Shop in Hamidpur
 type: story
-sources: [guru_sutra_book.md]
-related: ["[[entities/augarh]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[entities/augarh]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[synthesis/tests-in-disguise]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-28
 ---
 
 # Augarh at Mr Bagga's Radio Shop in Hamidpur
@@ -23,3 +23,11 @@ This encounter adds a mischievous dimension to Augarh's character — he is desc
 - [[entities/augarh]] — the mystery shopper; head of the Aghor sect; Gurudev's disciple and occasional instrument of testing
 - [[entities/mahaguru]] — Gurudev's omniscient knowledge of the exchange; his playful use of sarcasm as teaching
 - [[stories/augarh-darius-forearm]] — another incident of Augarh testing a disciple without warning
+
+## *Witnessing Greatness* Version (Ch.8, p.113)
+
+> Bagga ji encountered this peculiar aspect of Augarh first-hand at his electronics store in Hamirpur, Himachal Pradesh. An elderly villager continuously interrupted him during a conversation with a female customer, straining his patience. Agitated, Bagga ji rebuked the older man, inadvertently sending Augarh away, who was in one of his many disguises. Later, during a Mahashivratri gathering in Gurgaon, Gurudev entertained the assembly by humorously narrating this incident, shedding light on Bagga ji's 'test' and subsequent 'failure'.
+> — *Witnessing Greatness*, Ch.8, p.113
+
+> [!warning] Two tellings differ
+> *Guru Sutra* Ch.13: a **radio shop** in **Hamidpur**; Augarh pestered **Mr and Mrs Bagga**; Gurudev greeted Mr Bagga in Gurgaon with sarcasm, repeating each word. *Witnessing Greatness* Ch.8: an **electronics store** in **Hamirpur, Himachal Pradesh**; an **elderly villager** interrupted Bagga ji's conversation **with a female customer**; Gurudev narrated it humorously to the assembly at a **Mahashivratri gathering**. Hamidpur/Hamirpur is likely the same place; the other details may be complementary. See [[synthesis/tests-in-disguise]].

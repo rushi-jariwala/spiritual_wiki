@@ -3,7 +3,7 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -467,6 +467,10 @@ See also [[concepts/jivaatma]] on the persistence of beings after bodily death.
 2. **The politician friend** — a chartered accountant with a small practice who Gurudev repeatedly told, "I will make you a world-famous leader and one of India's admired politicians." The friend eventually became a cabinet minister.
 
 See [[stories/gurudev-predictions-mumbai-politician]]. This sits alongside his other extra-sensory abilities noted in *Karma Sutra* preface: "He could predict the future of a person's life, read thoughts and communicate with dead people and saints."
+
+## Cosmic Collaborators (*Witnessing Greatness*, Ch.8)
+
+Gurudev as coordinator of the devi-devtas — "Imagine the prime minister coordinating various ministries" — approaching Brahma for children, Vishnu or Laxmi for hardship, Shankar for extended life, Chamunda or Mahakali for protection (to Giri Lalwani ji, p.98). His alliances: Parshuram ji at Renuka (27 → 18 → 9 feet as he recognised Gurudev's depth); Sai Baba of Shirdi and Ajmer Sharif as fixed stops on astral trips to Mumbai; Ravan as gurubhai; Augarh as disciple, guardian, informant and "test-o-meter." "To Gurudev, the various spiritual paths were like the fingers of a single hand." He sent disciples into Hazratbal and the Shankaracharya temple in Kashmir while remaining outside himself. See [[concepts/spiritual-alliances]], [[synthesis/tests-in-disguise]], [[stories/gurudev-ravan-gurubhai]], [[stories/surinder-gurudev-namaaz-vision]], [[stories/pradeep-sai-baba-chautha-and-seva]], [[stories/punchoo-trinity-of-devis]].
 
 ## Notable Stories
 

@@ -1,10 +1,10 @@
 ---
 title: Rajee's Shiv Darshan — Mrityu, Mrityu, Mrityu
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[concepts/maya]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[concepts/maya]]", "[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Rajee's Shiv Darshan — Mrityu, Mrityu, Mrityu
@@ -29,3 +29,5 @@ Hingori presents this as an example of **Category 1 dreams** — where the inter
 - [[concepts/astral-travel]] — Gurudev takes Rajee out of his body; non-Earth cave as other-dimensional location
 - [[concepts/maya]] — "delusion within delusion is as real as your perceived reality"
 - [[entities/mahaguru]] — Gurudev orchestrates the out-of-body journey as Rajee's guide
+
+*Witnessing Greatness* Ch.8 (p.102) recalls: "Raji Sharma ji was blessed by Lord Shankar through Gurudev's intervention." See [[concepts/spiritual-alliances]].

@@ -2,7 +2,7 @@
 title: Feeding Others Before Self
 type: synthesis
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/senses-management]]", "[[concepts/barkat]]", "[[concepts/empathy]]", "[[concepts/karmic-debt]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[stories/gurudev-food-barkat-leftover-paratha]]"]
+related: ["[[concepts/senses-management]]", "[[concepts/barkat]]", "[[concepts/empathy]]", "[[concepts/karmic-debt]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[stories/gurudev-food-barkat-leftover-paratha]]", "[[synthesis/tests-in-disguise]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -42,3 +42,6 @@ Across two biographical volumes, Gurudev's relationship to food follows one cons
 - [[practices/seva]] — langar and feeding visitors as the institutional form of the same rule
 
 > [!question] *The Guru of Gurus* describes a daily routine of lassi for lunch and nimbu pani for breakfast; *Witnessing Greatness* Ch.7 describes days of "just tea and no food". These may describe different periods of his life; the sources do not reconcile them.
+
+> [!tip] Food as the examiner's medium
+> In *Witnessing Greatness* Ch.8, Augarh's tests of disciples repeatedly turn on food — "Khaana de," a vada pav thrown on the street, a banana held out against a box of biscuits. Gurudev fed the other first; Augarh checks whether his disciples do. See [[synthesis/tests-in-disguise]].

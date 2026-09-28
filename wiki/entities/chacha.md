@@ -2,9 +2,9 @@
 title: Chacha (Satish ji)
 type: entity
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/seva]]", "[[concepts/guru-disciple]]", "[[stories/gurudev-farm-animals-khandsa]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/seva]]", "[[concepts/guru-disciple]]", "[[stories/gurudev-farm-animals-khandsa]]", "[[stories/gurudev-ravan-gurubhai]]"]
 created: 2026-04-25
-updated: 2026-05-28
+updated: 2026-09-28
 ---
 
 # Chacha (Satish ji)
@@ -56,3 +56,6 @@ Two days later, on **2nd August 1988**, Chacha succumbed to his illness — ensu
 - [[stories/chacha-tantriks]] — the two tantrik encounters; casual spiritual mastery
 - [[concepts/seva]] — the field of Chacha's own nisvarth healing work
 - [[stories/gurudev-farm-animals-khandsa]] — Chacha ji relayed farm-animal updates on Gurudev's long-distance calls from America; the children had to queue to speak to their parents
+
+> [!question] "Chacha ji" — Ravan
+> In *Witnessing Greatness* Ch.8 (p.105) Hingori also "affectionately" calls **Ravan** "Chacha ji," because Gurudev called Ravan his brother (both disciples of Shiv). That is a different figure from Satish ji. See [[stories/gurudev-ravan-gurubhai]].

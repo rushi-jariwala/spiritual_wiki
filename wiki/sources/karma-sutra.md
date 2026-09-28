@@ -5,7 +5,7 @@ tags: [source, hingori, karma, book]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
 related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/karma]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-09-28
 ---
 
 # Karma Sutra — Cracking the Karmic Code
@@ -210,8 +210,8 @@ The book carries a foreword-style endorsement from **Suresh Prabhu** (then Minis
 
 ## Related Sources
 
-- [[sources/aatma-sutra]] (pending) — the soul
+- [[sources/aatma-sutra]] (ingested) — the soul
 - [[sources/dream-sutra]] (pending) — dreams and hidden realms
-- [[sources/guru-sutra]] (pending) — secrets of spiritual power
-- [[sources/guru-of-gurus]] (pending) — Gurudev's biography
-- [[sources/witnessing-greatness]] (pending) — disciples' narratives
+- [[sources/guru-sutra]] (ingested) — secrets of spiritual power
+- [[sources/guru-of-gurus]] (substantially ingested; Glossary pending) — Gurudev's biography
+- [[sources/witnessing-greatness]] (in progress — Ch.1–10 ingested) — disciples' narratives

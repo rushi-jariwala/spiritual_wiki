@@ -109,6 +109,7 @@ See more in [[quotes/guru]].
 - [[practices/seva]] · [[practices/tapasya]] · [[practices/sadhana]]
 - [[stories/hingori-arthritis-cure]] · [[stories/gurus-umbrella-wife-delivery]] · [[stories/scooter-accident-vision]] · [[stories/bada-guruvar-queue]] · [[stories/guru-nanak-river-bain]]
 - [[stories/guru-sutra-intro-poem]] · [[stories/guru-sutra-ch1-poem]] — verbatim closing verses from *Guru Sutra* Introduction and Ch.1
+- [[stories/guru-sutra-ch2-verse]] — Guru Arjan Dass epigraph opening *Guru Sutra* Ch.2
 - [[concepts/empathy]] — the guru's empathy as the transformative force: holding the disciple's potential when they cannot see it themselves ([[stories/gurudev-horse-gives-birth]])
 - **Eklavya** — archer from *The Mahabharat*; acquired mastery by worshipping a clay statue of Dronacharya; the guru-as-concept case (*Guru Sutra*, Ch.2, p.11)
 - **Sitaramji of Dasua** — Gurudev's early spiritual advisor (himself a disciple of Sitaramji of Benaras); illustrates that even a destined mahaguru required a teacher before his power awakened (*Guru Sutra*, Ch.2, p.12)

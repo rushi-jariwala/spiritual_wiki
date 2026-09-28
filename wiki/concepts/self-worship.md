@@ -166,6 +166,7 @@ On the same page Gurudev tells Renu ji to "focus instead on transcending the act
 
 ## Cross-References
 
+- [[quotes/self-worship]] — quote collection on self-love and self-worship
 - [[concepts/self-love]] — the prerequisite stage; self-love that permeates all layers becomes self-worship
 - [[concepts/self-acceptance]] — the foundation of the three-stage arc
 - [[concepts/non-doership]] — complementary, not contradictory; together they exhaust *samskars* and affirm divinity

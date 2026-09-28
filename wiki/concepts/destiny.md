@@ -4,7 +4,7 @@ type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/mahurat]]", "[[concepts/samskars]]", "[[concepts/prarabdh-karma]]", "[[concepts/karma]]", "[[concepts/doer-ship]]", "[[concepts/kaarna-sharir]]", "[[concepts/self-acceptance]]", "[[concepts/guru-disciple]]", "[[concepts/guru-tattva]]", "[[concepts/supernature]]", "[[synthesis/reverse-engineered-destiny]]"]
 created: 2026-04-18
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Destiny
@@ -152,6 +152,7 @@ See also [[stories/guru-sutra-ch16-poem]] — the verse: *"The stars issued an a
 
 ## Cross-references
 
+- [[quotes/destiny]] — quote collection on destiny
 - [[concepts/mahurat]] — the birth timing mechanism through which destiny is encoded
 - [[concepts/samskars]] — stored impressions that become destiny when they fructify
 - [[concepts/prarabdh-karma]] — the slice of sanchit karma drawn into this life's script

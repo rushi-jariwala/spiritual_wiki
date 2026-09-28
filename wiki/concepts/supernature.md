@@ -137,6 +137,7 @@ Hingori notes that the chapter deliberately underplays the supernature accounts 
 
 ## Cross-references
 
+- [[quotes/supernature]] — quote collection on supernature
 - [[concepts/power-symbols]] — the Shiv-parivaar symbols as the visible certification of supernature
 - [[concepts/astral-travel]] — all astral dimensions of supernature treated in depth
 - [[concepts/destiny]] — the supernature-destiny inversion; choosing limitation as expression of limitlessness

@@ -278,6 +278,7 @@ See [[stories/gurudev-diary-guru-not-doctor]].
 
 ## Cross-references
 
+- [[quotes/aura]] — quote collection on aura and *shakti*
 - [[concepts/sukshma-sharir]] — aura is the external expression of the spirit body's *shakti*
 - [[concepts/isthul-sharir]] — the physical body through which *shakti* is earned or depleted
 - [[concepts/gunas]] — guna mix determines the quality and depth of the aura; Thursday restrictions preserve it on Jupiter's day

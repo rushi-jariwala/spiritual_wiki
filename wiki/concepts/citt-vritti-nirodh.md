@@ -4,7 +4,7 @@ type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[concepts/samskars]]", "[[concepts/kaarna-sharir]]", "[[concepts/non-doership]]", "[[concepts/vitarks-vichars]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/hygiene]]"]
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Citt, Vritti, Nirodh
@@ -76,6 +76,7 @@ A phone disconnected from the network is not depleted. *Nirodh* is not about swi
 
 ## Cross-references
 
+- [[quotes/mind]] — quote collection on the mind and its vrittis
 - [[concepts/vitarks-vichars]] — specific categories of vritti: anti-yam thought waves and rational thought waves
 - [[concepts/samskars]] — vrittis taken ownership of become samskars; nirodh prevents this re-encoding
 - [[concepts/kaarna-sharir]] — the karmashaya where emotional ownership of vrittis gets stored

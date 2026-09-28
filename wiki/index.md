@@ -5,7 +5,7 @@ A living study wiki of Hingori's books and Gurudev's teaching world.
 Master catalog of all pages. Updated on every ingest.
 Read this first when answering queries — then drill into relevant pages.
 
-Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources/` · `synthesis/` → use `[[slug]]` short-links throughout. Quotes always use `[[quotes/slug]]` (filenames overlap with concepts/practices). `[[blog/index]]` keeps its path to avoid conflict with this file. Filenames are globally unique within each folder.
+Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources/` · `synthesis/` → use `[[slug]]` short-links where the filename is unique. Where a concept/practice shares its filename with a quote collection (aura, destiny, karma, loks, maya, self-acceptance, self-worship, seva, spiritual-alliances, supernature), use the full path (`[[concepts/slug]]`, `[[practices/seva]]`) — Quartz cannot resolve an ambiguous short-link. Quotes always use `[[quotes/slug]]`. `[[blog/index]]` keeps its path to avoid conflict with this file. Filenames are globally unique within each folder.
 
 ---
 
@@ -18,11 +18,11 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Concepts
 
-- [[karma]] — All action by body, mind, senses, intellect; the accounting framework of the soul
+- [[concepts/karma]] — All action by body, mind, senses, intellect; the accounting framework of the soul
 - [[kriyaman-karma]] — Present-life karma that fructifies and exhausts instantly
 - [[sanchit-karma]] — Accumulated stored balance across lifetimes; assets and liabilities do not cancel
 - [[prarabdh-karma]] — Karma drawn from sanchit into the current life as luck and script
-- [[maya]] — The power of delusion; "that which is not"; the field of duality within which karma operates
+- [[concepts/maya]] — The power of delusion; "that which is not"; the field of duality within which karma operates
 - [[jivaatma]] — The individual soul; the spark of divinity carrying the karmic balance sheet
 - [[moksha]] — Final liberation; the return of the fragment to the Supreme
 - [[doer-ship]] — The mechanism by which karma binds; why guilt is self-inflicted karma
@@ -50,17 +50,17 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[sukshma-sharir]] — The spirit/astral body; everlasting; goal = accumulation of shakti (aura); exists 5–10× longer than physical body; bhoots, loks, seh sharir
 - [[citt-vritti-nirodh]] — Total mind (ocean), thought-ripples (waves), dispassionate observation; Patanjali framework for handling thoughts without creating new karma
 - [[vitarks-vichars]] — Anti-yam thought waves (vitarks) and rational thought reactions (vichars); both involuntary; golden rule: bhog / rog / yog
-- [[aura]] — Bioelectric energy field; protective shield; cosmic currency (*shakti*); Kirilian photography; depletion, contamination, enhancement, black magic
-- [[destiny]] — Fructification of karmas aligned with planetary movements; acceptance of destiny as the antidote to guilt; astrology as exact science
+- [[concepts/aura]] — Bioelectric energy field; protective shield; cosmic currency (*shakti*); Kirilian photography; depletion, contamination, enhancement, black magic
+- [[concepts/destiny]] — Fructification of karmas aligned with planetary movements; acceptance of destiny as the antidote to guilt; astrology as exact science
 - [[astral-travel]] — Spirit body exits physical body; gati (superfast travel); spirit world physics; nirman kaya in action; posthumous appearances
-- [[loks]] — 14-storey cosmological model of existence; Earth as the karma lok; lower tals and upper loks; guna mix as the qualification; spiritual ballooning as the method of ascent
+- [[concepts/loks]] — 14-storey cosmological model of existence; Earth as the karma lok; lower tals and upper loks; guna mix as the qualification; spiritual ballooning as the method of ascent
 - [[vairagya]] — Detachment from external bonds AND perceived identity; prerequisite for all other formulas of evolution; Gurudev as exemplar
 - [[empathy]] — Understanding others without adding emotions; self-acceptance requires accepting others first; Gurudev's transformation of Hingori
 - [[role-play]] — Inhabiting relationships as performances with detachment; Gurudev as fluid multi-role master; Brando/Steiger as the cautionary case
 - [[pratipakshbhavana]] — Superimposing positive thoughts on negative ones; cricket-at-100mph analogy; Golden Rule on rate of decreasing failure
-- [[self-acceptance]] — Prerequisite to self-love and self-worship; overcoming societal evaluation, self-blame, and guilt; surmounting through non-doership and destiny acceptance
+- [[concepts/self-acceptance]] — Prerequisite to self-love and self-worship; overcoming societal evaluation, self-blame, and guilt; surmounting through non-doership and destiny acceptance
 - [[self-love]] — Unemotional, agenda-free connectivity to all forms of the consciousness supreme; self-acceptance → self-like → self-respect → self-love → bhakti
-- [[self-worship]] — Reverence of the jivaatma (inner light); two gates metaphor; three exercises; non-doership and self-worship as complementary; Tat Twam Asi in practice
+- [[concepts/self-worship]] — Reverence of the jivaatma (inner light); two gates metaphor; three exercises; non-doership and self-worship as complementary; Tat Twam Asi in practice
 - [[grihasth-ashram]] — Householder path; Gurudev's teaching that final spiritual attainments require fulfilling domestic responsibilities
 - [[aghor]] — Philosophy of non-duality; Aghoris break free from maya by transcending sensory aversion through extreme practices; Augarh's sect
 - [[ulta-guru]] — The "inverted guru" who serves his disciples; coined by a gurubhai; grounded in aatmic equality
@@ -73,7 +73,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[constant-awareness]] — Multi-planar perpetual awareness; one-point concentration; OM/Ajna architecture; manifesting visualisation; probability reduction
 - [[hygiene]] — Gurudev's four-part framework: Social, Commercial, Mental, Spiritual hygiene; habit-grade practices for amplifying spiritual efforts
 - [[spiritual-healing]] — Sources of negativity, dispassionate approach, spirit possession mechanics, life extension, modes of healing, non-doership as the frame; *WG* Ch.9 healing testimonies and remote healing
-- [[supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, post-mortem appearances, spiritual mastery
+- [[concepts/supernature]] — The mahaguru's transcendent nature; supernature-destiny inversion; form-changing, elemental command, bilocation, invisibility, post-mortem appearances, spiritual mastery
 - [[statue-consciousness]] — Consecrated statues as live extensions of the mahaguru's consciousness; pran pratishtha mechanism; Asthal temple testimonies
 - [[power-symbols]] — Shiv-parivaar symbols on Gurudev's body (OM, Trishul, Shivling-gileri, Ganpati, Nandi, Jyot); their meanings and transfer to disciples
 - [[tantra]] — Spiritual science; inherently neither positive nor negative; tamasic vs. sattvic uses; village practitioners; road-crossing energy
@@ -91,7 +91,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[boredom]] — Boredom as a spiritual tool; tamas deployed as emotion equaliser and aura conservation method; the spirit's strategy for pulling attention inward
 - [[patanjali-yoga-sutras]] — Patanjali's eight-fold path (ashtanga yoga): yamas, niyamas, asanas, pranayam, pratyahara, dharana, dhyana, samadhi; Hingori's simplified treatment
 - [[barkat]] — Abundance as divine favour requiring stewardship; wasting food or resources diminishes the blessing; the leftover-paratha teaching
-- [[spiritual-alliances]] — Cosmic collaboration: Gurudev's alliances with deities, rishis and saints; the PM-and-ministries model; Parshuram's consent at Renuka; fingers of one hand; alliances outliving the body
+- [[concepts/spiritual-alliances]] — Cosmic collaboration: Gurudev's alliances with deities, rishis and saints; the PM-and-ministries model; Parshuram's consent at Renuka; fingers of one hand; alliances outliving the body
 
 ---
 
@@ -410,7 +410,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 
 ## Practices
 
-- [[seva]] — Selfless service; Gurudev's one-point programme; four levels (philanthropy → duty → every breath)
+- [[practices/seva]] — Selfless service; Gurudev's one-point programme; four levels (philanthropy → duty → every breath)
 - [[tapasya]] — Voluntary austerity; the disciple's currency
 - [[sadhana]] — The umbrella term for sustained spiritual practice *(stub)*
 - [[karmic-worksheet]] — Daily positive/negative self-audit; scoring system; the CCTV principle

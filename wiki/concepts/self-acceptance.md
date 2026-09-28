@@ -129,6 +129,7 @@ Self-acceptance generates self-like; self-like generates self-love; self-love th
 
 ## Cross-references
 
+- [[quotes/self-acceptance]] — quote collection on self-acceptance
 - [[concepts/non-doership]] — the mechanism for releasing guilt; same as karm-mukt at the level of self-blame
 - [[concepts/self-love]] — the next stage; self-acceptance generates self-like, which generates self-love
 - [[concepts/self-worship]] — the final stage; the three-stage Part C arc

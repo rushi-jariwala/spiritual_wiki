@@ -148,6 +148,7 @@ Hingori explicitly acknowledges this chapter blends personal vision-state visits
 
 ## Cross-references
 
+- [[quotes/loks]] — quote collection on the loks
 - [[concepts/gunas]] — guna mix determines lok qualification; see also [[stories/guna-self-assessment]]
 - [[concepts/sukshma-sharir]] — the spirit/astral body inhabits loks between incarnations
 - [[concepts/astral-travel]] — mechanism for visiting loks while still alive

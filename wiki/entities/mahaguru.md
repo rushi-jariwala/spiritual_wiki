@@ -518,6 +518,7 @@ Gurudev as coordinator of the devi-devtas — "Imagine the prime minister coordi
 - [[stories/schoolmate-gurudev-gurgaon]] — posthumous appearance: Gurudev appears to a stranger in Gurgaon 20 years after death; directs him to the sthan
 - [[stories/gurudev-horse-gives-birth]] — his patient empathy and unwavering vision turn Hingori around; "A horse gives birth to a horse"
 - [[stories/gurudev-seva-poem]] — "A few minutes in every hour…"; the scope of his seva in verse
+- [[stories/guru-of-gurus-family-mystery-poems]] — Hingori's verses opening *The Family Man* and *The Man of Mystery* sections of *The Guru of Gurus*
 
 ## Quotes
 

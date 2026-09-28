@@ -2,7 +2,7 @@
 title: Quotes — Spiritual Alliances
 type: quote-collection
 sources: [witnessing-greatness-chapters]
-related: ["[[concepts/spiritual-alliances]]", "[[entities/augarh]]", "[[entities/mahaguru]]", "[[synthesis/tests-in-disguise]]"]
+related: ["[[concepts/spiritual-alliances]]", "[[synthesis/gurudev-under-test]]", "[[stories/renu-renuka-parshuram-test]]", "[[entities/augarh]]", "[[entities/mahaguru]]", "[[synthesis/tests-in-disguise]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -88,3 +88,17 @@ From *Witnessing Greatness*, Ch.8 "Cosmic Collaborators" (pp.97–116).
 > "These alliances are not grounded in typical emotions or societal norms but rather focus on a shared goal: to uplift and enlighten all beings collaboratively."
 > — Hingori, *Witnessing Greatness*, Ch.8, p.115
 [[concepts/spiritual-alliances]]
+
+## Training Trails (*Witnessing Greatness*, Ch.13)
+
+> "Son, I was supposed to come here in 1969, but I only arrived in 1979."
+> — Gurudev to Chandramani Vashisht ji, *Witnessing Greatness*, Ch.13, p.188
+[[stories/gurudev-renuka-parshuram-alliance]]
+
+> Many spiritual luminaries often test each other's spirituality before recognising each other formally.
+> — *Witnessing Greatness*, Ch.13, p.189
+[[synthesis/gurudev-under-test]] · [[concepts/spiritual-alliances]]
+
+> "If it is her destiny to die, we must accept it."
+> — Gurudev, of his ill daughter at Renuka, *Witnessing Greatness*, Ch.13, p.189
+[[stories/renu-renuka-parshuram-test]] · [[concepts/vairagya]]

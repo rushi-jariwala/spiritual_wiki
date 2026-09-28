@@ -2,7 +2,7 @@
 title: Witnessing Greatness
 type: source
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]", "[[concepts/spiritual-healing]]", "[[synthesis/conditions-of-healing]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[concepts/customised-guidance]]", "[[concepts/mantra-vidya]]", "[[quotes/mantras]]", "[[synthesis/mantra-and-water]]", "[[synthesis/missed-astral-invitations]]", "[[concepts/supernature]]", "[[concepts/astral-travel]]"]
+related: ["[[entities/mahaguru]]", "[[synthesis/gurudev-under-test]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]", "[[concepts/spiritual-healing]]", "[[synthesis/conditions-of-healing]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[concepts/customised-guidance]]", "[[concepts/mantra-vidya]]", "[[quotes/mantras]]", "[[synthesis/mantra-and-water]]", "[[synthesis/missed-astral-invitations]]", "[[concepts/supernature]]", "[[concepts/astral-travel]]"]
 created: 2026-05-20
 updated: 2026-09-28
 ---
@@ -47,7 +47,7 @@ updated: 2026-09-28
 | 10 | Peerless Mentorship | 141–148 | ✅ ingested 2026-09-28 |
 | 11 | Sacred Syllables | 149–162 | ✅ ingested 2026-09-28 |
 | 12 | Elemental Symphony | 163–177 | ✅ ingested 2026-09-28 |
-| 13 | Training Trails | — | ⬜ pending |
+| 13 | Training Trails | 179–190 | ✅ ingested 2026-09-28 |
 | 14 | Master of Moods | — | ⬜ pending |
 | 15 | Timeless Tuning | — | ⬜ pending |
 | 16 | In His Shoes | — | ⬜ pending |
@@ -55,6 +55,72 @@ updated: 2026-09-28
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.13 — Training Trails, pp.179–190)
+
+- **The camps as training ground**: soil-survey camps at Guna (1973), Kathog (1976) and Renuka (1979, "his largest mass healing camp") where the healer emerged in public — bullock carts of "15–20 individuals" at Guna; Nagpal ji's questions answered only with "hearty laughter" (p.179).
+- **Spirits as well as people**: camps sited near cremation grounds and in dense forests, "the haunts of such entities"; Gurudev "facilitating their rebirth or freeing them from their spiritual binds" (p.181); the headless Syeds' flickering lights near Bharatpur (Gaggu ji); a crowd summoned by thirty minutes of meditation (Pravesh ji).
+- **Kathog**: Thapa as "bearer of news"; Suresh Kohli ji's seven nights and the deputy director of education; kadas, cloves, cardamoms and peppercorns running out; Santosh ji's OM and trishul in his own hands; Pradhan ji's brother; the old man and his canes; Pappu Pahadia's memory of the "handsome, modern-looking man" called 'Guruji'; teachers made healers with "a glass of water he had sipped."
+- **Recognition by test**: the Jwalaji priests' khadaus — three steps; "Many spiritual luminaries often test each other's spirituality before recognising each other formally" (p.189); Parshuram ji testing Gurudev's family ties through Renu ji's visit.
+- **Mission, not the man**: his family unaware he was the 'Om Baba' of Kathog; at Renuka, disciples told "not to acknowledge him as their guru" until the alliance was made.
+- **Renuka**: Bittu ji's restored Shivling; Vashisht ji's ten years of visions of a man in spectacles — "I was supposed to come here in 1969"; the Bayri sthan (1980) with Vashisht ji as sthan sanchalak and Parshuram ji as chief patron; the OM and the face on the Shivling; past-life samadhis believed to be in the hills.
+
+## Notable Quotes (Ch.13)
+
+> "If you see me that way again, you will have met God."
+> — Gurudev to Suresh Kohli ji, *Witnessing Greatness*, Ch.13, p.182
+
+> Gurudev embodied the essence of selfless service, ensuring that the focus remained on the mission and not the man.
+> — *Witnessing Greatness*, Ch.13, p.187
+
+> "Son, I was supposed to come here in 1969, but I only arrived in 1979."
+> — Gurudev to Vashisht ji, *Witnessing Greatness*, Ch.13, p.188
+
+> Many spiritual luminaries often test each other's spirituality before recognising each other formally.
+> — *Witnessing Greatness*, Ch.13, p.189
+
+> The Shivling did not need my faith to showcase its power, but this incident demonstrated how spiritually charged the place is.
+> — Hingori, *Witnessing Greatness*, Ch.13, p.190
+
+Full collections: [[quotes/healing]], [[quotes/spiritual-alliances]], [[quotes/guru]], [[quotes/seva]], [[quotes/supernature]] (Ch.13 sections).
+
+## Stories Extracted (Ch.13)
+
+- [[stories/kathog-old-man-canes]] — new
+- [[stories/jwalaji-khadaus-test]] — new
+- [[stories/om-baba-sister-discovery]] — new
+- [[stories/renu-renuka-parshuram-test]] — new
+- [[stories/hingori-renuka-shivling-om]] — new (with the recent return visits and past-life samadhis)
+- [[stories/gurudev-kurwai-first-healing]] — enriched: *WG* Guna telling (Nagpal ji)
+- [[stories/kathog-suresh-kohli-vision]] — enriched: *WG* telling (tonsilitis, almirah, deputy director)
+- [[stories/santoshji-kathok-jal]] — enriched: *WG* telling (kada and mantra; OM and trishul in his hands; the sipped-water directive)
+- [[stories/gurudev-renuka-parshuram-alliance]] — enriched: Bittu ji's telling (Shivling; spectacles; 1969/1979)
+- [[stories/kathog-thapa-tantrik]] — enriched: Thapa as "bearer of news"
+
+Short anecdotes kept inline: Gaggu ji's Syeds near Bharatpur, Pravesh ji's "Should I call a crowd?", Pradhan ji's brother → [[concepts/spiritual-healing]] (Ch.13); Pappu Pahadia's testimony and the teachers' seva directive → [[concepts/transmission-of-power]] (Ch.13); Santosh ji's OM and trishul → [[concepts/power-symbols]]. No new entity pages (Nagpal ji, Gaggu ji, Pravesh ji, Suresh Kohli ji, Santosh ji, Shambhu ji, Pappu Pahadia, Pradhan ji, Raji ji, Dilbaag, Chandramani Vashisht ji, Karamchand ji, Subbhash ji, Pal ji kept as inline mentions); [[entities/mahaguru]], [[entities/bittu]], [[entities/hingori]], [[entities/mataji]] enriched.
+
+## New Concepts Introduced (Ch.13)
+
+- No new concept page (camps and spirits added to [[concepts/spiritual-healing]]; the sipped-water directive to [[concepts/transmission-of-power]]; OM on disciples' hands and on the Shivling to [[concepts/power-symbols]]; recognition by test to [[concepts/spiritual-alliances]]; the Renuka test to [[concepts/vairagya]]; "did not need my faith" to [[concepts/faith]])
+- *Syeds* — "entities without heads that communicated via these mysterious glowing signals" (p.181); *siddh purush* and *devobhoomi* glossed (p.186)
+- New synthesis: [[synthesis/gurudev-under-test]]; tips added to [[synthesis/tests-in-disguise]], [[synthesis/conditions-of-healing]], [[synthesis/guru-who-points-beyond-himself]]
+- New analogies: camps as gateways / a guiding light; miracles as familiar as the breath of the wind; the khadaus as touchstone
+
+## Contradictions / Tensions (Ch.13)
+
+> [!warning] Kurwai or Guna?
+> *The Guru of Gurus* (pp.58–60): first public healing at **Kurwai** in 1973, bullock carts at **Ashok Nagar**, the 'someone like Shiv' prophecy fulfilled at Kurwai. Ch.13 (p.179): the bullock carts and the prophecy's fulfilment at **Guna**, 1973, with the same witness (Nagpal ji). See [[stories/gurudev-kurwai-first-healing]].
+
+> [!warning] Renuka — 1979 or 1980?
+> *The Guru of Gurus* (pp.77–81): camp 1980; "supposed to come here in 1970, but I arrived in 1980." Ch.13 (p.188): camp 1979; "supposed to come here in 1969, but I only arrived in 1979"; the Bayri sthan established in 1980. See [[stories/gurudev-renuka-parshuram-alliance]].
+
+> [!tip] Consistent tellings
+> Suresh Kohli ji's seven nights (the words differ — "the supreme power" / "God" — the sense agrees); Vashisht ji's vision of the bespectacled man (*GoG*: after a sequence of deities, "in pants and a shirt"); the sisters learning of the 'OM wale baba' / 'Om Baba' through a classmate; the man with the bent spine; the Kathog teachers made healers with jal; identity concealed at Renuka. Ch.13 enriches each without contradiction.
+
+> [!question] Details
+> Santosh ji is "a bodybuilder and physical education instructor from Nadaun—just 17 kilometres from Kathog" (Ch.13, p.183); *The Guru of Gurus* groups him with the teachers "from the same school." Pappu ji is "Pappu Pahadia" (Ch.13; *GoG*) and "Pappu Sharma" (*Aatma Sutra*). "Simaur district" (p.188) for Sirmaur. Ch.13 says Gurudev "straightened the man's spine" at Kathog; *GoG* has the same healing without the canes.
+
+---
 
 ## Key Themes (Ch.12 — Elemental Symphony, pp.163–177)
 

@@ -2,7 +2,7 @@
 title: Transmission of Power
 type: concept
 sources: [guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/power-symbols]]", "[[concepts/mantra-transfer]]", "[[concepts/gaddi]]", "[[concepts/spiritual-attacks]]", "[[concepts/tantra]]", "[[concepts/guru-kripa]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[quotes/mentorship]]"]
+related: ["[[concepts/power-symbols]]", "[[stories/santoshji-kathok-jal]]", "[[stories/kathog-suresh-kohli-vision]]", "[[concepts/mantra-transfer]]", "[[concepts/gaddi]]", "[[concepts/spiritual-attacks]]", "[[concepts/tantra]]", "[[concepts/guru-kripa]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[quotes/mentorship]]"]
 created: 2026-05-10
 updated: 2026-09-28
 ---
@@ -130,6 +130,17 @@ This connects to [[stories/hingori-renuka-temple-attack]], where the lesson was 
 Testimonies: [[stories/ravi-ji-us-brain-tumour]], [[stories/rishabh-gopiganj-vision-gratitude]], [[stories/gajendra-lonavala-paralysed-twins]], [[stories/kanika-bhalla-clot-vanished]], [[stories/devraj-khare-mothers-choice]]. Even a technique could be passed on: Punchoo ji's thumb-and-forefinger headache cure ([[stories/punchoo-migraine-hundred-people]]).
 
 > [!tip] *Witnessing Greatness* Ch.10 pairs with the "pre-cooked bread" image: the disciples were "like 'pre-cooked meals' awaiting microwaving. Gurudev pressed the right buttons to awaken our dormant capabilities linked to our past lives" (p.144). Here the capability is already in the disciple from past lives; the guru switches it on. See [[concepts/spiritual-healing]] (Ch.10), [[analogies/analogies]].
+
+## Kathog — The Water He Had Sipped (*Witnessing Greatness*, Ch.13)
+
+> The healing wonders witnessed at Kathog led to faith blossoming and spiritual destinies unfolding. Shambhu ji, Suresh ji, and Santosh ji found themselves converging on purpose. Entrusted by Gurudev with seva, they were armed with merely a glass of water he had sipped and a simple directive: touch where there is pain and trust in the unseen power of my guidance. Embracing their task amidst scepticism, they witnessed the miraculous—each person they touched was healed, a powerful testament to Gurudev's ability to make others the medium of his power.
+> — *Witnessing Greatness*, Ch.13, pp.185–186
+
+*Anecdote — Pappu Pahadia on his father:*
+> Witnessing the wonders at Kathog with the innocence and curiosity of a child, Shambhu ji's eldest son, Pappu Pahadia, remembers, "My father was a teacher at the school next to Gurudev's camp. No one knew that Gurudev was a guru at the time. When we met him, we observed that his staff would call him 'Guruji'. We were all perplexed why this handsome, modern-looking man was being referred to as such. My father and a group of three to four teachers decided to investigate. Slowly, Gurudev began to perform miracles in Kathog. If someone came to him with a stomach problem, he would keep his hands on their stomach, and they would be healed. Seeing this, my father felt a strong bond with him, starting an important chapter of their spiritual relationship."
+> — *Witnessing Greatness*, Ch.13, p.185
+
+Santosh ji received a kada and mantra three days after meeting Gurudev ("Son, allow me to guide you on your path of evolution") and weeks later found the OM and trishul on his own hands at the Shivpuri sthan — see [[stories/santoshji-kathok-jal]], [[concepts/power-symbols]].
 
 ## Cross-references
 

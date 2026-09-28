@@ -2,7 +2,7 @@
 title: The Guru Who Points Beyond Himself
 type: synthesis
 sources: [witnessing-greatness-chapters, guru_sutra_book.md, The-Guru-of-Gurus-Eng.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/guru-disciple]]", "[[concepts/self-worship]]", "[[concepts/guru-vandana]]", "[[concepts/guru-tattva]]", "[[concepts/surrender]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[quotes/mentorship]]", "[[synthesis/guru-sutra-arc]]"]
+related: ["[[concepts/guru-disciple]]", "[[stories/om-baba-sister-discovery]]", "[[concepts/self-worship]]", "[[concepts/guru-vandana]]", "[[concepts/guru-tattva]]", "[[concepts/surrender]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[quotes/mentorship]]", "[[synthesis/guru-sutra-arc]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -46,6 +46,9 @@ Hingori's gloss: "a person in complete alignment with their divine nature, as Gu
 ## Why It Matters
 
 Read together, these sayings describe a guru whose success is measured by his becoming unnecessary: the disciple heals without herbs, surpasses the guru's attainments, goes beyond worship, and recognises Shiv in himself. It is the lived form of the Guru Sutra arc's final phase — the external guru serving until the guru within is met — witnessed in Gurudev's own words by his family and disciples.
+
+> [!tip] "The mission and not the man" — *Witnessing Greatness* Ch.13
+> "Gurudev embodied the essence of selfless service, ensuring that the focus remained on the mission and not the man" (p.187): his family did not know he was the 'Om Baba' of Kathog ([[stories/om-baba-sister-discovery]]); at Renuka "he instructed his disciples not to acknowledge him as their guru" (p.189; [[stories/renu-renuka-parshuram-test]]).
 
 ## Cross-references
 

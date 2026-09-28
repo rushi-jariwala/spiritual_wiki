@@ -3,7 +3,7 @@ title: Hingori
 type: entity
 tags: [hingori, author, disciple]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]", "[[stories/hingori-mahagayatri-fire-and-water]]", "[[concepts/mantra-vidya]]", "[[synthesis/missed-astral-invitations]]"]
+related: ["[[entities/mahaguru]]", "[[stories/hingori-renuka-shivling-om]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]", "[[stories/hingori-mahagayatri-fire-and-water]]", "[[concepts/mantra-vidya]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -122,6 +122,7 @@ Hingori documents a progressive sequence of astral travel experiences under Guru
 - [[stories/hingori-gati-malhotra]]
 - [[stories/hingori-fan-ankle]]
 - [[stories/hingori-bina-station-temple]] — body convulses at Bina station temple; explains why Gurudev avoided Shiv temples
+- [[stories/hingori-renuka-shivling-om]] — first visit to Bayri: unable to see Gurudev's image on the Shivling, "unwilling to accept something simply because others did"; the OM under his leaf plate; the face that appeared "despite my complete disbelief" (*WG* Ch.13)
 - [[stories/hingori-renuka-temple-attack]] — punished by Parshuramji for attempting to absorb energy from his disciple's temple; saved by **Devi Renuka** (Hindu deity, mother of Parshuram, associated with Renuka Lake in Himachal Pradesh), who appeared in a vision and touched his head, dispelling the attack
 - [[stories/giri-blister-healing]] — Hingori arranges black magic clearing; witness to Giri's face-shaped blister
 - [[stories/hingori-meat-chopper-guilt]] — guilt dissolves through a divine voice; the founding personal experience of self-acceptance

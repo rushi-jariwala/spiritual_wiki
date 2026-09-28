@@ -2,9 +2,9 @@
 title: Renu Ji Confronts Gurudev About Love
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/guru-kripa]]"]
+related: ["[[entities/mahaguru]]", "[[stories/renu-renuka-parshuram-test]]", "[[entities/mataji]]", "[[concepts/guru-kripa]]"]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-28
 ---
 
 # Renu Ji Confronts Gurudev About Love
@@ -38,6 +38,7 @@ Renu ji did not understand until after Gurudev's passing:
 - [[entities/mahaguru]] — gives the ek vakya; embodies love-as-radiation in his own life
 - [[entities/mataji]] — contrasted with Gurudev as the one who "conveyed affection" in ordinary, proximate ways
 - [[concepts/guru-kripa]] — Renu ji's retrospective understanding connects the delayed love to guru kripa: the guru's grace extends beyond what the disciple can perceive in the moment
+- [[stories/renu-renuka-parshuram-test]] — Renu ji, seriously ill, sent back from Renuka: "If it is her destiny to die, we must accept it" — Parshuram ji testing Gurudev's family ties (*WG* Ch.13)
 - [[wiki/analogies/analogies]] — "love as radiation": love permeating everything unrestricted by boundaries
 
 > [!tip] The exchange captures a structural pattern in Gurudev's teaching: his ek vakyas were often experienced as cold comfort or non-answers at the time of delivery. Their meaning arrived later — sometimes after his death — triggered by life itself. Renu ji's own words confirm the pattern: understanding came "in the aftermath of his passing."

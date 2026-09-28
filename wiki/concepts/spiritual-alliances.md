@@ -2,7 +2,7 @@
 title: Spiritual Alliances (Cosmic Collaboration)
 type: concept
 sources: [witnessing-greatness-chapters, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/augarh]]", "[[concepts/astral-travel]]", "[[concepts/supernature]]", "[[concepts/loks]]", "[[stories/gurudev-renuka-parshuram-alliance]]", "[[quotes/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]"]
+related: ["[[entities/mahaguru]]", "[[synthesis/gurudev-under-test]]", "[[stories/renu-renuka-parshuram-test]]", "[[stories/jwalaji-khadaus-test]]", "[[entities/augarh]]", "[[concepts/astral-travel]]", "[[concepts/supernature]]", "[[concepts/loks]]", "[[stories/gurudev-renuka-parshuram-alliance]]", "[[quotes/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -59,6 +59,7 @@ More in [[quotes/spiritual-alliances]].
 - **Hingori's own list.** "Raji Sharma ji was blessed by Lord Shankar through Gurudev's intervention" ([[stories/rajee-shiv-darshan]]); Hingori's vision of Ram, Laxman and Sita ([[stories/hingori-vision-of-ram]]); Darius Moos "was graced with a glimpse of Jesus"; and "recurring appearances of Sai Baba of Shirdi in our journeys have prompted us to reconsider and even discard traditional beliefs about what is deemed impossible or implausible" (p.102).
 - **Hanuman and Mangal.** FC Sharma ji: Gurudev mentored Malhotra ji nightly, "imparting powerful mantras, and leading him to divine encounters with deities like Hanuman ji. Gurudev aimed to elevate Malhotra ji's spiritual stature to the level of Hanuman ji himself" ([[entities/rc-malhotra]]). Hingori, who has "not directly experienced Lord Hanuman's bond with Gurudev," was given a Mangal mantra "by a mysterious force" in a vision, and on a mountain linked to Mars, he and his gurubhai **Nitin Gadekar** "were gifted two handkerchiefs, seemingly materialising from thin air" — "influenced by the mahaguru's strong alliance with this powerful entity" (p.103).
 - **Guardians of the sthan.** At Bayri, during renovation, "a panther mysteriously appeared and began to guard the site each night, posing no threat to anyone. It vanished once the renovations were over" (p.101). Augarh "protected the sthan when Daddy was away" (Renu ji, p.109).
+- **Recognition by test.** "Many spiritual luminaries often test each other's spirituality before recognising each other formally" (*WG* Ch.13, p.189). At Renuka Gurudev kept his identity hidden "until he had established a significant spiritual alliance with Parshuram ji," and Parshuram ji tested "his emotional ties to his family" through his ill daughter's visit ([[stories/renu-renuka-parshuram-test]]). The Jwalaji priests tested him with a siddh purush's khadaus ([[stories/jwalaji-khadaus-test]]). "Gurudev utilised his camps to establish several spiritual alliances, not only with the venerable Parshuram ji and his mother, Renuka ji, but also with other devi-devtas and many other spiritual entities yet to be unveiled" (p.189). See [[synthesis/gurudev-under-test]].
 - **Tests.** Some collaborators also test. Augarh was "Gurudev's personal test-o-meter" — see [[synthesis/tests-in-disguise]].
 
 ## In Practice
@@ -74,6 +75,7 @@ More in [[quotes/spiritual-alliances]].
 - [[concepts/supernature]] — the list of allied entities in *The Guru of Gurus*
 - [[entities/mahaguru]] · [[entities/augarh]] · [[entities/giri]] · [[entities/rajpal]]
 - [[stories/pradeep-dattatreya-hill-temple]] · [[stories/punchoo-trinity-of-devis]] · [[stories/pradeep-sai-baba-chautha-and-seva]] · [[stories/gurudev-ravan-gurubhai]] · [[stories/surinder-gurudev-namaaz-vision]] · [[stories/geeta-nagpal-augarh-bhaiya]] · [[stories/humsa-augarh-tests]]
+- [[stories/renu-renuka-parshuram-test]] · [[stories/jwalaji-khadaus-test]] · [[synthesis/gurudev-under-test]] — the tests that preceded recognition (*WG* Ch.13)
 - [[concepts/self-worship]] / [[concepts/aatma]] — Hingori's "aatmic equality" at Badrinath
 
 > [!tip] Alliance and aatmic equality

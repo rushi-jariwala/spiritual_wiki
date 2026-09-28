@@ -2,7 +2,7 @@
 title: Quotes on Healing
 type: quote-collection
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/spiritual-healing]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[concepts/faith]]", "[[synthesis/conditions-of-healing]]"]
+related: ["[[concepts/spiritual-healing]]", "[[stories/kathog-old-man-canes]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[concepts/faith]]", "[[synthesis/conditions-of-healing]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -99,3 +99,16 @@ updated: 2026-09-28
 > — Gurudev to Rajpal ji, *Witnessing Greatness*, Ch.9, p.139
 [[entities/mahaguru]]
 
+## *Witnessing Greatness* Ch.13 — Training Trails
+
+> "What if I could heal your brother right here?"
+> — Gurudev to Pradhan ji, *Witnessing Greatness*, Ch.13, p.184
+[[concepts/spiritual-healing]] · [[synthesis/conditions-of-healing]]
+
+> "Baba, take these canes on your shoulder and go home."
+> — Gurudev, *Witnessing Greatness*, Ch.13, p.185
+[[stories/kathog-old-man-canes]]
+
+> Entrusted by Gurudev with seva, they were armed with merely a glass of water he had sipped and a simple directive: touch where there is pain and trust in the unseen power of my guidance.
+> — *Witnessing Greatness*, Ch.13, pp.185–186
+[[concepts/transmission-of-power]] · [[stories/santoshji-kathok-jal]]

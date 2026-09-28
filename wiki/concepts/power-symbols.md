@@ -1,10 +1,10 @@
 ---
 title: Power Symbols
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/supernature]]", "[[concepts/aura]]", "[[concepts/mantra-transfer]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/supernature]]", "[[stories/santoshji-kathok-jal]]", "[[stories/hingori-renuka-shivling-om]]", "[[concepts/aura]]", "[[concepts/mantra-transfer]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]"]
 created: 2026-04-27
-updated: 2026-04-27
+updated: 2026-09-28
 ---
 
 # Power Symbols
@@ -75,6 +75,10 @@ The jyot appears as a transparent but permanent skin blister on the left hand. G
 Gurudev transferred power symbols in several ways: placing his hand on people's heads, giving them his sipped water to drink, or simply willing the transfer from thousands of miles away. He did not ascribe to any standard procedure.
 
 Many disciples received the jyot or other symbols unknowingly — remaining unaware of the bestowal until their guru hinted or casually mentioned it. The symbol qualifies the recipient but not always at a conscious level, and unlike Gurudev, many disciples did not know how to assess their attainments consciously.
+
+*Witnessing Greatness* Ch.13 (pp.183–184): Santosh ji, weeks after receiving a kada and mantra, lit a dhoop in the empty sthan room at Shivpuri and "saw the symbol of the OM in my right hand, mirroring the one I had seen in Gurudev's hand. I also noticed the symbol of a trishul in my left hand … I understood it was Gurudev's blessings manifesting." See [[stories/santoshji-kathok-jal]].
+
+**The OM outside the body.** At Kathog, Thapa reported Gurudev "bearing the sacred symbol of the OM on his hand and chest, along with a trishul"; he showed Suresh Kohli ji "the OM symbol embossed on his right hand," and Vashisht ji "the glowing OM symbol on his palm" (*WG* Ch.13, pp.182, 188). At the Bayri sthan an OM appeared on the Shivling "whenever Vashisht ji poured water over" it, and under Hingori's leaf plate on a mud floor — "a perfect graphic of the OM inlaid on the ground" (pp.189–190). See [[stories/hingori-renuka-shivling-om]].
 
 > [!tip] The distinction between power symbols and siddhis: siddhis are acquired, exercised, and can be renounced (as the mahaguru demonstrated at Har ki Pauri). Power symbols are certifications of *what a being is* — they cannot be renounced because they are not possessions. They are the aura's own signature.
 

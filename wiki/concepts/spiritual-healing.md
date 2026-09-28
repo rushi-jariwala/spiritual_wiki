@@ -2,7 +2,7 @@
 title: Spiritual Healing
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/faith]]", "[[concepts/spiritual-attacks]]", "[[synthesis/conditions-of-healing]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]", "[[concepts/mantra-vidya]]", "[[stories/kishanmohan-durgapur-mines]]"]
+related: ["[[entities/mahaguru]]", "[[stories/kathog-old-man-canes]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/faith]]", "[[concepts/spiritual-attacks]]", "[[synthesis/conditions-of-healing]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]", "[[concepts/mantra-vidya]]", "[[stories/kishanmohan-durgapur-mines]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -287,6 +287,33 @@ Hingori's explanation: the disciples were "like 'pre-cooked meals' awaiting micr
 
 See [[concepts/mantra-vidya]].
 
+## *Witnessing Greatness* Ch.13 — The Camps (Training Trails)
+
+The soil-survey camps — Guna/Kurwai 1973, Kathog 1976, Renuka 1979 — were where the healing began at scale. At Guna, bullock carts "each carrying 15–20 individuals"; Nagpal ji's questions about the healings "met with Gurudev's hearty laughter" (p.179; see [[stories/gurudev-kurwai-first-healing]]). At Kathog, "we ran out of kadas, cloves, cardamoms, and peppercorns" (Suresh Kohli ji, p.183; [[stories/kathog-suresh-kohli-vision]]).
+
+### Healing Spirits at the Camps
+
+> During my time with Gurudev, his camps were like gateways to understanding how the physical and spiritual worlds intertwine. He embodied a deep commitment to guiding not only human beings but also wandering spirits. He sometimes chose sites close to cremation grounds or within dense forests—traditionally believed to be the haunts of such entities—for his camps. In search of solace and direction, these unseen beings found a guiding light in him. He was instrumental in either facilitating their rebirth or freeing them from their spiritual binds, playing a crucial role in their journey towards liberation.
+> — Hingori, *Witnessing Greatness*, Ch.13, p.181
+
+*Anecdote — the Syeds near Bharatpur:*
+> Gaggu ji shares a particularly vivid memory from a camp near Bharatpur, Rajasthan: "Gurudev had chosen an unconventional location for his camp—right within a cremation ground, entrusting us with the duty of performing seva. Throughout the day, he attended to the needs of those seeking his assistance. In the evening, he summoned me, pointing towards the dense forest at the edge of the site. 'Do you see those flickering lights?' he asked. My gaze followed where a series of lights danced in the darkness, blinking on and off in a rhythmic pattern. Gurudev shared that these lights were the manifestations of the Syeds, entities without heads that communicated via these mysterious glowing signals. Despite the intrigue they presented, he counselled caution, explicitly advising against attempting to approach them."
+> — *Witnessing Greatness*, Ch.13, p.181
+
+*Anecdote — calling a crowd:*
+> Pravesh ji shares a story highlighting the mahaguru's enigmatic presence: "We went to a remote cremation ground with Gurudev. Considering how isolated it was, we were confused about why we were there and who would come to a place like that. Gurudev casually asked, 'Should I call a crowd?' I just said, 'As you think best'. Then, Gurudev meditated for thirty minutes. Amazingly, people started showing up looking for him. Soon, there were queues of people waiting for his help!"
+> — *Witnessing Greatness*, Ch.13, p.181
+
+The book's illustration: "A large crowd gathers at a remote cremation ground to meet Gurudev" (p.180).
+
+### Kathog — Healing the Sceptical
+
+*Anecdote — Pradhan ji's brother:*
+> Santosh ji shares a poignant episode involving Pradhan ji, a resident of Kathog who lived a few kilometres from the camp. In desperate need of transportation for his unwell brother, Pradhan ji approached Gurudev, hoping to borrow his jeep to reach PGI Hospital in Chandigarh. Gurudev inquired, "What if I could heal your brother right here?" Assuming Gurudev was joking, Pradhan ji retorted, "Why joke at a time like this?" To his astonishment, Gurudev offered Pradhan ji a glass of jal, executed a healing gesture on his stomach, and assured him of his brother's recovery. Returning home, Pradhan ji was greeted by his brother's markedly improved condition. This miraculous story echoed through the valleys, attracting more and more seekers to the mahaguru.
+> — *Witnessing Greatness*, Ch.13, p.184
+
+Note that the jal was given to Pradhan ji and the gesture made on *his* stomach; the brother, at home, recovered. The old man bent over two canes — "I'm too old to be healed" — walked home carrying them: [[stories/kathog-old-man-canes]]. Teachers from the school were made healers with "a glass of water he had sipped": [[stories/santoshji-kathok-jal]], [[concepts/transmission-of-power]] (*WG* Ch.13).
+
 ## Notable Stories
 
 - [[stories/om-singh-thirteen-chains]] — 13 chains, instant possession clearing
@@ -318,6 +345,8 @@ See [[concepts/mantra-vidya]].
 - [[stories/kanika-bhalla-clot-vanished]] — the clot that vanished (*WG* Ch.9)
 - [[stories/devraj-khare-mothers-choice]] — a mother's choice (*WG* Ch.9)
 - [[stories/dr-vacchani-spirits-angiogram]] — spirits medicine cannot see (*WG* Ch.9)
+- [[stories/kathog-old-man-canes]] — "Baba, take these canes on your shoulder and go home" (*WG* Ch.13)
+- [[stories/gurudev-kurwai-first-healing]] — Kurwai / Guna 1973; the bullock carts (*GoG*; *WG* Ch.13)
 
 ## Cross-references
 

@@ -2,7 +2,7 @@
 title: Faith
 type: concept
 sources: [guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/jivaatma]]", "[[concepts/stages-of-spiritual-transformation]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/maya]]", "[[synthesis/conditions-of-healing]]"]
+related: ["[[concepts/guru-disciple]]", "[[stories/hingori-renuka-shivling-om]]", "[[concepts/jivaatma]]", "[[concepts/stages-of-spiritual-transformation]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/maya]]", "[[synthesis/conditions-of-healing]]"]
 created: 2026-05-04
 updated: 2026-09-28
 ---
@@ -127,6 +127,9 @@ See [[stories/santlal-ji-journey-to-gurudev]], [[stories/lal-saheb-half-cup-tea]
 Ch.9's cases: Guddan ji discontinued her medications "confident that the guru she was about to meet would heal her" ([[stories/guddan-kanpur-arthritis-healing]]); Shankarnarayan ji: "My unshakeable faith in Gurudev was the catalyst for Vaishali's miraculous recovery" ([[stories/shankarnarayan-vaishali-healing]]); Giri ji, the sceptic: "This time, I decided to trust him" ([[stories/giri-haath-ki-safaai-healing]]). Hingori's own relapse followed scepticism: "The figure was precisely what Gurudev had promised, yet my scepticism held firm" ([[stories/hingori-arthritis-cure]]).
 
 > [!tip] Faith is not the only condition Ch.9 names — compliance, acceptance, selflessness and seva also appear, and one case heals despite non-compliance. See [[synthesis/conditions-of-healing]].
+
+> [!tip] Power that does not wait on faith — *Witnessing Greatness* Ch.13 (p.190)
+> Unable to see Gurudev's image on the Bayri Shivling that others saw, Hingori "left the scene in quiet disagreement," then returned and saw "an outline of a face" appear "despite my complete disbelief." His reading: "The Shivling did not need my faith to showcase its power." See [[stories/hingori-renuka-shivling-om]].
 
 ## Cross-references
 

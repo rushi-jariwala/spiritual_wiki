@@ -1691,3 +1691,34 @@ The record in the book is a sample, not the whole. Cf. the book's premise that G
 
 The same image at Juhu — a wave "softly caressing Gurudev's slippers before quietly receding" (p.166) — which Hingori and Giri ji called "same to same." The element as a devotee touching the guru's feet.
 
+---
+
+## Training Trails — Witnessing Greatness (Ch.13)
+
+### Camps as Gateways — A Guiding Light for Wandering Spirits
+*Illuminates: [[concepts/spiritual-healing]], [[concepts/loks]]*
+
+> During my time with Gurudev, his camps were like gateways to understanding how the physical and spiritual worlds intertwine. … In search of solace and direction, these unseen beings found a guiding light in him.
+> — Hingori, *Witnessing Greatness*, Ch.13, p.181
+
+The camp as a threshold between the two worlds, sited at cremation grounds and forests; Gurudev as the light spirits steer by — "either facilitating their rebirth or freeing them from their spiritual binds." See [[concepts/spiritual-healing]] (Ch.13).
+
+---
+
+### Miracles as Familiar as the Breath of the Wind — Devobhoomi
+*Illuminates: [[concepts/supernature]]*
+
+> In Himachal, aptly named devobhoomi, the resonance of spirituality and the acceptance of miracles are as familiar as the breath of the wind.
+> — *Witnessing Greatness*, Ch.13, p.186
+
+A land where the miraculous is ordinary — and where, even so, Gurudev's rise "stirred undercurrents of tension" at Jwalaji. See [[stories/jwalaji-khadaus-test]].
+
+---
+
+### The Khadaus as Touchstone — Telling the Evolved from the Pretender
+*Illuminates: [[synthesis/gurudev-under-test]]*
+
+> These khadaus were so powerful that only someone with immense spiritual strength could take even a single step in them. This became a way for the temple priests to differentiate an evolved spiritualist from a pretender.
+> — Raji ji, *Witnessing Greatness*, Ch.13, p.186
+
+The siddh purush's sandals as a measuring instrument: the steps one can take in them read off one's stature. Gurudev took three. See [[stories/jwalaji-khadaus-test]].

@@ -2,7 +2,7 @@
 title: Surrender
 type: concept
 sources: [guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/faith]]", "[[concepts/seva]]", "[[concepts/vairagya]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/faith]]", "[[practices/seva]]", "[[concepts/vairagya]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]"]
 created: 2026-05-05
 updated: 2026-09-28
 ---

@@ -2,7 +2,7 @@
 title: Thapa the Tantrik Tests Gurudev at Kathog
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/nisvarth-seva]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -23,4 +23,4 @@ updated: 2026-04-26
 ## Related Concepts / Entities
 
 - [[entities/mahaguru]] — Gurudev, who contained the spirit and received his attacker as a guest
-- [[concepts/nisvarth-seva]] — Gurudev's response to Thapa's hostility is consistent with his no-discrimination rule: he welcomed the man who had just tried to frighten him
+- [[practices/seva|nisvarth seva]] — Gurudev's response to Thapa's hostility is consistent with his no-discrimination rule: he welcomed the man who had just tried to frighten him

@@ -2,7 +2,7 @@
 title: Ulta Guru (The Inverted Teacher)
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/nisvarth-seva]]", "[[concepts/vairagya]]", "[[concepts/guru-disciple]]", "[[entities/mahaguru]]", "[[practices/seva]]"]
+related: ["[[practices/seva]]", "[[concepts/vairagya]]", "[[concepts/guru-disciple]]", "[[entities/mahaguru]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -52,10 +52,10 @@ The inversion was not indulgence. Gurudev corrected disciples sharply when they 
 
 ## Cross-references
 
-- [[concepts/nisvarth-seva]] — the specific form of selfless service the ulta guru enacts
+- [[practices/seva|nisvarth seva]] — the specific form of selfless service the ulta guru enacts
 - [[concepts/vairagya]] — serving without emotional investment; neither pride in serving nor resentment at being served
 - [[concepts/guru-disciple]] — the classical framework that Gurudev inverted
-- [[concepts/aatmic-equality]] — the philosophical ground of the inversion (see [[concepts/jivaatma]])
+- [[concepts/jivaatma|aatmic equality]] — the philosophical ground of the inversion
 - [[entities/mahaguru]] — the living embodiment of the concept
 - [[practices/seva]] — seva as applicable to the guru's own conduct, not only disciples'
 - [[stories/hingori-wife-dosa-correction]] — Gurudev serves Hingori's wife's unspoken need; seva of the family member as seva; redirection via structure not lecture

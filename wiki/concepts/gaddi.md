@@ -2,7 +2,7 @@
 title: Gaddi (The Guru's Seat of Power)
 type: concept
 sources: [guru_sutra_book.md]
-related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/spiritual-healing]]", "[[concepts/seva]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/spiritual-healing]]", "[[practices/seva]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-05-10
 updated: 2026-05-10
 ---
@@ -69,7 +69,7 @@ The gaddi's accumulated power makes it a target for spiritual envy and attack. O
 - [[concepts/transmission-of-power]] — the gaddi as the spatial mechanism through which power transfers between gurus and across generations
 - [[concepts/aura]] — the accumulated energy at the gaddi is stored aura
 - [[concepts/spiritual-healing]] — the gaddi as the seat from which healing seva is conducted
-- [[concepts/seva]] — the disciple's seva on the gaddi generates the residual energy that makes the seat powerful
+- [[practices/seva|seva]] — the disciple's seva on the gaddi generates the residual energy that makes the seat powerful
 - [[entities/mahaguru]] — created gaddis at every sthan, in India and abroad
 - [[stories/hingori-gaddi-sleep]] — extraordinary experiences from sleeping on Gurudev's gaddi
 - [[stories/hingori-mantra-contest]] — spiritual attack and counter at the gaddi

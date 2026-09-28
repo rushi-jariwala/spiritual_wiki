@@ -2,7 +2,7 @@
 title: The Elderly Couple Heading to the Railway Tracks
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/bittu]]", "[[concepts/nisvarth-seva]]", "[[concepts/empathy]]", "[[practices/seva]]"]
+related: ["[[entities/mahaguru]]", "[[entities/bittu]]", "[[practices/seva]]", "[[concepts/empathy]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -32,6 +32,6 @@ updated: 2026-04-26
 
 - [[entities/mahaguru]] — who tracked the couple from his room during his period of concentration; sat in the back seat because he knew; said "Your work is done" before hearing their story
 - [[entities/bittu]] — the driver; the instrument of the rescue; who heard the revelation about the railway tracks
-- [[concepts/nisvarth-seva]] — the story illustrates both its necessity (saving the couple) and its failure (the sevadaar's rudeness) in the same arc
+- [[practices/seva|nisvarth seva]] — the story illustrates both its necessity (saving the couple) and its failure (the sevadaar's rudeness) in the same arc
 - [[concepts/empathy]] — Gurudev's *bhav* teaching: he valued the sentiment behind prayer and responded to it; the sevadaar missed it
 - [[practices/seva]] — Gurudev's explicit teaching delivered in this scene: "The more seva you perform, the more you align with the consciousness supreme"

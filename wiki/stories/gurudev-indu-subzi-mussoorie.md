@@ -2,7 +2,7 @@
 title: Gurudev, Indu ji, and the Last Portion of Subzi
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/seva]]", "[[concepts/karmayoga]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/karmayoga]]"]
 created: 2026-04-25
 updated: 2026-04-25
 ---
@@ -39,5 +39,5 @@ This story is narrated by Renu ji, Gurudev's daughter, who witnessed it on a tri
 ## Related Concepts
 
 - [[entities/mahaguru]] — the living teaching; service as the governing principle even at mealtime
-- [[concepts/seva]] — nisvarth seva extends to the smallest domestic act
+- [[practices/seva|seva]] — nisvarth seva extends to the smallest domestic act
 - [[concepts/karmayoga]] — feeding as an act of karma; the pleasure of giving as a karmic instrument

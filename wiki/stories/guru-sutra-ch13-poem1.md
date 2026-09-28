@@ -2,7 +2,7 @@
 title: 'Guru Sutra Ch.13 Poem — "It''s not a gilded throne"'
 type: story
 sources: [guru_sutra_book.md]
-related: ["[[concepts/seva]]", "[[concepts/gaddi]]", "[[entities/mahaguru]]"]
+related: ["[[practices/seva]]", "[[concepts/gaddi]]", "[[entities/mahaguru]]"]
 created: 2026-05-10
 updated: 2026-05-10
 ---
@@ -20,5 +20,5 @@ updated: 2026-05-10
 
 **Related:**
 - [[concepts/gaddi]] — the seat belongs to the one who serves, not the one who seeks status
-- [[concepts/seva]] — selfless service as the qualification for the guru's seat
+- [[practices/seva|seva]] — selfless service as the qualification for the guru's seat
 - [[entities/mahaguru]] — embodiment of this principle

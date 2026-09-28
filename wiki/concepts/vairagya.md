@@ -51,7 +51,7 @@ Detachment is not indifference. Gurudev's example shows that *vairagya* at its p
 ## In Practice
 
 - The world is not abandoned; relationships are *inhabited as roles*. See [[concepts/role-play]].
-- Detachment from the perceived identity — the 'I' — is the substrate of [[concepts/non-doership|non-doership]] and [[concepts/karm-mukt|karm-mukt]].
+- Detachment from the perceived identity — the 'I' — is the substrate of [[concepts/non-doership|non-doership]] (*karm-mukt*).
 - The aspiration is not sudden severance but a progressive loosening: *vairagya* is a direction, not a destination.
 
 ## *The Guru of Gurus* — Vairagya in Action (*The Mahaguru*, pp.101–109)

@@ -2,7 +2,7 @@
 title: The Disabled Girl Who Walked at Renuka
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/sitaram-taki]]", "[[concepts/intent-as-healing]]", "[[concepts/nisvarth-seva]]"]
+related: ["[[entities/mahaguru]]", "[[entities/sitaram-taki]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -23,4 +23,4 @@ updated: 2026-04-26
 - [[entities/mahaguru]] — who directed the healing from a distance; the guidance was his, the hands were his disciples'
 - [[entities/sitaram-taki]] — who performed the healing on Gurudev's instruction
 - [[concepts/intent-as-healing]] — the technique (standing on toes, lifting) was unconventional; the healing came from Gurudev's direction and intent channelled through disciples
-- [[concepts/nisvarth-seva]] — parents carried their daughter on their backs up a steep mountain path; the seva required sacrifice on both sides
+- [[practices/seva|nisvarth seva]] — parents carried their daughter on their backs up a steep mountain path; the seva required sacrifice on both sides

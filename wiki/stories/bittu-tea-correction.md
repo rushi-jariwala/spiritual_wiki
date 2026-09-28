@@ -2,7 +2,7 @@
 title: Gurudev Serves Tea for Three Days, Then Gives Bittu Ji an Earful
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[entities/bittu]]", "[[concepts/ulta-guru]]", "[[concepts/nisvarth-seva]]"]
+related: ["[[entities/mahaguru]]", "[[entities/bittu]]", "[[concepts/ulta-guru]]", "[[practices/seva]]"]
 created: 2026-04-26
 updated: 2026-04-26
 ---
@@ -23,4 +23,4 @@ updated: 2026-04-26
 - [[entities/mahaguru]] — the ulta guru who served tea to his disciple for three days before correcting the complacency the gift had enabled
 - [[entities/bittu]] — the disciple who passed from entitlement to responsibility
 - [[concepts/ulta-guru]] — the gift of service followed by correction for taking it for granted is the precise dynamic the ulta guru concept describes
-- [[concepts/nisvarth-seva]] — the episode demonstrates that nisvarth seva does not mean unlimited indulgence; boundaries are set when love becomes laziness
+- [[practices/seva|nisvarth seva]] — the episode demonstrates that nisvarth seva does not mean unlimited indulgence; boundaries are set when love becomes laziness

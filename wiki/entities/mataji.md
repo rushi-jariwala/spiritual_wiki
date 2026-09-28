@@ -2,7 +2,7 @@
 title: Mataji (Sudesh Sharma)
 type: entity
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[concepts/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]"]
+related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[practices/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]"]
 created: 2026-04-25
 updated: 2026-05-28
 ---

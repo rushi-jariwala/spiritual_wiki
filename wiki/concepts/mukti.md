@@ -2,7 +2,7 @@
 title: Mukti
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/moksha]]", "[[concepts/samskars]]", "[[concepts/kaarna-sharir]]", "[[concepts/jivaatma]]", "[[concepts/karma]]", "[[concepts/seva]]", "[[concepts/astral-travel]]"]
+related: ["[[concepts/moksha]]", "[[concepts/samskars]]", "[[concepts/kaarna-sharir]]", "[[concepts/jivaatma]]", "[[concepts/karma]]", "[[practices/seva]]", "[[concepts/astral-travel]]"]
 created: 2026-04-16
 updated: 2026-04-16
 ---

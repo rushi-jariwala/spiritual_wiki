@@ -484,7 +484,7 @@ After Gurudev discharged his siddhis and the symbols of OM, trishul, and jyot ap
 ---
 
 ### The Spiritual Compass — True North
-*Illuminates: [[entities/mahaguru]], [[concepts/nisvarth-seva]]*
+*Illuminates: [[entities/mahaguru]], [[practices/seva|nisvarth seva]]*
 
 > "Gurudev was and will remain a Spiritual Compass guiding us to the true north."
 > — Hingori, *The Guru of Gurus*, p.109

@@ -1,10 +1,10 @@
 ---
 title: Customised Guidance
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/surrender]]", "[[concepts/diksha]]", "[[concepts/kleshas]]", "[[concepts/senses-management]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/self-worship]]", "[[entities/mahaguru]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/surrender]]", "[[concepts/diksha]]", "[[concepts/kleshas]]", "[[concepts/senses-management]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/self-worship]]", "[[entities/mahaguru]]", "[[stories/kapill-dream-fourth-eye-gurubhai]]", "[[quotes/mentorship]]"]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-09-28
 ---
 
 # Customised Guidance
@@ -105,6 +105,21 @@ The story of Ramakrishna Paramahansa under his guru Totapari is offered as an il
 
 One of the greatest curses of spiritual practice is **delusion of the mind**. The disciple must comprehend that this world in all its manifestations is a projection of the cosmic mind — maya. He must understand destiny, the laws of karma, and ultimately that he is above karma: not the doer of any deed, but an observer of destiny. See [[concepts/maya]], [[concepts/non-doership]].
 
+## *Witnessing Greatness* Ch.10 — Guidance Without Sermons
+
+The disciples' testimony confirms the principle in Gurudev's own practice. There were no discourses:
+
+> "In other places, you were greeted with sermons and hymns. But at the sthan, those traditions were absent. Gurudev's teachings were purely experiential and personal."
+> — Mrs Jolly, *Witnessing Greatness*, Ch.10, p.142
+
+> "The nature of Gurudev's spiritual guidance was customised, where certain insights were relevant to one person but not necessarily to another. This led to an unconventional approach where formal discourses or lectures were absent. The guiding philosophy was simple: every individual is an integral part of the param-aatma, and by offering solace to all life forms, one finds comfort in return."
+> — Pradeep ji, *Witnessing Greatness*, Ch.10, p.142
+
+Clad in his simple lungi, he taught from his bed "with life lessons drawn directly from his own experiences" (p.141). The customisation extended to the subtle body: he opened one gurubhai's fourth eye ([[stories/kapill-dream-fourth-eye-gurubhai]]) and "often opted to close the third eye of individuals" (p.145–146). He asked ordinary people to heal without prior skill — Surender ji of Kanpur, Kishanmohan ji of Durgapur — awakening "dormant capabilities linked to our past lives" (p.144; see [[concepts/spiritual-healing]]).
+
+> [!warning] Physical presence and the relay after his departure
+> *Guru Sutra* Ch.11 holds that customised guidance "is only possible if the guru is physically present." *Witnessing Greatness* Ch.10 closes with the question "How should we move forward after Gurudev's physical departure?" — answered by Uma ji: "Life is a relay race, and we must pass on the baton." The teachings continue; the customised guidance, by the Guru Sutra standard, passes to the disciples who now guide others. See [[quotes/mentorship]].
+
 ## The Guru's Guiding Principle
 
 > Golden Principle: "The guru must lead the disciple,
@@ -129,3 +144,5 @@ One of the greatest curses of spiritual practice is **delusion of the mind**. Th
 - [[stories/mamaji-vedji-sthan]] — customised collaboration in spiritual administration
 - [[stories/ramakrishna-totapari-kali]] — the guru removing an obstacle to the disciple's progress
 - [[stories/hingori-third-eye-opened-closed]] — Gurudev closing Hingori's third eye to avoid stagnation
+- [[stories/kapill-dream-fourth-eye-gurubhai]] — Gurudev opening a gurubhai's fourth eye (*WG* Ch.10)
+- [[quotes/mentorship]] — Ch.10 testimony on his teaching style

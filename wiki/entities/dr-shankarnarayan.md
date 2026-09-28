@@ -3,7 +3,7 @@ title: Dr. Shankarnarayan
 type: entity
 tags: [disciple, colleague]
 sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[stories/shankarnarayan-vaishali-healing]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[stories/shankarnarayan-vaishali-healing]]", "[[synthesis/guru-who-points-beyond-himself]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -43,10 +43,15 @@ Later in life, Shankarnarayan ji approached Gurudev repeatedly with an important
 
 Gurudev directed Shankarnarayan ji to visit a hilltop temple established by Adi Shankaracharya. After completing his mantras inside, he exited the temple to see Gurudev standing at a distance. Reflecting on the encounter, he shares: *"Gurudev appeared to be there, yet when I returned to the office, he had not left the office at all. Upon telling him what I saw, he responded, 'What's the big deal?' and continued his work."* This matter-of-fact response — treating bilocation as unremarkable — is characteristic of the mahaguru's relationship to his own capacities. See [[concepts/supernature]].
 
+### "You Can Become Shiv Yourself"
+
+*Witnessing Greatness*, Ch.10 (p.147): "Dr Shankarnarayan ji once quoted Gurudev, saying, 'You can become Shiv yourself'. At the time, this statement seemed impressive but unattainable for many of us." See [[synthesis/guru-who-points-beyond-himself]], [[concepts/self-worship]].
+
 ## Sources
 
 - *The Guru of Gurus*, Early Years chapter; The Mahaguru chapter
 - *Witnessing Greatness*, Ch.3 — Impossible Is Possible
+- *Witnessing Greatness*, Ch.10 — Peerless Mentorship
 
 ## Cross-references
 

@@ -2,14 +2,14 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]", "[[quotes/mentorship]]"]
 created: 2026-04-12
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Quotes on the Guru
 
-Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teachership.
+Quotes related to [[concepts/guru-disciple]] and the nature of spiritual teachership. Gurudev's mentorship style as his disciples recall it (*Witnessing Greatness* Ch.10) is collected in [[quotes/mentorship]].
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Kapill's Vision of Shiv in Himself
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/aatma]]", "[[concepts/jivaatma]]", "[[entities/kapill]]", "[[entities/hingori]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/self-worship]]", "[[concepts/aatma]]", "[[concepts/jivaatma]]", "[[entities/kapill]]", "[[entities/hingori]", "[[entities/mahaguru]]", "[[synthesis/guru-who-points-beyond-himself]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Kapill's Vision of Shiv in Himself
@@ -26,6 +26,7 @@ The story is Hingori's cleanest illustration of the *Tat Twam Asi* principle in 
 The astrologer's prediction — fulfilled years later — also confirms the destiny-framework: the vision was already encoded in the life script.
 
 - [[concepts/self-worship]] — the philosophical core of self-worship demonstrated experientially
+- [[entities/dr-shankarnarayan]] — quotes Gurudev in *Witnessing Greatness* Ch.10: "You can become Shiv yourself" (p.147); see [[synthesis/guru-who-points-beyond-himself]]
 - [[concepts/aatma]] — "there was no difference between Shiv and him since the same consciousness supreme existed in everyone"
 - [[concepts/jivaatma]] — the individual soul that, when seen clearly, is indistinguishable from the universal
 - [[concepts/destiny]] — the vision was predicted years in advance

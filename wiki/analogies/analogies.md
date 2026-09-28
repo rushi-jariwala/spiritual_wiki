@@ -182,7 +182,7 @@ Disciples coined the term "**Judge G's courtroom**" for Gurudev's exacting stand
 > A siddh guru can judge a seed and foresee the potential tree.
 > — Hingori, *Guru Sutra*, Ch.5, p.38
 
-The guru does not see the disciple at their current cross-section — he sees the whole organism they are becoming. The seed carries the entire tree encoded within it; the guru reads that code where others see only a seed. Examples: Gurudev telling Mrs. Jolly that Hingori would attract many people; Hingori seeing the future saint in the alcoholic Rajeev; Jesus foreseeing both Peter's denial and Peter's eventual role as a foundation-stone. See [[concepts/guru-disciple]], [[stories/rajeev-alcoholic-to-saint]].
+The guru does not see the disciple at their current cross-section — he sees the whole organism they are becoming. The seed carries the entire tree encoded within it; the guru reads that code where others see only a seed. Examples (cf. Speaking to the Person They Would Become, *WG* Ch.10): Gurudev telling Mrs. Jolly that Hingori would attract many people; Hingori seeing the future saint in the alcoholic Rajeev; Jesus foreseeing both Peter's denial and Peter's eventual role as a foundation-stone. See [[concepts/guru-disciple]], [[stories/rajeev-alcoholic-to-saint]].
 
 ---
 
@@ -488,6 +488,8 @@ After Gurudev discharged his siddhis and the symbols of OM, trishul, and jyot ap
 
 > "Gurudev was and will remain a Spiritual Compass guiding us to the true north."
 > — Hingori, *The Guru of Gurus*, p.109
+
+Repeated in *Witnessing Greatness*, Ch.10 (p.148): "Gurudev's teachings are like a compass pointing towards the true north, providing guidance when we feel lost. They offer us opportunities to learn and, more importantly, unlearn." See [[synthesis/guru-who-points-beyond-himself]].
 
 The compass metaphor is precise: a compass does not walk the path for you, does not coerce you toward north, and works whether or not you acknowledge it. Gurudev's guidance was of the same quality — perpetual, directionless in itself (pointing outward, not toward itself), and accurate even after his physical death. The "true north" is the divine within; the compass is the guru who refuses to point anywhere else.
 
@@ -1561,4 +1563,56 @@ One healer on two planes: the person can be disappointed; the guru heals anyway.
 > — Gurudev to Rajpal ji, *Witnessing Greatness*, Ch.9, p.139
 
 Altering fate does not oppose God's plan; because God lives in the sufferer, healing the sufferer comforts God. See [[stories/rajpal-heathrow-bhagwan-authority]].
+
+---
+
+## Peerless Mentorship — Witnessing Greatness (Ch.10)
+
+### As Natural as a River's Flow
+*Illuminates: [[concepts/vairagya]], [[concepts/customised-guidance]]*
+
+> "His path to spiritual evolution was lined with discipline," Bindu ji observes, "yet it was remarkably straightforward. It was as natural as a river's flow. You visited the sthan, paid your respects, did seva, and sometimes listened to his spiritual insights before returning home."
+> — *Witnessing Greatness*, Ch.10, p.143
+
+Discipline without strain — the *sahaj* path. See [[quotes/mentorship]].
+
+---
+
+### Pre-Cooked Meals Awaiting Microwaving
+*Illuminates: [[concepts/spiritual-healing]], [[concepts/transmission-of-power]], [[concepts/samskars]]*
+
+> We were like 'pre-cooked meals' awaiting microwaving. Gurudev pressed the right buttons to awaken our dormant capabilities linked to our past lives.
+> — Hingori, *Witnessing Greatness*, Ch.10, p.144
+
+The capability is already cooked in past lives; the guru only presses the buttons. Why untrained disciples could heal on his word. Cf. Pre-Cooked Bread (Transmission of Power), where the grace is the guru's ready-made gift. See [[concepts/spiritual-healing]] (Ch.10).
+
+---
+
+### The Fourth Eye as Tearing Tissue Paper
+*Illuminates: [[concepts/stages-of-spiritual-transformation]]*
+
+> Unlike the third eye located on the forehead, the fourth eye is said to be at the back of the head. Its activation is likened to the gentle tearing of thin tissue paper, bestowing the unique ability to perceive from behind.
+> — *Witnessing Greatness*, Ch.10, p.145
+
+Matches Hingori's own "something like a thin paper tore at the back of my head" (*The Guru of Gurus*). See [[stories/kapill-dream-fourth-eye-gurubhai]].
+
+---
+
+### Speaking to the Person They Would Become
+*Illuminates: [[concepts/ek-vakyas]], [[concepts/destiny]]*
+
+> It seemed as though he addressed not the individual present before him, but rather the person they were destined to evolve into in the future.
+> — Hingori, *Witnessing Greatness*, Ch.10, p.143
+
+Why the ek vakyas were understood only decades later. Cf. Seed and Potential Tree.
+
+---
+
+### Life as a Relay Race — Passing the Baton
+*Illuminates: [[entities/mahaguru]], [[practices/seva]]*
+
+> "His vast ocean of wisdom remains for us to access, and more people must become aware of it. Life is a relay race, and we must pass on the baton to keep his legacy alive."
+> — Uma ji, *Witnessing Greatness*, Ch.10, p.148
+
+The disciples' answer to "How should we move forward after Gurudev's physical departure?" Cf. The Invisible Escalator — The 250-Year Spiritual Relay (Ch.4).
 

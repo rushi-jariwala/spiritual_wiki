@@ -1,10 +1,10 @@
 ---
 title: Four Years of Destroying the Mind — Gurudev's Training in Non-Duality
 type: story
-sources: [guru_sutra_book.md]
-related: ["[[concepts/surrender]]", "[[concepts/non-doership]]", "[[concepts/vairagya]]", "[[concepts/maya]]", "[[concepts/citt-vritti-nirodh]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/surrender]]", "[[concepts/non-doership]]", "[[concepts/vairagya]]", "[[concepts/maya]]", "[[concepts/citt-vritti-nirodh]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[concepts/ek-vakyas]]", "[[quotes/mentorship]]"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-09-28
 ---
 
 # Four Years of Destroying the Mind — Gurudev's Training in Non-Duality
@@ -27,6 +27,8 @@ updated: 2026-05-05
 During this period, **Mohna** — a rough and gruff devotee at the sthan — would verbally bully Hingori. Having lost all confidence in himself through the mind-demolition process, Hingori had become meek and nervous. When Mohna was ordering him around one day, Gurudev called Hingori to his room, touched him on the head, and forbade him from being dominated by anyone again. He was now to respect himself as much as he respected others — never to bow before any man or spiritual power, not even the deities. He could be respectful and show humility, but never subservience.
 
 Returning to the room, Mohna noticed the change in Hingori's body language. "Instead of being dominated, I gave him a shot of counter aggression he least expected. He has been in awe of me, ever since." See [[stories/hingori-chira-self-esteem]] (*The Guru of Gurus* version of the same story).
+
+> [!warning] Ch.10 of *Witnessing Greatness* gives the instruction as Gurudev's ek vakya in the same order: "If you want to conquer sorrow, first learn to conquer joy" (p.143). *The Guru of Gurus* (p.151) reverses it: "To conquer happiness, you must conquer sorrow." See [[stories/hingori-bhakti-journey]], [[concepts/ek-vakyas]].
 
 ## Source
 

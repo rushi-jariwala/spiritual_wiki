@@ -2,7 +2,7 @@
 title: Transmission of Power
 type: concept
 sources: [guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/power-symbols]]", "[[concepts/mantra-transfer]]", "[[concepts/gaddi]]", "[[concepts/spiritual-attacks]]", "[[concepts/tantra]]", "[[concepts/guru-kripa]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+related: ["[[concepts/power-symbols]]", "[[concepts/mantra-transfer]]", "[[concepts/gaddi]]", "[[concepts/spiritual-attacks]]", "[[concepts/tantra]]", "[[concepts/guru-kripa]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[quotes/mentorship]]"]
 created: 2026-05-10
 updated: 2026-09-28
 ---
@@ -128,6 +128,8 @@ This connects to [[stories/hingori-renuka-temple-attack]], where the lesson was 
 > — Hingori, *Witnessing Greatness*, Ch.9, p.132
 
 Testimonies: [[stories/ravi-ji-us-brain-tumour]], [[stories/rishabh-gopiganj-vision-gratitude]], [[stories/gajendra-lonavala-paralysed-twins]], [[stories/kanika-bhalla-clot-vanished]], [[stories/devraj-khare-mothers-choice]]. Even a technique could be passed on: Punchoo ji's thumb-and-forefinger headache cure ([[stories/punchoo-migraine-hundred-people]]).
+
+> [!tip] *Witnessing Greatness* Ch.10 pairs with the "pre-cooked bread" image: the disciples were "like 'pre-cooked meals' awaiting microwaving. Gurudev pressed the right buttons to awaken our dormant capabilities linked to our past lives" (p.144). Here the capability is already in the disciple from past lives; the guru switches it on. See [[concepts/spiritual-healing]] (Ch.10), [[analogies/analogies]].
 
 ## Cross-references
 

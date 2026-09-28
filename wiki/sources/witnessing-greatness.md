@@ -2,7 +2,7 @@
 title: Witnessing Greatness
 type: source
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]", "[[concepts/spiritual-healing]]", "[[synthesis/conditions-of-healing]]"]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[synthesis/tests-in-disguise]]", "[[concepts/spiritual-healing]]", "[[synthesis/conditions-of-healing]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[concepts/customised-guidance]]"]
 created: 2026-05-20
 updated: 2026-09-28
 ---
@@ -44,7 +44,7 @@ updated: 2026-09-28
 | 7 | Deception of Perception | 89–96 | ✅ ingested 2026-09-28 |
 | 8 | Cosmic Collaborators | 97–116 | ✅ ingested 2026-09-28 |
 | 9 | Sage of Solace | 117–140 | ✅ ingested 2026-09-28 |
-| 10 | Peerless Mentorship | — | ⬜ pending |
+| 10 | Peerless Mentorship | 141–148 | ✅ ingested 2026-09-28 |
 | 11 | Sacred Syllables | — | ⬜ pending |
 | 12 | Elemental Symphony | — | ⬜ pending |
 | 13 | Training Trails | — | ⬜ pending |
@@ -55,6 +55,70 @@ updated: 2026-09-28
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.10 — Peerless Mentorship, pp.141–148)
+
+- **Trust yourself more than the herbs**: the chapter opens with Hingori's herbal diary and Gurudev's kaagaz correction, read here as a lesson in "the immense power of the human aura" channelled through a focused mind.
+- **Teaching without sermons**: in a lungi, from his bed, from his own experience; no sermons or hymns (Mrs Jolly); customised insights, no discourses (Pradeep ji).
+- **Sahaj**: bhakti as incremental and effortless; "Detachment within attachment" (Bindu ji); fully present with family, business and devotion; "Our only competition was with ourselves."
+- **Transform your gunas**: "Merely reciting mantras is not enough" (Uma Prabhu ji).
+- **Ek vakyas addressed to the future self**: understood decades later; "Always walk with death by your side"; "If you want to conquer sorrow, first learn to conquer joy."
+- **Ordinary people made healers**: Surender ji of Kanpur; Kishanmohan ji of Durgapur; "pre-cooked meals awaiting microwaving"; the obstacle of not accepting one's own worth.
+- **Subtle-body guidance**: Kapill ji's dream of Gurudev opening a gurubhai's fourth eye; Gurudev often closing third eyes.
+- **A guru who points beyond himself**: "us surpassing his achievements" (Santlal ji); "refrain from idolising me" (Renu ji); "You can become Shiv yourself" (Dr Shankarnarayan ji) — alongside "Total surrender" (Puran ji). New synthesis: [[synthesis/guru-who-points-beyond-himself]].
+- **After his departure**: "Life is a relay race" (Uma ji); his teachings as a compass to the true north.
+
+## Notable Quotes (Ch.10)
+
+> "Tu kaagaz bhi maathe pe lagaa ke usko de degaa, toh woh theek ho jaayega (Even if you bless a piece of paper and give it to a visitor, it will serve as a cure)".
+> — Gurudev to Hingori, *Witnessing Greatness*, Ch.10, p.141
+
+> "Bhakti with Gurudev was sahaj… 'Detachment within attachment' is what he preached."
+> — Bindu ji, *Witnessing Greatness*, Ch.10, p.142
+
+> It seemed as though he addressed not the individual present before him, but rather the person they were destined to evolve into in the future.
+> — Hingori, *Witnessing Greatness*, Ch.10, p.143
+
+> "As you advance in your spiritual journey, refrain from idolising me. Focus instead on transcending the act of worship."
+> — Gurudev to Renu ji, *Witnessing Greatness*, Ch.10, p.147
+
+> "Life is a relay race, and we must pass on the baton to keep his legacy alive."
+> — Uma ji, *Witnessing Greatness*, Ch.10, p.148
+
+Full collection: [[quotes/mentorship]].
+
+## Stories Extracted (Ch.10)
+
+- [[stories/kapill-dream-fourth-eye-gurubhai]] — new
+- [[stories/gurudev-diary-guru-not-doctor]] — enriched: Ch.10 telling (herbs worked once blessed; wrong remedies still worked; "15 words"; the human aura)
+
+Short anecdotes and testimonies kept inline: Kishanmohan ji's maternal uncle and Surender ji's testimony → [[concepts/spiritual-healing]] (Ch.10); Mrs Jolly and Pradeep ji → [[concepts/customised-guidance]]; Bindu ji's sahaj → [[concepts/vairagya]]; Uma Prabhu ji → [[concepts/gunas]]; Puran ji's "Total surrender" → [[concepts/surrender]]; Santlal ji → [[entities/santlal-ji]], [[concepts/guru-disciple]]; Renu ji → [[concepts/guru-vandana]]; Dr Shankarnarayan ji → [[concepts/self-worship]], [[entities/dr-shankarnarayan]]; Uma ji's relay race → [[analogies/analogies]], [[quotes/mentorship]]. Mrs Jolly, Pradeep ji, Bindu ji, Uma Prabhu ji, Surender ji, Kishanmohan ji, Puran ji, Renu ji and Uma ji kept as inline mentions (no entity pages).
+
+## New Concepts Introduced (Ch.10)
+
+- No new concept page (mentorship already covered by [[concepts/customised-guidance]] and [[concepts/ek-vakyas]]; sahaj folded into [[concepts/vairagya]])
+- New quote collection: [[quotes/mentorship]]
+- New synthesis: [[synthesis/guru-who-points-beyond-himself]]
+- New analogies: river's flow; pre-cooked meals awaiting microwaving; fourth eye as tearing tissue paper; speaking to the person they would become; life as a relay race. Ch.10 citation added to "The Spiritual Compass — True North."
+
+## Contradictions / Tensions (Ch.10)
+
+> [!warning] The diary story — two tellings, two lessons
+> *The Guru of Gurus* (pp.97–98): "Tu doctor kyon ban raha hai. Maine tujhe guru banaya hai…" — lesson: "the guru's intent manifests as healing." Ch.10 (p.141): only the kaagaz sentence ("These 15 words"); the herbs worked "once I blessed them"; wrong remedies also worked; lesson: "the immense power of the human aura" and to "trust in myself more than the herbs." See [[stories/gurudev-diary-guru-not-doctor]].
+
+> [!warning] Conquer sorrow / conquer joy — order reversed
+> *The Guru of Gurus* (p.151): "To conquer happiness, you must conquer sorrow." *Guru Sutra* Ch.9 and Ch.10 (p.143): "If you want to conquer sorrow, first learn to conquer joy." See [[stories/hingori-mind-training-non-duality]], [[concepts/stages-of-spiritual-transformation]].
+
+> [!warning] "Refrain from idolising me" vs. guru-worship practices
+> Ch.10 (p.147) vs. *The Guru of Gurus* (p.153, "Whenever you see an image of me, remind yourself that you have discovered god") and *Guru Sutra* Ch.14 (meditation on the guru). Also sits beside Puran ji's "Total surrender" in the same chapter. See [[concepts/guru-vandana]], [[synthesis/guru-who-points-beyond-himself]].
+
+> [!warning] Customised guidance needs physical presence — and after his departure?
+> *Guru Sutra* Ch.11: customised guidance "is only possible if the guru is physically present." Ch.10 closes on how to go on after his physical departure: the relay race and the compass. See [[concepts/customised-guidance]].
+
+> [!question] Names
+> Pradeep ji (customised guidance) is presumably the Pradeep ji of Ch.8–9 — not confirmed. "Uma Prabhu ji" and "Uma ji" are both used in Ch.10; likely the same person. Surender ji of Kanpur vs. Surenderji of [[stories/surenderji-murder-plan]] — unconfirmed.
+
+---
 
 ## Key Themes (Ch.9 — Sage of Solace, pp.117–140)
 

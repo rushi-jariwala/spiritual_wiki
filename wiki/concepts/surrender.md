@@ -1,10 +1,10 @@
 ---
 title: Surrender
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/guru-disciple]]", "[[concepts/faith]]", "[[concepts/seva]]", "[[concepts/vairagya]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/faith]]", "[[concepts/seva]]", "[[concepts/vairagya]]", "[[concepts/non-doership]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[practices/seva]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]"]
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-09-28
 ---
 
 # Surrender
@@ -104,6 +104,17 @@ Surrender is misunderstood when the disciple uses the guru as a crutch rather th
 
 > [!tip] The key distinction is between dependence for spiritual direction (the guru's proper domain) and dependence for material decisions (a category error that reduces a spiritual instrument to an oracle for trivialities).
 
+### "Total Surrender" — Puran Ji's Answer (*Witnessing Greatness* Ch.10)
+
+> I asked Puran ji a direct question: "What do you think Gurudev expected from his disciples?"
+>
+> His response was brief yet on point: "Total surrender."
+>
+> The concept of surrender, encapsulated in just nine letters, proved 900 times more challenging to understand than we initially thought. True surrender demands relinquishing ego, body, mind, and spirit. In this complete submission, a profound connection with the guru is established, making the disciple and guru inseparable. The disciple understands that they and the guru are manifestations of the same supreme consciousness but at different stages of their spiritual journey. Through total surrender, the disciple's mind ceases to exist at an individual level and begins to exist only in relation to the guru, functioning solely as an instrument of this elevated state.
+> — Hingori, *Witnessing Greatness*, Ch.10, pp.146–147
+
+The same chapter records Gurudev telling Renu ji, "refrain from idolising me" (p.147). See [[synthesis/guru-who-points-beyond-himself]] for how the two sit together.
+
 ## Quotes
 
 > "The greatness of a man's power is the measure of his surrender."
@@ -135,4 +146,6 @@ See also [[stories/guru-sutra-ch9-kabir-poem]], [[stories/guru-sutra-ch9-poem-we
 - [[concepts/stages-of-spiritual-transformation]] — Surrender is the defining act of the Disciple stage (Stage 4) and the gateway to Gyan → Bhakti → Divya Gyan
 - [[concepts/guru-vandana]] — the coconut offering on Guru Purnima as a gesture of surrender; after-death surrender as the continuation of the relationship
 - [[stories/hingori-arthritis-cure]] · [[stories/hingori-family-business-seva]] · [[stories/hingori-dhann-airfare]] · [[stories/hingori-wallet-lost-found]] · [[stories/hingori-seva-spirit-availability]] · [[stories/hingori-mind-training-non-duality]]
+- [[quotes/mentorship]] — Puran ji's "Total surrender" (*WG* Ch.10)
+- [[synthesis/guru-who-points-beyond-himself]] — total surrender alongside "refrain from idolising me"
 - [[stories/hingori-chira-self-esteem]] — The endpoint: after full surrender, the guru restores the disciple's dignity

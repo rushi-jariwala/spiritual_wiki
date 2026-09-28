@@ -2,7 +2,7 @@
 title: Spiritual Healing
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/faith]]", "[[concepts/spiritual-attacks]]", "[[synthesis/conditions-of-healing]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/aura]]", "[[concepts/intent-as-healing]]", "[[concepts/non-doership]]", "[[concepts/pitra-peeda]]", "[[concepts/sukshma-sharir]]", "[[concepts/guru-tattva]]", "[[practices/seva]]", "[[concepts/faith]]", "[[concepts/spiritual-attacks]]", "[[synthesis/conditions-of-healing]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -266,6 +266,17 @@ See [[concepts/aura]] and [[analogies/analogies#Vessel Consciousness in Healing]
 > — Gurudev to Rajpal ji, *Witnessing Greatness*, Ch.9, p.139
 
 Full dialogue: [[stories/rajpal-heathrow-bhagwan-authority]]. Healing is framed as "soothing the divine presence within them" — "a restorative act that brought balance to the collective consciousness" (p.140).
+
+## *Witnessing Greatness* Ch.10 — Ordinary People Made Healers
+
+> "Gurudev asked any random person, who had no idea how, to start curing people. How could they have possibly known how to heal? They obeyed what Gurudev told them, and people found relief. Only a very evolved being and exceptional mentor can help others reach the level to which he helped us evolve."
+> — Surender ji (Kanpur), *Witnessing Greatness*, Ch.10, p.144
+
+*Anecdote:*
+> Kishanmohan ji, who does seva in Durgapur, West Bengal, shares a personal anecdote that illustrates this beautifully: "Gurudev once told me that anyone I touched would experience healing. Following Gurudev's guidance, I treated my maternal uncle, and he felt better. I could not comprehend how this healing occurred at the time—it was a mystery to me."
+> — *Witnessing Greatness*, Ch.10, p.144
+
+Hingori's explanation: the disciples were "like 'pre-cooked meals' awaiting microwaving. Gurudev pressed the right buttons to awaken our dormant capabilities linked to our past lives" (p.144). The obstacle, he says, was self-evaluation: "Our inability to acknowledge and accept our worth became a stumbling block in our journey of self-discovery" (p.144; see [[concepts/self-acceptance]]). The chapter opens with the same lesson given to Hingori — trust yourself more than the herbs ([[stories/gurudev-diary-guru-not-doctor]]). See [[synthesis/guru-who-points-beyond-himself]], [[quotes/mentorship]].
 
 ## Notable Stories
 

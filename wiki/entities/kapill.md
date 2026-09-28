@@ -1,10 +1,10 @@
 ---
 title: Kapill
 type: entity
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[stories/kapill-shiv-in-himself]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[stories/kapill-shiv-in-himself]]", "[[stories/kapill-dream-fourth-eye-gurubhai]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Kapill
@@ -33,9 +33,14 @@ Kapill is cited in Ch.6 as an example of transcending envy:
 
 The quality referenced is promoting others before oneself. This is one of the rare ways in which a disciple can rise in the guru's regard without seeking to — and in doing so, outpace those who came earlier but competed for recognition. See [[concepts/guru-disciple]] — Envy section.
 
+### The Fourth-Eye Dream (*Witnessing Greatness* Ch.10)
+
+Named in full as **Kapill Malhotra ji**, "who oversees a sthan in the serene hill station of Lonavala near Mumbai." He dreamt of walking with Gurudev, Guruji and a gurubhai; Gurudev placed his right hand on the gurubhai's *talvi* and told Kapill ji, "Maine iska kaam kar diya hai (I have done his work)" — which he understood as the opening of the gurubhai's fourth eye. See [[stories/kapill-dream-fourth-eye-gurubhai]].
+
 ## Cross-references
 
 - [[concepts/self-worship]] — his vision is one of Hingori's primary examples of spiritual experience as a faith-builder for self-worship
 - [[concepts/astral-travel]] — the gati experience is a first-person demonstration of *gati* as described in Ch.VI
 - [[entities/mahaguru]] — Gurudev deciphers the Shiv vision; Kapill practises at the Mumbai sthan
+- [[stories/kapill-dream-fourth-eye-gurubhai]] — the fourth-eye dream (*WG* Ch.10)
 - [[concepts/guru-disciple]] — cited in Ch.6 as a disciple who gained Hingori's respect by promoting others before himself, thereby superseding peers who arrived earlier

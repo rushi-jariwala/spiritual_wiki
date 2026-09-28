@@ -1,10 +1,10 @@
 ---
 title: Self-Worship
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md]
-related: ["[[concepts/self-love]]", "[[concepts/self-acceptance]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/mukti]]", "[[concepts/customised-guidance]]", "[[entities/hingori]]", "[[entities/guru-vashisht]]", "[[entities/mahaguru]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/self-love]]", "[[concepts/self-acceptance]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/mukti]]", "[[concepts/customised-guidance]]", "[[entities/hingori]]", "[[entities/guru-vashisht]]", "[[entities/mahaguru]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
 created: 2026-04-22
-updated: 2026-05-07
+updated: 2026-09-28
 ---
 
 # Self-Worship
@@ -154,6 +154,15 @@ Guru Vashisht declined *moksh* to remain and help others climb the same path —
 ## Cosmic Currency Revisited
 
 Self-worship and seva build *cosmic currency* — the aura/shakti that the spirit body carries into the afterlife. Charity done in the name of ancestors also adds to their cosmic currency. The self-worship exercises therefore serve a dual function: building self-identity *and* building the soul's post-death wealth. See [[concepts/aura]].
+
+## *Witnessing Greatness* Ch.10 — "You Can Become Shiv Yourself"
+
+The chapter's footnote on *bhakti*: "Scriptures qualify it as intense love and devotion to a personal form of God. However, we qualify it as unemotional self-worship" (p.142).
+
+> Dr Shankarnarayan ji once quoted Gurudev, saying, "You can become Shiv yourself". At the time, this statement seemed impressive but unattainable for many of us. But after years of practical experience and surrendering to Gurudev's teachings, we have come to understand that the potential to realise our divinity and share our realisations with others lies in each of us.
+> — Hingori, *Witnessing Greatness*, Ch.10, p.147
+
+On the same page Gurudev tells Renu ji to "focus instead on transcending the act of worship" ([[concepts/guru-vandana]]). Cf. [[stories/kapill-shiv-in-himself]] — the same teaching as a vision. See [[synthesis/guru-who-points-beyond-himself]].
 
 ## Cross-References
 

@@ -3,9 +3,9 @@ title: Santlal Ji
 type: entity
 tags: [disciple]
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/destiny]]", "[[concepts/faith]]", "[[concepts/guru-disciple]]", "[[stories/santlal-ji-journey-to-gurudev]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/destiny]]", "[[concepts/faith]]", "[[concepts/guru-disciple]]", "[[stories/santlal-ji-journey-to-gurudev]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-09-28
 ---
 
 # Santlal Ji
@@ -31,6 +31,16 @@ Gurudev revealed to Santlal ji that the bond between them extended across **nine
 Gurudev also revealed that the blessings bestowed upon Santlal ji by his mother had advanced their destined encounter by **two years**. This is one of the rare moments in the corpus where a third person's intervention modifies the timing (though not the substance) of a destined meeting.
 
 > [!tip] This detail sits in subtle tension with destiny as fully fixed. Hingori does not resolve it — the mother's blessings appear to operate *within* destiny, shifting timing but not the fact of the meeting. See the Contradictions section of [[sources/witnessing-greatness]].
+
+### "Us Surpassing His Achievements" (*Witnessing Greatness* Ch.10)
+
+> "Gurudev would assess our spiritual growth using his metrics. His goal was always to encourage our self-improvement and spiritual transformation. He used to say that our true accomplishment would be us surpassing his achievements."
+> — Santlal ji, *Witnessing Greatness*, Ch.10, p.146
+
+> "His generosity knew no bounds, and his eagerness to help was unparalleled. While it is likely that many gurus possess similar traits, I can confidently say I have never encountered anyone who both preached and practised these virtues to the extent he did. Meeting him was a turning point in my life; he taught me how to truly live. His unwavering commitment to alleviating people's sufferings, regardless of the effort required, was truly remarkable. Finding a guru who embodies Gurudev's qualities and characteristics is nearly impossible."
+> — Santlal ji, *Witnessing Greatness*, Ch.10, p.146
+
+See [[synthesis/guru-who-points-beyond-himself]], [[concepts/guru-disciple]] (Disciples Can Evolve Beyond Their Guru).
 
 ## Notable Stories
 

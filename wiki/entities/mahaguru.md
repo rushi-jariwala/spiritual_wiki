@@ -3,7 +3,7 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/spiritual-alliances]]", "[[quotes/mentorship]]", "[[synthesis/guru-who-points-beyond-himself]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -475,6 +475,10 @@ Gurudev as coordinator of the devi-devtas — "Imagine the prime minister coordi
 ## Sage of Solace — The Healer (*Witnessing Greatness*, Ch.9)
 
 "Gurudev channelled a significant portion of his spiritual powers towards healing man, beast, and spirit," replenishing his reserves "through seva and mantra chanting" and the cooperation of his spiritual allies (pp.119–120). He saw every visitor on "an ethereal screen before me, visible only to my eyes" (to Das Saheb, p.121), and kept 8,000 to 10,000 photographs under his mattress for healing or life extension. Hingori distinguishes his **physical form**, which could be irritated by non-compliance, from his **guru form**, which "offered unconditional healing" (p.128). He started seva in Mumbai at the Sethi residence and his first sthan outside Gurgaon at Guddan ji's home in Kanpur. To Rajpal ji: "I reconfigure their fate; I relieve their suffering, for I am their guru." See [[concepts/spiritual-healing]] (Ch.9 section), [[synthesis/conditions-of-healing]], [[stories/yash-sethi-dermatomyositis]], [[stories/pappu-finger-regeneration]], [[stories/sahani-london-photo-mattress]], [[stories/hari-ram-spirit-nigambhod]].
+
+## Peerless Mentorship (*Witnessing Greatness*, Ch.10)
+
+"The mahaguru defied convention. Clad in his simple lungi, he would sit on his bed in his modest bedroom, engaging those around him with life lessons drawn directly from his own experiences" (p.141). No sermons or hymns (Mrs Jolly); customised insight in place of discourses (Pradeep ji); bhakti that was *sahaj* — "Detachment within attachment" (Bindu ji); "Merely reciting mantras is not enough… transform your gunas" (Uma Prabhu ji). He asked untrained people to heal (Surender ji, Kishanmohan ji), opened a gurubhai's fourth eye in Kapill ji's dream and often closed disciples' third eyes. He expected "Total surrender" (Puran ji), yet said "our true accomplishment would be us surpassing his achievements" (Santlal ji), "refrain from idolising me" (Renu ji) and "You can become Shiv yourself" (Dr Shankarnarayan ji). Uma ji on the way forward: "Life is a relay race, and we must pass on the baton." See [[quotes/mentorship]], [[synthesis/guru-who-points-beyond-himself]], [[stories/kapill-dream-fourth-eye-gurubhai]], [[concepts/customised-guidance]].
 
 ## Notable Stories
 

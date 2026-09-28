@@ -1,10 +1,10 @@
 ---
 title: Vairagya (Detachment)
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/gunas]]", "[[concepts/kleshas]]", "[[concepts/role-play]]", "[[concepts/empathy]]", "[[concepts/samskars]]", "[[concepts/moksha]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/gunas]]", "[[concepts/kleshas]]", "[[concepts/role-play]]", "[[concepts/empathy]]", "[[concepts/samskars]]", "[[concepts/moksha]]", "[[quotes/mentorship]]", "[[concepts/grihasth-ashram]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Vairagya (Detachment)
@@ -83,6 +83,18 @@ This is *vairagya* operating at full integration: the love is real in its effect
 This is the final destination of *vairagya* as a practice: not the suppression of joy and pain, but the natural subsidence of both when the 'I' is no longer claiming authorship over the act.
 
 > [!tip] *Witnessing Greatness* Ch.6 adds a domestic witness to this pattern. Renu ji confronted Gurudev about his absence as a father; his reply — "One day you will understand what true love is" — was understood by her only after his passing. The narrator's gloss: "Love is like radiation permeating everything, unrestricted by boundaries. It should envelop everyone like a fragrance, not just a select few." This is the same vairagya teaching seen from the children's vantage point: the love that belonged to no one could reach everyone. The family felt the structural cost of this; the disciples experienced its structural benefit. The two faces of the same condition. See [[stories/renu-gurudev-confrontation-on-love]].
+
+## Sahaj — Detachment Within Attachment (*Witnessing Greatness* Ch.10)
+
+Bindu ji names Gurudev's mentorship style with one word, *sahaj* (effortless, or spontaneous):
+
+> "Bhakti with Gurudev was sahaj. It unfolded as a journey of incremental steps. It was less about renouncing the world or adopting asceticism and more about achieving equilibrium—engaging with familial and societal responsibilities while cultivating a spirit of detachment. 'Detachment within attachment' is what he preached."
+> — Bindu ji, *Witnessing Greatness*, Ch.10, p.142
+
+> Gurudev stressed the significance of being fully present in all facets of life—be it with family, in business endeavours, or spiritual devotion.
+> — Hingori, *Witnessing Greatness*, Ch.10, p.142
+
+Two ek vakyas in the same chapter point the same way: "Always walk with death by your side" and "If you want to conquer sorrow, first learn to conquer joy" (p.143). See [[quotes/mentorship]], [[concepts/grihasth-ashram]].
 
 ## Cross-references
 

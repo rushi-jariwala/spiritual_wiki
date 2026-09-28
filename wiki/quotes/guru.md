@@ -2,7 +2,7 @@
 title: Quotes on the Guru
 type: quote-collection
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]", "[[quotes/mentorship]]"]
+related: ["[[concepts/guru-disciple]]", "[[stories/kathog-suresh-kohli-vision]]", "[[concepts/guru-kripa]]", "[[concepts/guru-awelna]]", "[[concepts/guru-vandana]]", "[[entities/mahaguru]]", "[[entities/guru-nanak]]", "[[concepts/faith]]", "[[concepts/customised-guidance]]", "[[concepts/maturity-of-a-guru]]", "[[entities/buddhe-baba]]", "[[quotes/mentorship]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -1044,3 +1044,13 @@ See [[stories/guru-nanak-river-bain]] · [[entities/guru-nanak]].
 > Our spirit tries to instil boredom to dull our focus on the outside or external environment. By being too focused on the external environment, we deplete our aura by wasting it on pleasure seeking.
 > — Hingori, *Guru Sutra*, Ch.19, p.198
 [[concepts/boredom]] · [[concepts/aura]]
+
+## Training Trails (*Witnessing Greatness* Ch.13)
+
+> "If you see me that way again, you will have met God."
+> — Gurudev to Suresh Kohli ji, *Witnessing Greatness*, Ch.13, p.182
+[[stories/kathog-suresh-kohli-vision]] · [[entities/mahaguru]]
+
+> "This is the God I was looking for. I have finally found him!"
+> — Suresh Kohli ji, *Witnessing Greatness*, Ch.13, p.182
+[[stories/kathog-suresh-kohli-vision]] · [[concepts/guru-disciple]]

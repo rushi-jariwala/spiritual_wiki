@@ -2,7 +2,7 @@
 title: Gurudev and Parshuram Ji Form a Spiritual Alliance at Renuka
 type: story
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/spiritual-alliances]]", "[[stories/hingori-renuka-temple-attack]]", "[[stories/pradeep-dattatreya-hill-temple]]"]
+related: ["[[entities/mahaguru]]", "[[stories/renu-renuka-parshuram-test]]", "[[stories/hingori-renuka-shivling-om]]", "[[entities/bittu]]", "[[synthesis/gurudev-under-test]]", "[[practices/seva]]", "[[concepts/spiritual-alliances]]", "[[stories/hingori-renuka-temple-attack]]", "[[stories/pradeep-dattatreya-hill-temple]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -37,6 +37,25 @@ updated: 2026-09-28
 > — *Witnessing Greatness*, Ch.8, pp.100–101
 
 New in this version: the 27 → 18 → 9-foot diminishing forms; the rule of consent over the domain; the sthan named as **Bayri**; the guardian panther. Pradeep ji's own vision of Parshuram ji rising from a clear lake on khadaus, nine feet tall with "strong, bright red eyes," is in [[concepts/spiritual-alliances]]. See also [[stories/hingori-renuka-temple-attack]] for what happens when the domain is entered without respect.
+
+## *Witnessing Greatness* Ch.13 — Bittu Ji's Telling (p.188)
+
+> In 1979, the town of Renuka, nestled in the Simaur district of Himachal Pradesh, hosted Gurudev's largest mass healing camp.
+>
+> Bittu ji recalls the early days spent there: "We established our camp on a piece of uncultivated land owned by Chandramani Vashisht ji. Within the camp's boundaries, we discovered a neglected Shivling. With Gurudev's approval, I restored, cleaned, and painted it. Every morning, as per his instructions, I would offer water and light a dhoop there."
+>
+> Chandramani Vashisht ji has an interesting back story that Bittu ji shares: "Gurudev had left for Delhi on official business, and I was at the Renuka camp. Vashisht ji came to the Shivling to pray one morning. Afterwards, while drinking tea, he asked if 'Sharma ji' wore spectacles—he used to call Gurudev 'Sharma ji'—to which I replied that he did not. He left after hearing that. When Gurudev returned in the evening, I told him that Vashisht ji had come in the morning and asked that question. Gurudev burst out laughing but did not elaborate further. When Vashisht ji met Gurudev the following day, he inquired whether Gurudev wore spectacles. Gurudev replied, "No, I don't wear spectacles, but these boys have given me a pair of sunglasses I wear when I travel by jeep."
+>
+> After about 15 minutes of conversation about spirituality, Gurudev said, 'Vashisht Saheb, I want to show you something.'"
+>
+> When Gurudev showed the glowing OM symbol on his palm, Vashisht ji immediately knelt in deep respect. Vashisht ji then revealed that every time he meditated for 10 years, he saw a vision of someone who looked just like Gurudev, except for a pair of spectacles. Gurudev then shared, "Son, I was supposed to come here in 1969, but I only arrived in 1979," admitting to the decade of waiting that Vashisht ji had experienced. A few months after this encounter, in 1980, Gurudev established a sthan at Bayri in Renuka, appointing Vashisht ji as the sthan sanchalak and recognising Parshuram ji as its chief patron.
+>
+> — *Witnessing Greatness*, Ch.13, p.188
+
+> [!warning] 1979 or 1980?
+> *The Guru of Gurus* (pp.77–81): camp **1980**; "I was supposed to come here in **1970**, but I arrived in **1980**." *WG* Ch.13 (p.188): camp **1979**, "supposed to come here in **1969**, but I only arrived in **1979**"; the sthan at Bayri established "a few months after," in **1980**. *WG* Ch.8 dates the alliance to 1980. The ten-year wait is the same in both.
+
+What the alliance required — Gurudev's identity kept hidden, and Parshuram ji's test of his family ties through Renu ji's visit — is in [[stories/renu-renuka-parshuram-test]]. What the Shivling Bittu ji restored later showed Hingori is in [[stories/hingori-renuka-shivling-om]].
 
 ## Source
 

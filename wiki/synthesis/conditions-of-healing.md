@@ -2,7 +2,7 @@
 title: Conditions of Healing — What the Seeker Brings, and Where Grace Ignores It
 type: synthesis
 sources: [witnessing-greatness-chapters, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/spiritual-healing]]", "[[concepts/faith]]", "[[concepts/non-doership]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]", "[[concepts/self-acceptance]]", "[[entities/mahaguru]]", "[[stories/roshini-tea-burn-conviction]]"]
+related: ["[[concepts/spiritual-healing]]", "[[stories/kathog-old-man-canes]]", "[[stories/hingori-renuka-shivling-om]]", "[[concepts/faith]]", "[[concepts/non-doership]]", "[[concepts/intent-as-healing]]", "[[practices/seva]]", "[[concepts/self-acceptance]]", "[[entities/mahaguru]]", "[[stories/roshini-tea-burn-conviction]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -44,6 +44,9 @@ This matches *The Guru of Gurus* (p.223): "the mahaguru did not believe in bindi
 
 > [!warning] Two statements held side by side
 > Ch.9 (p.122): "the essence of healing lay not in his interventions but in the deep faith of the individuals seeking his aid." *The Guru of Gurus* (p.223): faith is not a prerequisite. The sources do not reconcile them explicitly. The nearest thing to a reconciliation in the text is the two-forms distinction above, and the Ch.9 closing observation: "The power decides the pace of healing. Our intention to heal is usually acknowledged and respected by the power. That is the grace bestowed upon us" (p.133).
+
+> [!tip] Kathog — healing that the seeker did not believe in (*Witnessing Greatness* Ch.13)
+> The old man on two canes answered "I'm too old to be healed" and walked home carrying them ([[stories/kathog-old-man-canes]]); Pradhan ji took Gurudev's offer to heal his brother for a joke — "Why joke at a time like this?" — and found his brother improved (p.184; [[concepts/spiritual-healing]] Ch.13). Hingori, of the Bayri Shivling: "The Shivling did not need my faith to showcase its power" (p.190; [[stories/hingori-renuka-shivling-om]]). These sit on the "grace that ignores the conditions" side.
 
 ## Who Is the Doer?
 

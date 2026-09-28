@@ -2,9 +2,9 @@
 title: Quotes on Seva and Service
 type: quote-collection
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[entities/mahaguru]]", "[[entities/guru-vashisht]]"]
+related: ["[[practices/seva]]", "[[stories/om-baba-sister-discovery]]", "[[concepts/non-doership]]", "[[concepts/gunas]]", "[[entities/mahaguru]]", "[[entities/guru-vashisht]]"]
 created: 2026-04-22
-updated: 2026-05-24
+updated: 2026-09-28
 ---
 
 # Quotes on Seva and Service
@@ -165,3 +165,9 @@ updated: 2026-05-24
 > "When I claim, 'I will heal you', the healing does not manifest. Yet, when I channel the blessings of Gurudev by invoking him, miraculous healings happen."
 > — Suresh Sharma ji, *Witnessing Greatness*, Ch.5, p.64
 [[practices/seva]] · [[concepts/non-doership]] · [[concepts/intent-as-healing]]
+
+## *Witnessing Greatness* Ch.13 — The Mission, Not the Man
+
+> Gurudev embodied the essence of selfless service, ensuring that the focus remained on the mission and not the man.
+> — *Witnessing Greatness*, Ch.13, p.187
+[[stories/om-baba-sister-discovery]] · [[practices/seva]] · [[synthesis/guru-who-points-beyond-himself]]

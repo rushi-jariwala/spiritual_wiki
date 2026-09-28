@@ -1,10 +1,10 @@
 ---
 title: Pappu Sharma and Shambhuji — Father Protects from Black Magic Flames
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
 related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[concepts/sukshma-sharir]]", "[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/supernature]]"]
 created: 2026-04-22
-updated: 2026-04-27
+updated: 2026-09-28
 ---
 
 # Pappu Sharma and Shambhuji — Father Protects from Black Magic Flames
@@ -29,3 +29,4 @@ The story is offered in the context of how dreams and spiritual experiences buil
 - [[entities/mahaguru]] — Gurudev had transmitted spiritual powers to Shambhuji during his lifetime
 - [[concepts/supernature]] — the SUPERNATURE chapter (*The Guru of Gurus*, p.242) records this same incident: "fireballs directed towards him by jealous tantriks missed their mark. He saw his deceased father, Shambhu ji, stop the fireballs before they could hit him." The *Aatma Sutra* phrasing is "extinguished before hitting his bed"; the *Guru of Gurus* says "missed their mark" — both confirm Shambhu ji's posthumous protective intervention.
 - [[stories/pappu-finger-regeneration]] — Pappu ji's severed finger regenerated (*Witnessing Greatness*, Ch.9)
+- Pappu ji's memory of first meeting Gurudev at Kathog as a boy, and his father Shambhu ji made a healer there — see [[stories/santoshji-kathok-jal]] and [[concepts/transmission-of-power]] (*WG* Ch.13). *WG* Ch.13 names him **Pappu Pahadia**, Shambhu ji's eldest son; *Aatma Sutra* calls him "Pappu Sharma."

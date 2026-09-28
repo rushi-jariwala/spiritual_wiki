@@ -2,7 +2,7 @@
 title: Mataji (Sudesh Sharma)
 type: entity
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/chacha]]", "[[practices/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]", "[[concepts/astral-travel]]", "[[synthesis/missed-astral-invitations]]"]
+related: ["[[entities/mahaguru]]", "[[stories/renu-renuka-parshuram-test]]", "[[entities/chacha]]", "[[practices/seva]]", "[[concepts/grihasth-ashram]]", "[[stories/mataji-food-miracle-engagement]]", "[[stories/mataji-gopal-hingori]]", "[[stories/mataji-discovers-gurudev-in-paath]]", "[[concepts/astral-travel]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-25
 updated: 2026-09-28
 ---
@@ -89,6 +89,10 @@ She passed away in **May 2014.** On the hour of her death, the stars were auspic
 ## Bringing Him Back from Paath (*Witnessing Greatness*, Ch.12)
 
 When newly initiated friends disturbed Gurudev during paath, he sent them to Mataji to wake him. "Sometimes, even a firm nudge would not stir him … He explained that re-entering the physical realm from his travels could take time, depending on the distance he had to cover to return, so patience was required" (pp.170–171). She quotes him: *"No one will ever know where I go. But I watch over people and guide them."* Hingori: "Being married to a man who ventured beyond his physical form so regularly was no small task" — she "mastered the art of managing them with grace and efficacy." See [[concepts/astral-travel]], [[synthesis/missed-astral-invitations]].
+
+## Renu Ji at Renuka (*Witnessing Greatness*, Ch.13)
+
+Mataji, with Subbhash ji and Pal ji, brought the seriously ill Renu ji to Renuka: "This wasn't solely my decision; your daughter, who is ill, wanted to see you" (p.189). Gurudev sent them back; it was later revealed as Parshuram ji's test of his family ties. See [[stories/renu-renuka-parshuram-test]].
 
 ## Cross-references
 

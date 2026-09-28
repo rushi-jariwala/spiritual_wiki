@@ -14,10 +14,9 @@ a large chapter (≥ 500 lines) is hit.
 **Witnessing Greatness** (`raw/witnessing-greatness-chapters/`)
 
 ## Next
-- [ ] ch-13-training-trails.md               (456 lines)
+- [ ] ch-14-master-of-moods.md               (370 lines)
 
 ## Remaining — Witnessing Greatness
-- [ ] ch-14-master-of-moods.md               (370 lines)
 - [ ] ch-15-timeless-tuning.md               (606 lines)
 - [ ] ch-16-in-his-shoes.md                  (381 lines)
 - [ ] ch-17-shiv.md                          (384 lines)
@@ -38,6 +37,7 @@ a large chapter (≥ 500 lines) is hit.
 - [x] ch-10-peerless-mentorship.md
 - [x] ch-11-sacred-syllables.md
 - [x] ch-12-elemental-symphony.md
+- [x] ch-13-training-trails.md
 
 ## Completed — Guru Sutra
 - [x] Introduction + ch-01-concepts-of-guruism.md

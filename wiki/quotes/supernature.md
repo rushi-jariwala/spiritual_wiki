@@ -2,7 +2,7 @@
 title: Quotes — Supernature
 type: quote-collection
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[synthesis/missed-astral-invitations]]"]
+related: ["[[concepts/supernature]]", "[[stories/hingori-renuka-shivling-om]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-27
 updated: 2026-09-28
 ---
@@ -206,3 +206,13 @@ Quotes from *The Guru of Gurus*, Chapter 07: Supernature (pp.231–248).
 > Gurudev's connectivity to the highest realms of consciousness granted him extraordinary abilities to transform the nature of objects, alter the atomic structure of elements, and impact the smallest particles of the universe.
 > — Hingori, *Witnessing Greatness*, Ch.12, p.177
 [[concepts/supernature]] · [[entities/mahaguru]]
+
+## Training Trails (*Witnessing Greatness*, Ch.13)
+
+> "Should I call a crowd?"
+> — Gurudev to Pravesh ji at a remote cremation ground, *Witnessing Greatness*, Ch.13, p.181
+[[concepts/spiritual-healing]] · [[entities/mahaguru]]
+
+> The Shivling did not need my faith to showcase its power, but this incident demonstrated how spiritually charged the place is.
+> — Hingori, *Witnessing Greatness*, Ch.13, p.190
+[[stories/hingori-renuka-shivling-om]] · [[concepts/power-symbols]] · [[concepts/faith]]

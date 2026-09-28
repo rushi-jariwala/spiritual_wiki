@@ -278,17 +278,17 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[guru-sutra-ch9-kabir-poem]] — Kabir's verse: disciple offers body and soul; true Master accepts nothing for himself (*Guru Sutra* Ch.9, pp.83–84)
 - [[guru-sutra-ch9-poem-wall]] — "Centuries of writings line the inner wall…" — verse on mind-cleansing and samskar purging (*Guru Sutra* Ch.9, p.86)
 - [[gurudev-siddhi-discharge]] — 1970; siddhi "begs" not to be released; transition from accomplished siddha to mahaguru
-- [[gurudev-kurwai-first-healing]] — 1973; Dhanna's fever; Buddhe Baba's command: serve without prejudice of caste, creed, or gender
+- [[gurudev-kurwai-first-healing]] — 1973; Dhanna's fever; Buddhe Baba's command: serve without prejudice of caste, creed, or gender; *WG* Ch.13 Guna telling (Kurwai/Guna tension)
 - [[malhotra-initiation-ganges]] — 1971; Ganges current stills during initiation; first disciple formally received
 - [[malhotra-buffalo-mantra-prank]] — Mahamritunjay mantra chanted on a buffalo's back, facing its tail; Gurudev's mild reprimand
 - [[sushila-four-children-prophecy]] — Three sons delivered; fourth declined; evolved spirit given to another family; destinies interlinked
 - [[shankarnarayan-vaishali-healing]] — Faith so deep he threw away the medicines; first to say "Guruji"
 - [[kathog-thapa-tantrik]] — Thapa sends a spirit; it doesn't return; doubt becomes devotion
-- [[kathog-suresh-kohli-vision]] — 7 nights of Gurudev's form in the home temple; teachers initiated as healers overnight via jal
+- [[kathog-suresh-kohli-vision]] — 7 nights of Gurudev's form in the home temple; teachers initiated as healers overnight via jal; *WG* Ch.13: the deputy director who became a follower
 - [[renuka-overnight-queue]] — 2-km queue; 17 hours of continuous seva; jal tested immaculately pure
 - [[renuka-cursed-woman]] — Annual miscarriage; woman accepts taweez against advice; child dies
 - [[renuka-disabled-girl]] — Sitaram Taki stands on toes; RP Sharma lifts; girl walks for the first time
-- [[gurudev-renuka-parshuram-alliance]] — 1980; spiritual meetings; alliance formed; sthan established
+- [[gurudev-renuka-parshuram-alliance]] — 1980; spiritual meetings; alliance formed; sthan established; *WG* Ch.13: Vashisht ji's vision of the man in spectacles (1979/1980 tension)
 - [[bittu-tea-correction]] — 3am tea; Bittu revels for 3 days; earful on day 4; now makes tea and washes cups
 - [[elderly-couple-van-rescue]] — Gurudev in concentration 30 min; redirects van; couple had been heading to railway tracks
 - [[gurudev-not-eating-hungry-disciples]] — "If any member of my spiritual family goes to bed hungry, I do not eat that night"
@@ -337,7 +337,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[guru-sutra-ch12-poem]] — "He fills the disciple with wisdom / and sets his soul aglow…" — closing verse of *Guru Sutra* Ch.12
 - [[guru-sutra-ch13-poem1]] — "It's not a gilded throne that seats the vain…" — verse on the gaddi as a seat of selfless seva (*Guru Sutra* Ch.13, p.136)
 - [[guru-sutra-ch13-poem2]] — "Envy bludgeons reason with the sight of another on the rise…" — verse on spiritual envy as the driver of attacks (*Guru Sutra* Ch.13, p.140)
-- [[santoshji-kathok-jal]] — Santoshji assigned healing seva with no preparation at Kathok; Gurudev transmits power in an instant; many heal through jal
+- [[santoshji-kathok-jal]] — Santoshji assigned healing seva with no preparation at Kathok; Gurudev transmits power in an instant; many heal through jal; *WG* Ch.13: OM and trishul in his own hands
 - [[aghori-disciple-dead-body]] — A disciple's prior aghori training: mantras on a levitating dead body; the aghori refuses initiation knowing a greater guru awaits
 - [[augarh-bagga-radio-shop]] — Augarh pesters Mr Bagga at his radio shop; Gurudev replays every word sarcastically when Bagga arrives at the sthan
 - [[augarh-darius-forearm]] — Augarh appears at Darius's car window, draws a symbol on his forearm, addresses him as "Mr Lawyer"; vanishes laughing
@@ -424,6 +424,11 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[ravi-trehan-guru-lok-assembly]] — An assembly of ancient mahagurus, Vishwamitra and Vashisht among them, in Guru Lok *(WG Ch.12)*
 - [[guddan-astral-visit-dying-mother]] — Guddan ji flies to her dying mother in Kanpur; "You did visit her. I sent you" *(WG Ch.12)*
 - [[pravesh-kapoor-empty-tank]] — 80–85 km back to Delhi on an empty petrol tank *(WG Ch.12)*
+- [[kathog-old-man-canes]] — "I'm too old to be healed"; the old man walks home at Kathog with his canes on his shoulder *(WG Ch.13)*
+- [[jwalaji-khadaus-test]] — The Jwalaji priests test Gurudev with a siddh purush's khadaus; he takes three steps *(WG Ch.13)*
+- [[om-baba-sister-discovery]] — Gurudev's sister hears of an 'Om Baba' at Kathog from Dilbaag; "the mission and not the man" *(WG Ch.13)*
+- [[renu-renuka-parshuram-test]] — Ill Renu ji sent back from Renuka — "If it is her destiny to die, we must accept it"; Parshuram ji's test of family ties *(WG Ch.13)*
+- [[hingori-renuka-shivling-om]] — The OM on the Bayri Shivling, the OM under the leaf plate, and the face that appeared "despite my complete disbelief" *(WG Ch.13)*
 
 ---
 
@@ -469,4 +474,5 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[conditions-of-healing]] — What the seeker brings (faith, compliance, seva, acceptance, selflessness) and where grace heals regardless; physical form vs. guru form *(Witnessing Greatness Ch.9 + Guru of Gurus)*
 - [[mantra-and-water]] — Water as asana, jal, heat-offset, vessel and sign of siddhi; the Mahagayatri's fire beside it *(Witnessing Greatness Ch.11 + Guru of Gurus + Guru Sutra)*
 - [[guru-who-points-beyond-himself]] — Surpass me, don't idolise me, become Shiv yourself, trust yourself more than the herbs — the guru whose success is his becoming unnecessary; held against "Total surrender" *(Witnessing Greatness Ch.10 + Guru Sutra + Guru of Gurus + Aatma Sutra)*
+- [[gurudev-under-test]] — The guru as the one examined: Thapa's spirit, the Jwalaji khadaus, Parshuram ji's test at Renuka; "Many spiritual luminaries often test each other's spirituality before recognising each other formally" *(Witnessing Greatness Ch.13 + Guru of Gurus)*
 - [[missed-astral-invitations]] — The guru's legs as the door: disciples who let go (fear, physical orientation, mistaking it for death) and those taken and returned; the caution against an unprotected body *(Witnessing Greatness Ch.12 + Guru of Gurus + Aatma Sutra)*

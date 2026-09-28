@@ -2,7 +2,7 @@
 title: Tests in Disguise — Augarh and the Guru's Unannounced Examinations
 type: synthesis
 sources: [witnessing-greatness-chapters, guru_sutra_book.md, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/augarh]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/faith]]"]
+related: ["[[entities/augarh]]", "[[synthesis/gurudev-under-test]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]", "[[synthesis/feeding-others-before-self]]", "[[concepts/faith]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -39,3 +39,6 @@ Across three books, Gurudev's tests share one structure: **the examiner arrives 
 - [[entities/augarh]] · [[entities/mahaguru]] · [[concepts/faith]] · [[quotes/spiritual-alliances]]
 
 > [!tip] *Witnessing Greatness* Ch.9: Gurudev "initially refused to meet" Yash Sethi's brother in Nagpur and made him wait, though he had told colleagues a week earlier of the Mumbai trip — "He was possibly testing my uncle's resolve." See [[stories/yash-sethi-dermatomyositis]] and [[synthesis/conditions-of-healing]].
+
+> [!tip] The other direction — Gurudev as the one tested
+> *Witnessing Greatness* Ch.13: "Many spiritual luminaries often test each other's spirituality before recognising each other formally" (p.189). Thapa's spirit, the Jwalaji khadaus and Parshuram ji's test of his family ties at Renuka. See [[synthesis/gurudev-under-test]].

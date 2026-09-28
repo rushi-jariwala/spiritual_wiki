@@ -3,9 +3,9 @@ title: The Mahaguru (Gurudev)
 type: entity
 tags: [mahaguru, gurudev, guru-of-gurus, lineage]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/karmayoga]]", "[[entities/hingori]]", "[[practices/seva]]", "[[practices/tapasya]]", "[[concepts/astral-travel]]", "[[entities/rc-malhotra]]", "[[entities/mataji]]", "[[synthesis/reverse-engineered-destiny]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]"]
 created: 2026-04-12
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # The Mahaguru (Gurudev)
@@ -287,6 +287,7 @@ His connectivity to the elements was direct and documented:
 - Could put one brain hemisphere to sleep while the other operated — Pehalwan ji witnessed him riding a scooter with his eyes closed, doing *paath*
 - Never said NO to anyone who asked for help (Ashok Bhalla ji: *"The word NO does not exist in my dictionary"*)
 - Lived in constant awareness of past, present, and future of every person who came to him: *"Their past, present and future flashes on a screen in my mind"* (to Das Saheb)
+- *Witnessing Greatness* Ch.7 (pp.89–96) gathers eyewitness accounts of his sense-mastery: days on just tea; eyes shut before each bite to check that all his "spiritual children" had been fed ([[stories/gurudev-eyes-shut-before-eating]]); no cologne; hearing disciples' thoughts and conversations at great distances; stopping Hingori's shivering at Mungaoli with a question. Virender ji: *"In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise."* See [[concepts/senses-management]], [[synthesis/feeding-others-before-self]].
 
 ### Bilocation and Invisibility
 

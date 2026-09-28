@@ -2,9 +2,9 @@
 title: Barkat (Abundance and Its Stewardship)
 type: concept
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/vairagya]]", "[[stories/gurudev-food-barkat-leftover-paratha]]"]
+related: ["[[entities/mahaguru]]", "[[practices/seva]]", "[[concepts/vairagya]]", "[[stories/gurudev-food-barkat-leftover-paratha]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[synthesis/feeding-others-before-self]]"]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-28
 ---
 
 # Barkat (Abundance and Its Stewardship)
@@ -40,3 +40,5 @@ Gurudev's household had an unwritten rule: no food left unfinished on plates. Ma
 - [[practices/seva]] — feeding visitors generously is the positive expression of barkat; wasting food is its negation
 - [[concepts/vairagya]] — non-attachment to surplus; the fakir who has enough but clings to nothing
 - [[entities/mahaguru]] — the source and primary demonstrator of this teaching
+- [[stories/gurudev-eyes-shut-before-eating]] — Bittu ji uses the food-respect teaching to question Gurudev's not eating; his answer (*Witnessing Greatness* Ch.7)
+- [[synthesis/feeding-others-before-self]] — barkat as the negative form of the rule; feeding others first as its positive form

@@ -1406,3 +1406,45 @@ The Bichoo Booti (Poison Ivy) plant that caused the injury also carries the reme
 
 A direct empirical observation that functions as an analogy: the healer's body is a pipe, not a source. The pipe that claims to be the water source blocks the flow; the pipe that remembers it is only the conduit transmits fully. The same physical actions — the hands, the mantra, the gaze — produce qualitatively different results depending on whether the healer takes ownership. See [[concepts/non-doership]], [[concepts/intent-as-healing]].
 
+
+---
+
+## Deception of Perception — Witnessing Greatness (Ch.7)
+
+### The Lower Realm as a Dark, Seedy Nightclub
+*Illuminates: [[concepts/loks]], [[concepts/senses-management]]*
+
+> My journeys through three distinct realms—two higher and one lower—brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub. Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+The crowded, alluring nightclub against the bright, near-empty higher realms makes Gurudev's afterlife teaching concrete: the enticing path is well-attended precisely because it pleases the senses; the plain path is thinly populated. The "reservation manager" quip casts Hingori's teaching work as directing souls to the under-booked higher floors.
+
+---
+
+### Eyes — Not Merely Windows but Transmitters
+*Illuminates: [[concepts/aura]], [[concepts/senses-management]]*
+
+> Gurudev emphasised that our eyes are not merely windows to our souls but can attract and emit energy.
+> — *Witnessing Greatness*, Ch.7, p.94
+
+A window only lets light pass; Gurudev's eyes are two-way channels. What one gazes at with desire draws energy out, which is why excessive focus on the opposite gender "could adversely affect our spiritual well-being, draining our spiritual energy and weakening our aura."
+
+---
+
+### Food as a Carrier of the Cook
+*Illuminates: [[concepts/aura]], [[concepts/hygiene]]*
+
+> Indian philosophy suggests that a dish prepared by two different individuals will carry distinct energies, affecting those who consume it. This belief hinges on the idea that a cook's emotions and intentions are transferred into their cooking.
+> — *Witnessing Greatness*, Ch.7, p.90
+
+Hingori's proof is homely: after eating meals made by Sitaram, a domestic helper with "colourful language", his own manner of speaking began to reflect Sitaram's style. White and light-coloured foods are "particularly receptive", like a blank page taking any ink; hence the turmeric or black pepper.
+
+---
+
+### Water as Lifeblood — a Mirror of Intention
+*Illuminates: [[concepts/mantra-transfer]], [[stories/kamlesh-black-magic-cure]]*
+
+> Water, often described as the planet's lifeblood, reflects the emotions and intentions of those interacting with it. Despite retaining its chemical composition, water's molecular structure can change, manifesting its dual potential to heal and harm.
+> — *Witnessing Greatness*, Ch.7, p.93
+
+The same medium carries a harmful taweez (Kamlesh's sherbet) or a mahaguru's 10,000 mantra recitations (sipped water). Water takes on what is put into it.

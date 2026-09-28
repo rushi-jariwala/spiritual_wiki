@@ -1,10 +1,10 @@
 ---
 title: Aura
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/sukshma-sharir]]", "[[concepts/isthul-sharir]]", "[[concepts/gunas]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/kaarna-sharir]]", "[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/pratipakshbhavana]]", "[[concepts/hygiene]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/sukshma-sharir]]", "[[concepts/isthul-sharir]]", "[[concepts/gunas]]", "[[concepts/citt-vritti-nirodh]]", "[[concepts/kaarna-sharir]]", "[[practices/seva]]", "[[concepts/non-doership]]", "[[concepts/pratipakshbhavana]]", "[[concepts/hygiene]]", "[[concepts/senses-management]]", "[[quotes/senses-and-perception]]"]
 created: 2026-04-17
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Aura
@@ -158,6 +158,17 @@ He typically wore half-sleeved shirts and open sandals, keeping arms and feet ba
 - **Food:** Food prepared by others is affected by the cook's thoughts, mental disposition, and aura transmitted through the eyes. White-coloured foods are most susceptible. Gurudev's instruction: change the colour before consuming (turmeric in milk, cinnamon in yoghurt). At sthans, kitchen management is assigned to those with higher levels of thinking.
 - **Saliva:** Saliva is a carrier of aura. Drinking from a saintly person's sipped glass or eating from their used plate can infuse that aura in you. Conversely, eating from the used plate of someone under the influence of negative energies can infect you.
 - **Used clothes:** Gurudev transferred some of his aura by giving disciples his used clothes to wear, specifying the number of days to wear them.
+
+***Witnessing Greatness* Ch.7 (pp.90–91) — the cook's energy, first-hand.** "Indian philosophy suggests that a dish prepared by two different individuals will carry distinct energies, affecting those who consume it"; for this reason temple cooks are "meticulously selected." Hingori adds two personal observations:
+
+> My experiences at the sthan in Gurgaon, where I spent several years, reinforced this belief. Meals prepared by Mataji there carried a distinctive essence—a difference those attuned to sensing such energies felt.
+>
+> Reflecting further on another personal observation: Sitaram, a domestic helper at my parents' house, frequently used colourful language. When I ate meals he prepared, my own manner of speaking began to reflect his distinctive style. This realisation deepened my understanding of how the energy of the person preparing food can impact those who consume it.
+> — Hingori, *Witnessing Greatness*, Ch.7, pp.90–91
+
+(This Sitaram is a domestic helper, not [[entities/sitaram-taki|Sitaram Taki ji]].) The same absorbency makes food "a potential medium for more nefarious practices, such as black magic"; Ch.7's remedy is to add **turmeric or black pepper** to white or light-coloured foods. See [[stories/hingori-arthritis-cure]].
+
+Ch.7 also restates the eyes as two-way: they "are not merely windows to our souls but can attract and emit energy"; excessive focus on the opposite gender drains spiritual energy and weakens the aura. See [[concepts/senses-management]].
 
 ---
 

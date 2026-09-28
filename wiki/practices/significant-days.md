@@ -1,10 +1,10 @@
 ---
 title: Significant Days
 type: practice
-sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[concepts/mantra-transfer]]", "[[practices/tapasya]]", "[[practices/seva]]", "[[concepts/gunas]]", "[[concepts/constant-awareness]]"]
 created: 2026-04-26
-updated: 2026-05-12
+updated: 2026-09-28
 ---
 
 # Significant Days
@@ -69,6 +69,8 @@ The guru evaluates his disciples' progress and assesses how to further their spi
 For Gurudev, this was the celebration of a custom. Devotees offered him a **coconut wrapped in a yellow handkerchief** — the coconut symbolises the head; offering it implies the surrender of one's self. He blessed and returned it. He allowed disciples to present him with **nine clothes or accessories** (*nau vastr*); alternatively, writing *"9 clothes"* on a yellow handkerchief and offering it was accepted as completing the custom.
 
 He allowed a few disciples to **wash his feet and then drink the water** — which was very potent since it contained his energy. Many found it raised their consciousness; it served as an elixir. Ancient texts record that a generous guru needs to have an excess of energy in order to allow this custom, since it is tantamount to a sacrifice by the guru in favour of his chosen disciples.
+
+*Witnessing Greatness* Ch.7 (p.94) confirms the custom: disciples would drink this water "infused with his spiritual energy" as "a way to receive the mahaguru's blessings, deepening their bond with him." For Gurudev's other uses of water as a carrier — sipped water passed to disciples — see [[concepts/mantra-transfer]].
 
 > [!warning] Some gurus exploit Guru Purnima by using it to accept money and expensive gifts from their disciples — counter to the spirit of the custom.
 

@@ -1,10 +1,10 @@
 ---
 title: Senses Management
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[entities/mahaguru]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/stages-of-spiritual-transformation]]", "[[concepts/constant-awareness]]", "[[concepts/gunas]]", "[[concepts/maya]]", "[[concepts/jivaatma]]", "[[concepts/role-play]]", "[[entities/mahaguru]]", "[[concepts/aura]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[synthesis/feeding-others-before-self]]", "[[quotes/senses-and-perception]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Senses Management
@@ -90,6 +90,48 @@ To change the state of your consciousness, you must change the level of your min
 
 Sensory management is ultimately the method by which the jivaatma strips away the personalised worldview and begins to perceive its own nature.
 
+## *Witnessing Greatness* Ch.7 — Deception of Perception (pp.89–96)
+
+The chapter opens by grounding sense-mastery in [[concepts/maya]]: we detect "about 0.00000000000035%" of the electromagnetic spectrum, miss dog-whistle frequencies, touch objects that are mostly empty space, and yet "our limited perceptions often make us mistake our narrow slice of experience for the entire scope of reality." To reach the realm beyond, "we must challenge our perceptions, question the accuracy of what our senses reveal, and strive to transcend our sensory limitations." The eyewitnesses then take Gurudev sense by sense.
+
+### Taste
+
+From childhood he relished chole bhature and pinnis; by the 1970s–80s there was "a clear shift" — "not as a shift from pleasure to aversion, but to achieve mastery over his senses." Early tales from Gaggu ji show the younger Gurudev enjoying flavourful meals.
+
+> "To him, the type of dish or its freshness was not a priority. He often picked food from the previous day, even with fresh options."
+> — Bittu ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Gurudev was easy-going about food. Whether it was parathas, a slice of bread, or even mathi with tea, he gracefully accepted everything. While he had a soft spot for certain snacks such as gol-gappas, he was not driven by cravings."
+> — Raji Sharma ji, *Witnessing Greatness*, Ch.7, p.92
+
+Puran ji and Alka ji add that he accepted any vegetarian food and that, for him, food's significance lay "in the intention and thoughtfulness behind its preparation." He would go days with just tea; he often refrained from eating "as a gesture of empathy for the less fortunate." Bittu ji's challenge on this — and Gurudev's eyes-shut answer — is at [[stories/gurudev-eyes-shut-before-eating]], together with his reply to Indu didi: *"Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."* The pattern across sources is drawn out in [[synthesis/feeding-others-before-self]].
+
+Gurudev also said one should not feel compelled to consume food financed by others, to avoid incurring a karmic debt (see [[concepts/karmic-debt]]), nor select food solely for its flavour. On food as a carrier of the cook's energy, see [[concepts/aura]].
+
+### Sight
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him. I never saw any lust in him. That particular trait was alien to him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+Gurudev taught that the eyes "are not merely windows to our souls but can attract and emit energy." Excessive focus on the opposite gender drains spiritual energy and weakens the aura. The budiya-then-gudiya visualisation is retold here as a way "to transcend the immediate impulses or [[concepts/vasna|vaasnas]] that surfaced"; Hingori's own skeleton technique "proved equally effective." He never wore cologne, and taught one should be neither drawn to beauty nor repulsed by its lack. The afterlife fork — plain path upward, enticing path to lower realms — is retold, now with Hingori's own testimony:
+
+> My journeys through three distinct realms—two higher and one lower—brought his words to life for me. The higher realms were bright yet sparsely inhabited, a stark contrast to the lower realm, which felt like a dark, seedy nightclub. Perhaps these experiences were designed to prepare me for my role as a reservation manager for the thinly populated higher realms!
+> — Hingori, *Witnessing Greatness*, Ch.7, p.95
+
+### Hearing
+
+As a young man he whistled popular tunes, played them on a mouth organ, and loved the black-and-white era classics on *Binaca Geet Mala*. As he progressed, hearing became "a spiritual tool": he "would hear our thoughts and perceive spoken words from great distances."
+
+> This remarkable ability revealed itself during a road trip I took with my father from Chandigarh to Gurgaon. The journey was fraught with tension, as we argued most of the way. Upon arriving in Gurgaon, Gurudev gently yet promptly admonished me for my behaviour, fully aware of the entire exchange. His vigilance was such that nothing went unnoticed.
+> — Hingori, *Witnessing Greatness*, Ch.7, p.96
+
+### Touch
+
+In the cold hill winters, while everyone layered up, Gurudev was comfortable "in merely a sweater." At the Mungaoli camp, his question "Why did you do that?" stopped Hingori's shivering — control not only of his own sensations but of those around him. See [[stories/mungaoli-sweater-incident]].
+
+> "This experience taught me that our senses, though strong, can be influenced in ways we might not realise. My time with him also made me understand the importance of being genuine and the harsh pitfalls of pretence."
+> — Hingori, *Witnessing Greatness*, Ch.7, p.96
+
 ## Cross-references
 
 - [[concepts/constant-awareness]] — the state reached when senses are mastered; awareness beyond sensory input
@@ -99,3 +141,6 @@ Sensory management is ultimately the method by which the jivaatma strips away th
 - [[concepts/maya]] — the personalised worldview sustained by unmanaged senses is maya
 - [[entities/mahaguru]] — Gurudev's life trajectory from foodie and would-be movie star to total sensory mastery
 - [[stories/blank-cassette-disciple]] — Gurudev's demonstration of supernormal hearing/discernment
+- [[stories/gurudev-eyes-shut-before-eating]] — taste mastery as empathy: the eyes-shut scan before eating (*Witnessing Greatness* Ch.7)
+- [[synthesis/feeding-others-before-self]] — the cross-source pattern behind Gurudev's food discipline
+- [[quotes/senses-and-perception]] — quote collection for this concept

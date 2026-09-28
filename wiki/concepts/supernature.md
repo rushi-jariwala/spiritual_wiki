@@ -2,7 +2,7 @@
 title: Supernature
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]"]
+related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]", "[[synthesis/mantra-and-water]]"]
 created: 2026-04-27
 updated: 2026-09-28
 ---
@@ -59,7 +59,7 @@ Gurudev's connectivity to the elements endowed him with influence over them:
 
 - **Water**: He located the exact spot on his Khandsa farm that would yield potable water when an earlier borewell had failed; converted arid land at Renuka into greenery by digging a water channel. Waves at Juhu Beach and Mahabalipuram moved selectively to caress his feet while others standing nearby were not touched.
 - **Rain**: He could will rain to fall or stop. On one Guru Purnima, rain fell to exactly the extent of the queue of visitors — and stopped precisely at the queue's end.
-- **Fire**: The Mahagayatri mantra confers the ability to contain fire. Most Mahashivratri nights, the mahaguru dipped his hands in boiling lemon tea to bless it — without a flinch, wince, or blister.
+- **Fire**: The Mahagayatri mantra confers the ability to contain fire. Most Mahashivratri nights, the mahaguru dipped his hands in boiling lemon tea to bless it — without a flinch, wince, or blister. The same mantra "ignites the fire element within practitioners and has a deep affinity with the water element" (*WG* Ch.11, p.154) — see [[synthesis/mantra-and-water]].
 
 Disciples empowered by him also demonstrated elemental command: Pappu ji of Jwalamukhi was protected from tantrik fireballs by his deceased father Shambhu ji. See [[stories/pappu-shambhuji-flames]].
 

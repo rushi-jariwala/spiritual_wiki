@@ -2,7 +2,7 @@
 title: Gunas
 type: concept
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]", "[[concepts/tantra]]", "[[concepts/guru-disciple]]", "[[quotes/mentorship]]"]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/kleshas]]", "[[concepts/koshas]]", "[[concepts/non-doership]]", "[[practices/tapasya]]", "[[concepts/isthul-sharir]]", "[[concepts/stages-of-spiritual-transformation]]", "[[concepts/karmayoga]]", "[[concepts/tantra]]", "[[concepts/guru-disciple]]", "[[quotes/mentorship]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-14
 updated: 2026-09-28
 ---
@@ -186,6 +186,9 @@ See [[concepts/boredom]] for the full treatment.
 > — Uma Prabhu ji, *Witnessing Greatness*, Ch.10, pp.142–143
 
 Hingori: "For him, spiritual progress was a path marked by introspection, self-correction, and perpetual self-enhancement. Our only competition was with ourselves" (p.142). The chapter's footnote defines the aim of practice as cultivating Sattva "while managing and transcending the influences of Rajas and Tamas." See [[quotes/mentorship]].
+
+> [!tip] Three pillars (*Witnessing Greatness* Ch.11)
+> Ch.11 (p.149) names mantra vidya as one of three "vital pillars" on the journey of self-realisation, with seva and "the refinement of gunas." Hingori's own experience of the Mahagayatri's heat as lost temper — [[stories/hingori-mahagayatri-fire-and-water]] — shows the mantra acting on the guna mix. See [[concepts/mantra-vidya]].
 
 ## Cross-references
 

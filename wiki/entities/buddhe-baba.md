@@ -2,9 +2,9 @@
 title: Buddhe Baba
 type: entity
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]", "[[concepts/guru-vandana]]"]
+related: ["[[entities/mahaguru]]", "[[entities/mataji]]", "[[concepts/guru-disciple]]", "[[concepts/non-doership]]", "[[concepts/guru-vandana]]", "[[stories/vashisht-fragments-mahagayatri]]"]
 created: 2026-04-25
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Buddhe Baba
@@ -134,3 +134,4 @@ The closing saying attributed to Buddhe Baba's principle: *"Hum yahaan apna asti
 - [[concepts/guru-disciple]] — the guru-disciple relationship operates even at Gurudev's level; he too had a mentor
 - [[concepts/guru-vandana]] — fame vs. anonymity; Buddhe Baba exemplifies the Golden Principle: "He who has the chance to fame but does not take it, will make it"
 - [[concepts/sukshma-sharir]] — seh sharir; Sitaram ji of Benaras as a possible identity
+- [[stories/vashisht-fragments-mahagayatri]] — why the Mahagayatri's eight words had to come from a siddh guru, in secrecy (*WG* Ch.11)

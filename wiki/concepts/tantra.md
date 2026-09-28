@@ -1,10 +1,10 @@
 ---
 title: Tantra
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/gunas]]", "[[concepts/spiritual-healing]]", "[[concepts/aura]]", "[[concepts/guru-disciple]]", "[[concepts/mantra-transfer]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/gunas]]", "[[concepts/spiritual-healing]]", "[[concepts/aura]]", "[[concepts/guru-disciple]]", "[[concepts/mantra-transfer]]", "[[concepts/mantra-vidya]]"]
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-09-28
 ---
 
 # Tantra
@@ -93,6 +93,8 @@ Gurudev advised keeping a fixed time for mantra recitation. The body clock becom
 
 A significant note from Ch.3: human capacity to mobilise subtle energy has declined over millennia. Ancients could propel weapons and move objects with mantras; in the present age, mantras operate only at the aura level. The macro effects (mind over matter, materialisation) are now "virtually theoretical rather than practical." Hingori attributes this to possible changes in the Earth's axis or gravitational pull — but names no definitive cause.
 
+> [!warning] *Witnessing Greatness* Ch.11 reports macro effects — water surfacing on barren land ([[stories/ashish-khanna-gopiganj-water-mustard]]), safer mines ([[stories/kishanmohan-durgapur-mines]]). See [[concepts/mantra-vidya]].
+
 ---
 
 ## Mantra Siddhi Taxonomy (*Guru Sutra* Ch.13)
@@ -125,3 +127,4 @@ See [[concepts/transmission-of-power]] for how Gurudev transmitted these powers 
 - [[concepts/mantra-transfer]] — Gurudev's specific mantra practice teachings, timing (guru-paher), and the transfer of siddhi
 - [[concepts/transmission-of-power]] — how mantra siddhis are transmitted from guru to disciple
 - [[concepts/spiritual-attacks]] — tamasic mantra siddhis as instruments of spiritual attack and defence
+- [[concepts/mantra-vidya]] — the Chamunda, Mahagayatri, Mahamrityunjay and Mahaguru mantras as witnessed by disciples (*WG* Ch.11)

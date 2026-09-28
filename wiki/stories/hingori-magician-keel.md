@@ -1,10 +1,10 @@
 ---
 title: Hingori Breaks a Tantric Magician's Performance with a Keel
 type: story
-sources: [guru_sutra_book.md]
-related: ["[[concepts/transmission-of-power]]", "[[concepts/tantra]]", "[[entities/hingori]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/transmission-of-power]]", "[[concepts/tantra]]", "[[entities/hingori]]", "[[stories/kapill-keels-delhi-dehradun]]", "[[stories/nandlal-shakti-ball]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-28
 ---
 
 # Hingori Breaks a Tantric Magician's Performance with a Keel
@@ -23,3 +23,4 @@ The **keel** appears here as an offensive/containment tool rather than defensive
 - [[concepts/transmission-of-power]] — the keel as an application of transmitted power; misuse in a playful key
 - [[concepts/tantra]] — the magician's doll trick as tamasic tantric siddhi; spirit animation
 - [[entities/hingori]] — the experimenter; corrects himself by restoring the keel; the most self-aware of the misuse stories
+- [[stories/nandlal-shakti-ball]] · [[stories/kapill-keels-delhi-dehradun]] — keels used to trap spirits for clearing (*Witnessing Greatness* Ch.11)

@@ -2,7 +2,7 @@
 title: Mantra Transfer
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]", "[[practices/significant-days]]", "[[quotes/senses-and-perception]]"]
+related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]", "[[practices/significant-days]]", "[[quotes/senses-and-perception]]", "[[concepts/mantra-vidya]]", "[[synthesis/mantra-and-water]]", "[[quotes/mantras]]", "[[stories/vashisht-fragments-mahagayatri]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -61,6 +61,8 @@ Mantra transfer makes explicit what the tradition implies throughout: spiritual 
 ### Origin of the Mahagayatri
 
 At their first meeting in the forest, the elusive Buddhe Baba gave Gurudev the **eight missing words** in the mantra he was reciting — converting the Gayatri into the **Mahagayatri**. The extended mantra accelerated Gurudev's spiritual progress and became the precursor to all his subsequent attainments. See [[entities/buddhe-baba]].
+
+*Witnessing Greatness* Ch.11 (pp.153–154) gives the other half of the story: Brahmarishi Vishwamitra as its originator; Guru Vashisht fragmenting it so that the Gayatri became one part and "the remaining eight words" were "discreetly dispersed throughout the four Vedas"; and his decree that "only a siddh guru could impart the full and original Mahagayatri mantra to the disciple… in utmost secrecy." See [[stories/vashisht-fragments-mahagayatri]]. What the chapter's disciples have witnessed of the Chamunda, Mahagayatri, Mahamrityunjay and Mahaguru mantras is gathered in [[concepts/mantra-vidya]].
 
 ### What a Mantra Is
 
@@ -127,6 +129,9 @@ The chapter describes such statements as "imparting some of his extensive spirit
 ---
 
 ## Cross-references
+
+- [[concepts/mantra-vidya]] — the mantras themselves and what disciples witnessed them do (*WG* Ch.11)
+- [[synthesis/mantra-and-water]] — water as asana, jal, heat-offset and sign of siddhi across sources
 
 - [[concepts/intent-as-healing]] — the guru's intent as the active spiritual force; mantra transfer is an extension of the same principle
 - [[concepts/guru-disciple]] — the framework within which transfer occurs; relationship precedes transfer; gurukul system (Ch.3) gives the broader educational context for mantra practice

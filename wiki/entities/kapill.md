@@ -2,7 +2,7 @@
 title: Kapill
 type: entity
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[stories/kapill-shiv-in-himself]]", "[[stories/kapill-dream-fourth-eye-gurubhai]]"]
+related: ["[[concepts/self-worship]]", "[[concepts/astral-travel]]", "[[entities/mahaguru]]", "[[stories/kapill-shiv-in-himself]]", "[[stories/kapill-dream-fourth-eye-gurubhai]]", "[[stories/kapill-mahagayatri-spirit-shrinks]]", "[[stories/kapill-keels-delhi-dehradun]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-22
 updated: 2026-09-28
 ---
@@ -37,6 +37,12 @@ The quality referenced is promoting others before oneself. This is one of the ra
 
 Named in full as **Kapill Malhotra ji**, "who oversees a sthan in the serene hill station of Lonavala near Mumbai." He dreamt of walking with Gurudev, Guruji and a gurubhai; Gurudev placed his right hand on the gurubhai's *talvi* and told Kapill ji, "Maine iska kaam kar diya hai (I have done his work)" — which he understood as the opening of the gurubhai's fourth eye. See [[stories/kapill-dream-fourth-eye-gurubhai]].
 
+### Mantra Vidya (*Witnessing Greatness* Ch.11)
+
+- Received a mantra in a dream but lost the words on waking; Guruji told him to record such revelations in future (p.152) — see [[concepts/mantra-vidya]].
+- With a gurubhai, cleared a sevadaar family's home with the Mahagayatri; both saw the same female spirit shrink from five feet to one — [[stories/kapill-mahagayatri-spirit-shrinks]].
+- Trapped spirits in keels with the Mahagayatri in a Delhi hotel and a Dehradun room — [[stories/kapill-keels-delhi-dehradun]].
+
 ## Cross-references
 
 - [[concepts/self-worship]] — his vision is one of Hingori's primary examples of spiritual experience as a faith-builder for self-worship
@@ -44,3 +50,4 @@ Named in full as **Kapill Malhotra ji**, "who oversees a sthan in the serene hil
 - [[entities/mahaguru]] — Gurudev deciphers the Shiv vision; Kapill practises at the Mumbai sthan
 - [[stories/kapill-dream-fourth-eye-gurubhai]] — the fourth-eye dream (*WG* Ch.10)
 - [[concepts/guru-disciple]] — cited in Ch.6 as a disciple who gained Hingori's respect by promoting others before himself, thereby superseding peers who arrived earlier
+- [[concepts/mantra-vidya]] · [[stories/kapill-mahagayatri-spirit-shrinks]] · [[stories/kapill-keels-delhi-dehradun]] — mantra work (*WG* Ch.11)

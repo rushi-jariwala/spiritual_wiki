@@ -3,7 +3,7 @@ title: Hingori
 type: entity
 tags: [hingori, author, disciple]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[concepts/doer-ship]]", "[[concepts/astral-travel]]", "[[stories/hingori-mahagayatri-fire-and-water]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -131,6 +131,8 @@ Hingori documents a progressive sequence of astral travel experiences under Guru
 - [[stories/hingori-crow-morning-alarm]] — premature son in incubator; crow knocks at window at 5:45am daily until mother wakes
 - [[stories/hingori-dog-ghosheini-temple]] — lazy dog leads Hingori to a hilltop temple; temple asks to collaborate; hotel owner waives bill; land offered two years later
 - [[stories/hingori-closing-poem]] — Hingori's closing poem to *Aatma Sutra*: "I am the God to whom we all pray"
+- [[stories/hingori-mahagayatri-fire-and-water]] — the Mahagayatri's heat as lost temper with Khemchand; a swimming woman read by Gurudev as siddhi (*WG* Ch.11)
+- [[stories/nandlal-shakti-ball]] — *WG* Ch.11 telling: a keel around Nandlal's shop draws out his uncle's spirit
 
 ## Cross-references
 

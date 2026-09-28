@@ -1,10 +1,10 @@
 ---
 title: Sukshma Sharir (Spirit Body)
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/isthul-sharir]]", "[[concepts/kaarna-sharir]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/mukti]]", "[[concepts/mahurat]]", "[[concepts/aura]]", "[[concepts/astral-travel]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/isthul-sharir]]", "[[concepts/kaarna-sharir]]", "[[concepts/jivaatma]]", "[[concepts/aatma]]", "[[concepts/mukti]]", "[[concepts/mahurat]]", "[[concepts/aura]]", "[[concepts/astral-travel]]", "[[concepts/mantra-vidya]]"]
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-09-28
 ---
 
 # Sukshma Sharir
@@ -103,6 +103,8 @@ Hingori's own encounters with spirit bodies over years of *dhyaan* and sadhana i
 - He encountered his yet-to-be-born son's spirit body months before his wife's pregnancy — [[stories/hingori-unborn-son-spirit-vision]].
 - He saw himself thousands of years ago in a Mahabharat-era battle, chanting mantras to toss chariots — [[stories/hingori-past-life-mahabharat-vision]].
 - He witnessed the birth negotiations of Abhay Taneja (the Yogi of Bathri) who waited a century in spirit form for a matching birth opportunity — [[stories/yogi-spirit-bathri]].
+
+- Darius Moos ji, chanting the Chamunda mantra in a dream attack, "grew to around 20 feet in height, holding two weapons of blue light, and I chopped the spirit into pieces!" — "the extraordinary capability of an advanced suksham sharir," *Witnessing Greatness*, Ch.11, p.151. See [[concepts/mantra-vidya]].
 
 > My close association with spirituality for several years now, and my encounter with several spirits, including my own, has made me conclude that spirits can exist for thousands of years.
 > — Hingori, *Aatma Sutra*, Ch.II, p.18

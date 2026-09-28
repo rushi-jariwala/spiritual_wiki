@@ -1,10 +1,10 @@
 ---
 title: Hingori Defeats a Mantra Attacker at the Gaddi
 type: story
-sources: [guru_sutra_book.md]
-related: ["[[concepts/spiritual-attacks]]", "[[concepts/gaddi]]", "[[concepts/transmission-of-power]]", "[[entities/hingori]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/spiritual-attacks]]", "[[concepts/gaddi]]", "[[concepts/transmission-of-power]]", "[[entities/hingori]]", "[[concepts/mantra-vidya]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-28
 ---
 
 # Hingori Defeats a Mantra Attacker at the Gaddi
@@ -24,3 +24,4 @@ This is a first-person account of the Mahagayatri used defensively — not as re
 - [[concepts/gaddi]] — the seat as both a target of attack and the source of the power that defeats it
 - [[concepts/transmission-of-power]] — Gurudev's training and the inner voice as the protective inheritance
 - [[entities/hingori]] — the defender; trained in self-preservation; learns in real time
+- [[concepts/mantra-vidya]] — the Mahagayatri's origin, fire-and-water nature and witnessed uses (*Witnessing Greatness* Ch.11)

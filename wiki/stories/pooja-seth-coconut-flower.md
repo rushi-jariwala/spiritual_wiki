@@ -2,7 +2,7 @@
 title: Pooja Seth Ji — The Flower in the Coconut
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[practices/significant-days]]", "[[concepts/guru-vandana]]", "[[concepts/spiritual-healing]]"]
+related: ["[[entities/mahaguru]]", "[[practices/significant-days]]", "[[concepts/guru-vandana]]", "[[concepts/spiritual-healing]]", "[[concepts/mantra-vidya]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -30,3 +30,4 @@ updated: 2026-09-28
 - [[practices/significant-days]] — Guru Purnima coconuts, "a ritual that symbolises the surrender of one's ego"
 - [[concepts/guru-vandana]] — Guru Purnima as reverence of the guru
 - [[concepts/spiritual-healing]] — white coconut flowers now offered at the sthan for infertility
+- [[concepts/mantra-vidya]] — Pooja Seth ji's water-themed visions from the Mahagayatri mantra (*WG* Ch.11, p.155)

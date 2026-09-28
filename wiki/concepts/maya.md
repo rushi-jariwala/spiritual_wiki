@@ -2,10 +2,10 @@
 title: Maya
 type: concept
 tags: [maya, delusion, perception, duality, moksha]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/jivaatma]]", "[[concepts/moksha]]", "[[concepts/koshas]]", "[[concepts/aatma]]", "[[entities/guru-vashisht]]", "[[concepts/self-acceptance]]", "[[concepts/senses-management]]", "[[quotes/senses-and-perception]]"]
 created: 2026-04-12
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Maya
@@ -115,6 +115,10 @@ Hingori supplements the Vedantic argument with empirical facts, citing the narro
 
 > [!tip] Hingori's method: ancient Vedantic insight + empirical scientific data as parallel tracks converging on the same conclusion. This dual-track approach (wisdom tradition → modern science) recurs across *Aatma Sutra* and is part of its rhetorical strategy for reaching readers who need empirical grounding before they can accept metaphysical claims.
 
+*Witnessing Greatness* Ch.7 (p.89) opens with the same argument: we detect "about 0.00000000000035%" of the electromagnetic spectrum, miss dog-whistle frequencies and scents dogs detect easily, and touch objects that are mostly empty space. "Maya spins an illusory yet convincing narrative that feels real and persuasive." The remedy: "challenge our perceptions, question the accuracy of what our senses reveal, and strive to transcend our sensory limitations." See [[concepts/senses-management]] for how Gurudev did this sense by sense.
+
+> [!warning] The figure differs from *Aatma Sutra*'s "less than 0.00000000005%". See [[sources/witnessing-greatness]] (Ch.7 tensions).
+
 ## Maya Applied — Ram Beyond Guilt (Ch.XI)
 
 *Aatma Sutra* Ch.XI deploys the maya teaching in a specific applied context: being beyond maya means being beyond the duality of right/wrong, and therefore beyond guilt. Hingori uses Lord Ram — taught by [[entities/guru-vashisht|Guru Vashisht]] that the world is pure maya — as the clearest available example.
@@ -143,6 +147,8 @@ Ram's own description of this state: *"I behold the world as pure, infinite, and
 - [[stories/ram-kills-bali-behind-tree]] — maya teaching applied: killing Bali without guilt
 - [[stories/ram-banishes-sita]] — maya teaching applied: banishing Sita without malice
 - [[stories/ram-speech-to-guru-vashisht]] — Ram's own account of his state
+- [[concepts/senses-management]] — *Witnessing Greatness* Ch.7 frames sense-mastery as the way beyond maya
+- [[quotes/senses-and-perception]] — quotes on the senses and perception
 
 ## Maya and Ek Se Anek
 

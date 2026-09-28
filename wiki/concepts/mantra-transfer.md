@@ -1,10 +1,10 @@
 ---
 title: Mantra Transfer
 type: concept
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/guru-disciple]]", "[[concepts/ulta-guru]]", "[[concepts/intent-as-healing]]", "[[entities/mahaguru]]", "[[entities/rc-malhotra]]", "[[practices/seva]]", "[[concepts/constant-awareness]]", "[[concepts/stages-of-spiritual-transformation]]", "[[practices/significant-days]]", "[[quotes/senses-and-perception]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Mantra Transfer
@@ -114,6 +114,15 @@ Mantras lower blood pressure, heart rate, and respiration rate; increase oxygen 
 
 > "Greater the brain-mind coordination, the higher is the level of conscious awareness."
 > — *The Guru of Gurus*, p.165
+
+## Sipped Water — *Witnessing Greatness* Ch.7 (p.94)
+
+Gurudev would sometimes sip from a glass of water and pass the rest to someone else — "a way of sharing his spiritual energy and qualities with the other person, sometimes to cure and sometimes to help them on their spiritual journey." He often gave mantras this way:
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev, *Witnessing Greatness*, Ch.7, p.94
+
+The chapter describes such statements as "imparting some of his extensive spiritual practices, such as mantra chanting, to bolster their spiritual development." On Guru Purnima, disciples washed Gurudev's feet and drank the water, "infused with his spiritual energy" (see [[practices/significant-days]]). At his sthans, jal infused with mantras is used for healing.
 
 ---
 

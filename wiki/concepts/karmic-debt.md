@@ -2,10 +2,10 @@
 title: Karmic Debt
 type: concept
 tags: [karma, debt, obligation, strategy]
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/karma]]", "[[concepts/kriyaman-karma]]", "[[concepts/sanchit-karma]]", "[[concepts/non-vegetarianism]]", "[[concepts/guru-dakshina]]", "[[practices/seva]]", "[[entities/hingori]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/karma]]", "[[concepts/kriyaman-karma]]", "[[concepts/sanchit-karma]]", "[[concepts/non-vegetarianism]]", "[[concepts/guru-dakshina]]", "[[practices/seva]]", "[[entities/hingori]]", "[[synthesis/feeding-others-before-self]]"]
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-09-28
 ---
 
 # Karmic Debt
@@ -96,6 +96,8 @@ Any favour received — a glass of water when thirsty, a laugh, a helpful gestur
 Food, shelter, clothing, gifts, business items — all are karmic debts. Salt and cereal carry particular weight; in ancient times people avoided eating others' food for exactly this reason.
 
 **Repayment:** Counter-gifting (a token coin, silver); paying for food; offering equivalent value.
+
+> [!tip] *Witnessing Greatness* Ch.7 (p.90): "Gurudev often said that one should not feel compelled to consume food financed by others to avoid incurring a karmic debt." See [[synthesis/feeding-others-before-self]].
 
 ## In Practice
 

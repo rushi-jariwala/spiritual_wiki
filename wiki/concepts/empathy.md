@@ -1,10 +1,10 @@
 ---
 title: Empathy
 type: concept
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
-related: ["[[concepts/vairagya]]", "[[concepts/role-play]]", "[[concepts/kleshas]]", "[[concepts/samskars]]", "[[concepts/doer-ship]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
+related: ["[[concepts/vairagya]]", "[[concepts/role-play]]", "[[concepts/kleshas]]", "[[concepts/samskars]]", "[[concepts/doer-ship]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[stories/gurudev-eyes-shut-before-eating]]", "[[synthesis/feeding-others-before-self]]"]
 created: 2026-04-22
-updated: 2026-04-22
+updated: 2026-09-28
 ---
 
 # Empathy
@@ -54,6 +54,8 @@ Hingori credits Gurudev's empathy as the force that made his transformation poss
 
 > "His empathy towards me helped me reconstruct myself."
 > — Hingori, *Aatma Sutra*, Ch.IX, p.107
+
+Empathy also governed Gurudev's plate. He "often refrained from eating as a gesture of empathy for the less fortunate" (*Witnessing Greatness*, Ch.7, p.91), and before each bite shut his eyes to check that all his spiritual children had been fed: "Their hunger weighs on me." See [[stories/gurudev-eyes-shut-before-eating]] and [[synthesis/feeding-others-before-self]].
 
 ## Leslie Jamison on Empathy
 

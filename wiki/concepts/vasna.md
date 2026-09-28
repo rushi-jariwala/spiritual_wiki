@@ -1,10 +1,10 @@
 ---
 title: Vasna
 type: concept
-sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf]
-related: ["[[concepts/samskars]]", "[[concepts/prarabdh-karma]]", "[[concepts/non-doership]]", "[[concepts/kaarna-sharir]]", "[[concepts/doer-ship]]"]
+sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
+related: ["[[concepts/samskars]]", "[[concepts/prarabdh-karma]]", "[[concepts/non-doership]]", "[[concepts/kaarna-sharir]]", "[[concepts/doer-ship]]", "[[concepts/senses-management]]"]
 created: 2026-04-15
-updated: 2026-04-15
+updated: 2026-09-28
 ---
 
 # Vasna
@@ -44,6 +44,10 @@ The teaching does not imply that vasnas are irresistible. Will power — an attr
 > — Hingori, *Karma Sutra*, Ch.8, p.133
 
 The use of will power to resist — or of non-doership to act without emotional ownership — both prevent the vasna from converting into a freshly coded samskar.
+
+## *Witnessing Greatness* Ch.7 — Gloss and Technique
+
+*Witnessing Greatness* glosses *vaasnas* as "engrams or impressions that accumulate in the causal body over one's previous lives and current lifetime, influencing one's reactions and decisions unconsciously" (Ch.7, p.95, fn.3). Gurudev's budiya-then-gudiya visualisation was aimed "to transcend the immediate impulses or vaasnas that surfaced." See [[concepts/senses-management]].
 
 ## Cross-references
 

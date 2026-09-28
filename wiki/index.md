@@ -125,7 +125,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[aatma-sutra]] — Hingori, 2022 · *Fully ingested (Introduction + Ch.I–XIV + Life Scorecard)*
 - [[guru-of-gurus]] — Hingori · *Biography of Gurudev; ingested pp.1–248: Early Years, Family Man, Man of Mystery, The Mahaguru, Entrepreneur Extraordinaire, Philosophy & Practices, Hygiene, Healing, Supernature*
 - [[guru-sutra]] — Hingori, 2019 · *Fully ingested (Introduction + Ch.1–19, Queries Answered, Glossary)*
-- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–6 ingested.*
+- [[witnessing-greatness]] — Hingori · *Second biographical volume; eyewitness testimonies. Ch.1–7 ingested.*
 
 ---
 
@@ -151,6 +151,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[quotes/self-acceptance]] — Grandfather's seerat/surat maxim, Guru Nanak's dukhiya sab sansaar, guilt as obstacle
 - [[quotes/self-worship]] — Patanjali on love of the aatman, Tat Twam Asi, nine billion doorways, Hingori's closing poem
 - [[quotes/family-and-love]] — Gurudev on true love, barkat, nature's cures, being a fakir; Mataji on Gurudev; Uma Prabhu ji's tribute to Mataji
+- [[quotes/senses-and-perception]] — Maya of the senses; Gurudev on food, intention, and feeding others first; Virender ji on self-control; sipped-water mantra transfer
 
 ---
 
@@ -375,6 +376,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[nitu-bichoo-booti-nature-cure]] — Nitu ji's Poison Ivy injury; Gurudev's unhurried investigation; cure from the plant's own roots; "nature has a cure for everything"
 - [[gurudev-food-barkat-leftover-paratha]] — Gurudev eats abandoned half-paratha before Indu didi can; teaching on barkat and food respect
 - [[gurudev-drawing-room-fakirs]] — New floor built as family space; Gurudev declares it communal sleeping space for 25; "We are fakirs"
+- [[gurudev-eyes-shut-before-eating]] — Bittu ji questions Gurudev's not eating; eyes shut to scan that all his spiritual children are fed; "Jennu khellaan che mazaa aa gaya na…"
 
 ---
 
@@ -415,3 +417,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[destiny-and-doership]] — The Hingori theodicy; how the two concepts together dissolve guilt from both sides *(Karma Sutra + Aatma Sutra)*
 - [[guru-sutra-arc]] — The complete Guru Sutra arc: from finding the guru (treasure hunt) to recognising the guru within (self as guru); Phase 1: Hunt; Phase 2: Bond; Phase 3: Recognition *(Guru Sutra)*
 - [[reverse-engineered-destiny]] — Destiny read backward from the final form; Gurudev's early life as a life retrofitted to the dimensions of the mahaguru *(Witnessing Greatness Ch.1 + Guru of Gurus + Aatma Sutra)*
+- [[feeding-others-before-self]] — Gurudev's food discipline across sources: the other is fed first; taste outgrown, not suppressed *(Guru of Gurus + Witnessing Greatness Ch.6–7)*

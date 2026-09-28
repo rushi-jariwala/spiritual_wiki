@@ -1,10 +1,10 @@
 ---
 title: Kamlesh's Black Magic Cure
 type: story
-sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf]
+sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
 related: ["[[concepts/aura]]", "[[entities/hingori]]", "[[entities/mahaguru]]"]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-09-28
 ---
 
 # Kamlesh's Black Magic Cure
@@ -30,6 +30,13 @@ updated: 2026-04-17
 > — Hingori, *The Guru of Gurus*, p.225
 
 > [!warning] "Mohna" vs "Mohan Chira ji" — two first-person Hingori accounts give different names for the disciple who assembled the glass pieces. Do not resolve speculatively.
+
+## *Witnessing Greatness* Ch.7 Mention (p.93)
+
+> A disturbing instance is the case of a young girl named Kamlesh from Gurgaon, who unknowingly drank sherbet mixed with a harmful taweez. The consequences could have been dire if the mahaguru had not intervened in a timely manner.
+> — *Witnessing Greatness*, Ch.7, p.93
+
+Cited in the chapter as evidence that water "reflects the emotions and intentions of those interacting with it" and can both heal and harm. The drink is called **sherbet** here; *Aatma Sutra* calls it **rose milk**.
 
 ## Related Concepts & Entities
 

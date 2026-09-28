@@ -2,9 +2,9 @@
 title: Witnessing Greatness
 type: source
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]"]
+related: ["[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/buddhe-baba]]", "[[sources/guru-of-gurus]]", "[[concepts/senses-management]]", "[[synthesis/feeding-others-before-self]]"]
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Witnessing Greatness
@@ -41,7 +41,7 @@ updated: 2026-05-20
 | 4 | Saint Maker | 49–58 | ✅ ingested 2026-05-23 |
 | 5 | Seva | 59–72 | ✅ ingested 2026-05-24 |
 | 6 | Roots to Wings | 73–88 | ✅ ingested 2026-05-28 |
-| 7 | Deception of Perception | — | ⬜ pending |
+| 7 | Deception of Perception | 89–96 | ✅ ingested 2026-09-28 |
 | 8 | Cosmic Collaborators | — | ⬜ pending |
 | 9 | Sage of Solace | — | ⬜ pending |
 | 10 | Peerless Mentorship | — | ⬜ pending |
@@ -55,6 +55,65 @@ updated: 2026-05-20
 | 18 | Spiritual Oversight | — | ⬜ pending |
 | 19 | Humble Titan | — | ⬜ pending |
 | 20 | Sculpting Divinity | — | ⬜ pending |
+
+## Key Themes (Ch.7 — Deception of Perception, pp.89–96)
+
+- **The senses as maya**: the chapter opens on the narrowness of human perception (a sliver of the electromagnetic spectrum, dog-whistle frequencies, atoms of empty space) and names the mistaking of this slice for the whole as Maya. The rest of the chapter shows Gurudev transcending each sense in turn.
+- **Taste mastered through empathy**: a young foodie (chole bhature, pinnis, gol-gappas) shifted in the 1970s–80s — "not as a shift from pleasure to aversion, but to achieve mastery over his senses." He ate yesterday's food, went days on tea, and abstained when his "spiritual children" might be hungry. The joy of feeding others eclipsed the joy of eating.
+- **Food and water as energy carriers**: the cook's emotions enter the food (Mataji's meals at Gurgaon; Sitaram's colourful language); white foods absorb energy and can carry black magic (Hingori's white pedas); water can heal (sthan jal, sipped water, Guru Purnima foot-water) or harm (Kamlesh's sherbet).
+- **Sight and the afterlife fork**: eyes emit and attract energy; budiya/gudiya visualisation (Hingori: skeletons); no cologne; choose the plain path after death. Hingori's own journeys through three realms confirm it.
+- **Hearing and touch as spiritual tools**: from *Binaca Geet Mala* and the mouth organ to hearing thoughts at a distance; comfort in a sweater in the hills; stopping Hingori's shivering at Mungaoli with a question.
+
+## Notable Quotes (Ch.7)
+
+> "For Daddy, the significance of food lay not in its taste or flavour, but in the intention and thoughtfulness behind its preparation."
+> — Alka ji, *Witnessing Greatness*, Ch.7, p.90
+
+> "Before I take a bite, I shut my eyes and scan to ensure that all my spiritual children have been fed. If even one remains hungry, I find it hard to eat. Their hunger weighs on me."
+> — Gurudev (to Bittu ji), *Witnessing Greatness*, Ch.7, p.92
+
+> "Jennu khellaan che mazaa aa gaya na, khaane da mazaa nahin rehnda."
+> — Gurudev (to Indu didi), *Witnessing Greatness*, Ch.7, p.93
+
+> "I've transferred 10,000 recitations of this mantra to you."
+> — Gurudev, *Witnessing Greatness*, Ch.7, p.94
+
+> "In Gurudev, I saw the finest self-control. He wasn't attracted by money or women or praise. Nothing affected him."
+> — Virender ji, *Witnessing Greatness*, Ch.7, p.94
+
+## Stories Extracted (Ch.7)
+
+- [[stories/gurudev-eyes-shut-before-eating]] — new: Bittu ji's dialogue with Gurudev on not eating; Indu didi and "Jennu khellaan…"
+- [[stories/mungaoli-sweater-incident]] — enriched: Madhya Pradesh; T-shirt; "Why did you do that?" stops the shivering
+- [[stories/hingori-arthritis-cure]] — enriched: white pedas charged by rituals and reverse mantras
+- [[stories/kamlesh-black-magic-cure]] — enriched: brief mention; taweez in sherbet
+
+Short anecdotes kept inline:
+- Mataji's meals at the Gurgaon sthan; Sitaram's colourful language → [[concepts/aura]]
+- Hingori's road-trip argument with his father, known to Gurudev on arrival → [[concepts/senses-management]] (Hearing)
+- Hingori's journeys through three realms → [[concepts/senses-management]] (Sight), [[concepts/loks]]
+- Sipped water and "10,000 recitations"; Guru Purnima foot-water → [[concepts/mantra-transfer]], [[practices/significant-days]]
+- Bittu ji, Puran ji, Raji Sharma ji, Alka ji on Gurudev's eating → [[concepts/senses-management]] (Taste)
+
+## New Concepts Introduced (Ch.7)
+
+None — all material extends [[concepts/senses-management]], [[concepts/aura]], [[concepts/mantra-transfer]], [[concepts/maya]], and [[concepts/vasna]]. New quote collection: [[quotes/senses-and-perception]]. New synthesis: [[synthesis/feeding-others-before-self]]. New analogies: lower realm as seedy nightclub; eyes as transmitters; food as carrier of the cook; water as mirror of intention.
+
+## Contradictions / Tensions (Ch.7)
+
+> [!warning] The electromagnetic-spectrum figure
+> *Witnessing Greatness* Ch.7 (p.89) says we detect "about **0.00000000000035%**" of the electromagnetic spectrum. *Aatma Sutra* Ch.VII gives "less than **0.00000000005%**" (see [[concepts/maya]]). Both make the same point; the figures differ by more than two orders of magnitude. Unresolved.
+
+> [!warning] Kamlesh's drink — sherbet vs. rose milk
+> Ch.7 (p.93) says Kamlesh drank **sherbet** mixed with a taweez; *Aatma Sutra* says a glass of **rose milk** containing a taveez. Possibly the same drink described loosely. See [[stories/kamlesh-black-magic-cure]].
+
+> [!warning] Spice for white foods
+> Ch.7 (p.91) recommends **turmeric or black pepper**; *The Guru of Gurus* and *Aatma Sutra* give **turmeric in milk, cinnamon in yoghurt**. Complementary rather than contradictory.
+
+> [!question] Daily diet
+> *The Guru of Gurus* describes lassi for lunch and nimbu pani for breakfast; Ch.7 describes days of "just tea and no food." Likely different periods; not reconciled in the sources. See [[synthesis/feeding-others-before-self]].
+
+---
 
 ## Key Themes (Ch.6 — Roots to Wings, pp.73–88)
 

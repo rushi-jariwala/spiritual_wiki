@@ -140,7 +140,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 ## Quotes
 
 - [[quotes/power]] — Nature of power, transmission, misuse, theft; Lord Acton; two Ch.13 poems
-- [[quotes/supernature]] — Brighu Samhita description; the five-headed form exchanges; trishul teaching; Das Saheb's screen; the NO-dictionary; supernature-destiny inversion
+- [[quotes/supernature]] — Brighu Samhita description; the five-headed form exchanges; trishul teaching; Das Saheb's screen; the NO-dictionary; supernature-destiny inversion; *WG* Ch.12: elements under his control, weather a simple task, "My legs were in your hands"
 - [[quotes/karma]] — Definition, destiny, strategy, guilt, Ashoka, bhog/rog/yog
 - [[quotes/guru]] — Definition, umbrella, sadhana, waiting, Japji
 - [[quotes/maya]] — Delusion, liberation, moksha, ego trap
@@ -415,6 +415,15 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[kapil-mahtani-london-hotel-attack]] — A force pressing down in a London hotel lifts with the Mahagayatri
 - [[kishanmohan-durgapur-mines]] — Mantra-charged mustard seeds, cloves and cardamoms protect Durgapur's miners
 - [[kapill-keels-delhi-dehradun]] — Spirits trapped in keels in a Delhi hotel and a Dehradun room
+- [[gurudev-khandsa-renuka-water]] — Freshwater under the saline Khandsa farm; a canal traced with a stick at Renuka that receded when the camp left *(WG Ch.12)*
+- [[baljeet-sector-10-rain-pause]] — 1989: rain stops for nine days at the Sector-10 sthan site; "Controlling the weather is a simple task for me" *(WG Ch.12)*
+- [[devraj-khare-lonavala-trees]] — Bug bites after each tree-trimming at Lonavala; "Just let nature be" *(WG Ch.12)*
+- [[gurudev-boiling-lemon-tea]] — Rashmi ji watches Gurudev put his hands in boiling Mahashivratri lemon tea thrice, unburnt *(WG Ch.12)*
+- [[roshini-tea-burn-conviction]] — "I am Gurudev's daughter. He mastered control over fire" — a burn vanishes at the thought *(WG Ch.12)*
+- [[santlal-astral-journey-home]] — Santlal ji, Bakshi ji and Amichand ji travel astrally home; through the grills; Amichand ji fetched back *(WG Ch.12)*
+- [[ravi-trehan-guru-lok-assembly]] — An assembly of ancient mahagurus, Vishwamitra and Vashisht among them, in Guru Lok *(WG Ch.12)*
+- [[guddan-astral-visit-dying-mother]] — Guddan ji flies to her dying mother in Kanpur; "You did visit her. I sent you" *(WG Ch.12)*
+- [[pravesh-kapoor-empty-tank]] — 80–85 km back to Delhi on an empty petrol tank *(WG Ch.12)*
 
 ---
 
@@ -460,3 +469,4 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[conditions-of-healing]] — What the seeker brings (faith, compliance, seva, acceptance, selflessness) and where grace heals regardless; physical form vs. guru form *(Witnessing Greatness Ch.9 + Guru of Gurus)*
 - [[mantra-and-water]] — Water as asana, jal, heat-offset, vessel and sign of siddhi; the Mahagayatri's fire beside it *(Witnessing Greatness Ch.11 + Guru of Gurus + Guru Sutra)*
 - [[guru-who-points-beyond-himself]] — Surpass me, don't idolise me, become Shiv yourself, trust yourself more than the herbs — the guru whose success is his becoming unnecessary; held against "Total surrender" *(Witnessing Greatness Ch.10 + Guru Sutra + Guru of Gurus + Aatma Sutra)*
+- [[missed-astral-invitations]] — The guru's legs as the door: disciples who let go (fear, physical orientation, mistaking it for death) and those taken and returned; the caution against an unprotected body *(Witnessing Greatness Ch.12 + Guru of Gurus + Aatma Sutra)*

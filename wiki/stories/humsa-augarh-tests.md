@@ -2,7 +2,7 @@
 title: Humsa Ji's Two Encounters with Augarh
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/augarh]]", "[[synthesis/tests-in-disguise]]", "[[stories/humsa-dhir-healing]]", "[[entities/bhrigu]]"]
+related: ["[[entities/augarh]]", "[[synthesis/tests-in-disguise]]", "[[stories/humsa-dhir-healing]]", "[[entities/bhrigu]]", "[[stories/roshini-tea-burn-conviction]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -42,3 +42,4 @@ updated: 2026-09-28
 - [[entities/bhrigu]] — the Brighu Samhita's prediction of bananas served at Gurudev's sthans
 - [[stories/humsa-dhir-healing]] — Humsa ji's earlier healing testimony (Ch.3)
 - **Roshini ji, Srimohi ji** — Mumbai sevadaars who felt the same energy
+- [[stories/roshini-tea-burn-conviction]] — Roshini ji's tea burn healed by conviction (*WG* Ch.12)

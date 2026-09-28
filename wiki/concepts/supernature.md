@@ -2,7 +2,7 @@
 title: Supernature
 type: concept
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]", "[[synthesis/mantra-and-water]]"]
+related: ["[[concepts/astral-travel]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/spiritual-healing]]", "[[concepts/constant-awareness]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[concepts/spiritual-alliances]]", "[[synthesis/mantra-and-water]]", "[[stories/gurudev-khandsa-renuka-water]]", "[[stories/gurudev-boiling-lemon-tea]]", "[[synthesis/missed-astral-invitations]]", "[[concepts/barkat]]"]
 created: 2026-04-27
 updated: 2026-09-28
 ---
@@ -135,6 +135,47 @@ Hingori notes that the chapter deliberately underplays the supernature accounts 
 > [!question] Supernature versus siddhi — what is the distinction?
 > Siddhis are *acquired* powers that the mahaguru renounced at Har ki Pauri in 1970. Supernature is what emerged *after* that renunciation — it is what he *is*, not what he *has*. The power symbols that appeared on his body are certifications of this nature, not trophies of accumulation. This distinction is made explicit in the chapter's closing lines.
 
+
+## *Witnessing Greatness* Ch.12 — Elemental Symphony
+
+Ch.12 gathers the eyewitness record of the elemental command summarised above. Its thesis, from the RC Malhotra ji initiation: "The elements of nature are under my control" (p.164); and from Baljeet ji: "Controlling the weather is a simple task for me" (p.166).
+
+**Water.** Freshwater under a chosen spot on the saline Khandsa farm; a canal traced with a stick at Renuka that "receded to its source" once the camp was vacated ([[stories/gurudev-khandsa-renuka-water]]). The Ganges stilled "the moment he complied" ([[stories/malhotra-initiation-ganges]]). Two short testimonies:
+
+> "At that time, Punjab was devastated by severe floods, and our hometown of Hariana was heavily affected. When Gurudev entered the temple grounds where my husband's body lay, something extraordinary occurred. The floodwaters, threateningly close to the temple's entrance, began to recede. It was as if the water showed respect, softly touching Gurudev's feet before withdrawing."
+> — Snehalata ji (widow of Gurudev's younger brother, 1988), *Witnessing Greatness*, Ch.12, p.166
+
+> Santlal ji shares a compelling story of an incident at Juhu Beach, offering another instance where nature seemed to acknowledge Gurudev's spiritual eminence. He saw an isolated wave emerge, seemingly out of nowhere. It moved intently, softly caressing Gurudev's slippers before quietly receding into the ocean. This deliberate gesture by the sea, singling out Gurudev's slippers from everything else on the beach, served as a subtle, yet powerful, testament to the mahaguru's spiritual powers.
+>
+> Giri ji and I also witnessed similar phenomena. The ocean's behaviour bore a striking resemblance to what Santlal ji had witnessed, leading us to affectionately coin the term 'same to same' to describe these shared experiences.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.166
+
+**Rain.** Two short testimonies, and one longer one ([[stories/baljeet-sector-10-rain-pause]] — nine dry days in 1989):
+
+> He describes an incident in Odi, situated in the rugged beauty of Narkanda in Himachal Pradesh: "The heavens had opened up, unleashing a fierce torrent of rain and hail. As Gurudev stepped outside his camped tent, he spoke to the raging heavens with a commanding tone, declaring, 'Enough is enough'. As if directly responding to Gurudev's powerful command, the stormy skies immediately cleared!"
+> — Gupta ji of Parwanoo, *Witnessing Greatness*, Ch.12, p.164
+
+> I had the privilege of witnessing something similar at a camp in Mungaoli. Gurudev and I were seated in a tent when a heavy downpour began. He stepped outside to look intently at the sky, then returned, yet the rain continued unabated. As I conversed with him, I noticed his focus seemingly divided. Suddenly, he rose, angrily pushed aside the tent flap, and with an authoritative voice directed towards the heavens, he commanded the rain to cease, and cease it did, almost instantly!
+>
+> As a witness to this extraordinary spectacle, I found myself momentarily at a loss for words, captivated by the sheer magnitude of the moment.
+> — Hingori, *Witnessing Greatness*, Ch.12, pp.164–165
+
+**Nature's rhythm.** Giri ji: "Gurudev was a true embodiment of his teachings, demonstrating through his actions the significance of planting trees and engaging with agriculture" — at Khandsa "He would plough the fields on his tractor, hand-pick the vegetables, and milk the cows. During harvest season, he would also lend a hand in separating the chaff" (p.167). "Gurudev always emphasised that our actions should align with the nature's rhythm" — and nature "can sometimes push back": [[stories/devraj-khare-lonavala-trees]] ("Just let nature be"). See also [[stories/gurudev-mohammedpur-greening]], [[concepts/karmayoga]].
+
+**Fire.** Rashmi ji watched him put his hands into boiling lemon tea "not just once but thrice" ([[stories/gurudev-boiling-lemon-tea]]); Roshini ji's burn vanished at the thought "He mastered control over fire" ([[stories/roshini-tea-burn-conviction]]). And a jyot that lit itself:
+
+> "During a visit to a devotee's home, accompanied by another sevadaar, Akash Sharma ji, we departed without lighting any jyot," he recalls. Unexpectedly, they later received a call from the homeowner inquiring if they had lit the jyot before leaving. "We had not done anything like that, yet the jyot had mysteriously ignited by itself, without any ghee," he reveals.
+> — Gautam Bhushan ji, *Witnessing Greatness*, Ch.12, p.170
+
+**Space.** Astral travel — "The vast expanse of space often set the stage for many of the mahaguru's spiritual journeys" (p.170). See [[concepts/astral-travel]] (Ch.12), [[synthesis/missed-astral-invitations]].
+
+**Matter.** Kheer and gulab jamuns that "never seemed to diminish" at Shilai ([[concepts/barkat]]); a car driven 80–85 km on an empty tank ([[stories/pravesh-kapoor-empty-tank]]).
+
+> Gurudev's connectivity to the highest realms of consciousness granted him extraordinary abilities to transform the nature of objects, alter the atomic structure of elements, and impact the smallest particles of the universe.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.177
+
+> [!tip] Ch.12 closes by pointing beyond the miracle: the narratives "emphasise the limitless potential that spiritual awareness can unlock" (p.177) — the same move as Ch.3's "what might you, too, be capable of achieving?"
+
 ## Cross-references
 
 - [[quotes/supernature]] — quote collection on supernature
@@ -154,3 +195,4 @@ Hingori notes that the chapter deliberately underplays the supernature accounts 
 - [[stories/asha-sekhri-daughter-ring-oslo]] — post-mortem wedding appearance; Oslo protection
 - [[stories/asthal-temple-statue-miracles]] — temple establishment and statue consciousness in action
 - [[concepts/spiritual-alliances]] — *Witnessing Greatness* Ch.8: the alliances as a working system ("cosmic collaborators"), with eyewitness visions
+- [[stories/gurudev-khandsa-renuka-water]] · [[stories/baljeet-sector-10-rain-pause]] · [[stories/devraj-khare-lonavala-trees]] · [[stories/gurudev-boiling-lemon-tea]] · [[stories/roshini-tea-burn-conviction]] · [[stories/pravesh-kapoor-empty-tank]] — *Witnessing Greatness* Ch.12 (Elemental Symphony)

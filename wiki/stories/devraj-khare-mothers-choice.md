@@ -2,7 +2,7 @@
 title: Devraj Khare Ji — His Mother's Choice
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[concepts/spiritual-healing]]", "[[practices/seva]]", "[[synthesis/conditions-of-healing]]", "[[stories/remanika-dream-kada-healing]]"]
+related: ["[[concepts/spiritual-healing]]", "[[practices/seva]]", "[[synthesis/conditions-of-healing]]", "[[stories/remanika-dream-kada-healing]]", "[[stories/devraj-khare-lonavala-trees]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -27,3 +27,4 @@ updated: 2026-09-28
 - [[concepts/spiritual-healing]] — "Her selfless choice unleashed a flow of blessings"
 - [[practices/seva]] — Devraj ji now "a sevadaar who does healing seva" at Baroda (see [[stories/remanika-dream-kada-healing]])
 - [[synthesis/conditions-of-healing]] — selflessness as the condition that brought healing to the one who declined it
+- [[stories/devraj-khare-lonavala-trees]] — Devraj Khare ji's trimmed trees at Lonavala — "Just let nature be" (*WG* Ch.12)

@@ -2,7 +2,7 @@
 title: Guddan Ji — Fourteen Years of Arthritis
 type: story
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/faith]]", "[[concepts/spiritual-healing]]", "[[stories/guddan-barfi-healing]]", "[[synthesis/conditions-of-healing]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/faith]]", "[[concepts/spiritual-healing]]", "[[stories/guddan-barfi-healing]]", "[[synthesis/conditions-of-healing]]", "[[stories/guddan-astral-visit-dying-mother]]"]
 created: 2026-09-28
 updated: 2026-09-28
 ---
@@ -35,3 +35,4 @@ updated: 2026-09-28
 - [[concepts/faith]] — medications discontinued in confidence, before the meeting
 - [[concepts/spiritual-healing]] — the seeker of healing becomes a healer
 - [[synthesis/conditions-of-healing]]
+- [[stories/guddan-astral-visit-dying-mother]] — Guddan ji sent astrally to her dying mother in Kanpur — "You did visit her. I sent you" (*WG* Ch.12)

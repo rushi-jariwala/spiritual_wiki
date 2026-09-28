@@ -28,7 +28,7 @@ updated: 2026-09-28
 | Dream Sutra | Hingori & Hannah | 2016 | Pending |
 | Guru Sutra | Hingori | 2019 | Fully ingested (Intro + Ch.1–19) |
 | Aatma Sutra | Hingori | 2022 | Fully ingested (Intro + Ch.I–XIV) |
-| Witnessing Greatness | Hingori | — | In progress — Ch.1–11 ingested (to 2026-09-28) |
+| Witnessing Greatness | Hingori | — | In progress — Ch.1–12 ingested (to 2026-09-28) |
 | The Guru of Gurus | Hingori | — | Substantially ingested — His Life + Entrepreneur Extraordinaire + Philosophy & Practices + Hygiene + Healing + Supernature + Who's Who (pp.1–262); Glossary pending |
 
 ---

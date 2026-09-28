@@ -2,7 +2,7 @@
 title: Rajpal ji
 type: entity
 sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/spiritual-healing]]", "[[concepts/guru-awelna]]", "[[concepts/non-doership]]", "[[stories/rajpal-heathrow-bhagwan-authority]]", "[[stories/rajpal-hoarse-voice-snow]]", "[[stories/gurudev-ravan-gurubhai]]", "[[stories/punchoo-trinity-of-devis]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/spiritual-healing]]", "[[concepts/guru-awelna]]", "[[concepts/non-doership]]", "[[stories/rajpal-heathrow-bhagwan-authority]]", "[[stories/rajpal-hoarse-voice-snow]]", "[[stories/gurudev-ravan-gurubhai]]", "[[stories/punchoo-trinity-of-devis]]", "[[stories/gurudev-sarson-saag-astral]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -32,6 +32,10 @@ The night before Dussehra, Gurudev chose to sleep on the floor to honour the dea
 
 ### Punchoo Ji (*Witnessing Greatness*, Ch.8)
 Rajpal ji's daughter Punchoo ji, later married to Pradeep Sethi ji, was introduced by Gurudev in a dream to Laxmi ji, Parvati ji and Saraswati ji. See [[stories/punchoo-trinity-of-devis]].
+
+
+### The Sarson da Saag Night (*Witnessing Greatness*, Ch.12)
+Rajpal ji "humorously details" the Hariana night with Sitaram Taki ji, Suresh Sharma ji and RP Sharma ji: the spoon dropping, the ghee massage, the wait to 3:30 am, and Gurudev's rebuke — "What did you think—that your guru was dead? I have shown you all how to follow me. My legs were in your hands." See [[stories/gurudev-sarson-saag-astral]], [[synthesis/missed-astral-invitations]].
 
 ## Quotes
 

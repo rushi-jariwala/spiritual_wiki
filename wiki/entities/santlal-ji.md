@@ -3,7 +3,7 @@ title: Santlal Ji
 type: entity
 tags: [disciple]
 sources: [witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/destiny]]", "[[concepts/faith]]", "[[concepts/guru-disciple]]", "[[stories/santlal-ji-journey-to-gurudev]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/destiny]]", "[[concepts/faith]]", "[[concepts/guru-disciple]]", "[[stories/santlal-ji-journey-to-gurudev]]", "[[synthesis/guru-who-points-beyond-himself]]", "[[quotes/mentorship]]", "[[stories/santlal-astral-journey-home]]", "[[concepts/astral-travel]]"]
 created: 2026-05-23
 updated: 2026-09-28
 ---
@@ -45,7 +45,8 @@ See [[synthesis/guru-who-points-beyond-himself]], [[concepts/guru-disciple]] (Di
 ## Notable Stories
 
 - [[stories/santlal-ji-journey-to-gurudev]] — the full account: Gangowal sadhu, midnight meeting, nine lifetimes, mother's blessings
-
+- [[stories/santlal-astral-journey-home]] — empowered by Gurudev to travel astrally home, entering "through the grills" (*WG* Ch.12)
+- Juhu Beach (*WG* Ch.12, p.166): saw "an isolated wave" caress Gurudev's slippers — see [[concepts/supernature]] (Ch.12)
 ## Cross-references
 
 - [[entities/mahaguru]] — Gurudev as the guru who had been expecting Santlal ji across nine lifetimes

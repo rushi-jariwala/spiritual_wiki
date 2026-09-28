@@ -2,7 +2,7 @@
 title: Loks
 type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[entities/mahaguru]]", "[[concepts/senses-management]]"]
+related: ["[[concepts/gunas]]", "[[concepts/sukshma-sharir]]", "[[concepts/astral-travel]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/maya]]", "[[concepts/samskars]]", "[[concepts/aatma]]", "[[entities/mahaguru]]", "[[concepts/senses-management]]", "[[stories/ravi-trehan-guru-lok-assembly]]"]
 created: 2026-04-22
 updated: 2026-09-28
 ---
@@ -106,6 +106,10 @@ Corresponds to the *Sahasrara chakra* — the gateway to final emancipation. Bei
 It is believed that loks such as *Vaikunth*, *Guru lok*, *Shiv lok*, and *Bhram lok* exist beyond Satya lok — parallel and variable according to the inherent consciousness of the beings (whether Shiva, Vishnu, or Brahma).
 
 > [!warning] Hingori explicitly disagrees with scriptures that place *moksh* within the lok framework: "In disagreement to many scriptures I would say that moksh lies beyond these loks too." See [[concepts/moksha]].
+
+
+> [!tip] *Guru Lok* in a disciple's testimony — *Witnessing Greatness* Ch.12 (p.174)
+> Ravi Trehan ji: "the impression I received strongly suggested that I astrally travelled to Guru Lok with Gurudev … I felt the presence of ancient mahagurus … I recall seeing beings such as Brahmrishi Vishwamitra and Guru Vashisth." The book's footnote: "a place of ultimate peace and divine wisdom, where souls reside in a state of bliss and are free from the cycle of birth and death." See [[stories/ravi-trehan-guru-lok-assembly]].
 
 ## Gurudev's Revelation — The Dhruv Tara Crossroads
 

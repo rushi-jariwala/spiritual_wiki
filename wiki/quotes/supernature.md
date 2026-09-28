@@ -2,9 +2,9 @@
 title: Quotes — Supernature
 type: quote-collection
 sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
-related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]"]
+related: ["[[concepts/supernature]]", "[[concepts/power-symbols]]", "[[concepts/destiny]]", "[[concepts/statue-consciousness]]", "[[entities/mahaguru]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-27
-updated: 2026-05-20
+updated: 2026-09-28
 ---
 
 # Quotes — Supernature
@@ -150,3 +150,59 @@ Quotes from *The Guru of Gurus*, Chapter 07: Supernature (pp.231–248).
 > If one individual can manifest as Shiv, what might you, too, be capable of achieving?
 > — Hingori, *Witnessing Greatness*, Ch.3, p.48
 [[concepts/supernature]] · [[concepts/maya]] · [[entities/mahaguru]]
+
+---
+
+## Elemental Symphony (*Witnessing Greatness*, Ch.12)
+
+> "The elements of nature are under my control."
+> — Gurudev to RC Malhotra ji, *Witnessing Greatness*, Ch.12, p.164
+[[stories/malhotra-initiation-ganges]] · [[concepts/supernature]]
+
+---
+
+> "Controlling the weather is a simple task for me."
+> — Gurudev to Baljeet ji, *Witnessing Greatness*, Ch.12, p.166
+[[stories/baljeet-sector-10-rain-pause]]
+
+---
+
+> "It was as if the water showed respect, softly touching Gurudev's feet before withdrawing."
+> — Snehalata ji, *Witnessing Greatness*, Ch.12, p.166
+[[concepts/supernature]]
+
+---
+
+> "Just let nature be."
+> — Devraj Khare ji, *Witnessing Greatness*, Ch.12, p.168
+[[stories/devraj-khare-lonavala-trees]]
+
+---
+
+> "I am Gurudev's daughter. He mastered control over fire, so my hand will be fine."
+> — Roshini ji, *Witnessing Greatness*, Ch.12, p.169
+[[stories/roshini-tea-burn-conviction]] · [[synthesis/conditions-of-healing]]
+
+---
+
+> "No one will ever know where I go. But I watch over people and guide them."
+> — Gurudev, quoted by Mataji, *Witnessing Greatness*, Ch.12, p.170
+[[concepts/astral-travel]] · [[entities/mataji]]
+
+---
+
+> "What did you think—that your guru was dead? I have shown you all how to follow me. My legs were in your hands. If only you had pressed that point, you would have come with me."
+> — Gurudev to Rajpal ji and his gurubhais, *Witnessing Greatness*, Ch.12, p.171
+[[stories/gurudev-sarson-saag-astral]] · [[synthesis/missed-astral-invitations]]
+
+---
+
+> "Who told you that you did not meet your mother? You did visit her. I sent you."
+> — Gurudev to Guddan ji, *Witnessing Greatness*, Ch.12, p.176
+[[stories/guddan-astral-visit-dying-mother]]
+
+---
+
+> Gurudev's connectivity to the highest realms of consciousness granted him extraordinary abilities to transform the nature of objects, alter the atomic structure of elements, and impact the smallest particles of the universe.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.177
+[[concepts/supernature]] · [[entities/mahaguru]]

@@ -1659,3 +1659,35 @@ Why the ek vakyas were understood only decades later. Cf. Seed and Potential Tre
 
 The disciples' answer to "How should we move forward after Gurudev's physical departure?" Cf. The Invisible Escalator — The 250-Year Spiritual Relay (Ch.4).
 
+---
+
+## Elemental Symphony — Witnessing Greatness (Ch.12)
+
+### The Legendary Escape Artist — Mastery of Out-of-Body Travel
+*Illuminates: [[concepts/astral-travel]], [[concepts/sukshma-sharir]]*
+
+> Gurudev's mastery of out-of-the-body experiences was akin to that of a legendary escape artist, effortlessly moving between the physical and ethereal realms. This practice, known to him as paath, was a vital part of his daily spiritual discipline.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.170
+
+The body as the locked box the escape artist leaves and re-enters at will. Its counterpart: the disciples who could not find the way out and back "particularly when encased by grills" without his help ([[stories/santlal-astral-journey-home]]). See [[synthesis/missed-astral-invitations]].
+
+---
+
+### Dwarfing the Encyclopaedia Britannica
+*Illuminates: [[concepts/astral-travel]], [[entities/mahaguru]]*
+
+> The tales of Gurudev's astral voyages spark wonder and awe. If penned, the sheer volume and depth of these experiences would dwarf the expansive records of the Encyclopaedia Britannica.
+> — Hingori, *Witnessing Greatness*, Ch.12, p.174
+
+The record in the book is a sample, not the whole. Cf. the book's premise that Gurudev can be *witnessed* but not exhausted ([[sources/witnessing-greatness]]).
+
+---
+
+### Water Showing Respect — Nature Acknowledging the Master
+*Illuminates: [[concepts/supernature]]*
+
+> "The floodwaters, threateningly close to the temple's entrance, began to recede. It was as if the water showed respect, softly touching Gurudev's feet before withdrawing."
+> — Snehalata ji, *Witnessing Greatness*, Ch.12, p.166
+
+The same image at Juhu — a wave "softly caressing Gurudev's slippers before quietly receding" (p.166) — which Hingori and Giri ji called "same to same." The element as a devotee touching the guru's feet.
+

@@ -2,10 +2,10 @@
 title: Sitaram Taki Ji
 type: entity
 tags: [disciple]
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/mahaguru]]", "[[concepts/astral-travel]]", "[[stories/sitaram-taki-haridwar-astral]]", "[[stories/gurudev-sarson-saag-astral]]", "[[stories/renuka-disabled-girl]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/mahaguru]]", "[[concepts/astral-travel]]", "[[stories/sitaram-taki-haridwar-astral]]", "[[stories/gurudev-sarson-saag-astral]]", "[[stories/renuka-disabled-girl]]", "[[synthesis/missed-astral-invitations]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Sitaram Taki Ji
@@ -25,6 +25,12 @@ Sitaram Taki ji is an imposing personality and one of Gurudev's devoted disciple
 ### Renuka Healing
 
 At the Renuka camp (1980), Sitaram ji assisted in healing a young girl who could not stand. On Gurudev's advice, he stood on the girl's toes while another disciple lifted her by her hands. The girl stood and walked for the first time. Her parents wept with gratitude. See [[stories/renuka-disabled-girl]].
+
+
+### *Witnessing Greatness* Ch.12 — Two Nights Retold
+
+- **Hariana, through Rajpal ji's eyes** (p.171): Sitaram ji recalls the *guru paher* (2:15–3:30 am); the disciples wait; Gurudev revives at 3:30 sharp with "OM." Three hours later: "My legs were in your hands. If only you had pressed that point, you would have come with me." See [[stories/gurudev-sarson-saag-astral]].
+- **Haridwar** (p.173): invited to "hold his legs," he "inadvertently released his grip" at the sight of the ethereal double. See [[stories/sitaram-taki-haridwar-astral]], [[synthesis/missed-astral-invitations]].
 
 ## Quotes
 

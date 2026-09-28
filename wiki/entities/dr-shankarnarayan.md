@@ -2,10 +2,10 @@
 title: Dr. Shankarnarayan
 type: entity
 tags: [disciple, colleague]
-sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md]
+sources: [The-Guru-of-Gurus-Eng.pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[stories/shankarnarayan-vaishali-healing]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Dr. Shankarnarayan
@@ -17,7 +17,7 @@ Dr. Shankarnarayan was a senior colleague of Gurudev at the All India Soil and L
 ## Notable Stories
 
 ### Vaishali's Healing — First Disciple
-Shankarnarayan ji's young daughter **Vaishali** suffered from intermittent fits and a persistent fever. When he mentioned her condition to Gurudev, the mahaguru smiled but said nothing. Over time, Shankarnarayan ji's faith deepened to the point where he made a decisive act: he **threw away Vaishali's medicines**, confident she no longer needed them. Following this act of faith, Vaishali's condition gradually improved until she recovered completely. He was the first to address Gurudev as *"Guruji"* — and soon after was initiated as a formal disciple. See [[stories/shankarnarayan-vaishali-healing]].
+Shankarnarayan ji's young daughter **Vaishali** suffered from intermittent fits and a persistent fever. When he mentioned her condition to Gurudev, the mahaguru smiled but said nothing. Over time, Shankarnarayan ji's faith deepened to the point where he made a decisive act: he **threw away Vaishali's medicines**, confident she no longer needed them. Following this act of faith, Vaishali's condition gradually improved until she recovered completely. He was the first to address Gurudev as *"Guruji"* — and soon after was initiated as a formal disciple. See [[stories/shankarnarayan-vaishali-healing]]. *Witnessing Greatness* Ch.9 (p.124) adds that he learnt of Gurudev's powers through the healing of his colleague **Mr Datta's father**, and in his own words: "My unshakeable faith in Gurudev was the catalyst for Vaishali's miraculous recovery."
 
 ### Bowing to Malhotraji — The Seniority Test
 *Guru Sutra*, Ch.5

@@ -1,10 +1,10 @@
 ---
 title: Transmission of Power
 type: concept
-sources: [guru_sutra_book.md]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[concepts/power-symbols]]", "[[concepts/mantra-transfer]]", "[[concepts/gaddi]]", "[[concepts/spiritual-attacks]]", "[[concepts/tantra]]", "[[concepts/guru-kripa]]", "[[concepts/aura]]", "[[entities/mahaguru]]", "[[entities/hingori]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-28
 ---
 
 # Transmission of Power
@@ -122,6 +122,13 @@ This connects to [[stories/hingori-renuka-temple-attack]], where the lesson was 
 
 ---
 
+## Healing Power at Scale (*Witnessing Greatness*, Ch.9)
+
+> In spiritual traditions, imparting spiritual power to disciples is extraordinary and infrequent. Gurudev, however, stands out not just for achieving this feat but for doing so on an unprecedented scale. The number of individuals he empowered is unparalleled, distinguishing him as a unique figure in spiritual mentorship. Those disciples, now imbued with his spiritual energy, have become capable vessels, continuing the legacy of the healing power he epitomises.
+> — Hingori, *Witnessing Greatness*, Ch.9, p.132
+
+Testimonies: [[stories/ravi-ji-us-brain-tumour]], [[stories/rishabh-gopiganj-vision-gratitude]], [[stories/gajendra-lonavala-paralysed-twins]], [[stories/kanika-bhalla-clot-vanished]], [[stories/devraj-khare-mothers-choice]]. Even a technique could be passed on: Punchoo ji's thumb-and-forefinger headache cure ([[stories/punchoo-migraine-hundred-people]]).
+
 ## Cross-references
 
 - [[concepts/power-symbols]] — the specific symbols that manifest as a consequence of attained power
@@ -134,3 +141,4 @@ This connects to [[stories/hingori-renuka-temple-attack]], where the lesson was 
 - [[entities/mahaguru]] — the primary exemplar; unprecedented methods of power transmission
 - [[concepts/guru-vandana]] — touching the guru's feet as a transmission channel; ashirwad flowing from guru's hands to disciple's head
 - [[stories/santoshji-kathok-jal]], [[stories/hingori-strawberry-seller]], [[stories/hingori-rain-mantra]], [[stories/malhotra-power-misuse]], [[stories/aghori-disciple-dead-body]]
+- [[concepts/spiritual-healing]] — *Witnessing Greatness* Ch.9: healing through disciples and their downlines, including remote healing

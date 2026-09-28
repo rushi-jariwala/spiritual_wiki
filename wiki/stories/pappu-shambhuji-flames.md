@@ -28,3 +28,4 @@ The story is offered in the context of how dreams and spiritual experiences buil
 - [[concepts/sukshma-sharir]] — the spirit body retaining the ability to intervene after death
 - [[entities/mahaguru]] — Gurudev had transmitted spiritual powers to Shambhuji during his lifetime
 - [[concepts/supernature]] — the SUPERNATURE chapter (*The Guru of Gurus*, p.242) records this same incident: "fireballs directed towards him by jealous tantriks missed their mark. He saw his deceased father, Shambhu ji, stop the fireballs before they could hit him." The *Aatma Sutra* phrasing is "extinguished before hitting his bed"; the *Guru of Gurus* says "missed their mark" — both confirm Shambhu ji's posthumous protective intervention.
+- [[stories/pappu-finger-regeneration]] — Pappu ji's severed finger regenerated (*Witnessing Greatness*, Ch.9)

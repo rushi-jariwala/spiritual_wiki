@@ -26,3 +26,4 @@ An earlier account in the book established that the healing restored Bittu ji's 
 - [[entities/mahaguru]] — appears post-humously in the dream state to heal
 - [[concepts/spiritual-healing]] — dream/vision as a mode of healing; healing that continued after Gurudev's passing
 - [[concepts/astral-travel]] — Gurudev's continued post-death operations in the spirit dimension
+- [[stories/remanika-dream-kada-healing]] — another dream healing: the kada on the gaddi (*Witnessing Greatness*, Ch.9)

@@ -76,6 +76,8 @@ He allowed a few disciples to **wash his feet and then drink the water** — whi
 
 Thousands of devotees came to have their coconuts blessed; some fasted on fruits until they could pay respects. Sweetened saffron rice and mangoes were served at the sthan.
 
+*Witnessing Greatness* Ch.9 (p.131): "On Guru Purnima, it is a practice for disciples to get coconuts blessed by their guru—a ritual that symbolises the surrender of one's ego." At one sthan, flowers sprouting from blessed coconuts are now offered "to women who visit the sthan with infertility issues." See [[stories/pooja-seth-coconut-flower]].
+
 *See [[concepts/guru-vandana]] for the full treatment of Guru Purnima as part of the practice of revering the guru.*
 
 ## Dussehra, Dhanteras, and Diwali

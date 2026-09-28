@@ -26,3 +26,4 @@ updated: 2026-04-14
 
 - [[concepts/positive-karma]] — medical aid as positive karma; karma that continues compounding after the actor's death
 - [[entities/hingori]] — narrator
+- [[stories/gajendra-lonavala-paralysed-twins]] — Lonavala sthan, 1997: the first 108 patients and the paralysed twins (*Witnessing Greatness*, Ch.9)

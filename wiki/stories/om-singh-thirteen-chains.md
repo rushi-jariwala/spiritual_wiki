@@ -28,3 +28,4 @@ The story is introduced as a first-person eyewitness account. Gurudev handled th
 - [[entities/hingori]] — eyewitness; tasked with taking Om Singh shopping after the healing
 - [[concepts/spiritual-healing]] — spirit possession; Gurudev's method of offering rewards to spirits rather than attacking them
 - [[concepts/sukshma-sharir]] — the mechanics of spirit possession understood through the subtle body
+- [[stories/hari-ram-spirit-nigambhod]] — the spirit Hari Ram asks for rebirth before leaving its host (*Witnessing Greatness*, Ch.9)

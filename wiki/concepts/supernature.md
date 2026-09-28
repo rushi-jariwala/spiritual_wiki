@@ -77,6 +77,8 @@ Disciples empowered by him also demonstrated elemental command: Pappu ji of Jwal
 
 He lived in constant awareness of past, present, and future. He could exhaust karmas, change samskars, and subtract years from a person's future life to add to their present one. See [[concepts/constant-awareness]] and [[concepts/spiritual-healing]].
 
+*Witnessing Greatness* Ch.9 (p.121) gives Das Saheb's fuller version: "There is an ethereal screen before me, visible only to my eyes. Every detail about everyone in the queue—their past, present and future, problems, faith, devotion, and even their casual curiosity—all manifest on that screen. I know the help they seek within moments and can determine the appropriate guidance." Gurudev also told Hingori: "After seva, simply remember the first and last person you met, and all those in between will naturally settle in your thoughts." Das Saheb is identified as "a follower from Chandigarh."
+
 ### Bilocation and Invisibility
 
 He was physically present and absent at the same time. Documented bilocation instances from across the sources:

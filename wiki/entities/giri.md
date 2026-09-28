@@ -3,7 +3,7 @@ title: Giri Ji
 type: entity
 tags: [disciple]
 sources: [The-Guru-of-Gurus-Eng.pdf, Aatma Sutra 12-09-2022 _234 pgs(2).pdf, witnessing-greatness-chapters]
-related: ["[[entities/mahaguru]]", "[[concepts/karmayoga]]", "[[stories/giri-broken-hand]]", "[[stories/gurudev-mohammedpur-greening]]", "[[stories/giri-blister-healing]]", "[[stories/giri-embarrassing-dream]]", "[[stories/giri-sister-fungal-ghee]]", "[[concepts/spiritual-alliances]]"]
+related: ["[[entities/mahaguru]]", "[[concepts/karmayoga]]", "[[stories/giri-broken-hand]]", "[[stories/gurudev-mohammedpur-greening]]", "[[stories/giri-blister-healing]]", "[[stories/giri-embarrassing-dream]]", "[[stories/giri-sister-fungal-ghee]]", "[[concepts/spiritual-alliances]]", "[[stories/giri-haath-ki-safaai-healing]]", "[[stories/giri-mother-uterine-cancer]]"]
 created: 2026-04-26
 updated: 2026-09-28
 ---
@@ -27,6 +27,16 @@ In 1988, Giri ji purchased a small plot in Mohammedpur village, near Gurgaon —
 ### Sister's Fungal Infection (Healing chapter)
 
 When Giri ji's sister's hands became infected with fungal growth, Gurudev prescribed applying ghee on rotis made at the sthan for eleven days. By the twelfth day, the fungal infection had subsided completely. See [[stories/giri-sister-fungal-ghee]].
+
+*Witnessing Greatness* Ch.9 (p.129) gives Giri ji's own telling: a skin condition of the hands and feet; cured by 11 days of langar seva.
+
+### From Sceptic to Disciple (*Witnessing Greatness*, Ch.9)
+
+At his first meeting — with fellow Mumbaikars Shyam Dhumutkar ji and Shrikrishna Deolekar ji — Giri ji did not touch Gurudev's feet and dismissed the symbols on his palm as "haath ki safaai." At Mahashivratri, March 1983, Gurudev raised the unspoken comment, then healed him with blessed cloves and cardamoms within six months. See [[stories/giri-haath-ki-safaai-healing]].
+
+### His Mother's Uterine Cancer (*Witnessing Greatness*, Ch.9)
+
+Punjabi Bagh sthan, 1991: "Your mother has borne my disciple and I am indebted to her. I assure you that her uterus will not be removed." Tea bhog at 5.30 am, nine sips of water over the phone; the tests showed no cancer; she lived 30 more years. See [[stories/giri-mother-uterine-cancer]].
 
 ### The Blister and the Embarrassing Dream (*Aatma Sutra*)
 

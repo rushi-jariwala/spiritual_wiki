@@ -3,7 +3,7 @@ title: Hingori's Arthritis Cure
 type: story
 tags: [hingori, mahaguru, healing, miracle, conversion]
 sources: [Karma Sutra June 2017-edited Final_E-print_19.pdf, witnessing-greatness-chapters]
-related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]"]
+related: ["[[entities/hingori]]", "[[entities/mahaguru]]", "[[concepts/guru-disciple]]", "[[practices/seva]]", "[[concepts/aura]]", "[[stories/yash-sethi-dermatomyositis]]", "[[synthesis/conditions-of-healing]]"]
 created: 2026-04-12
 updated: 2026-09-28
 ---
@@ -44,6 +44,24 @@ The deliberate partial cure — Gurudev curing only 95% — is Hingori's retrosp
 > — Hingori, *Witnessing Greatness*, Ch.7, p.91
 
 New details: the pedas were **white**; they were charged through "specific rituals and **reverse mantras**." See [[concepts/aura]] (Food, Clothes, and Saliva as Aura Vectors).
+
+## *Witnessing Greatness* Ch.9 — The Negotiation, the Relapse, the Glance (pp.117–119)
+
+Ch.9 opens with the story in Hingori's voice. He was drawn by [[stories/yash-sethi-dermatomyositis|Yash Sethi's recovery]] and first met Gurudev at the Sethi residence in Mumbai, where Gurudev had initiated seva:
+
+> It was there that I first met him, seeking a healing miracle for myself. The mahaguru slipped a kada onto my wrist, looked at me and declared, "Give him 75% relief ". Unwilling to settle, I requested, "Why not 100%?" Amused by my negotiation, he responded, "Fine, we will give you 95% relief from your problem."
+>
+> Leaving the sthan, I felt significantly better. Previously, I had been undergoing homoeopathic therapy with Mr Marshal, a spiritualist who used a planchette and pendulum in choosing treatments, claiming guidance from his late guru. After my encounter with Gurudev, during a follow-up visit, Mr Marshal's pendulum swung erratically. Bewildered, he exclaimed, "I don't believe this! How can this be? You are already 95% healed!" The figure was precisely what Gurudev had promised, yet my scepticism held firm. Ignoring the mahaguru's recommendations, I skipped visits to the sthan and indulged in alcohol on Thursdays, something he had advised me against. Consequently, a year later, my arthritis returned more fiercely than before.
+>
+> Four years later, after experiencing a series of transformative events that deepened my faith, I returned to Gurudev, seeking not healing but his grace. His simple advice to me was, "Son, start doing seva". Despite enduring severe pain, I followed his counsel. While serving food to visitors at the Gurgaon sthan one day, I noticed him watching me intently from a distance for a few seconds before he turned and walked away. Incredibly, in that brief exchange, he completely healed my arthritis!
+>
+> My swift recovery was not an isolated incident; numerous others have reported equally rapid healings through his intervention.
+> — Hingori, *Witnessing Greatness*, Ch.9, pp.118–119
+
+New details: the meeting place (Sethi residence, Mumbai); the kada; the 75% → 95% negotiation; Mr Marshal's pendulum; the relapse attributed to skipped sthan visits and alcohol on Thursdays (see [[concepts/hygiene]] — Thursday Rules); the return seeking grace, not healing; "Son, start doing seva"; the final cure by a glance while serving food at Gurgaon. Mr Marshal is the planchette healer of [[stories/marchant-planchette-healing]] (*Karma Sutra*, spelled **Marchant** there).
+
+> [!warning] Three tellings of the cure
+> *Karma Sutra*: "cured me of my illness in a minute." *Guru Sutra* Ch.5: first visit 1977 in the Gurgaon queue; Gurudev "deliberately cured only 95%"; returned **five years later** when the cure wore thin. *Witnessing Greatness* Ch.9: first meeting at the Sethi residence in Mumbai; 95% was Hingori's negotiated figure (up from 75%); relapse **a year later** from skipped visits and Thursday alcohol; returned **four years later**; final cure by a glance while doing seva. *Karma Sutra* Ch.5 (Mr Marchant story) adds a fourth detail: Gurudev's **disciple** splashed holy water into Hingori's eyes and took away the pain with his hands. See [[sources/witnessing-greatness]].
 
 ## Related Concepts & Entities
 

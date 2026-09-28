@@ -30,3 +30,4 @@ updated: 2026-09-28
 - [[concepts/spiritual-alliances]] — Dattatreya is among the entities with whom Gurudev held alliances (see [[stories/gurudev-renuka-parshuram-alliance]]); here the deity's sign precedes the disciple's temple
 - [[concepts/destiny]] — "the preordained spot": a deal that fails, then revives ten minutes after a third party's dream
 - **Pradeep Sethi ji** — Mumbai sevadaar; husband of Punchoo ji (Rajpal ji's daughter). See also [[stories/pradeep-pragya-cancer-patient]], [[stories/pradeep-sai-baba-chautha-and-seva]], [[stories/punchoo-trinity-of-devis]]
+- [[stories/yash-sethi-dermatomyositis]] — Pradeep ji's uncle Yash and the start of seva at the Sethi residence (*Witnessing Greatness*, Ch.9)

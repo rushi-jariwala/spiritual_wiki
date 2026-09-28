@@ -24,3 +24,4 @@ updated: 2026-05-03
 - [[entities/hingori]] — the guru here, who repeatedly refuses meetings yet ultimately relents because of the quality of the man's persistence
 - [[concepts/intent-as-healing]] — after three decades, Vachhani reaches a point where he can will patients to improve — intention itself becomes the operative healing force
 - [[practices/seva]] — the outcome of the journey: a doctor whose allopathic limits become an entry point for spiritual service to his patients
+- [[stories/dr-vacchani-spirits-angiogram]] — *Witnessing Greatness* Ch.9: the doctor's cases of spirits behind psychosomatic illness

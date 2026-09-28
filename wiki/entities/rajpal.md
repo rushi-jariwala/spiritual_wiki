@@ -22,6 +22,8 @@ In the departure lounge at London's Heathrow airport, Rajpal ji asked Gurudev wh
 ### At Heathrow Airport — The Question of Divine Authority
 See [[stories/rajpal-heathrow-bhagwan-authority]]. Gurudev explains to Rajpal ji that Bhagwan has given him the stature of a guru and the authority that comes with it — authority exercised in service of healing the sick, not for personal gain.
 
+*Witnessing Greatness* Ch.9 (p.139) gives the fuller dialogue: "I reconfigure their fate; I relieve their suffering, for I am their guru" … "Quite the opposite—it delights God immensely" … "By healing someone, I am soothing the divine presence within them."
+
 ### The Hoarse Voice — Ego in Seva
 In the early years of discipleship, Rajpal ji sat at the sthan singing songs, probably with the intention of impressing visitors. Gurudev looked at him and said, "Alright son, let me see how you sing again." Within no time, Rajpal ji's throat got sore and remained that way for over a year. During a visit to Shimla with Gurudev, he pleaded for a cure. Gurudev asked him to pick snow off the ground and eat it. Rajpal ji did as told and instantly his throat was normal again. *Guru Sutra* (Ch.12) explicitly frames this as [[concepts/guru-awelna]]. See [[stories/rajpal-hoarse-voice-snow]].
 
@@ -35,6 +37,9 @@ Rajpal ji's daughter Punchoo ji, later married to Pradeep Sethi ji, was introduc
 
 > "Bhagwan is within each being. Bhagwan has given me the stature of a guru and the authority that comes with it. I exercise this authority so that the sick can be healed."
 > — Gurudev to Rajpal ji, *The Guru of Gurus*, p.225
+
+> "By healing someone, I am soothing the divine presence within them. In this way, I am also alleviating God's own distress."
+> — Gurudev to Rajpal ji, *Witnessing Greatness*, Ch.9, p.139
 
 ## Sources
 

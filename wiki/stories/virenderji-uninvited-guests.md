@@ -37,3 +37,4 @@ For the nirman kaya mechanism (creating an energy duplicate through asana and ma
 - [[concepts/supernature]] — the mahaguru's capacity to fashion and deploy a disciple's nirman kaya, not only his own
 - [[concepts/mukti]] — nirman kaya as a marker of advanced spiritual evolution; here granted *to* a disciple by the mahaguru
 - [[entities/mahaguru]] — "I have already told you that I have created two of you" — the promise and its lived fulfilment
+- [[stories/virender-wife-malevolent-spirit]] — a Virender ji's wife freed of a malevolent spirit (*Witnessing Greatness*, Ch.9; identity with the judge unconfirmed)

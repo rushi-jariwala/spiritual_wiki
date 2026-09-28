@@ -1,10 +1,10 @@
 ---
 title: Dr. Shankarnarayan and the Healing of Vaishali
 type: story
-sources: [The-Guru-of-Gurus-Eng.pdf]
-related: ["[[entities/dr-shankarnarayan]]", "[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[concepts/guru-disciple]]"]
+sources: [The-Guru-of-Gurus-Eng.pdf, witnessing-greatness-chapters]
+related: ["[[entities/dr-shankarnarayan]]", "[[entities/mahaguru]]", "[[concepts/intent-as-healing]]", "[[concepts/guru-disciple]]", "[[concepts/faith]]", "[[synthesis/conditions-of-healing]]"]
 created: 2026-04-26
-updated: 2026-04-26
+updated: 2026-09-28
 ---
 
 # Dr. Shankarnarayan and the Healing of Vaishali
@@ -19,6 +19,19 @@ updated: 2026-04-26
 ## Source
 
 *The Guru of Gurus*, "Seeding the Spiritual Tree," pp.67–68
+
+## *Witnessing Greatness* Ch.9 Version (p.124)
+
+> Gurudev's office was not just a professional space but a crucial setting where his spiritual practices blossomed. It became a sanctuary where many like Dr Shankarnarayan ji, initially drawn in search of healing, found themselves embarking on a spiritual journey, eventually becoming his disciples.
+>
+> Shankarnarayan ji was Gurudev's senior who embraced the paradox of leading professionally while following spiritually. He shares, "I was unaware of Gurudev's spiritual powers until the miraculous healing of my colleague Mr Datta's father was brought to my attention."
+>
+> Amidst a tumultuous period marked by various familial challenges, the health of Shankarnarayan ji's daughter, Vaishali, emerged as a focal point of concern. She suffered from persistent fits and fever, conditions that defied conventional medical solutions. He recalls a heartfelt discussion about her condition with the mahaguru: "Gurudev offered nothing but a smile, a silent gesture that, paradoxically, conveyed volumes". Though devoid of words, that moment instilled unwavering faith within Shankarnarayan ji. He reflects, "My unshakeable faith in Gurudev was the catalyst for Vaishali's miraculous recovery."
+>
+> Gurudev once explained the intrinsic link between faith and healing, emphasising, "Though a doctor can prescribe a course of treatment, it is ultimately the patient's belief in the doctor's proficiency that significantly enhances the treatment's efficacy."
+> — Hingori and Dr Shankarnarayan, *Witnessing Greatness*, Ch.9, pp.123–124
+
+New details: Shankarnarayan ji learnt of Gurudev's powers through the healing of **Mr Datta's father** (a colleague — possibly the "Dutta Saheb" of Ch.1's workplace-disciple roster; not confirmed). Ch.9 does not mention the medicines being thrown away.
 
 ## Related Concepts / Entities
 

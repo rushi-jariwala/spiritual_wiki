@@ -1,10 +1,10 @@
 ---
 title: Spiritual Attacks
 type: concept
-sources: [guru_sutra_book.md]
-related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]"]
+sources: [guru_sutra_book.md, witnessing-greatness-chapters]
+related: ["[[concepts/transmission-of-power]]", "[[concepts/aura]]", "[[concepts/tantra]]", "[[concepts/gaddi]]", "[[concepts/spiritual-healing]]", "[[entities/mahaguru]]", "[[entities/hingori]]", "[[entities/chacha]]", "[[stories/virender-wife-malevolent-spirit]]", "[[stories/dr-vacchani-spirits-angiogram]]"]
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-09-28
 ---
 
 # Spiritual Attacks
@@ -93,3 +93,6 @@ This connects to the karma framework: a negative wish that fructifies becomes ne
 - [[concepts/tantra]] — tamasic mantra siddhis are the primary tools of attack
 - [[entities/chacha]] — foiled two tamasic tantrik attacks with casual ease
 - [[entities/hingori]] — personally victimised by black magic (rheumatoid arthritis); later trained in self-preservation
+- [[stories/virender-wife-malevolent-spirit]] — a gynaecological ailment revealed as "the work of a malevolent spirit" (*Witnessing Greatness*, Ch.9)
+- [[stories/hari-ram-spirit-nigambhod]] — possession freed; the spirit bargains for rebirth (*WG* Ch.9)
+- [[stories/dr-vacchani-spirits-angiogram]] — "multiple spirits haunted her"; an entity deterred during an angiogram (*WG* Ch.9)

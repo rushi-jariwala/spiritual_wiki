@@ -235,3 +235,6 @@ Gurudev's mastery of the elements through eyewitness testimony — water, rain, 
 
 ## [2026-10-10] query | Enrich the "Seva at All Times" talk with wiki material
 Strengthened a 20-minute talk on continuous seva using practices/seva (four levels, Golden Rule, money supplements not substitutes), Renu's milk, Pradeep ji and Pragya, Indu ji's last subzi, Kasturi's petrol pump breakfast, Sneh's empathy lesson, and the cricket/muscle-memory analogy. Not filed as a synthesis page.
+
+## [2026-10-10] query | Alternative 15-minute "Seva at All Times" talk
+Built a second talk around the same quote, structured as a map of the places Gurudev served (Kurwai camp, the road rescue of the elderly couple, office, home, Khandsa cowshed), the rude sevadaar as the attitude test, and Bharat Dalal ji's "24/7" dream. The quote itself (gurudevonline.com) is not yet in the wiki.

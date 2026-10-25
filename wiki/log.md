@@ -238,3 +238,6 @@ Answered: *Aatma Sutra* Ch.III "Thoughts" (pp.23–37) — external thoughts, ka
 
 ## [2026-10-25] update | Blog — Your Mind Is a Phone. Check the Battery.
 One-minute blog post plus shareable image card on citt-vritti-nirodh (cell-phone battery analogy, Himachal jeep ride), for readers who don't read books.
+
+## [2026-10-25] update | Blog — Who Handed Them the Mirror? (Accepting Yourself, Part 1 of 6)
+Started a six-part blog + image-card series walking through *Aatma Sutra* Ch.XI section by section; Part 1 covers the societal norms of evaluation (age, profession, appearance, social background, negative feedback). Planned parts: destiny · self-blame (Rabia) · guilt · surmounting guilt (painting, Neena, Ram) · pure water in coffee.

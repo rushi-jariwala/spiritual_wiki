@@ -446,6 +446,7 @@ Folder map: `concepts/` · `entities/` · `stories/` · `practices/` · `sources
 - [[blog/2026-04-28-koshas-manomaya|2026-04-28 — The Villain in the Middle]] — Manomaya Kosha: the mind body that names, claims, and mistakes its constructions for the self
 - [[blog/2026-04-27-seva|2026-04-27 — The Fruit Is in the Giving]] — Seva: selfless service and its compounding power
 - [[blog/2026-10-25-citt-vritti-nirodh|2026-10-25 — Your Mind Is a Phone. Check the Battery.]] — Citt, Vritti, Nirodh: one-minute read on thoughts draining the aura
+- [[blog/2026-10-25-self-acceptance-1-mirrors|2026-10-25 — Who Handed Them the Mirror?]] — Self-Acceptance series, Part 1: society's mirrors of worth
 - [[blog/2026-05-03-maya|2026-05-03 — The World That Is Not]] — Maya: the field of delusion within which duality operates; Ram's life as the applied teaching
 - [[blog/2026-05-03-kleshas|2026-05-03 — Five Flatmates You Cannot Evict (No Matter How Many Lifetimes You Try)]] — Kleshas: the five mental afflictions as the perpetual rent-free flatmates inside your head
 - [[blog/2026-05-03-role-play|2026-05-03 — Acting Genuine]] — Role-play: inhabiting relationships with full engagement but without emotional ownership; Gurudev's staged fury as compassion

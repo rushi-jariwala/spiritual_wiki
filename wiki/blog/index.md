@@ -27,6 +27,7 @@ Daily reflections drawn from the Hingori Sutras — written as a direct message 
 - [[blog/2026-05-12-destiny|2026-05-12 — The Film Was Already Made]] — Destiny: the future is already written; why the seers could read it, how the guru softens its impact, and why guilt is a category error applied to a pre-scripted life
 - [[blog/2026-06-02-vairagya|2026-06-02 — We Are Fakirs]] — Vairagya: how detachment within the householder life works; the love that belonged to no one and therefore reached everyone
 - [[blog/2026-10-25-citt-vritti-nirodh|2026-10-25 — Your Mind Is a Phone. Check the Battery.]] — Citt, Vritti, Nirodh: a one-minute read on how every thought drains the aura, and how watching instead of owning saves the charge
+- [[blog/2026-10-25-self-acceptance-1-mirrors|2026-10-25 — Who Handed Them the Mirror?]] — Self-Acceptance (Accepting Yourself series, Part 1 of 6): the mirrors of age, work, looks, birth and feedback that teach us to stop believing in ourselves
 
 ---
 

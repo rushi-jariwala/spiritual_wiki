@@ -4,7 +4,7 @@ type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, guru_sutra_book.md, witnessing-greatness-chapters]
 related: ["[[concepts/destiny]]", "[[concepts/non-doership]]", "[[concepts/maya]]", "[[concepts/doer-ship]]", "[[concepts/samskars]]", "[[concepts/gunas]]", "[[concepts/empathy]]", "[[entities/hingori]]", "[[concepts/guru-disciple]]", "[[concepts/spiritual-healing]]"]
 created: 2026-04-22
-updated: 2026-09-28
+updated: 2026-10-25
 ---
 
 # Self-Acceptance
@@ -130,6 +130,7 @@ Self-acceptance generates self-like; self-like generates self-love; self-love th
 ## Cross-references
 
 - [[quotes/self-acceptance]] — quote collection on self-acceptance
+- [[blog/2026-10-25-self-acceptance-1-mirrors|Blog: Who Handed Them the Mirror?]] — Accepting Yourself series, Part 1 (societal norms of evaluation), with image card
 - [[concepts/non-doership]] — the mechanism for releasing guilt; same as karm-mukt at the level of self-blame
 - [[concepts/self-love]] — the next stage; self-acceptance generates self-like, which generates self-love
 - [[concepts/self-worship]] — the final stage; the three-stage Part C arc

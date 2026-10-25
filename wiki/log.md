@@ -232,3 +232,9 @@ Mantra vidya as one of Gurudev's three pillars (with seva and gunas), through th
 
 ## [2026-09-28] ingest | Witnessing Greatness — Chapter 12 (Elemental Symphony, pp.163–177)
 Gurudev's mastery of the elements through eyewitness testimony — water, rain, fire, space (astral travel) and matter. Created 9 stories (gurudev-khandsa-renuka-water, baljeet-sector-10-rain-pause, devraj-khare-lonavala-trees, gurudev-boiling-lemon-tea, roshini-tea-burn-conviction, santlal-astral-journey-home, ravi-trehan-guru-lok-assembly, guddan-astral-visit-dying-mother, pravesh-kapoor-empty-tank) and synthesis missed-astral-invitations; enriched malhotra-initiation-ganges, sitaram-taki-haridwar-astral, gurudev-sarson-saag-astral (Rajpal ji's telling), concepts supernature, astral-travel (guru paher), barkat, loks (Guru Lok), synthesis conditions-of-healing, quotes/supernature (9 quotes), 3 analogies, entities mahaguru, hingori, mataji, sitaram-taki, santlal-ji, rajpal, giri, bittu, rc-malhotra. Tensions flagged: the Hariana astral night's two tellings; Renuka greening lasting vs. receded; Juhu wave witness; astral frequency; Mahagayatri vs. alignment as the source of the fire feat.
+
+## [2026-10-25] query | Is there a chapter on thoughts in Aatma Sutra?
+Answered: *Aatma Sutra* Ch.III "Thoughts" (pp.23–37) — external thoughts, karmashaya, citt/vritti/nirodh, vitarks/vichars; Ch.IX pratipakshbhavana related.
+
+## [2026-10-25] update | Blog — Your Mind Is a Phone. Check the Battery.
+One-minute blog post plus shareable image card on citt-vritti-nirodh (cell-phone battery analogy, Himachal jeep ride), for readers who don't read books.

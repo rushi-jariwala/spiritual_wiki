@@ -4,7 +4,7 @@ type: concept
 sources: [Aatma Sutra 12-09-2022 _234 pgs(2).pdf, The-Guru-of-Gurus-Eng.pdf]
 related: ["[[concepts/samskars]]", "[[concepts/kaarna-sharir]]", "[[concepts/non-doership]]", "[[concepts/vitarks-vichars]]", "[[concepts/aatma]]", "[[concepts/sukshma-sharir]]", "[[concepts/mukti]]", "[[concepts/moksha]]", "[[concepts/hygiene]]"]
 created: 2026-04-17
-updated: 2026-09-28
+updated: 2026-10-25
 ---
 
 # Citt, Vritti, Nirodh
@@ -86,6 +86,7 @@ A phone disconnected from the network is not depleted. *Nirodh* is not about swi
 - [[concepts/hygiene]] — mental hygiene section applies nirodh principles to daily thought and emotion management; "clearer the mirror, clearer the self-realisation"
 - [[stories/hingori-sees-thought]] — Hingori's direct vision of a thought-ray entering his forehead; confirms the external origin of thoughts
 - [[stories/himachal-vitark-exhaustion]] — the morning after vitark exhaustion: fewer vrittis, more observation — the nirodh state arrived naturally
+- [[blog/2026-10-25-citt-vritti-nirodh|Blog: Your Mind Is a Phone. Check the Battery.]] — one-minute read and shareable card built on the cell-phone analogy
 
 ---
 
